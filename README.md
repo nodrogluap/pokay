@@ -1,6 +1,9 @@
 # Poke
 Report salient qPCR primer/probe mismatches info against a set of pathogen isolate genomes
 
+# Pronuciation
+/poʊˈkeɪ/ as in the [delicious Hawaiian raw fish dish](https://en.wikipedia.org/wiki/Poke_(Hawaiian_dish))
+
 ## Motivation
 Does my PCR assay design detect all known sequenced examples of a pathogen?
 
