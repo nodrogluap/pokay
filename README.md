@@ -23,12 +23,12 @@ For example, with a given set of 6 oligonucleotide queries targeting the E and R
 ```text
 ===hCoV-19/England/CAMB-741E6/2020|EPI_ISL_440338|2020-03-20|Europe===
 
-Mismatch against RdRP_WuCoV-For_qPCR with BLAST exact matches: 21/25
+Mismatch against COVID19_RdRP_For with BLAST exact matches: 21/25
 1      TTTTAACATTTGTCAAGCTGTcacg 21
        |||||||||||||||||||||
 15465  TTTTAACATTTGTCAAGCTGTnnnn 15485
 
-Mismatch against RdRP_WuCoV_Prb_qPCR with BLAST exact matches: 19/23
+Mismatch against COVID19_RdRP_Prb with BLAST exact matches: 19/23
 5      cactTTTATCTACTGATGGTAAC 23
            |||||||||||||||||||
 15507  nnnnTTTATCTACTGATGGTAAC 15525
@@ -39,7 +39,7 @@ But the following partial alignment will be reported, with Poke adding lower cas
 ```text
 ===hCoV-19/England/BRIS-123C3F/2020|EPI_ISL_442779|2020-04-07|Europe===
 
-Mismatch against RdRP_WuCoV-For_qPCR with BLAST exact matches: 24/25
+Mismatch against COVID19_RdRP_For with BLAST exact matches: 24/25
 1      TTTTAACATTTGTCAAGCTGTCACg 24
        ||||||||||||||||||||||||
 15517  TTTTAACATTTGTCAAGCTGTCACt 15540
@@ -50,7 +50,7 @@ Poke will *NOT* report a BLAST mismatch where the ambiguity code is a valid matc
 ```text
 ===hCoV-19/England/CAMB-72B35/2020|EPI_ISL_440003|2020-03-23|Europe===
 
-Mismatch against RdRP_WuCoV-Rev_qPCR with BLAST exact matches: 25/26
+Mismatch against COVID19_RdRP_Rev with BLAST exact matches: 25/26
 1      GTTGTAAATTGCGGACATACTTATCG 26
        ||||||||||||||||| ||||||||
 15556  GTTGTAAATTGCGGACAWACTTATCG 15531
@@ -61,7 +61,7 @@ But will report genuine mismatches:
 ```text
 ===hCoV-19/England/CAMB-1AECB4/2020|EPI_ISL_448069|2020-05-06|Europe===
 
-Mismatch against COVID19_E_For_V2 with BLAST exact matches: 27/28
+Mismatch against COVID19_E_For with BLAST exact matches: 27/28
 1      GAGACAGGTACGTTAATAGTTAATAGCG 28
        |||| |||||||||||||||||||||||
 26266  GAGATAGGTACGTTAATAGTTAATAGCG 26293
@@ -71,15 +71,15 @@ An additional 45 genomes have no match to at least one of the six query oligos. 
 
 ```text
 ===hCoV-19/England/CAMB-72E3C/2020|EPI_ISL_440122|2020-03-23|Europe===
-Mismatch against RdRP_WuCoV-For_qPCR with BLAST exact matches: 24/25
+Mismatch against COVID19_RdRP_For with BLAST exact matches: 24/25
 1      TTTTAACATTTGTCAAGCTGTCACG 25
        ||||||||||||||||||||| |||
 15465  TTTTAACATTTGTCAAGCTGTTACG 15489
 
 ===hCoV-19/England/CAMB-74043/2020|EPI_ISL_440320|2020-03-18|Europe===
 Template length 29782, N stretches: [4635,4649], [4963,4984], [13930,13951], [14245,14272], [14547,14568], [14872,14899], [15192,15213], [15506,15526], [15832,15856], [16155,16177], [18618,18639], [18925,18946], [19341,19460], [26859,26881], [27161,27173], [27538,27618]
-NO MATCH FOUND for RdRP_WuCoV-For_qPCR (length 25)
-NO MATCH FOUND for RdRP_WuCoV_Prb_qPCR (length 23)
+NO MATCH FOUND for COVID19_RdRP_For (length 25)
+NO MATCH FOUND for COVID19_RdRP_Prb (length 23)
 ```
 
 "NO MATCH" was found for two of the RdRP oligos in the next sample ```England/CAMB-74043/2020```, but the "Template length" line preceding it provides information that may be useful in determining why: there are large stretches of N's in that genome around RdRP, including `[15506,15526]` which is the likely culprit, rather than a genuine extreme genome consensus mismatch not detectable by BLASTN.
@@ -91,7 +91,7 @@ For example:
 ===hCoV-19/England/CAMB-7959A/2020|EPI_ISL_441189|2020-04-03|Europe===
 Template length 29782, N stretches: [7278,7517], [19516,19810], [20306,20434], [20442,20564], [21181,21246], [26413,26589], [27754,28050]
 
-Mismatch against COVID19_E_Rev_V2 with BLAST exact matches: 9/23
+Mismatch against COVID19_E_Rev with BLAST exact matches: 9/23
 8    caatattGCAGCAGTAcgcacac 16
             |||||||||
 904  actgctgGCAGCAGTAactgctg 896
