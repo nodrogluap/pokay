@@ -123,7 +123,7 @@ while(<BLAST>){
 		if($qend != $query_length || $qstart > 1){
 			$extended_alignment{$subject_name} //= 1;
 		}
-		if(0 and &valid_iupac_substitution($five_prime_query,$five_prime_subject) && 
+		if(&valid_iupac_substitution($five_prime_query,$five_prime_subject) && 
                    &valid_iupac_substitution($three_prime_query,$three_prime_subject) && 
 		   &valid_iupac_substitution($qaln,$saln)){
 			# ignore as perfect match since truncated alignment is only due to ambiguous bases in the template
