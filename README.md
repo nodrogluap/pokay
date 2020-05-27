@@ -67,7 +67,7 @@ Mismatch against COVID19_E_For_V2 with BLAST exact matches: 27/28
 26266  GAGATAGGTACGTTAATAGTTAATAGCG 26293
 ```
 
-An additional 45 genomes have no match to at least one of the six query oligos. This information is not easily discernable from the raw BLAST output, but in the Poke output such misses are designated with "NO MATCH". Is the lack of match due to changes in the genome, or was consensus not called in that part of the genome (e.g. due to low sequence coverage)? In the following example output, we see that the RdRP assay oligos match about position 15500 in ```England/CAMB-72E3C/2020``` (this position varies up to a few hundred bases from sample to sample in extant SARS-CoV-2 genomes). 
+An additional 45 genomes have no match to at least one of the six query oligos. This information is not easily discernable from the raw BLAST output, but in the Poke output such misses are designated with "NO MATCH". Is the lack of match due to changes in the genome, or was consensus not called in that part of the genome (e.g. due to low sequence coverage)? In the following example output, we see that an RdRP assay oligo matches position 15465 in ```England/CAMB-72E3C/2020``` (this position varies up to a few hundred bases from sample to sample in extant SARS-CoV-2 genomes). 
 
 ```text
 ===hCoV-19/England/CAMB-72E3C/2020|EPI_ISL_440122|2020-03-23|Europe===
