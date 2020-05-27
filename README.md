@@ -13,15 +13,15 @@ This lighweight tools was developed to simplify the process of checking for cont
 This script depends on you having a preinstalled version of [NCBI BLAST](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/), and has only been tested using version 2.9.0+. It can be downloaded from the provided link, or if you are running the [conda manager](https://docs.conda.io/projects/conda/en/latest/user-guide/install/), this should be as easy as ```conda install blast```. It also requires any version of Perl (there are no module dependencies).
 
 ```shell
-poke file_of_genomes.fasta file_of_genome_ids_to_exclude.txt pcr_primers_and_or_probes.fasta > salient_mismatch_info_output.txt
+pokay file_of_genomes.fasta file_of_genome_ids_to_exclude.txt pcr_primers_and_or_probes.fasta > salient_mismatch_info_output.txt
 ```
 
-Here ```file_of_genome_ids_to_exclude.txt``` allows you to remove duplicate or didgy genomes from the analysis without having to edit the genomes file that you may have downloaded in bulk from somewhere like the GISAID download utility. The [excludes file](https://raw.githubusercontent.com/nextstrain/ncov/master/config/exclude.txt) format used in [NextStrain's COVID-19 portal](https://nextstrain.org/ncov) is compatible with Poke. If you have nothing to exclude, specify ```/dev/null``` as the excludes file.
+Here ```file_of_genome_ids_to_exclude.txt``` allows you to remove duplicate or didgy genomes from the analysis without having to edit the genomes file that you may have downloaded in bulk from somewhere like the GISAID download utility. The [excludes file](https://raw.githubusercontent.com/nextstrain/ncov/master/config/exclude.txt) format used in [NextStrain's COVID-19 portal](https://nextstrain.org/ncov) is compatible with Pokay. If you have nothing to exclude, specify ```/dev/null``` as the excludes file.
 
 ## Output
 This software optimizes the input parameters to BLASTN then parses the BLAST output, outputting only relevant mismatch information. Several post-processing steps are included in this script 1) to not report perfect full query matches, 2) to help deal with quirks introduced by IUPAC ambiguity codes in the genome data (common in SARS-CoV-2 genomes to date), and 3) give contextual information for off target partial gene matching. This can greatly reduce the amount of data that the user needs to sift through to check for genuine primer/probe mismatches, and spares them from digging through the original genomes FastA file for mismatch context information. 
 
-For example, with a given set of 6 oligonucleotide queries targeting the E and RdRP genes of SARS-CoV-2, about 200/30000 genomes with mismatches are detected. In the raw BLAST output there are more than 600 imperfect matches found due to ambiguity codes in the genomes either truncating alignments or introducing mismatch characters. For example, Poke will *NOT* report partial alignments like this, since they are due to ambiguities in the genome:
+For example, with a given set of 6 oligonucleotide queries targeting the E and RdRP genes of SARS-CoV-2, about 200/30000 genomes with mismatches are detected. In the raw BLAST output there are more than 600 imperfect matches found due to ambiguity codes in the genomes either truncating alignments or introducing mismatch characters. For example, Pokay will *NOT* report partial alignments like this, since they are due to ambiguities in the genome:
 
 ```text
 ===hCoV-19/England/CAMB-741E6/2020|EPI_ISL_440338|2020-03-20|Europe===
@@ -37,7 +37,7 @@ Mismatch against COVID19_RdRP_Prb with BLAST exact matches: 19/23
 15507  nnnnTTTATCTACTGATGGTAAC 15525
 ```
 
-But the following partial alignment will be reported, with Poke adding lower case bases to the 3' end of the BLAST alignment so the mismatch is immediately visible:
+But the following partial alignment will be reported, with Pokay adding lower case bases to the 3' end of the BLAST alignment so the mismatch is immediately visible:
 
 ```text
 ===hCoV-19/England/BRIS-123C3F/2020|EPI_ISL_442779|2020-04-07|Europe===
@@ -48,7 +48,7 @@ Mismatch against COVID19_RdRP_For with BLAST exact matches: 24/25
 15517  TTTTAACATTTGTCAAGCTGTCACt 15540
 ```
 
-Poke will *NOT* report a BLAST mismatch where the ambiguity code is a valid match:
+Pokay will *NOT* report a BLAST mismatch where the ambiguity code is a valid match:
 
 ```text
 ===hCoV-19/England/CAMB-72B35/2020|EPI_ISL_440003|2020-03-23|Europe===
@@ -70,7 +70,7 @@ Mismatch against COVID19_E_For with BLAST exact matches: 27/28
 26266  GAGATAGGTACGTTAATAGTTAATAGCG 26293
 ```
 
-An additional 45 genomes have no match to at least one of the six query oligos. This information is not easily discernable from the raw BLAST output, but in the Poke output such misses are designated with "NO MATCH". Is the lack of match due to changes in the genome, or was consensus not called in that part of the genome (e.g. due to low sequence coverage)? In the following example output, we see that an RdRP assay oligo matches position 15465 in ```England/CAMB-72E3C/2020``` (this position varies up to a few hundred bases from sample to sample in extant SARS-CoV-2 genomes). 
+An additional 45 genomes have no match to at least one of the six query oligos. This information is not easily discernable from the raw BLAST output, but in the Pokay output such misses are designated with "NO MATCH". Is the lack of match due to changes in the genome, or was consensus not called in that part of the genome (e.g. due to low sequence coverage)? In the following example output, we see that an RdRP assay oligo matches position 15465 in ```England/CAMB-72E3C/2020``` (this position varies up to a few hundred bases from sample to sample in extant SARS-CoV-2 genomes). 
 
 ```text
 ===hCoV-19/England/CAMB-72E3C/2020|EPI_ISL_440122|2020-03-23|Europe===
@@ -100,7 +100,7 @@ Mismatch against COVID19_E_Rev with BLAST exact matches: 9/23
 904  actgctgGCAGCAGTAactgctg 896
 ```
 
-The E gene is located around position 26300 in the genome. Having the bet match being only 9 bases starting at position 904 in the genome is [fitting a square peg into a round hole](https://www.collinsdictionary.com/dictionary/english/square-peg-in-a-round-hole), made all the more obvious by Poke providing the extended context of the mismatch to include the whole length of the query. The N stretches information shows us that there is a long stretch of N's around 26400. This may be the cause of the NO MATCH, but may require further investigation.
+The E gene is located around position 26300 in the genome. Having the bet match being only 9 bases starting at position 904 in the genome is [fitting a square peg into a round hole](https://www.collinsdictionary.com/dictionary/english/square-peg-in-a-round-hole), made all the more obvious by Pokay providing the extended context of the mismatch to include the whole length of the query. The N stretches information shows us that there is a long stretch of N's around 26400. This may be the cause of the NO MATCH, but may require further investigation.
 
 ## Acknowledgements
 Dr. Gordon is a co-investigator on COVID-19-related grant funding from [CIHR](https://cihr-irsc.gc.ca/e/51868.html) and [Genome Alberta](https://genomealberta.ca/funding/funding_blog_04032001.aspx). 
