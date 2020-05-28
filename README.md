@@ -1,7 +1,7 @@
 # Pokay
 Report salient qPCR primer/probe mismatches info against a set of pathogen isolate genomes
 
-## Pronuciation
+## Pronunciation
 /poʊˈkeɪ/ as in the [delicious Hawaiian raw fish dish](https://en.wikipedia.org/wiki/Poke_(Hawaiian_dish)), or Pokay as in "my PCR design is okay".
 
 ## Motivation
