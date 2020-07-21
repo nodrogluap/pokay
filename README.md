@@ -100,7 +100,7 @@ Mismatch against COVID19_E_Rev with BLAST exact matches: 9/23
 904  actgctgGCAGCAGTAactgctg 896
 ```
 
-The E gene is located around position 26300 in the genome. Having the bet match being only 9 bases starting at position 904 in the genome is [fitting a square peg into a round hole](https://www.collinsdictionary.com/dictionary/english/square-peg-in-a-round-hole), made all the more obvious by Pokay providing the extended context of the mismatch to include the whole length of the query. The N stretches information shows us that there is a long stretch of N's around 26400. This may be the cause of the NO MATCH, but may require further investigation.
+The E gene is located around position 26300 in the genome. Having the best match being only 9 bases starting at position 904 in the genome is [fitting a square peg into a round hole](https://www.collinsdictionary.com/dictionary/english/square-peg-in-a-round-hole), made all the more obvious by Pokay providing the extended context of the mismatch to include the whole length of the query. The N stretches information shows us that there is a long stretch of N's around 26400. This may be the cause of the NO MATCH, but may require further investigation.
 
 ## Acknowledgements
 Dr. Gordon is a co-investigator on COVID-19-related grant funding from [CIHR](https://cihr-irsc.gc.ca/e/51868.html) and [Genome Alberta](https://genomealberta.ca/funding/funding_blog_04032001.aspx). 
