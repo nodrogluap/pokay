@@ -134,7 +134,9 @@ close(TEMPLATES);
 my $num_templates = scalar(keys %template_sequences);
 if($aa_queries_detected){
 	# So I tried lowering the xdrop_gap_final score from the default of 25 for better end alignments but in practice it makes weirder / more missing alignments for short epitopes
-	open(BLAST, "tblastn -num_threads $num_threads -num_descriptions $num_templates -num_alignments $num_templates -word_size $tblastn_word_size -matrix $tblastn_substitution_matrix -db $db_file -query $query_file -seg no -soft_masking false -evalue 1000 |")
+	# max_hsp 1 means keep only the best hit for every query-subject pair.
+	open(BLAST, "tblastn -max_hsps 1 -num_threads $num_threads -num_descriptions $num_templates -num_alignments $num_templates -word_size $tblastn_word_size -matrix $tblastn_substitution_matrix -db $db_file -query $query_file -seg no -soft_masking false -evalue 1000 |")
+	#open(BLAST, "tblastn -num_threads $num_threads -num_descriptions $num_templates -num_alignments $num_templates -word_size $tblastn_word_size -matrix $tblastn_substitution_matrix -db $db_file -query $query_file -seg no -soft_masking false -evalue 1000 |")
 	  or die "Cannot run tblastn: $!\n";
 }
 else{
@@ -165,7 +167,15 @@ while(<BLAST>){
 
 	while(@hits){
 		my $hit = shift @hits;
-		my ($subject_name, $alignments) = $hit =~ /^\s*(\S+)\nLength=\d+\s+(.*)/s;
+		my ($subject_name, $alignments) = $hit =~ /^\s*(\S+).*?\nLength=\d+\s+(.*)/s;
+		if(not defined $subject_name){
+			warn "Could not parse subject name from $hit\n";
+			next;
+		}
+		if($hit !~ /Frame = \+/s){
+			#warn "Skipping negative strand best match for $subject_name against $query_name\n";
+			next;
+		}
 		next if exists $exclude{$subject_name};
 		my ($identities) = $hit =~ /Identities = (\d+)/s;
 		if($hit =~ /Identities = \d+\/(\d+) \(100%/s and $1 == $query_length and $hit =~ /Gaps = 0/){
@@ -186,8 +196,10 @@ while(<BLAST>){
 
 		# If the match is a substring of the query, extend the alignment in both the query and subject so the user sees the terminal mismatches.
 		# Use lower case letters to indicate that we added these bits.
-		my $five_prime_subject = lc(substr($template_sequences{$subject_name}, $sstart-$qstart, $subject_scaling*($qstart-1)));
-		my $three_prime_subject = lc(substr($template_sequences{$subject_name}, $send, $subject_scaling*($query_length-$qend)));
+		my $num_missing_5p_bases = $subject_scaling*($qstart-1);
+		my $five_prime_subject = lc(substr($template_sequences{$subject_name}, $sstart-$num_missing_5p_bases-1, $num_missing_5p_bases));
+		my $num_missing_3p_bases = $subject_scaling*($query_length-$qend);
+		my $three_prime_subject = lc(substr($template_sequences{$subject_name}, $send, $num_missing_3p_bases));
 		my $five_prime_query = lc(substr($query_sequences{$query_name}, 0, $qstart-1));
 		my $three_prime_query = $qend == $query_length ? "" : lc(substr($query_sequences{$query_name}, $qend));
 		if($qend != $query_length || $qstart > 1){
@@ -280,14 +292,15 @@ while(<BLAST>){
 				}
 			}
 			else{ # DNA
-				my $qbase = substr($qaln, $i, 1);
-				my $sbase = substr($saln, $i, 1);
+				my $qbase = uc(substr($qaln, $i, 1));
+				my $sbase = uc(substr($saln, $i, 1));
 				if($qbase eq $sbase){
 					substr($new_aln, $i, 1) = "|";
 				}
 				else{
 					substr($new_aln, $i, 1) = substr($aln, $i, 1);
 					my $match_found = 0;
+					if(not exists $subs{$qbase}){warn "Skipping sub options for unknown base '$qbase'\n"; next;}
 					for my $subject_base_option (split //, $subs{$qbase}){
 						if($subject_base_option eq $sbase){
 							substr($of_note, $i, 1) = ":";
@@ -303,9 +316,9 @@ while(<BLAST>){
 		$aln =~ s/^(\s+)/$1.(" " x ($subject_scaling*($qstart-1)))/e;
 		$mismatch_alignments{$subject_name} //= {};
 		$mismatch_alignments{$subject_name}->{$query_name} = "mismatches: $num_mismatches/$query_length\n$qstart$qpad$qaln $qend/".
-								     ($qend+length($three_prime_query)/$subject_scaling).
+								     ($qend+$num_missing_3p_bases/$subject_scaling).
 					                             "\n$pad$new_aln\n$sstart$spad$saln $send/".
-								     ($send+length($three_prime_query)/$subject_scaling)."\n$pad$of_note\n";
+								     ($send+$num_missing_3p_bases/$subject_scaling)."\n$pad$of_note\n";
 	}
 	
 }
