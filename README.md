@@ -1,11 +1,11 @@
 # Pokay
-Report salient qPCR primer/probe mismatches info against a set of pathogen isolate genomes
+Report salient DNA (qPCR primer/probe) or amino acid (epitope) mismatches info against a set of pathogen isolate genomes.
 
 ## Pronunciation
-/poʊˈkeɪ/ as in the [delicious Hawaiian raw fish dish](https://en.wikipedia.org/wiki/Poke_(Hawaiian_dish)), or Pokay as in "my PCR design is okay".
+/poʊˈkeɪ/ as in the [delicious Hawaiian raw fish dish](https://en.wikipedia.org/wiki/Poke_(Hawaiian_dish)), or Pokay as in "my PCR design is okay" or "my epitope is okay".
 
 ## Motivation
-Does my PCR assay design detect all known sequenced examples of a pathogen?
+Does my PCR assay design detect all known sequenced examples of a pathogen? Or has the pathogen mutated to escape immune detection by epitope mismatches?
 
 This lighweight tools was developed to simplify the process of checking for continued detection sensitivity of PCR assays in light of available pathogen genomic data. For example, as of this writing the genomes of more than 35,000 SARS-CoV-2 samples are available in [GISAID](https://gisaid.org/CoV2020) and [at the NCBI](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/) thanks to global sequencing efforts, and a lab may want to check if their PCR assay's primers/probes continue to be exact matches against all samples despite inevitable viral evolution. This software complements existing effort to track mismatch counts for published SARS-CoV-2 PCR assays, such as the very useful [EDGE validation portal](https://covid19.edgebioinformatics.org/#/assayValidation).
 
