@@ -2,6 +2,48 @@
 
 use strict;
 use warnings;
+use vars qw(%codon2aa %subs);
+
+# Homo sapiens codon table
+%codon2aa = (
+                TTT => "F", TCT => "S", TAT => "Y", TGT => "C",
+                TTC => "F", TCC => "S", TAC => "Y", TGC => "C",
+                TTA => "L", TCA => "S", TAA => "*", TGA => "*",
+                TTG => "L", TCG => "S", TAG => "*", TGG => "W",
+
+                CTT => "L", CCT => "P", CAT => "H", CGT => "R",
+                CTC => "L", CCC => "P", CAC => "H", CGC => "R",
+                CTA => "L", CCA => "P", CAA => "Q", CGA => "R",
+                CTG => "L", CCG => "P", CAG => "Q", CGG => "R",
+
+                ATT => "I", ACT => "T", AAT => "N", AGT => "S",
+                ATC => "I", ACC => "T", AAC => "N", AGC => "S",
+                ATA => "I", ACA => "T", AAA => "K", AGA => "R",
+                ATG => "M", ACG => "T", AAG => "K", AGG => "R",
+
+                GTT => "V", GCT => "A", GAT => "D", GGT => "G",
+                GTC => "V", GCC => "A", GAC => "D", GGC => "G",
+                GTA => "V", GCA => "A", GAA => "E", GGA => "G",
+                GTG => "V", GCG => "A", GAG => "E", GGG => "G");
+
+%subs = (
+                A => "RWMDHV",
+                C => "YSMBHV",
+                G => "RSKBDV",
+                T => "YWKBDH",
+                R => "AG",
+                Y => "CT",
+                S => "CG",
+                W => "AT",
+                K => "GT",
+                M => "AC",
+                B => "CGT",
+                D => "AGT",
+                H => "ACT",
+                V => "ACG",
+                N => "ACGTRYSWKMBDHV",
+		"-" , "-"
+                );
 
 @ARGV == 3 or die "Usage: $0 <templates.fasta> <exclude template id.txt> <probes_and_or_primers.fasta>\n";
 my $db_file = shift @ARGV;
@@ -27,6 +69,7 @@ while(<EXCLUDES>){
 close(EXCLUDES);
 
 # Track all of the relevant templates and queries as we will need this data later for extending the alignments and calculating ambiguity matches
+my $aa_queries_detected = 0;
 $/ = "\n>"; # FastA record separator
 open(QUERIES, $query_file)
   or die "Cannot open $query_file for reading: $!\n";
@@ -35,15 +78,29 @@ my $shortest_query_len = 10000000;
 while(<QUERIES>){
 	my ($query_name, $query_sequence) = /^>?(\S+).*?\n(.*)/;
 	$query_sequence =~ tr/ \t\r\n//d;
+
+	# TODO: handle discontinuous epitope queries as they appear in IEDB (e.g. "Y369, N370, S371, A372, F374, F377, K378, C379, Y380, G381, V382, S383, P384, T385, K386, L390, F429, T430, F515, E516,")
+
+	if(not $aa_queries_detected and $query_sequence !~ /^[ACGTSWRYKMBDHVNX ]+$/){
+		warn "Amino acid queries detected, running AA mode\n";
+		$aa_queries_detected = 1;
+	}
 	$query_sequences{$query_name} = $query_sequence;
 	if(length($query_sequence) < $shortest_query_len){
 		$shortest_query_len = length($query_sequence);
 	}
 }
 close(QUERIES);
-# 4 is the smallest word size supported by BLAST 2.9.0+
+
+# 4 is the smallest word sizes supported by BLAST 2.9.0+, for maximum sensitivity
 my $blastn_word_size = 4;
+my $tblastn_word_size = 2;
 my $min_interferring_N_stretch = $shortest_query_len - 2*$blastn_word_size;
+# For epitope drift we are looking at closely related sequences so for best match stats use a scoring matrix more suited to short matches with random point mutations.
+# In an ideal world we would use an even more strict matrix like VTML10, but this would require switching to another BLAST implementation like wu-blast (TODO).
+# For now, don't put too much stock in the e-values generated.
+my $tblastn_substitution_matrix = "PAM30";
+my $num_threads = 20;
 
 open(TEMPLATES, $db_file)
   or die "Cannot open templates sequence file $db_file for reading: $!\n";
@@ -54,8 +111,8 @@ while(<TEMPLATES>){
 	my $template_name_prefix = $template_name;
 	$template_name_prefix =~ s/\|.*//;
 	$template_name_prefix =~ s/hCoV-19\///; # GISAID-NextStrain specific ID hacks
-	if(defined $exclude{$template_name_prefix}){
-		# augment excludes list with the full unadulterated name of the template sequence as will be reported by BLASTN
+	if(exists $exclude{$template_name_prefix}){
+		# augment excludes list with the full unadulterated name of the template sequence as will be reported by BLAST
 		$exclude{$template_name} = 1; 
 		#warn "Excluding $template_name_prefix\n";
 		next;
@@ -67,16 +124,23 @@ while(<TEMPLATES>){
 	# Let's record as linear coordinate tuples where stretches of N's are located in the genome, so these
 	# can be reported to help the user determine if a lack of BLAST match is due to change in the sequence,
 	# or that it's N's where the primer/probe would normally bind.
-	while($template_sequence =~ /N{$min_interferring_N_stretch,}/go){
-		$template_sequence_N_regions{$template_name} //= []; # eschewing auto-vivification of the array
-		push @{$template_sequence_N_regions{$template_name}}, [pos($template_sequence), pos($template_sequence)+length($&)-1];
-	}
+	#while($template_sequence =~ /N{$min_interferring_N_stretch,}/go){
+	#	$template_sequence_N_regions{$template_name} //= []; # eschewing auto-vivification of the array
+	#	push @{$template_sequence_N_regions{$template_name}}, [pos($template_sequence), pos($template_sequence)+length($&)-1];
+	#}
 }
 close(TEMPLATES);
 
 my $num_templates = scalar(keys %template_sequences);
-open(BLAST, "blastn -max_target_seqs $num_templates -word_size $blastn_word_size -db $db_file -query $query_file -dust no -soft_masking false -evalue 1000 |")
-  or die "Cannot run blastn: $!\n";
+if($aa_queries_detected){
+	# So I tried lowering the xdrop_gap_final score from the default of 25 for better end alignments but in practice it makes weirder / more missing alignments for short epitopes
+	open(BLAST, "tblastn -num_threads $num_threads -num_descriptions $num_templates -num_alignments $num_templates -word_size $tblastn_word_size -matrix $tblastn_substitution_matrix -db $db_file -query $query_file -seg no -soft_masking false -evalue 1000 |")
+	  or die "Cannot run tblastn: $!\n";
+}
+else{
+	open(BLAST, "blastn -num_threads $num_threads -num_alignments $num_templates -word_size $blastn_word_size -db $db_file -query $query_file -dust no -soft_masking false -evalue 1000 |")
+	  or die "Cannot run blastn: $!\n";
+}
 $/ = "\nQuery="; # BLAST query output separator
 my %mismatch_alignments;
 my %perfect_match_alignment;
@@ -87,6 +151,7 @@ while(<BLAST>){
 		next; # prologue
 	}
 	my ($query_name, $query_length) = ($1, $2);
+
 	# Sanity check of earlier sequence parsing
 	if(not exists $query_sequences{$query_name}){
 		die "Discrepancy between query lists when parsed by this script and NCBI BLAST, please check FastA formatting of entry '$query_name'\n";
@@ -100,55 +165,162 @@ while(<BLAST>){
 
 	while(@hits){
 		my $hit = shift @hits;
-		my ($subject_name, $alignments) = $hit =~ /^(\S+)\nLength=\d+\s+(.*)/s;
-		next if $exclude{$subject_name};
-		my ($identities) = $hit =~ /Identities = (\d+)/;
+		my ($subject_name, $alignments) = $hit =~ /^\s*(\S+)\nLength=\d+\s+(.*)/s;
+		next if exists $exclude{$subject_name};
+		my ($identities) = $hit =~ /Identities = (\d+)/s;
 		if($hit =~ /Identities = \d+\/(\d+) \(100%/s and $1 == $query_length and $hit =~ /Gaps = 0/){
 			$perfect_match_alignment{$subject_name}->{$query_name} = 1;
 			next; # perfect match, no need to record
 		}
-		# Discount mismatches if they match a suitable IUPAC ambiguity code
-		#my ($qstart, $qaln, $qend, $sstart, $saln, $send) = $hit =~ /Query\s+(\d+)\s+(\S+)\s+(\d+).*?Sbjct\s+(\d+)\s+(\S+)\s+(\d+)/s;
-		my ($qstart, $qpad, $qaln, $qend, $aln, $sstart, $spad, $saln, $send) = $hit =~ /Query\s+(\d+)(\s+)(\S+)\s+(\d+)\s+?       ([^\n]+)\s+?Sbjct\s+(\d+)(\s+)(\S+)\s+(\d+)/s;
+		# Discount mismatches if they match a suitable IUPAC ambiguity code.
+		my ($qstart, $qpad, $qaln, $qend, $aln, $sstart, $spad, $saln, $send) = $hit =~ /Query\s+(\d+)(\s+)(\S+)\s+(\d+)\s+?([^ ][^\n]+)\s+?Sbjct\s+(\d+)(\s+)(\S+)\s+(\d+)/s;
+		my $pad = " " x length($qstart.$qpad);
 
-		# If the match is a substring of the query, extend the alignment in both the query and subject so the user sees the terminal mismatches
+		my $subject_scaling = 1;
+		# Retrieve the ambiguous codons underlying the alignment so we can determine "real" mismatch vs BLAST unsophisticated translaion.
+		if($aa_queries_detected){
+			$subject_scaling = 3;
+			$saln = substr($template_sequences{$subject_name}, $sstart-1, $send-$sstart+1);
+			$saln =~ tr/U/T/; # RNA -> DNA for simplicity of downstream processing
+		}
+
+		# If the match is a substring of the query, extend the alignment in both the query and subject so the user sees the terminal mismatches.
 		# Use lower case letters to indicate that we added these bits.
-		my $five_prime_subject = lc(substr($template_sequences{$subject_name}, $sstart-$qstart, $qstart-1));
-		my $three_prime_subject = lc(substr($template_sequences{$subject_name}, $send, $query_length-$qend));
+		my $five_prime_subject = lc(substr($template_sequences{$subject_name}, $sstart-$qstart, $subject_scaling*($qstart-1)));
+		my $three_prime_subject = lc(substr($template_sequences{$subject_name}, $send, $subject_scaling*($query_length-$qend)));
 		my $five_prime_query = lc(substr($query_sequences{$query_name}, 0, $qstart-1));
 		my $three_prime_query = $qend == $query_length ? "" : lc(substr($query_sequences{$query_name}, $qend));
-		if($qstart > 1){
-			$aln =~ s/^(\s+)/$1.(" " x ($qstart-1))/e;
-		}
 		if($qend != $query_length || $qstart > 1){
 			$extended_alignment{$subject_name} //= 1;
 		}
-		if(&valid_iupac_substitution($five_prime_query,$five_prime_subject) && 
-                   &valid_iupac_substitution($three_prime_query,$three_prime_subject) && 
-		   &valid_iupac_substitution($qaln,$saln)){
+                if(&valid_iupac_substitution($five_prime_query, $five_prime_subject, $aa_queries_detected) and 
+                   &valid_iupac_substitution($three_prime_query, $three_prime_subject, $aa_queries_detected) and 
+		   &valid_iupac_substitution($qaln, $saln, $aa_queries_detected)){
 			# ignore as perfect match since truncated alignment is only due to ambiguous bases in the template
 			$perfect_match_alignment{$subject_name}->{$query_name} = 1;
 			next;
 		}
+		if($aa_queries_detected){ # account for AA representation of query extension but DNA representation of subjece
+			if($qstart > 1){
+				$five_prime_query = " ".join("  ", split(//, $five_prime_query))." ";
+			}
+			$three_prime_query = " ".join("  ", split(//, $three_prime_query))." ";
+			$qaln = " ".join("  ", split(//, $qaln))." ";
+			$aln = " ".join("  ", split(//, $aln))." ";
+		}
 		$saln = $five_prime_subject.$saln.$three_prime_subject;
 		$qaln = $five_prime_query.$qaln.$three_prime_query;
+		my $of_note = " " x length($saln);
+		$aln = (" " x length($five_prime_subject)).$aln.(" " x length($three_prime_subject));
+		# Fix the alignment symbols to account for the ambiguity mismatches and the extensions.
+		my $new_aln = " " x length($saln);
+		my $num_mismatches = 0;
+		for(my $i = 0; $i < length($new_aln); $i+=$subject_scaling){
+			if($aa_queries_detected){
+				my $codon = uc(substr($saln, $i, 3));
+				my $qaa = uc(substr($qaln, $i+1, 1));
+				# Normal match
+				if($qaa eq "X" or $codon eq "NNN" or defined $codon2aa{$codon}){
+					# Special case if X is matching a stop codon, report the stop codon instead to indicate possible in/del error upstream.
+					if(defined $codon2aa{$codon}){
+						if($codon2aa{$codon} eq "*"){
+							substr($of_note, $i, 3) = "TER";
+							$num_mismatches++;
+						}
+						elsif($codon2aa{$codon} ne $qaa){
+							substr($of_note, $i, 3) = " ".$codon2aa{$codon}." "; # Note mismatch
+							if($qaa ne "X"){
+								#print STDERR "Noting mismatch $qaa vs. $codon2aa{$codon} for $subject_name\n";
+								$num_mismatches++;
+							}
+						}
+						else{ # a match
+							substr($new_aln, $i+1, 1) = $codon2aa{$codon};
+							next;
+						}
+					}
+					# Show conservative substitutions if any exist, like TBLASTN does, otherwise it's a blank for the TBLASTN mismatch at this residue.
+					substr($new_aln, $i+1, 1) = substr($aln, $i+1, 1); 
+				}
+				else{
+					my %disambiguated_aas;
+					my $disambiguated_matching_codon;
+                       			for my $b1 (split //, $subs{substr($codon, 0, 1)}){
+                                		next unless $b1 =~ /[ACGT]/;
+                                		for my $b2 (split //, $subs{substr($codon, 1, 1)}){
+                                        		next unless $b2 =~ /[ACGT]/;
+                                        		for my $b3 (split //, $subs{substr($codon, 2, 1)}){
+                                                		next unless $b3 =~ /[ACGT]/;
+								my $aa = $codon2aa{$b1.$b2.$b3};
+								$disambiguated_aas{$aa}++;
+                                                		if($aa eq $qaa){
+									$disambiguated_matching_codon = $b1.$b2.$b3;
+									last;
+								}
+                                       	 		}
+							last if defined $disambiguated_matching_codon;
+                                		}
+						last if defined $disambiguated_matching_codon;
+                       			}
+					if(defined $disambiguated_matching_codon){
+						substr($of_note, $i, 3) = $disambiguated_matching_codon;
+					}
+					else{ # Mismatch
+						$num_mismatches++;
+						substr($new_aln, $i, 3) = substr($aln, $i, 3); # copy existing alignment symbol
+						my @disambiguated_aas = keys %disambiguated_aas;
+						my $miss = defined $codon2aa{$codon} ? $codon2aa{$codon} : (scalar(@disambiguated_aas) == 1 ? $disambiguated_aas[0] : " "); # blank if ambig codon doesn't resolve to a match or single codon
+						if($miss eq "*"){
+							substr($of_note, $i, 3) = "TER";
+						}
+						else{
+							substr($of_note, $i+1, 1) = $miss;
+						}
+					}
+				}
+			}
+			else{ # DNA
+				my $qbase = substr($qaln, $i, 1);
+				my $sbase = substr($saln, $i, 1);
+				if($qbase eq $sbase){
+					substr($new_aln, $i, 1) = "|";
+				}
+				else{
+					substr($new_aln, $i, 1) = substr($aln, $i, 1);
+					my $match_found = 0;
+					for my $subject_base_option (split //, $subs{$qbase}){
+						if($subject_base_option eq $sbase){
+							substr($of_note, $i, 1) = ":";
+							$match_found = 1;
+							last;
+						}
+					}
+					$num_mismatches++ unless $match_found;
+				}
+			}
+		}
+		next unless $num_mismatches;
+		$aln =~ s/^(\s+)/$1.(" " x ($subject_scaling*($qstart-1)))/e;
 		$mismatch_alignments{$subject_name} //= {};
-		$mismatch_alignments{$subject_name}->{$query_name} = "BLAST exact matches: $identities/$query_length\n$qstart$qpad$qaln $qend\n$aln\n$sstart$spad$saln $send\n";
+		$mismatch_alignments{$subject_name}->{$query_name} = "mismatches: $num_mismatches/$query_length\n$qstart$qpad$qaln $qend/".
+								     ($qend+length($three_prime_query)/$subject_scaling).
+					                             "\n$pad$new_aln\n$sstart$spad$saln $send/".
+								     ($send+length($three_prime_query)/$subject_scaling)."\n$pad$of_note\n";
 	}
 	
 }
 close(BLAST);
 for my $subject_name (sort keys %template_sequences){
-	next if $exclude{$subject_name};
+	next if exists $exclude{$subject_name};
 	my $num_mismatch_hits = 0;
 	my $num_no_hits = 0;
 	my $text = "";
 	for my $query_name (sort keys %query_lengths){
 		if(exists $mismatch_alignments{$subject_name} and exists $mismatch_alignments{$subject_name}->{$query_name}){
-			$text .= "Mismatch against $query_name with ". $mismatch_alignments{$subject_name}->{$query_name}."\n";
+			$text .= "Alignment against $query_name with ". $mismatch_alignments{$subject_name}->{$query_name}."\n";
 			$num_mismatch_hits++;
 		}
-		elsif(not exists $perfect_match_alignment{$subject_name} or not exists $perfect_match_alignment{$subject_name}->{$query_name}){
+		elsif(not $aa_queries_detected and (not exists $perfect_match_alignment{$subject_name} or not exists $perfect_match_alignment{$subject_name}->{$query_name})){
 			$text .= "NO MATCH FOUND for $query_name (length $query_lengths{$query_name})\n";
 			$num_no_hits++;
 		}
@@ -164,38 +336,70 @@ for my $subject_name (sort keys %template_sequences){
 }
 
 sub valid_iupac_substitution{
-	my ($qry, $sbjt) = @_;
+	my ($qry, $sbjt, $is_aa) = @_;
 	
 	if(length($qry) == 0 and length($sbjt)){
 		return 1;
 	}
 
+	# ambiguity code regexes
 	my %subs = (
-		A => "[ARWNMDHV]",
-		C => "[CYSNMBHV]",
-		G => "[GRSNKBDV]",
-		T => "[TYWNKBDH]",
-		R => "[AGN]",
-		Y => "[CTN]",
-		S => "[CGN]",
-		W => "[ATN]",
-		K => "[GTN]",
-		M => "[ACN]",
-		B => "[CGTN]",
-		D => "[AGTN]",
-		H => "[ACTN]",
-		V => "[ACGN]",
-		N => "[NACGTRYSWKMBDHV]"
+		A => "RWMDHV",
+		C => "YSMBHV",
+		G => "RSKBDV",
+		T => "YWKBDH",
+		R => "AG",
+		Y => "CT",
+		S => "CG",
+		W => "AT",
+		K => "GT",
+		M => "AC",
+		B => "CGT",
+		D => "AGT",
+		H => "ACT",
+		V => "ACG",
+		N => "ACGTRYSWKMBDHV"
 		);
-	$subs{"U"} = $subs{"T"}; # support RNA
 	$subs{"-"} = "-"; # support gaps
 
-	# asking for substring match
 	my $regex = "";
+	# If using tblastn the alignment software converted the subject to AAs for us, so we will need to do our own conversion
+	# of the passed in underlying DNA to really check for mismatch if the BLAST translation was X.
+	if($is_aa){
+		$sbjt = uc($sbjt);
+		for(my $i = 0; $i+2 < length($sbjt); $i+=3){
+			my $codon = substr($sbjt, $i, 3);
+			if($codon =~ /[ACGT]{3}/){
+				# simple unambiguous codon case, TODO handle B and Z ambig codes
+				$regex .= "[".$codon2aa{$codon}."X]";
+				next;
+			}
+			my %possible_aa_outcomes;
+			for my $b1 (split //, $subs{substr($codon, 0, 1)}){
+				next unless $b1 =~ /[ACGT]/;
+				for my $b2 (split //, $subs{substr($codon, 1, 1)}){
+					next unless $b2 =~ /[ACGT]/;
+					for my $b3 (split //, $subs{substr($codon, 2, 1)}){
+						next unless $b3 =~ /[ACGT]/;
+						$possible_aa_outcomes{$codon2aa{$b1.$b2.$b3}}++;
+					}
+				}
+			}
+			if(not keys %possible_aa_outcomes){
+				$regex .= "[A-IK-NP-TV-Z]"; # completely promiscuous matching
+			}
+			else{ # matching is restricted to some degree
+				$regex .= "[".join("", keys %possible_aa_outcomes)."X]";
+			}
+		}
+		return uc($qry) =~ /^$regex$/;
+	}
+
+	# Otherwise it's DNA
 	for(my $i = 0; $i < length($qry); $i++){
 		my $rchar = uc(substr($qry, $i, 1)); # convert to upper case
 		warn "Check query FastA, a non-IUPAC nucleotide letter found was found: $rchar\n" if not exists $subs{$rchar};
-		$regex .= $subs{$rchar};
+		$regex .= "[$rchar".$subs{$rchar}."N]";
 	}
 	return uc($sbjt) =~ /^$regex$/;
 }
