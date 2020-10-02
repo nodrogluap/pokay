@@ -1,0 +1,55 @@
+#!/usr/bin/env perl
+
+use strict;
+use warnings;
+
+# The exported data from IEDB.org will look something like this:
+# Epitope,Epitope,Epitope,Epitope,Epitope,Epitope,Epitope,Epitope,Epitope,Epitope,Epitope,Epitope,Epitope,Epitope,Epitope,Epitope,Epitope,Related Object,Related Object,Related Object,Related Object,Related Object,Related Object,Related Object,Related Object,Related Object,Related Object,Related Object
+# Epitope ID,Object Type,Description,Epitope Modified Residue(s),Epitope Modification(s),Starting Position,Ending Position,Non-peptidic epitope Accession,Epitope Synonyms,Antigen Name,Antigen Accession,Parent Protein,Parent Protein Accession,Organism Name,Parent Organism,Parent Organism ID,Epitope Comments,Epitope Relationship,Object Type,Description,Starting Position,Ending Position,Non-peptidic object Accession,Synonyms,Antigen Name,Parent Protein,Organism Name,Parent Organism
+# "6668","Linear peptide","CMTSCCSCLK","","","1236","1245","","","surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]","YP_009724390.1","sp|P59594|SPIKE_CVHSA Spike glycoprotein OS=Human SARS coronavirus OX=694009 GN=S PE=1 SV=1","P59594","Severe acute respiratory syndrome coronavirus 2","Severe acute respiratory syndrome-related coronavirus","694009","The epitope region is deduced from a reactive overlapping peptide pool.","","","","","","","","","","",""
+# "997006","Discontinuous peptide","Y369, N370, S371, A372, F374, F377, K378, C379, Y380, G381, V382, S383, P384, T385, K386, L390, F429, T430, F515, E516, L517","","","","","","","surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]","QHD43416.1","sp|P59594|SPIKE_CVHSA Spike glycoprotein OS=Human SARS coronavirus OX=694009 GN=S PE=1 SV=1","P59594","Severe acute respiratory syndrome coronavirus 2","Severe acute respiratory syndrome-related coronavirus","694009","The epitope residues were calculated from [PDB: 6W41] as the antigen residues at 4&Aring; atomic distance from the antibody.","","","","","","","","","","",""
+
+@ARGV == 2 or die "Usage: $0 <IEDB epitope search result download input.csv> <epitope output.fasta>\n";
+
+my $csv = shift @ARGV; 
+my $fasta = shift @ARGV; 
+
+open(CSV, $csv)
+	or die "Cannot open $csv for reading: $!\n";
+<CSV>;
+<CSV>; # two header lines
+open(FASTA, ">$fasta")
+	or die "Cannot open $fasta for writing: $!\n";
+while(<CSV>){
+	s/^"|"$//g;
+	my @F = split /","/, $_;
+	if($F[1] eq "Linear peptide"){
+		print FASTA ">$F[0]\n$F[2]\n";
+	}
+	elsif($F[1] eq "Discontinuous peptide"){
+		my @epitope_residues = split /,/, $F[2];
+		next unless $#epitope_residues;
+		my $first_pos = $epitope_residues[0];
+		my $last_pos = $epitope_residues[$#epitope_residues];
+		if($first_pos =~ s/^\s*[A-Z]// and $last_pos =~ s/^\s*[A-Z]//){
+			my @epitope = ("X") x ($last_pos - $first_pos + 1);
+			for my $residue_spec (@epitope_residues){
+				my ($residue, $pos) = $residue_spec =~ /^\s*([A-Z])(\d+)\s*$/;
+				if(not defined $residue or not defined $pos){
+					die "Cannot parse residue information, expected [A-Z]\\d+ but found $residue_spec ($csv line #$.)\n"; 
+				}
+				$epitope[$pos-$first_pos] = $residue
+			}
+			# Only keep the epitopes that have enough contiguous non-X AA residues to stand a fighting chance of alignment in TBLASTN downstream.
+			my $epitope = join("", @epitope);
+			next unless $epitope =~ /[^X]{2}/;
+			print FASTA ">$F[0]\n$epitope\n";
+		}
+		else{
+			die "Cannot parse residue information, expected [A-Z]\\d+ but found $first_pos and $last_pos ($csv line #$.)\n";
+		}
+	}
+	# else: Ignore non-peptide antigens
+}
+close(CSV);
+close(FASTA);
