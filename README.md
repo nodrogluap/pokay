@@ -9,18 +9,28 @@ Does my PCR assay design detect all known sequenced examples of a pathogen? Or h
 
 This lighweight tools was developed to simplify the process of checking and reporting published SARS-CoV-2 genomes for subsequences you expect to be stable, but actually have evolved variants. Considerable effort has gone into handling the many ambiguous bases and no-coverage (N) regions in [GISAID](https://gisaid.org/CoV2020)-deposited genomes.
 
-Use Case 1: continued detection sensitivity of PCR assays in light of available pathogen genomic data. As of this writing the genomes of more than 115,000 SARS-CoV-2 samples are available in GISAID and [at the NCBI](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/) thanks to global sequencing efforts, and a lab may want to check if their PCR assay's primers/probes continue to be exact matches against all samples despite inevitable viral evolution. Pokay takes about 3 minutes to run, and complements existing efforts to track mismatch counts for published SARS-CoV-2 PCR assays, such as the very useful [EDGE validation portal](https://covid19.edgebioinformatics.org/#/assayValidation), and [https://github.com/KevinKuchinski/PCR_strainer](PCR_strainer) which suggests filtering out genomes with base ambiguities.
+Use Case 1: continued detection sensitivity of PCR assays in light of available pathogen genomic data. As of this writing the genomes of more than 115,000 SARS-CoV-2 samples are available in GISAID and [at the NCBI](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/) thanks to global sequencing efforts, and a lab may want to check if their PCR assay's primers/probes continue to be exact matches against all samples despite inevitable viral evolution. Pokay takes about 3 minutes to run, and complements existing efforts to track mismatch counts for published SARS-CoV-2 PCR assays, such as the very useful [EDGE validation portal](https://covid19.edgebioinformatics.org/#/assayValidation), and [PCR_strainer](https://github.com/KevinKuchinski/PCR_strainer) which suggests filtering out genomes with base ambiguities.
 
-Use Case 2: continued effectiveness of post-infection or post-vaccination immunity in light of available pathogen genomic data. As of this writing there are 150 experimentally-determined epitopes for the SARS-CoV-2 spike protein (the target of most vaccines that are in the works) as aggregated in [http://www.iedb.org/sourceOrgId/2697049)](IEDB), and 799 overall for the virus. Pokay takes about 2 hours to report all spike protein epitope mismatches, handling both linear and discontinuous epitopes (requiring special alignment), and optimistic interpretation of ambiguous genome bases. 
+Use Case 2: continued effectiveness of post-infection or post-vaccination immunity in light of available pathogen genomic data. As of this writing there are 150 experimentally-determined epitopes for the SARS-CoV-2 spike protein (the target of most vaccines that are in the works) as aggregated in [IEDB](http://www.iedb.org/sourceOrgId/2697049), and 799 overall for the virus. Pokay takes about 2 hours to report all spike protein epitope mismatches, handling both linear and discontinuous epitopes (requiring special alignment), and optimistic interpretation of ambiguous genome bases. 
 
 ## Quick Start
 This script depends on you having a preinstalled version of [NCBI BLAST](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/), and has only been tested using version 2.9.0+. It can be downloaded from the provided link, or if you are running the [conda manager](https://docs.conda.io/projects/conda/en/latest/user-guide/install/), this should be as easy as ```conda install blast```. It also requires any version of Perl (there are no module dependencies).
+
+Here file_of_genomes.fasta might be downloaded from GISAID. Here ```file_of_genome_ids_to_exclude.txt``` allows you to remove duplicate or dodgy genomes from the analysis without having to edit the genomes file that you may have downloaded in bulk from somewhere like the GISAID download utility. The [excludes file](https://raw.githubusercontent.com/nextstrain/ncov/master/config/exclude.txt) format used in [NextStrain's COVID-19 portal](https://nextstrain.org/ncov) is compatible with Pokay. If you have nothing to exclude, specify ```/dev/null``` as the excludes file.
+
+### PCR design
 
 ```shell
 pokay file_of_genomes.fasta file_of_genome_ids_to_exclude.txt pcr_primers_and_or_probes.fasta > salient_mismatch_info_output.txt
 ```
 
-Here ```file_of_genome_ids_to_exclude.txt``` allows you to remove duplicate or dodgy genomes from the analysis without having to edit the genomes file that you may have downloaded in bulk from somewhere like the GISAID download utility. The [excludes file](https://raw.githubusercontent.com/nextstrain/ncov/master/config/exclude.txt) format used in [NextStrain's COVID-19 portal](https://nextstrain.org/ncov) is compatible with Pokay. If you have nothing to exclude, specify ```/dev/null``` as the excludes file.
+### Spike protein epitope immunity escape
+First, download the epitopes of interest from IEDB as a CSV file.
+
+```shell
+./iedb_csv2fasta epitope_table_export.csv epitopes.fasta
+pokay file_of_genomes.fasta file_of_genome_ids_to_exclude.txt epitopes.fasta > salient_mismatch_info_output.txt
+```
 
 ## Output
 This software optimizes the input parameters to BLASTN then parses the BLAST output, outputting only relevant mismatch information. Several post-processing steps are included in this script 1) to not report perfect full query matches, 2) to help deal with quirks introduced by IUPAC ambiguity codes in the genome data (common in SARS-CoV-2 genomes to date), and 3) give contextual information for off target partial gene matching. This can greatly reduce the amount of data that the user needs to sift through to check for genuine primer/probe mismatches, and spares them from digging through the original genomes FastA file for mismatch context information. 
