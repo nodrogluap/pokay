@@ -7,7 +7,7 @@ Report salient DNA (qPCR primer/probe) or amino acid (epitope) mismatches info a
 ## Motivation
 Does my PCR assay design detect all known sequenced examples of a pathogen? Or has the pathogen mutated to escape immune detection by epitope mismatches?
 
-This lighweight tools was developed to simplify the process of checking and reporting published SARS-CoV-2 genomes for subsequences you expect to be stable, but actually have evolved variants. Considerable effort has gone into handling the many ambiguous bases and no-coverage (N) regions in [GISAID](https://gisaid.org/CoV2020)-deposited genomes.
+This lighweight tool was developed to simplify the process of checking and reporting published SARS-CoV-2 genomes for subsequences you expect to be stable, but actually have evolved variants. Considerable effort has gone into handling the many ambiguous bases and no-coverage (N) regions in [GISAID](https://gisaid.org/CoV2020)-deposited genomes.
 
 Use Case 1: continued detection sensitivity of PCR assays in light of available pathogen genomic data. As of this writing the genomes of more than 115,000 SARS-CoV-2 samples are available in GISAID and [at the NCBI](https://www.ncbi.nlm.nih.gov/genbank/sars-cov-2-seqs/) thanks to global sequencing efforts, and a lab may want to check if their PCR assay's primers/probes continue to be exact matches against all samples despite inevitable viral evolution. Pokay takes about 3 minutes to run, and complements existing efforts to track mismatch counts for published SARS-CoV-2 PCR assays, such as the very useful [EDGE validation portal](https://covid19.edgebioinformatics.org/#/assayValidation), and [PCR_strainer](https://github.com/KevinKuchinski/PCR_strainer) which suggests filtering out genomes with base ambiguities.
 
