@@ -16,7 +16,7 @@ Use Case 2: continued effectiveness of post-infection or post-vaccination immuni
 ## Quick Start
 This script depends on you having a preinstalled version of [NCBI BLAST](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/), and has only been tested using version 2.9.0+. It can be downloaded from the provided link, or if you are running the [conda manager](https://docs.conda.io/projects/conda/en/latest/user-guide/install/), this should be as easy as ```conda install blast```. It also requires any version of Perl (there are no module dependencies).
 
-Here file_of_genomes.fasta might be downloaded from GISAID. Here ```file_of_genome_ids_to_exclude.txt``` allows you to remove duplicate or dodgy genomes from the analysis without having to edit the genomes file that you may have downloaded in bulk from somewhere like the GISAID download utility. The [excludes file](https://raw.githubusercontent.com/nextstrain/ncov/master/config/exclude.txt) format used in [NextStrain's COVID-19 portal](https://nextstrain.org/ncov) is compatible with Pokay. If you have nothing to exclude, specify ```/dev/null``` as the excludes file.
+Here ```file_of_genomes.fasta``` might be downloaded from GISAID. Here ```file_of_genome_ids_to_exclude.txt``` allows you to remove duplicate or dodgy genomes from the analysis without having to edit the genomes file that you may have downloaded in bulk from somewhere like the GISAID download utility. The [excludes file](https://raw.githubusercontent.com/nextstrain/ncov/master/config/exclude.txt) format used in [NextStrain's COVID-19 portal](https://nextstrain.org/ncov) is compatible with Pokay. If you have nothing to exclude, specify ```/dev/null``` as the excludes file.
 
 ### PCR design
 
