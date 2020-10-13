@@ -1,0 +1,53 @@
+# Genomes available from public databanks  
+# To et al., 2020 https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1275/5897019
+Hong Kong/HKU-200823-001/2020
+Hong Kong/HKU-200823-002/2020
+
+# Prado-Vivar et al., 2020 https://papers.ssrn.com/abstract=3686174
+Ecuador/USFQ-163/2020
+Ecuador/USFQ-165/2020
+
+# Tillet et al., 2020 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680955
+USA/NV-NSPHL-A0110/2020
+USA/NV-NSPHL-A0207/2020
+
+# Goldman et al., 2020 https://www.medrxiv.org/content/10.1101/2020.09.22.20192443v1
+# See additional non-published genome firther in this file.
+USA/WA-UW39/2020
+
+# Van Elslande et al., 2020 https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1330/5901661
+Belgium/rega-0309752/2020
+Belgium/rega-0710751/2020
+
+###################################
+# Genomes below here are not deposited in databanks, so were manually pulled from publications
+# Shastri et al., 2020 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3688220 Table 2 
+India/Mumbai-PatientA-firstInfection/2020	C241T,C3037T,G3231T,C3397T,C3634T,C14408T,C15324T,A22459T,C23185T,A23403G,G23593T,T23671C,C25710T,C28045T,C29095T
+India/Mumbai-PatientA-secondInfection/2020	C3037T,C3634T,C14408T,C15324T,A22459T,G23593T,T23671C
+India/Mumbai-PatientB-firstInfection/2020	C3037T,G5857T,A9274G,C14408T,A23403G,G28881A,G28882A
+India/Mumbai-PatientB-secondInfection/2020	C1884T,C3037T,C3634T,C7604T,C14408T,A18262G,A23403G,C23613T
+India/Mumbai-PatientC-firstInfection/2020	C3634T,C14408T,A15435G,C28866T
+India/Mumbai-PatientC-secondInfection/2020	C3037T,T8022G,C8175A,T22137C,A22374G
+India/Mumbai-PatientD-firstInfection/2020	C3037T,C14408T,C20926T
+India/Mumbai-PatientD-secondInfection/2020	C241T,C313T,C3037T,T3442C,C5700A,C14120T,C14408T,G18213T,C18705T,A23403G,G28881A,G28882A,G28883C
+
+# Abu Raddad et al, 2020 http://www.medrxiv.org/content/10.1101/2020.08.24.20179457v2.full.pdf Figure 3
+Qatar/Patient27-firstInfection/2020	C14805T,G16537A,G26144T
+Qatar/Patient27-secondInfection/2020	C241T,C1302T,C3037T,C14408T,A23404G,G25563T
+Qatar/Patient33-firstInfection/2020	C14805T,G16537A,G26144T
+Qatar/Patient33-secondInfection/2020	C241T,C1302T,C3037T,C14408T,C16989T,A23403G,G25563T,G29554T
+
+# Goldman et al., 2020 https://www.medrxiv.org/highwire/filestream/98238/field_highwire_adjunct_files/0/2020.09.22.20192443-1.docx Table S1
+USA/WA-UW39-secondInfectionJuly/2020	C241T,C1059Y,C3037T,C6539Y,G11540K,A12557M,C14408T,C18877T,A23403G,G25483R,G25563T,C27167Y
+
+# Gupta et al., 2020 https://osf.io/4fmrg/ Figure 1
+India/NorthIndia-I1E1/2020	C241T,T11408C,G17584T,C18877T,A23403G,C26456T,C26735T
+India/NorthIndia-I1E2/2020	C241T,T1947C,C6445T,G11383A,T11408C,C18877T,A23403G,C23934T,C25207T,G25563T,C26735T
+India/NorthIndia-I2E1/2020	C241T,C3267T,C13730T,C14408T,G17584T,C18877T,G19109T,A23403G,C23929T,G25563T
+India/NorthIndia-I2E1/2020	C241T,C14408T,T22882G,A23403G,G24794A,G25563T,C26735T,C29215T
+
+# Mulder et al., 2020 https://academic.oup.com/cid/advance-article/doi/10.1093/cid/ciaa1538/5920950 Figure 1
+# Note multiple triallelic sites 9434, 15799, 26476 (perhaps suspect)
+Netherlands/89yo-firstInfection/2020	G2960T,G9434C,T15799A,T21564C,A26476C
+Netherlands/89yo-secondInfection/2020	G2960C,G5123A,C6525T,G9434T,T15799G,C20178T,T21564A,C23220T,C25614T,A26476T
+
