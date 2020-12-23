@@ -2,7 +2,7 @@
 # We report the occurrence of a mutation in the RdRP (D484Y) following failure of remdesivir in a 76-year-old woman with a post-rituximab B-cell immunodeficiency and persistent SARSCoV
 -2 viremia.
 # Martinot et al. (2020) https://doi.org/10.1093/cid/ciaa1474
-D484Y
+D483Y
 
 # Confers significant (5x) resistance in vitro to remdesivir [coordinates mapped from reported V553L in murine hepatitis virus model experiment to SARS-CoV-2].
 # Agostini et al. (2018) http://dx.doi.org/10.1128/mBio.00221-18
