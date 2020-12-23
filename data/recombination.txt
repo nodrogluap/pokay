@@ -1,0 +1,43 @@
+# Moore et al., 2020 Amplicon-Based Detection and Sequencing of SARS-CoV-2 in Nasopharyngeal Swabs from Patients With COVID-19 and Identification of Deletions in the Viral Genome That Encode Proteins Involved in Interferon Antagonism
+# https://www.mdpi.com/1999-4915/12/10/1164
+# Table 2. Analysis of deletions in the SARS-CoV-2 genome in patients with COVID-19. The columns from left to right are as follows: sample barcode, deletion start position (bp), deletion end position (bp), number of reads supporting this deletion, quality score (similar to number of reads supporting, but also takes into account read mapping quality scores with a score greater than 10 having higher confidence), standard deviation (SD) of deletion span (bp) from supporting reads, SD of deletion position (bp) from supporting reads. If the deletion interrupts a gene, these are the coordinates of the gene, the gene name, and the bp overlap with the deletion. In cases where the deletion overlaps >1 gene, the information of the second gene is provided.
+Deletion Information	Affected Gene Information
+Patient Number	Start (bp)	End (bp)	Supporting Reads	Quality Score	SD Span	SD Pos	Gene Start	Gene End	Gene Name	Overlap (bp)	Gene2 Start	Gene2 End	Gene2 Name	Overlap2 (bp)
+22	19325	19380	9	10	4.42	58.42	266	21555	Orf1ab	55	−	−	−	−
+22	20294	20429	8	10	0	0	266	21555	Orf1ab	135	−	−	−	−
+22	25417	25796	10	12	0.79	0.86	25393	26220	Orf3a	379	−	−	−	−
+22	27578	27624	16	19	2.49	2.45	27394	27759	Orf7a	46	−	−	−	−
+22	28756	28884	7	8	2.27	3.4	28274	29533	N	128	−	−	−	−
+23	2143	2198	5	5	4.36	73.69	266	21555	Orf1ab	55	−	−	−	−
+23	2375	2421	8	8	5.54	82.85	266	21555	Orf1ab	46	−	−	−	−
+23	2589	2642	6	6	3.2	41.78	266	21555	Orf1ab	53	−	−	−	−
+23	2654	2741	5	5	8.73	51.88	266	21555	Orf1ab	87	−	−	−	−
+23	2859	2904	9	10	2.42	88.48	266	21555	Orf1ab	45	−	−	−	−
+25	20274	20383	7	8	6.2	7.5	266	21555	Orf1ab	109	−	−	−	−
+25	20279	20340	10	12	3.83	2.57	266	21555	Orf1ab	61	−	−	−	−
+25	27594	27640	10	11	2.37	31.77	27394	27759	Orf7a	46	−	−	−	−
+26	27386	27699	91	99	0.86	1.66	27394	27759	Orf7a	305	27202	27387	ORF6	1
+26	20274	20338	9	11	1.5	1.02	266	21555	Orf1ab	64	−	−	−	−
+27	27020	27073	11	13	0.6	0.3	26523	27191	M	53	−	−	−	−
+27	27522	27761	24	29	1.09	2.04	27394	27759	Orf7a	237	−	−	−	−
+27	27689	27763	23	27	3.58	29.9	27394	27759	Orf7a	70				
+28	2025	2088	5	5	7.16	80.94	266	21555	Orf1ab	63				
+28	25508	25568	6	6	8.31	61.45	25393	26220	Orf3a	60				
+28	27884	27934	6	6	7.19	27.43	27894	28259	Orf8	40				
+29	27546	27650	7	8	14.61	64.8	27394	27759	Orf7a	104				
+29	28454	28731	6	7	26.89	58.79	28274	29533	N	277				
+30	25398	25776	12	14	1.56	69.87	25393	26220	Orf3a	378				
+30	27555	27625	31	38	1.94	5.71	27394	27759	Orf7a	70				
+30	8676	8723	11	12	1.79	38.61	266	21555	Orf1ab	47				
+31	28444	28775	62	77	1.29	1.31	28274	29533	N	331				
+32	25480	25551	97	99	1.62	2.04	25393	26220	Orf3a	71				
+36	20274	20339	11	13	1.43	0.87	266	21555	Orf1ab	65				
+37	25429	25641	11	13	17	7.89	25393	26220	Orf3a	212				
+37	25432	25808	10	12	5.24	44.62	25393	26220	Orf3a	376				
+37	28444	28776	8	9	0.71	0.65	28274	29533	N	332				
+43	27426	27559	5	5	19.77	50.25	27394	27759	Orf7a	133				
+43	27690	27732	6	6	2.25	49.85	27394	27759	Orf7a	42				
+43	28011	28062	13	14	5.36	77.82	27894	28259	Orf8	51				
+43	28196	28238	5	5	2	96.73	27894	28259	Orf8	42				
+43	28481	28536	5	5	3	64.73	28274	29533	N	55				
+43	28601	28718	5	5	4.82	43.76	28274	29533	N	117				

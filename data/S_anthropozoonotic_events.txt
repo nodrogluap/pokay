@@ -1,0 +1,56 @@
+# Observed first in a single tiger (cohort of 5), potential adaptation.
+# McAloose et al. (2020) https://dx.doi.org/10.1128/mBio.02220-20
+Y505H
+
+# Observed first in three tigers (cohort of 5), potential adaptation.
+# McAloose et al. (2020) https://dx.doi.org/10.1128/mBio.02220-20
+G496D
+
+# Observed first in a single tiger (cohort of 5), potential adaptation.
+# McAloose et al. (2020) https://dx.doi.org/10.1128/mBio.02220-20
+F456Y
+
+# Observed first in a single tiger (cohort of 5), potential adaptation.
+# McAloose et al. (2020) https://dx.doi.org/10.1128/mBio.02220-20
+T716I
+
+# Combo observed first in a mouse-adapted SARS-CoV-2 strain (MA10).
+# Leist	et al. (2020) https://dx.doi.org/10.1016%2Fj.cell.2020.09.050
+Q493K,Q498Y,P499T 
+
+# Observed in first of two Netherlands mink cohorts, potential adaptation. 
+# Oreshkova et al. (2020) http://dx.doi.org/10.2807/1560-7917.ES.2020.25.23.2001005
+G270D,Y462F,F495L
+
+# Observed in second of two Netherlands mink cohorts, potential adaptation.  
+# Oreshkova et al. (2020) http://dx.doi.org/10.2807/1560-7917.ES.2020.25.23.2001005
+N501T,D634G
+
+# Observed in 4 separate mink farms in Denmark, but not humans, potential adaptation (diff set of farms than F486L).
+# Oude Munnink et al. (2020) http://dx.doi.org/10.1126/science.abe5901
+N501T
+
+# Observed in 4 separate mink farms in Denmark, but not humans, potential adaptation (diff set of farms than N501T).
+# Oude Munnink et al. (2020) http://dx.doi.org/10.1126/science.abe5901
+F486L 
+
+# Widespread amongst mink and humans on one farm, one mink on another farm, potential adaptation.
+# Oude Munnink et al. (2020) http://dx.doi.org/10.1126/science.abe5901
+V367F
+
+# Multiple mink but no humans on one farm in Denmark, potential adaptation.
+# Oude Munnink et al. (2020) http://dx.doi.org/10.1126/science.abe5901
+G261D
+
+# Observed in 2 separate mink farms in Denmark, but not humans, potential adaptation.
+# Oude Munnink et al. (2020) http://dx.doi.org/10.1126/science.abe5901
+L177I
+
+# Observed in 4 separate mink farms in Denmark, and Y453F is circulating relatively widely in humans.
+# Oude Munnink et al. (2020) http://dx.doi.org/10.1126/science.abe5901
+# Welkers et al. (2020) https://academic.oup.com/ve/advance-article/doi/10.1093/ve/veaa094/6025194
+Y453F
+
+# Emergent variants observed in tandem in ferrets post-serial infection.
+# Richard et al. (2020) https://doi.org/10.1038/s41467-020-17367-2
+N501T,S686G

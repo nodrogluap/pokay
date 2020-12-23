@@ -1,0 +1,70 @@
+# Strong positive selection (up to 50% of supernatant sequences) after C121 monoclonal antibody assay, decreasing in subsequent passages
+# Strong positive selection (up to 44% of supernatant sequences) after after one round of C144 monoclonal antibody passage, then waning on subsequent passages
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+# The engineered mutation cause 10-fold or more increase in the disassociation constant with many monoiclonal antibodies (C144/C002/C121/C104/C110).
+# Barnes et al. (2020) https://www.nature.com/articles/s41586-020-2852-1_reference.pdf?origin=ppub
+E484K
+
+# Positive selection (up to 23% of supernatant sequences) after C121 monoclonal antibody assay
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+F490L
+
+# Strong positive selection (up to 45% of supernatant sequences) under two rounds of C121 monoclonal antibody passage
+# Strong positive selection (up to 39% of supernatant sequences) after two rounds of C135 monoclonal antibody passage, overall 76% switch away from Q493 to K or R
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+Q493K
+
+# Positive selection (up to 45% of supernatant sequences) under two rounds of C135 monoclonal antibody passage, eliminated in subsequent passages
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+N440K
+
+# Positive selection (up to 30% of supernatant sequences) under two rounds of C135 monoclonal antibody passage, overall 70% switch away from R346 to S, K or M
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+# The engineered mutation cause 10-fold or more increase in the disassociation constant with C135 and C110 monoclonal antibodies vs. wild type Spike protein RBD domain AAs.
+R346S
+
+# Strong positive selection (up to 53% of supernatant sequences) under two rounds of C135 monoclonal antibody passage, overall 70% switch away from R346 to S, K or M
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+R346K
+
+# Strong positive selection (up to 37% of supernatant sequences) after two rounds of C135 monoclonal antibody passage, overall 76% switch away from Q493 to K or R
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+# The engineered mutation cause 10-fold or more increase in the disassociation constant with C144, C002 and C121 monoclonal antibodies vs. wild type Spike protein RBD domain AAs.
+# Barnes et al. (2020) https://www.nature.com/articles/s41586-020-2852-1_reference.pdf?origin=ppub
+Q493R 
+
+# The engineered mutation cause 10-fold or more increase in the disassociation constant with C102, C105 and C144 monoclonal antibodies vs. wild type Spike protein RBD domain AAs.
+# Barnes et al. (2020) https://www.nature.com/articles/s41586-020-2852-1_reference.pdf?origin=ppub
+A475V
+
+# Escape variant 45% appearance in 2 passages against Regeneron monoclonal antibody RGN10987 @ 10ug/mL
+# Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
+K444Q
+
+# Escape variant 41% appearance in 2 passages against Regeneron monoclonal antibody RGN10987 @ 10ug/mL
+# Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
+V445A
+
+# Escape variant 95% appearance in 2 passages against Regeneron monoclonal antibody RGN10934 @ 50ug/mL
+# Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
+N450D
+
+# Escape variant 100% appearance in 2 passages against Regeneron monoclonal antibody RGN10989 @ 50ug/mL (99% after one passage)
+# Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
+E484K
+
+# Escape variant 88% appearance in 2 passages against Regeneron monoclonal antibody RGN10933 @ 50ug/mL
+# Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
+F486V
+
+# Escape variant 47% appearance in 2 passages against Regeneron monoclonal antibody RGN10987 @ 10ug/mL
+# Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
+R685S
+
+# Escape variant 87% appearance in 2 passages against Regeneron monoclonal antibody RGN10933 @ 50ug/mL
+# Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
+G769E
+
+# Escape variant 20% appearance in 2 passages against Regeneron monoclonal antibody RGN10989 @ 50ug/mL
+# Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
+Q779K

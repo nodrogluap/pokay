@@ -1,0 +1,1328 @@
+#Experimentally, ACE2 gene expression increased 0.99 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y365W
+
+#Experimentally, ACE2 gene expression increased 0.79 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455N
+
+#Experimentally, ACE2 gene expression increased 0.75 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455K
+
+#Experimentally, ACE2 gene expression increased 0.74 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367F
+
+#Experimentally, ACE2 gene expression increased 0.74 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455R
+
+#Experimentally, ACE2 gene expression increased 0.72 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I358F
+
+#Experimentally, ACE2 gene expression increased 0.7 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L518D
+
+#Experimentally, ACE2 gene expression increased 0.68 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L518E
+
+#Experimentally, ACE2 gene expression increased 0.65 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K417V
+
+#Experimentally, ACE2 gene expression increased 0.64 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N354E
+
+#Experimentally, ACE2 gene expression increased 0.64 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G502D
+
+#Experimentally, ACE2 gene expression increased 0.58 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452K
+
+#Experimentally, ACE2 gene expression increased 0.58 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455A
+
+#Experimentally, ACE2 gene expression increased 0.56 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y505N
+
+#Experimentally, ACE2 gene expression increased 0.56 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y505E
+
+#Experimentally, ACE2 gene expression increased 0.54 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V524R
+
+#Experimentally, ACE2 gene expression increased 0.54 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G502E
+
+#Experimentally, ACE2 gene expression increased 0.53 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R408D
+
+#Experimentally, ACE2 gene expression increased 0.52 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N354Q
+
+#Experimentally, ACE2 gene expression increased 0.48 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y365F
+
+#Experimentally, ACE2 gene expression increased 0.48 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S373N
+
+#Experimentally, ACE2 gene expression increased 0.48 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F456Y
+
+#Experimentally, ACE2 gene expression increased 0.46 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367A
+
+#Experimentally, ACE2 gene expression increased 0.45 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455S
+
+#Experimentally, ACE2 gene expression increased 0.45 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q498D
+
+#Experimentally, ACE2 gene expression increased 0.41 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I358W
+
+#Experimentally, ACE2 gene expression increased 0.41 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527L
+
+#Experimentally, ACE2 gene expression increased 0.41 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y505D
+
+#Experimentally, ACE2 gene expression increased 0.4 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452S
+
+#Experimentally, ACE2 gene expression increased 0.4 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+A348P
+
+#Experimentally, ACE2 gene expression increased 0.39 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K417I
+
+#Experimentally, ACE2 gene expression increased 0.38 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K529A
+
+#Experimentally, ACE2 gene expression increased 0.37 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y505G
+
+#Experimentally, ACE2 gene expression increased 0.36 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369M
+
+#Experimentally, ACE2 gene expression increased 0.36 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S383D
+
+#Experimentally, ACE2 gene expression increased 0.36 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S477E
+
+#Experimentally, ACE2 gene expression increased 0.36 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455H
+
+#Experimentally, ACE2 gene expression increased 0.35 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L518K
+
+#Experimentally, ACE2 gene expression increased 0.35 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S373K
+
+#Experimentally, ACE2 gene expression increased 0.34 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527K
+
+#Experimentally, ACE2 gene expression increased 0.33 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V362T
+
+#Experimentally, ACE2 gene expression increased 0.33 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N501M
+
+#Experimentally, ACE2 gene expression increased 0.32 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452R
+
+#Experimentally, ACE2 gene expression increased 0.31 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369L
+
+#Experimentally, ACE2 gene expression increased 0.31 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455M
+
+#Experimentally, ACE2 gene expression increased 0.31 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367E
+
+#Experimentally, ACE2 gene expression increased 0.3 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q414A
+
+#Experimentally, ACE2 gene expression increased 0.3 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G339D
+
+#Experimentally, ACE2 gene expression increased 0.3 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367S
+
+#Experimentally, ACE2 gene expression increased 0.3 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y365L
+
+#Experimentally, ACE2 gene expression increased 0.3 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527C
+
+#Experimentally, ACE2 gene expression increased 0.3 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V483T
+
+#Experimentally, ACE2 gene expression increased 0.3 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G504D
+
+#Experimentally, ACE2 gene expression increased 0.29 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L518S
+
+#Experimentally, ACE2 gene expression increased 0.29 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P337D
+
+#Experimentally, ACE2 gene expression increased 0.29 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+A520G
+
+#Experimentally, ACE2 gene expression increased 0.29 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L517N
+
+#Experimentally, ACE2 gene expression increased 0.29 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R408Q
+
+#Experimentally, ACE2 gene expression increased 0.29 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y449D
+
+#Experimentally, ACE2 gene expression increased 0.28 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367W
+
+#Experimentally, ACE2 gene expression increased 0.28 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+T385E
+
+#Experimentally, ACE2 gene expression increased 0.28 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367Q
+
+#Experimentally, ACE2 gene expression increased 0.28 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P337N
+
+#Experimentally, ACE2 gene expression increased 0.28 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N360D
+
+#Experimentally, ACE2 gene expression increased 0.28 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F486E
+
+#Experimentally, ACE2 gene expression increased 0.28 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y505S
+
+#Experimentally, ACE2 gene expression increased 0.28 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G502S
+
+#Experimentally, ACE2 gene expression increased 0.27 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452Q
+
+#Experimentally, ACE2 gene expression increased 0.27 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367K
+
+#Experimentally, ACE2 gene expression increased 0.27 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+H519D
+
+#Experimentally, ACE2 gene expression increased 0.27 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R408E
+
+#Experimentally, ACE2 gene expression increased 0.26 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F392W
+
+#Experimentally, ACE2 gene expression increased 0.26 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V362Y
+
+#Experimentally, ACE2 gene expression increased 0.26 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I358M
+
+#Experimentally, ACE2 gene expression increased 0.26 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455E
+
+#Experimentally, ACE2 gene expression increased 0.25 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+A363W
+
+#Experimentally, ACE2 gene expression increased 0.25 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L441I
+
+#Experimentally, ACE2 gene expression increased 0.25 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527A
+
+#Experimentally, ACE2 gene expression increased 0.25 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+A372K
+
+#Experimentally, ACE2 gene expression increased 0.25 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P521N
+
+#Experimentally, ACE2 gene expression increased 0.25 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K417T
+
+#Experimentally, ACE2 gene expression increased 0.25 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G502N
+
+#Experimentally, ACE2 gene expression increased 0.25 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G502P
+
+#Experimentally, ACE2 gene expression increased 0.24 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L518T
+
+#Experimentally, ACE2 gene expression increased 0.24 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G502K
+
+#Experimentally, ACE2 gene expression increased 0.23 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N440E
+
+#Experimentally, ACE2 gene expression increased 0.23 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455C
+
+#Experimentally, ACE2 gene expression increased 0.22 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S366D
+
+#Experimentally, ACE2 gene expression increased 0.22 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+H519N
+
+#Experimentally, ACE2 gene expression increased 0.22 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K529G
+
+#Experimentally, ACE2 gene expression increased 0.22 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527I
+
+#Experimentally, ACE2 gene expression increased 0.22 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S383N
+
+#Experimentally, ACE2 gene expression increased 0.22 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G526K
+
+#Experimentally, ACE2 gene expression increased 0.22 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F486P
+
+#Experimentally, ACE2 gene expression increased 0.22 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F486Q
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527M
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S530E
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367M
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N354K
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K356R
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V341I
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369V
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+T385D
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L441Q
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+E516Q
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R408S
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455V
+
+#Experimentally, ACE2 gene expression increased 0.21 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y505Q
+
+#Experimentally, ACE2 gene expression increased 0.2 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L390Y
+
+#Experimentally, ACE2 gene expression increased 0.2 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+A522Y
+
+#Experimentally, ACE2 gene expression increased 0.2 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+C391N
+
+#Experimentally, ACE2 gene expression increased 0.2 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369F
+
+#Experimentally, ACE2 gene expression increased 0.2 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+A372Q
+
+#Experimentally, ACE2 gene expression increased 0.19 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S383E
+
+#Experimentally, ACE2 gene expression increased 0.19 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527R
+
+#Experimentally, ACE2 gene expression increased 0.19 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527D
+
+#Experimentally, ACE2 gene expression increased 0.19 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367T
+
+#Experimentally, ACE2 gene expression increased 0.19 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F464Y
+
+#Experimentally, ACE2 gene expression increased 0.19 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+C525D
+
+#Experimentally, ACE2 gene expression increased 0.19 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527W
+
+#Experimentally, ACE2 gene expression increased 0.19 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455D
+
+#Experimentally, ACE2 gene expression increased 0.18 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R357K
+
+#Experimentally, ACE2 gene expression increased 0.18 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P384K
+
+#Experimentally, ACE2 gene expression increased 0.18 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369T
+
+#Experimentally, ACE2 gene expression increased 0.18 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K386E
+
+#Experimentally, ACE2 gene expression increased 0.18 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K528N
+
+#Experimentally, ACE2 gene expression increased 0.18 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+D428N
+
+#Experimentally, ACE2 gene expression increased 0.18 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S359T
+
+#Experimentally, ACE2 gene expression increased 0.18 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F486K
+
+#Experimentally, ACE2 gene expression increased 0.18 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y449Q
+
+#Experimentally, ACE2 gene expression increased 0.17 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N354S
+
+#Experimentally, ACE2 gene expression increased 0.17 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452H
+
+#Experimentally, ACE2 gene expression increased 0.17 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S530A
+
+#Experimentally, ACE2 gene expression increased 0.17 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S459Q
+
+#Experimentally, ACE2 gene expression increased 0.17 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I468T
+
+#Experimentally, ACE2 gene expression increased 0.17 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K417L
+
+#Experimentally, ACE2 gene expression increased 0.17 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+A475N
+
+#Experimentally, ACE2 gene expression increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q498H
+
+#Experimentally, ACE2 gene expression increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N460K
+
+#Experimentally, ACE2 gene expression increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K378R
+
+#Experimentally, ACE2 gene expression increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452M
+
+#Experimentally, ACE2 gene expression increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527V
+
+#Experimentally, ACE2 gene expression increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I434F
+
+#Experimentally, ACE2 gene expression increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527T
+
+#Experimentally, ACE2 gene expression increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K529H
+
+#Experimentally, ACE2 gene expression increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G339E
+
+#Experimentally, ACE2 gene expression increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+T430V
+
+#Experimentally, ACE2 gene expression increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y505H
+
+#Experimentally, ACE2 gene expression increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G502Q
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R346T
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R346N
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L441V
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367L
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G339H
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K529T
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K386D
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R408P
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N450E
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F486R
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455T
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N487Q
+
+#Experimentally, ACE2 gene expression increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G502T
+
+#Experimentally, ACE2 gene expression increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y508H
+
+#Experimentally, ACE2 gene expression increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N354R
+
+#Experimentally, ACE2 gene expression increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V483K
+
+#Experimentally, ACE2 gene expression increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K356T
+
+#Experimentally, ACE2 gene expression increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I358L
+
+#Experimentally, ACE2 gene expression increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K528G
+
+#Experimentally, ACE2 gene expression increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369A
+
+#Experimentally, ACE2 gene expression increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N501Q
+
+#Experimentally, ACE2 gene expression increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452Y
+
+#Experimentally, ACE2 gene expression increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I332G
+
+#Experimentally, ACE2 gene expression increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455G
+
+#Experimentally, ACE2 gene expression increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G496K
+
+#Experimentally, ACE2 gene expression increased 0.13 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+T415H
+
+#Experimentally, ACE2 gene expression increased 0.13 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L518N
+
+#Experimentally, ACE2 gene expression increased 0.13 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K529S
+
+#Experimentally, ACE2 gene expression increased 0.13 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N354D
+
+#Experimentally, ACE2 gene expression increased 0.13 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F486S
+
+#Experimentally, ACE2 gene expression increased 0.13 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F486T
+
+#Experimentally, ACE2 gene expression increased 0.13 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455P
+
+#Experimentally, ACE2 gene expression increased 0.13 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G496R
+
+#Experimentally, ACE2 gene expression increased 0.13 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y505K
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S477D
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S373Q
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369I
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527S
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S366E
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S514T
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R346K
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S359H
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S366A
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367I
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R408A
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369E
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G496S
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y449H
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y449S
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G496T
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y449E
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y505C
+
+#Experimentally, ACE2 gene expression increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y505A
+
+#Experimentally, ACE2 gene expression increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L335E
+
+#Experimentally, ACE2 gene expression increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+D389E
+
+#Experimentally, ACE2 gene expression increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G339N
+
+#Experimentally, ACE2 gene expression increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369Q
+
+#Experimentally, ACE2 gene expression increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S459E
+
+#Experimentally, ACE2 gene expression increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K529C
+
+#Experimentally, ACE2 gene expression increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L518C
+
+#Experimentally, ACE2 gene expression increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367D
+
+#Experimentally, ACE2 gene expression increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y489H
+
+#Experimentally, ACE2 gene expression increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F456H
+
+#Experimentally, ACE2 gene expression increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F486D
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N501W
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F490Y
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y365M
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S530I
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I402V
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I358Y
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S459K
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367R
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V362S
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V445D
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K417H
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F486A
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K417N
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N487G
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G502R
+
+#Experimentally, ACE2 gene expression increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G502V
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L517M
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L335P
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N460R
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452T
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527Y
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K386Q
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S459T
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S373E
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V483A
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+A522Q
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R408G
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369N
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G504E
+
+#Experimentally, ACE2 gene expression increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y449T
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527Q
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V483Q
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K529F
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G339S
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367H
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367N
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452E
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+A372E
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+T531G
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R346E
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K528A
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369W
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V483S
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K417R
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N450T
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N501D
+
+#Experimentally, ACE2 gene expression increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G502A
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+T430I
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+H519P
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+E406H
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K529Y
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L455I
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N460P
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527H
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I332Q
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V362K
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N440D
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K444T
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I468V
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369K
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+T385K
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S383Q
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N501A
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S530G
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K417Y
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K529R
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V503E
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F486V
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G496A
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N487D
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y449N
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y449P
+
+#Experimentally, ACE2 gene expression increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y505M
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q498Y
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q493A
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S530N
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S477N
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F347W
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V395I
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R408K
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L517T
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L518Q
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+T531N
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F374W
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+T376H
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P384M
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F338L
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L441M
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V445E
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K417M
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+T500G
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y449G
+
+#Experimentally, ACE2 gene expression increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y489S
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q498F
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S359Q
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S366N
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I332H
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+A372R
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V445P
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+A520P
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+E471D
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527N
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K529I
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I332N
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S373T
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S373R
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452F
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S530C
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V362Q
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369S
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K386A
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S514V
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q498A
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G413N
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F486H
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y449A
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G496Q
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q498K
+
+#Experimentally, ACE2 gene expression increased 0.05 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G502H
+

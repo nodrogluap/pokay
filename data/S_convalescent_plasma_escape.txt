@@ -1,0 +1,43 @@
+# Strong positive selection (up to 72% of supernatant sequences) under six rounds of COV47 convalescent plasma passage
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+N148S
+
+# Positive selection (up to 18% of supernatant sequences) under two rounds of COV47 convalescent plasma passage
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+K150R
+
+# Strong positive selection (up to 40% of supernatant sequences) under three rounds of COV47 convalescent plasma passage
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+K150E
+
+# Positive selection (up to 22% of supernatant sequences) after COV47 convalescent plasma assay
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+K150T
+
+# Positive selection (up to 22% of supernatant sequences) under two rounds of COV47 convalescent plasma passage
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+K150Q
+
+# Positive selection (up to 20% of supernatant sequences) under three rounds of COV47 convalescent plasma passage
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+S151P
+
+# Positive selection (up to 20% of supernatant sequences) under two rounds of COV-NY convalescent plasma passage, eliminated in rounds three and four
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+K444R
+
+# Positive selection (up to 14% of supernatant sequences) after COV-NY convalescent plasma assay
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+K444N
+
+# Positive selection (up to 33% of supernatant sequences) after COV-NY convalescent plasma assay
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+K444Q
+
+# Positive selection (up to 18% of supernatant sequences) after COV-NY convalescent plasma assay
+# Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
+V445E
+
+# Fatal COVID-19 complications in immunocomprimised patient after immune escape from convalescent plasma
+# https://www.medrxiv.org/content/10.1101/2020.12.05.20241927v1
+D796H, H69del, V70del

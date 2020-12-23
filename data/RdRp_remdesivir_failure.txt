@@ -1,0 +1,14 @@
+# Remdesivir failure with SARS-CoV-2 RNA-dependent RNA-polymerase mutation in a B-cell immunodeficient patient with protracted Covid-19
+# We report the occurrence of a mutation in the RdRP (D484Y) following failure of remdesivir in a 76-year-old woman with a post-rituximab B-cell immunodeficiency and persistent SARSCoV
+-2 viremia.
+# Martinot et al. (2020) https://doi.org/10.1093/cid/ciaa1474
+D484Y
+
+# V557L mutation is implicated in low-level resistance to Remdesivir.
+# Template-dependent inhibition of coronavirus RNA-dependent RNA polymerase by remdesivir reveals a second mechanism of action
+# Tchesnokov et al. (2020) https://www.jbc.org/content/early/2020/09/23/jbc.AC120.015720.short
+V557L 
+
+# S861G mutation in RdRp eliminates chain-termination by Remdesivir, which confirms the existence of a steric clash between S861 and the incorporated RDV-TP
+# Tchesnokov et al. (2020) https://www.jbc.org/content/early/2020/09/23/jbc.AC120.015720.short
+S861G

@@ -1,0 +1,300 @@
+# Li et al, 2020 The Impact of Mutations in SARS-CoV-2 Spike on Viral Infectivity and Antigenicity
+# https://doi.org/10.1016/j.cell.2020.07.012
+# In 293T-hACE2 cells, this mutation combination increases infectivity ~10x vs D614G alone
+D614G,K458R
+
+#Experimentally, ACE2 binding affinity increased 0.3 fold
+Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q498H
+
+#Experimentally, ACE2 binding affinity increased 0.29 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N501F
+
+#Experimentally, ACE2 binding affinity increased 0.25 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y453F
+
+#Experimentally, ACE2 binding affinity increased 0.24 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N501Y
+
+#Experimentally, ACE2 binding affinity increased 0.19 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+T385R
+
+#Experimentally, ACE2 binding affinity increased 0.18 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q493M
+
+#Experimentally, ACE2 binding affinity increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q414A
+
+#Experimentally, ACE2 binding affinity increased 0.16 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q498Y
+
+#Experimentally, ACE2 binding affinity increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+E484R
+
+#Experimentally, ACE2 binding affinity increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q498F
+
+#Experimentally, ACE2 binding affinity increased 0.15 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N501V
+
+#Experimentally, ACE2 binding affinity increased 0.14 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367W
+
+#Experimentally, ACE2 binding affinity increased 0.13 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q493A
+
+#Experimentally, ACE2 binding affinity increased 0.13 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y505W
+
+#Experimentally, ACE2 binding affinity increased 0.13 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L517M
+
+#Experimentally, ACE2 binding affinity increased 0.12 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q493Y
+
+#Experimentally, ACE2 binding affinity increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367A
+
+#Experimentally, ACE2 binding affinity increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N501W
+
+#Experimentally, ACE2 binding affinity increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527M
+
+#Experimentally, ACE2 binding affinity increased 0.11 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K528F
+
+#Experimentally, ACE2 binding affinity increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I358F
+
+#Experimentally, ACE2 binding affinity increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N501T
+
+#Experimentally, ACE2 binding affinity increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V503K
+
+#Experimentally, ACE2 binding affinity increased 0.1 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V503M
+
+#Experimentally, ACE2 binding affinity increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S383E
+
+#Experimentally, ACE2 binding affinity increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452K
+
+#Experimentally, ACE2 binding affinity increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K458D
+
+#Experimentally, ACE2 binding affinity increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N460K
+
+#Experimentally, ACE2 binding affinity increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S477D
+
+#Experimentally, ACE2 binding affinity increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F490K
+
+#Experimentally, ACE2 binding affinity increased 0.09 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L518S
+
+#Experimentally, ACE2 binding affinity increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I332E
+
+#Experimentally, ACE2 binding affinity increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R346H
+
+#Experimentally, ACE2 binding affinity increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S359Q
+
+#Experimentally, ACE2 binding affinity increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V362T
+
+#Experimentally, ACE2 binding affinity increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S366N
+
+#Experimentally, ACE2 binding affinity increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K378R
+
+#Experimentally, ACE2 binding affinity increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y453K
+
+#Experimentally, ACE2 binding affinity increased 0.08 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S530N
+
+#Experimentally, ACE2 binding affinity increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N334D
+
+#Experimentally, ACE2 binding affinity increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R346Y
+
+#Experimentally, ACE2 binding affinity increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I358W
+
+#Experimentally, ACE2 binding affinity increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V367F
+
+#Experimentally, ACE2 binding affinity increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+E406Q
+
+#Experimentally, ACE2 binding affinity increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N440K
+
+#Experimentally, ACE2 binding affinity increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452Q
+
+#Experimentally, ACE2 binding affinity increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I468M
+
+#Experimentally, ACE2 binding affinity increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q498W
+
+#Experimentally, ACE2 binding affinity increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y508H
+
+#Experimentally, ACE2 binding affinity increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P527Q
+
+#Experimentally, ACE2 binding affinity increased 0.07 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K529V
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N331T
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+I332P
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L335E
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L335P
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+P337D
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+G339D
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R346T
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+R346V
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+A363W
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Y369M
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S383T
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+T385E
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L452M
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+K458E
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+N460R
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S477N
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S477P
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+V483L
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+E484K
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+F490Y
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+Q493F
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+S494H
+
+#Experimentally, ACE2 binding affinity increased 0.06 fold
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+L517R
