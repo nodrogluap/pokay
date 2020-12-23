@@ -14,6 +14,9 @@ N501F
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 Y453F
 
+#Variant within the six key residues in the receptor binding domain (RBD). Independently reported in UK, Australia (same origin as UK), and South Africa (independent origin).
+#Estimated to cause an increase of between 40% and 70% in transmissibility.
+#World Health Organization (2020) https://www.who.int/csr/don/21-december-2020-sars-cov2-variant-united-kingdom/en/ 
 #Experimentally, ACE2 binding affinity increased 0.24 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 N501Y
