@@ -1,0 +1,5 @@
+# Tandem proline variants introduced at the edge of the central domain in viral class I fusion proteins
+# to increase vaccine antigen yield and stabilize the spike protein into the soluable pre-fusion ("3 down") confirmation.
+# Pallesen et al. (2017) https://doi.org/10.1073/pnas.1707304114
+# Corbett et al. (2020) https://doi.org/10.1038/s41586-020-2622-0
+K986P,V987P
