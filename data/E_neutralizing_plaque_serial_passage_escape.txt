@@ -1,4 +1,4 @@
 # Sun et al. (2020) A SARS-CoV-2 variant with the 12-bp deletion at E gene 
 # Variant detected after passage with neutralizing plaques
 # https://www.tandfonline.com/doi/figure/10.1080/22221751.2020.1837017?scroll=top&needAccess=true
-GTGGTAACACTA
+F26del,L27del,L28del,V29del
