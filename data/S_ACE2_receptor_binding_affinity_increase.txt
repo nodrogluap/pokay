@@ -1,10 +1,9 @@
-# Li et al, 2020 The Impact of Mutations in SARS-CoV-2 Spike on Viral Infectivity and Antigenicity
-# https://doi.org/10.1016/j.cell.2020.07.012
-# In 293T-hACE2 cells, this mutation combination increases infectivity ~10x vs D614G alone
+# In four cell lines (including 293T-hACE2 cells), this mutation combination increases infectivity vs D614G alone
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 D614G,K458R
 
 #Experimentally, ACE2 binding affinity increased 0.3 fold
-Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 Q498H
 
 #Experimentally, ACE2 binding affinity increased 0.29 fold
