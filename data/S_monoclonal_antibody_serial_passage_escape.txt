@@ -1,3 +1,17 @@
+# Reduce affinity for CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
+# Long et al. (2020) https://doi.org/10.1128/mBio.02707-20
+F338L
+
+# Reduce affinity for CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
+# Long et al. (2020) https://doi.org/10.1128/mBio.02707-20
+S373P
+
+# Reduce affinity for CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
+# Long et al. (2020) https://doi.org/10.1128/mBio.02707-20
+R408T
+
+# Escape variant 100% appearance in 2 passages against Regeneron monoclonal antibody RGN10989 @ 50ug/mL (99% after one passage)
+# Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
 # Strong positive selection (up to 50% of supernatant sequences) after C121 monoclonal antibody assay, decreasing in subsequent passages
 # Strong positive selection (up to 44% of supernatant sequences) after after one round of C144 monoclonal antibody passage, then waning on subsequent passages
 # Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
@@ -48,10 +62,6 @@ V445A
 # Escape variant 95% appearance in 2 passages against Regeneron monoclonal antibody RGN10934 @ 50ug/mL
 # Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
 N450D
-
-# Escape variant 100% appearance in 2 passages against Regeneron monoclonal antibody RGN10989 @ 50ug/mL (99% after one passage)
-# Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
-E484K
 
 # Escape variant 88% appearance in 2 passages against Regeneron monoclonal antibody RGN10933 @ 50ug/mL
 # Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
