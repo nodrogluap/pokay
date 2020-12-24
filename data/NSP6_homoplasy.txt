@@ -1,0 +1,20 @@
+# No biochemical data, but high quality non-synoymous homoplasies from a paper, where functional fitness is presumed.
+# Van Dorp et al. (2020) https://doi.org/10.1016/j.meegid.2020.104351
+# PG: Effect is synonymous (F34=), with the variant containing the optimal human codon (UUU) vs reference (UUC).
+# PG: Has not lead to major lineage expansion despite early appearance, nor is it critical to a well defined RNA secondary structure (highly entropic by all extant predictors).
+# PG: Presumably the homoplasy is due to propensity of this site to deamination rather than a fitness advantage.
+g.C11074U
+
+# High quality non-synoymous homoplasies from a paper, where functional fitness is presumed.
+# Van Dorp et al. (2020) https://doi.org/10.1016/j.meegid.2020.104351
+# PG: Effect is for reported homoplasy g.G11083T.
+# PG: This variant has appeared independently many times in the tree, and lead to multiple extended lineages. 
+# PG: G->T is not easily explained by base deamination or cross-linking artefacts.
+# PG: Early in the pandemic this variant was often seen in association with ORF3a G251V, together defining clade "V", but this was likely a founder effect rather than a necessary co-evolution as this tandem variant occurence is not found in newer samples.
+# Could significantly modify COVID-19 pathogenicity by altering the host autophagic lysosomal antiviral machinery.
+# O'Leary and Ovsepian (2020) https://dx.doi.org/10.1016%2Fj.tig.2020.08.014
+# By analyzing the distribution of 11083G>T in various countries, we unveil that 11083G>T may correlate with the hypotoxicity of SARS-CoV-2...L37F has made NSP6 energetically less stabl
+# Wang et al. (2020) https://arxiv.org/abs/2007.01344
+# Destabilization of NSP6 also predicted in this paper.
+# Sadar et al. (2020) https://doi.org/10.1016/j.heliyon.2020.e04658 
+L37F
