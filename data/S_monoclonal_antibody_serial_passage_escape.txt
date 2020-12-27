@@ -1,28 +1,655 @@
-# Reduce affinity for CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
-# Long et al. (2020) https://doi.org/10.1128/mBio.02707-20
+# Most and modestly potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+C361H
+
+# Most potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+S443Q
+
+# Second most potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+S443H
+
+# Mostand highly effective escape variant in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+S443Y
+
+# Ranked effective escape variant in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+S443K
+
+# Ranked effective escape variant in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+S443M
+
+# Ranked effective escape variant in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+S443F
+
+# Most potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Ranked escape variant in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378L
+
+# Second most potent escape variant for this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Second most potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378V
+
+# Most and fairly potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+V382Y
+
+# Second most potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+V382A
+
+# Most and highly potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+S383L
+
+# Highly ranked escape variant in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+S383K
+
+# Highly ranked escape variant in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+S383Y
+
+# Highly ranked escape variant in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+S383F
+
+# Highly ranked escape variant in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+S383E
+
+# Most potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+P384K
+
+# Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
 F338L
 
-# Reduce affinity for CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
+# Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
 # Long et al. (2020) https://doi.org/10.1128/mBio.02707-20
 S373P
 
-# Reduce affinity for CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
+# Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
 # Long et al. (2020) https://doi.org/10.1128/mBio.02707-20
+# PG: this finding was NOT recapitulated for the same antibody in Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
 R408T
 
-# Escape variant 100% appearance in 2 passages against Regeneron monoclonal antibody RGN10989 @ 50ug/mL (99% after one passage)
+# Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F392K
+
+# Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F392Y
+
+# Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F392Q
+
+# Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F392A
+
+# Most and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K417D
+
+# Moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K417E
+
+# Moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K417G
+
+# Moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K417F
+
+# Only (and moderately) effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Most and moderately effective mutant against this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+A411K
+
+# Most and moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+Y365E
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+Y365K
+
+# Most and moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+Y369N
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+Y369P
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+Y369D
+
+# Most and moderately effective mutant against this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+N370P
+
+# Most and moderately effective mutant against this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+A372S
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+A372T
+
+# Most and moderately effective mutant against this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F374D
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F374N
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378E
+
+# Second most moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378V
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378S
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Ranked mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378Q
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378A
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378I
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378T
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378L
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378N
+
+# Most effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378Y
+
+# Most and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Ranked modestly effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378D
+
+# Most and moderately effective mutant against this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+P384Y
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+P384E
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+P384D
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+P384N
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+P384K
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+P384H
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+P384G
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+P384Q
+
+# Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+P384R
+
+# Most effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Most and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+T376E
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Ranked modestly effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+T376F
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+T376D
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+T376N
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Ranked modestly effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+T376W
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+T376R
+
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+K378H
+
+# Highly effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+R408D
+
+# Moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+R408E
+
+# Only effective mutant against this position in the RBD for moderately neutralizing COV2-2084 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+A435W
+
+# Most (tied) and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+D420R
+
+# Most (tied) and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+D240W
+
+# Ranked mildy effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+D240Y
+
+# Ranked mildy effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+D240K
+
+# Most and mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+A475Y
+
+# Ranked mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+A475R
+
+# Only and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
+# Ranked mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+A475N
+
+# Most but stiil only mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
+# Most and moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484M
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484V
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484H
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484Y
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484F
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484L
+
+# Most btu only mildly effective ranked mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484I
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484R
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484W
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484C
+
+# "E484A rose in frequency in linkage with F486I, but since E484A is not an escape mutation in our maps it is not shown in other panels"
+# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484A
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484N
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484P
+
+# Most effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Most but only mildly effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G446V
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G446P
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G446D
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G446F
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G446E
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G446T
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G446W
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G446H
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G446N
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G446Y
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G446L
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Most but only mildly effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447P
+
+# Most effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447N
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447Y
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447L
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447I
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447H
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447M
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447K
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447V
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447E
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447T
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447S
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447R
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447C
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447F
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G447D
+
+# Ranked most but only mildy effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+Y449R
+
+# Ranked most and moderately effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+N448C
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+N448R
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+N448P
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+E484T
+
+# Only observed effective escape variant against Regeron's antibody cocktail (REGN10933 and REGN10987) 
+# Starr et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.30.405472
+E406W
+
+# Most effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496V
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496D
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496Y
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496R
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496F
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496E
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496Q
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496I
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496W
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496L
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496K
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496N
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496T
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496M
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+G496H
+
+# Escape variant 100% appearance in 2 passages against Regeneron monoclonal antibody REGN10989 @ 50ug/mL (99% after one passage)
 # Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
 # Strong positive selection (up to 50% of supernatant sequences) after C121 monoclonal antibody assay, decreasing in subsequent passages
 # Strong positive selection (up to 44% of supernatant sequences) after after one round of C144 monoclonal antibody passage, then waning on subsequent passages
 # Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
-# The engineered mutation cause 10-fold or more increase in the disassociation constant with many monoiclonal antibodies (C144/C002/C121/C104/C110).
+# The engineered mutation cause 10-fold or more increase in the disassociation constant with many monoclonal antibodies (C144/C002/C121/C104/C110).
 # Barnes et al. (2020) https://www.nature.com/articles/s41586-020-2852-1_reference.pdf?origin=ppub
+# Mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
+# Effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
 E484K
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F490A
+
+# Most effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F490E
 
 # Positive selection (up to 23% of supernatant sequences) after C121 monoclonal antibody assay
 # Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
 F490L
 
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
+# Mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F490D
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F490K
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F490N
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F490V
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F490S
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F490P
+
+# Mildly effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
+# Mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F490R
+
+# Most but only mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+S494R
+
+# Escapes mAb REGN10987, part of Regeneron's antibody cocktail. 
+# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472
 # Strong positive selection (up to 45% of supernatant sequences) under two rounds of C121 monoclonal antibody passage
 # Strong positive selection (up to 39% of supernatant sequences) after two rounds of C135 monoclonal antibody passage, overall 76% switch away from Q493 to K or R
 # Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
@@ -59,13 +686,148 @@ K444Q
 # Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
 V445A
 
+# Most and highly effective mutant against this position in the RBD for highly neutralizing COV2-2499
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+V445G
+
+# Ranked highly effective mutant against this position in the RBD for highly neutralizing COV2-2499
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+V445N
+
+# Ranked highly effective mutant against this position in the RBD for highly neutralizing COV2-2499
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+V445W
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+V445D
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+V445Y
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+V445K
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+V445R
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2499
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+V445S
+
 # Escape variant 95% appearance in 2 passages against Regeneron monoclonal antibody RGN10934 @ 50ug/mL
 # Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
 N450D
 
+# Most effective mutant against this position in the RBD for highly neutralizing COV2-2096
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+L452Y
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+L452W
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+L452K
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+L452R
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+L452T
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+L452E
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2096
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+L452F
+
+# Most effective mutant against this position in the RBD for highly neutralizing COV2-2096
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+N450Y
+
+# Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+N450T
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2096
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+N450P
+
+# Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2096
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+N450G
+
 # Escape variant 88% appearance in 2 passages against Regeneron monoclonal antibody RGN10933 @ 50ug/mL
 # Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
+# Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
 F486V
+
+# Most effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F486A
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F486C
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F486G
+
+# Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F486S
+
+# Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F486D
+
+# Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F486V
+
+# Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F486T
+
+# Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+F486P
+
+# Escapes mAb REGN10933 (part of Regeneron's antibody cocktail)
+# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472
+Y489H
+
+# Escapes mAb REGN10933 (part of Regeneron's antibody cocktail)
+# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472
+F486I
+
+# Escapes mAb REGN10987 (part of Regeneron's antibody cocktail)
+# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472
+N440D
+
+# Most effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+N487Y
+
+# Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+N487R
+
+# Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
+# Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
+N487Q
+
 
 # Escape variant 47% appearance in 2 passages against Regeneron monoclonal antibody RGN10987 @ 10ug/mL
 # Baum et al. (2020) http://dx.doi.org/10.1126/science.abd0831
