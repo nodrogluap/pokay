@@ -1,19 +1,44 @@
-# Epitope score > 99th percentile of the 497 pre-pandemic controls
-# Together with other B.1.1.7 lineage mutational changes (Spike: N501Y, A570D, P681H, Nucleoprotein: D3L, S235F) resulted in only 2 of 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen. 
+# Wildtype elicits immune response, COVID-19 cohort epitope score > 99th percentile of the 497 pre-pandemic controls, mutant drops PIWAS epitope score from 1% to 0.17% (poorer immune recognition)
+# Together with other B1.1.7 lineage mutational changes (Spike: N501Y, A570D, P681H, Nucleoprotein: D3L, S235F) resulted in only 2 of 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen. 
 # Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
 Y144del
 
-# Epitope score > 99th percentile of the 497 pre-pandemic controls
-# Together with other B.1.1.7 lineage mutational changes (Spike: Y144del, A570D, P681H, Nucleoprotein: D3L, S235F) resulted in only 2 or 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen.
+# Wildtype elicits immune response, COVID-19 cohort epitope score > 99th percentile of the 497 pre-pandemic controls, mutant drops PIWAS epitope score from 3% to 1.2% (poorer immune recognition)
+# Together with other B1.1.7 lineage mutational changes (Spike: Y144del, A570D, P681H, Nucleoprotein: D3L, S235F) resulted in only 2 or 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen.
 # Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
 N501Y
 
-# Epitope score > 99th percentile of the 497 pre-pandemic controls
-# Together with other B.1.1.7 lineage mutational changes (Spike: Y144del,N501Y, P681H, Nucleoprotein: D3L, S235F) resulted in only 2 of 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen.
+# Wildtype elicits immune response, COVID-19 cohort epitope score > 99th percentile of the 497 pre-pandemic controls, mutant raises PIWAS epitope score from 3.6% to 6.2% (improved immune recognition)
+# Together with other B1.1.7 lineage mutational changes (Spike: Y144del,N501Y, P681H, Nucleoprotein: D3L, S235F) resulted in only 2 of 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen.
 # Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
 A570D
 
-# Epitope score > 99th percentile of the 497 pre-pandemic controls
-# Together with other B.1.1.7 lineage mutational changes (Spike: Y144del,N501Y, A570D Nucleoprotein: D3L, S235F) resulted in only 2 of 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen.
+# Wildtype elicits immune response, COVID-19 cohort epitope score > 99th percentile of the 497 pre-pandemic controls, mutant drops PIWAS epitope score from 7.8% to 1.2% (significantly poorer immune recognition)
+# Together with other B1.1.7 lineage mutational changes (Spike: Y144del,N501Y, A570D Nucleoprotein: D3L, S235F) resulted in only 2 of 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen.
 # Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
+# This variant is adjacent to the Spike protein furin cleavage site (cleavage of S into S1 and S2 subunits is required for viral membrane fusion and subsequent entry into host cells), a site shown to be highly immunogenic.
+# Johnson et al. (2020)  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457603/ 
 P681H
+
+# Not in a major wildtype epitope, mutant increases PIWAS epitope score from 0.69% to 2.3%
+# Found in B.1.1.7 lineage, but assumed to not pay a major role in antigenicity.
+# Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
+T716I
+
+# Not in a major wildtype epitope, mutant has no significant effect on PIWAS epitope score
+# Found in B.1.1.7 lineage, but assumed to not pay a major role in antigenicity.
+# Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
+S982A
+
+# Not in a major wildtype epitope, mutant has no significant effect on PIWAS epitope score
+# Found in B.1.1.7 lineage, but assumed to not pay a major role in antigenicity.
+# Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
+D1118H
+
+# Confers a significant PIWAS value decrease (reduced antigenicity) 
+# Haynes et al. (2020) https://www.medrxiv.org/content/10.1101/2020.11.23.20235002v1
+W633P
+
+# Confers a significant PIWAS value decrease (reduced antigenicity)
+# Haynes et al. (2020) https://www.medrxiv.org/content/10.1101/2020.11.23.20235002v1
+S686V
