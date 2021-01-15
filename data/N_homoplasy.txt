@@ -1,4 +1,4 @@
-# No biochemical data, but high quality non-synoymous homoplasies from a paper, where functional fitness is presumed.
+# No biochemical data, but high quality non-synonymous homoplasies from a paper, where functional fitness is presumed.
 # Van Dorp et al. (2020) https://doi.org/10.1016/j.meegid.2020.104351
 # PG: All four bases observed in this 2nd codon position, leading to different non-synonymous AA changes 
 # PG: Other changes within this codon (non-homoplasic) have been observed also.
@@ -6,3 +6,11 @@
 # PG: This site may have a propensity for poor exonucleae repair or poor ref AA fitness, rather than a clear fitness advantage of the variants.
 # PG: This variant also encodes changes to ORF9b (mitochondria-and-TOM70-associating IFN-I response suppressor), in the first codon position.
 g.C28311D
+
+# No biochemical data, but high quality non-synonymous homoplasies from a paper, where functional fitness is presumed.
+# Van Dorp et al. (2020) https://doi.org/10.1016/j.meegid.2020.104351
+# PG: Effect is synonymous (Y360=), with the variant containing the optimal human codon (UAU) vs the reference (UAC).
+# PG: Has not lead to major lineage expansions, and is in unpaired regions of predicted RNA secondary structure. 
+# PG: Presumably the homoplasy is due to propensity of this site to deamination rather than a clear fitness advantage, 
+# though codon optimization may be slightly useful as this position is towards the C terminus.
+g.C29353U

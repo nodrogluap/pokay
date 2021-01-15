@@ -1,11 +1,11 @@
-# No biochemical data, but high quality non-synoymous homoplasies from a paper, where functional fitness is presumed.
+# No biochemical data, but high quality non-synonymous homoplasies from a paper, where functional fitness is presumed.
 # Van Dorp et al. (2020) https://doi.org/10.1016/j.meegid.2020.104351
 # PG: Effect is synonymous (F34=), with the variant containing the optimal human codon (UUU) vs reference (UUC).
 # PG: Has not lead to major lineage expansion despite early appearance, nor is it critical to a well defined RNA secondary structure (highly entropic by all extant predictors).
 # PG: Presumably the homoplasy is due to propensity of this site to deamination rather than a fitness advantage.
 g.C11074U
 
-# High quality non-synoymous homoplasies from a paper, where functional fitness is presumed.
+# High quality non-synonymous homoplasies from a paper, where functional fitness is presumed.
 # Van Dorp et al. (2020) https://doi.org/10.1016/j.meegid.2020.104351
 # PG: Effect is for reported homoplasy g.G11083T.
 # PG: This variant has appeared independently many times in the tree, and lead to multiple extended lineages. 
