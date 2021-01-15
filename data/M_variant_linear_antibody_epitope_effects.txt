@@ -1,0 +1,7 @@
+# Confers a significant PIWAS value decrease (reduced antigenicity)
+# Haynes et al. (2020) https://www.medrxiv.org/content/10.1101/2020.11.23.20235002v1
+A195Y
+
+# Confers a significant PIWAS value decrease (reduced antigenicity)
+# Haynes et al. (2020) https://www.medrxiv.org/content/10.1101/2020.11.23.20235002v1
+N203D
