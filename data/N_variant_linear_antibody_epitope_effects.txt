@@ -1,0 +1,10 @@
+# At the epitope level, the D3L mutation reduces PIWAS signal in 1.5% of COVID patients (outliers reduce from 2.1% in wild type to 0.5% in mutant).
+# In 3 of these patients (0.5% of the population), that alteration represents the strongest antigen signal and substantially reduces the PIWAS antigen score.
+# In the B1.1.7 lineage this is largely counteracted by the S235F mutation, which increases epitope and antigen scores significantly in two individuals, for a net neutral effect at the population level.
+# Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
+D3L
+
+# Substantially increases epitope and antigen scores in 2 of 579 individuals (should increase immune response).
+# In the B1.1.7 lineage this is largely counteracted by the D3L mutation, which decreases PIWAS signal significantly in 1.5% of COVID patients, for a net neutral effect at the population level.
+# Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
+
