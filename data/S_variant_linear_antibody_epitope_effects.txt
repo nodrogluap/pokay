@@ -1,7 +1,67 @@
+# Alters cleavage to occur between residues C15 and V16, thereby eliminating the C15-C136 disulfide bond – similarly to escape mutants at positions C15 and C136.
+# This in turn decreases to varying degrees N terminal domain antigen recognition by supersite i mAbs S2L28, S2M28, S2X28, S2X333, 4A8.
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+S12P
+
+# A variant in low % circulation, predicted to have a similar effect to the experimentally verified S12P, which introduces a new signal peptide, altering
+# cleavage to occur between residues C15 and V16, thereby eliminating the C15-C136 disulfide bond – similarly to escape mutants at positions C15 and C136.
+# This in turn decreases to varying degrees N terminal domain antigen recognition by supersite i mAbs S2L28, S2M28, S2X28, S2X333, 4A8.
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+S12F
+
+# Massive reduction in S2L28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i", but no effect on other mAbs within that supersite
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+L18F
+
+# Massively decreases N terminal domain antigen recognition by supersite i mAbs S2L28, S2M28, S2X28, S2X333, 4A8.
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+C136Y
+
+# Massively decreases N terminal domain antigen recognition by supersite i mAbs S2M28, S2X28, S2X333, 4A8 (but not S2L28).
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+K147T
+
 # Wildtype elicits immune response, COVID-19 cohort epitope score > 99th percentile of the 497 pre-pandemic controls, mutant drops PIWAS epitope score from 1% to 0.17% (poorer immune recognition)
 # Together with other B1.1.7 lineage mutational changes (Spike: N501Y, A570D, P681H, Nucleoprotein: D3L, S235F) resulted in only 2 of 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen. 
 # Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
+# Massive reduction in S2M28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i" 
+# Massive reduction in S2X28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i" 
+# Massive reduction in S2X333 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i" 
+# Massive reduction in 4A8 monoclonal antibody EC50 (i.e. ablated recognition) 
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
 Y144del
+
+# Massive reduction in 4A8 monoclonal antibody EC50 (i.e. ablated recognition), but much milder effect on mAbs within antigenic supersite "i"
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+H146Y
+
+# Major reduction in S2X28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i", but little effect on other mAbs within that supersite
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+N149Q
+
+# Not associated with significant reduction of EC50 (recognition) in any antigenic supersite "i" monoclonal antibodies.
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+A222V
+
+# Massive reduction in S2L28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i"
+# Major reduction in S2M28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i"
+# Massive reduction in S2X28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i"
+# Minor reduction in S2X333 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i"
+# Massive reduction in 4A8 monoclonal antibody EC50 (i.e. ablated recognition)  
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+R246A
+
+# Massive reduction in S2L28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i", but no effect on other mAbs within that supersite
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+D253G
+
+# Massive reduction in S2L28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i", but no effect on other mAbs within that supersite
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+D253Y
+
+# Not associated with significant reduction of EC50 (recognition) in any antigenic supersite "i" monoclonal antibodies.
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+S254F
 
 # Wildtype elicits immune response, COVID-19 cohort epitope score > 99th percentile of the 497 pre-pandemic controls, mutant drops PIWAS epitope score from 3% to 1.2% (poorer immune recognition)
 # Together with other B1.1.7 lineage mutational changes (Spike: Y144del, A570D, P681H, Nucleoprotein: D3L, S235F) resulted in only 2 or 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen.
