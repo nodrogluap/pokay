@@ -1,4 +1,177 @@
+# Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2L28, S2M28, S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+P9S
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+P9Q
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28, S2X333
+# Putative mechanism of action is the introduction of a new signal peptide, altering
+# cleavage to occur between residues C15 and V16, thereby eliminating the C15-C136
+# disulfide bond – similarly to escape mutants at positions C15 and C136
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+S12P
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
+# Eliminates the C15-C136 disulfide bond.
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+C15F
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
+# Eliminates the C15-C136 disulfide bond.
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+C15R
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
+# Eliminates the C15-C136 disulfide bond.
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+C15W
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
+# Eliminates the C15-C136 disulfide bond.
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+C15S
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
+# Eliminates the C15-C136 disulfide bond.
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+C15Y
+
+# Escape mutation against all tested Spike N terminal domain antigenic supersite i mAbs S2L28, S2M28, S2X28, S2X333
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+L18P
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+T22P
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+Y28C
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+K77E
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+D80N
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+A123T
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+C136G
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+C136S
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+C136Y
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+P139S
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+P139Q
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2L28, S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+F140S
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+F140C
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28 
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+L141S
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28, S2X333
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+G142D
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+G142C
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+Y144N
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+Y144C
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+K147Q
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X333
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+K147T
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2X28, S2X333
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+K147E
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+R158G
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+L244S
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 
+R246G
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+S247R
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+P251L
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+G252D
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+G252C
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+D253E
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+D253G
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 
+S255F
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+G257S
+
+# Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 
+W258R
+
 # Most and modestly potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
+# Eliminates the C15-C136 disulfide bond.
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
 C361H
 
