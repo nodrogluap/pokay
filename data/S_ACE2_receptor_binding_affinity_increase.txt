@@ -19,7 +19,31 @@ Y453F
 #World Health Organization (2020) https://www.who.int/csr/don/21-december-2020-sars-cov2-variant-united-kingdom/en/ 
 #Experimentally, ACE2 binding affinity increased 0.24 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Among the first selected and fixed variants in an in vitro evolution experiment for ACE2 binding.
+#Calculated disassociation constant for this variant is nearly four fold lower than wild type (455 pM vs 1600pM)
+#Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
 N501Y
+
+# Minor variant in initial round of in vitro evolution experiment for ACE2 binding.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+V483E
+
+# Minor variant in initial round of in vitro evolution experiment for ACE2 binding.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+N481Y
+
+# Minor variant in initial round of in vitro evolution experiment for ACE2 binding, increasing in later rounds.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+I468T
+
+# Minor variant in initial round of in vitro evolution experiment for ACE2 binding.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+V483E
+
+# Minor variant selected in late rounds of an in vitro evolution experiment for ACE2 binding.
+# Shown to increase the thermostability but decrease the association rate constant of the RBD to ACE2
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+S494P
 
 #Experimentally, ACE2 binding affinity increased 0.19 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
@@ -37,6 +61,28 @@ Q414A
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 Q498Y
 
+# This is a two point mutation change giving additional fitness later in an in vitro ACE2 affinity evolution experiment.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+V445K
+
+# This is a two point mutation change giving additional fitness later in an in vitro ACE2 affinity evolution experiment.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+T470M
+
+# Minor variant enriched in an in vitro ACE2 affinity evolution experiment.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+N354E
+
+# Minor variant enriched in an in vitro ACE2 affinity evolution experiment.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+K417F
+
+# Minor variant enriched in an in vitro ACE2 affinity evolution experiment.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+V367W
+
+# This is a two point mutation change giving this position the highest possible fitness, has higher affinity than circulating E484K variant.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
 #Experimentally, ACE2 binding affinity increased 0.15 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 E484R
@@ -85,6 +131,9 @@ P527M
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 K528F
 
+#Among the first selected variants in an in vitro evolution experiment for ACE2 binding, described as "stabilizing" since it nicely fits
+#inside the hydrophobic pocket formed in the RBD domain.
+#Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
 #Experimentally, ACE2 binding affinity increased 0.1 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 I358F
@@ -113,9 +162,15 @@ L452K
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 K458D
 
+# Selected with increasing proportion during in vitro evolution of Spike against ACE2 receptor
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
 #Experimentally, ACE2 binding affinity increased 0.09 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 N460K
+
+# Selected with increasing proportion during in vitro evolution of Spike against ACE2 receptor
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+Q498R
 
 #Experimentally, ACE2 binding affinity increased 0.09 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
@@ -274,7 +329,34 @@ N460R
 # Increased affinity for ACE2: clade in Australia 2020-05-27 onward, clade in Europe 2020-08-08 onward
 # Modelling shows flexible region in Spike RBD with residue S477 having the greatest rotational flexibility.
 # https://assets.researchsquare.com/files/rs-106969/v2_stamped.pdf
+#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+# Among the first selected minor variants in an in vitro evolution experiment for ACE2 binding, with increasing proportion in subsequent rounds.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
 S477N
+
+# Among the first selected minor variants in an in vitro evolution experiment for ACE2 binding.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+N448S
+
+# Selected as minor variant in later rounds of an in vitro evolution experiment for ACE2 binding.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+G446R
+
+# Selected as minor variant in later rounds of an in vitro evolution experiment for ACE2 binding.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+I468V
+
+# Selected as minor variant in later rounds of an in vitro evolution experiment for ACE2 binding.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+T478S
+
+# Selected as minor variant in later rounds of an in vitro evolution experiment for ACE2 binding.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+G446R
+
+# Among the first selected minor variants in an in vitro evolution experiment for ACE2 binding.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+F490S
 
 #Experimentally, ACE2 binding affinity increased 0.06 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
@@ -284,12 +366,16 @@ S477P
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 V483L
 
+#Among the first selected variants in an in vitro evolution experiment for ACE2 binding.
+#Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
 #Experimentally, ACE2 binding affinity increased 0.06 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 E484K
 
-#Experimentally, ACE2 binding affinity increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+# Selected as minor variant in later rounds of an in vitro evolution experiment for ACE2 binding.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+# Experimentally, ACE2 binding affinity increased 0.06 fold
+# Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 F490Y
 
 #Experimentally, ACE2 binding affinity increased 0.06 fold
