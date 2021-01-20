@@ -1,3 +1,63 @@
+# Markedly resistant to neutralizing antibodies, unlike most ablated N-glycosylation sites.
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+N234Q
+
+# Resistent to some neutralizing antibodies: mAbs X593 and P2B-2F6
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+L452R
+
+# Resistent to some neutralizing antibodies: mAbs X593 and P2B-2F6
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+V483A
+
+# Resistent to some neutralizing antibodies: mAbs X593, 261-262, H4, and P2B-2F6
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+F490L
+
+# Resistent to some neutralizing antibodies: mAbs 157, 247, CB6, P2C-1F11, B38, and CA1
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+A475V
+
+# Resistent to neutralizing mAb H00S022
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+N439K
+
+# Resistent to neutralizing mAb H014
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+Y508H
+
+# Resistent to neutralizing mAb B38
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+A831V
+
+# Resistent to neutralizing mAb X593 (on D614G background)
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+I472V
+
+# Resistent to neutralizing mAb H014 (on D614G background)
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+A435S
+
+# Increased sensitivity to neutralizing antibodies.
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+N165Q
+
+# Ablation of N-glycosylation site in RBD drastically reduces infectivity.
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+N331X
+
+# Ablation of N-glycosylation site in RBD drastically reduces infectivity (proline disallowed in N-X-S/T glycosylation pattern).
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+I332P
+
+# Ablation of N-glycosylation site in RBD drastically reduces infectivity.
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+N343X
+
+# Ablation of N-glycosylation site in RBD drastically reduces infectivity (proline disallowed in N-X-S/T glycosylation pattern).
+# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+I344P
+
 # Alters cleavage to occur between residues C15 and V16, thereby eliminating the C15-C136 disulfide bond – similarly to escape mutants at positions C15 and C136.
 # This in turn decreases to varying degrees N terminal domain antigen recognition by supersite i mAbs S2L28, S2M28, S2X28, S2X333, 4A8.
 # McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
