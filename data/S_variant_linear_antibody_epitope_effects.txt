@@ -1,3 +1,23 @@
+# Ablates ELISA test binding for class 1 (Spike 'up' conformation only, RBD targeting) monoclonal antibody CA1 on 501Y.V2 ("South African") lineage background 
+# Ablates ELISA test binding for class 1 (Spike 'up' conformation only, RBD targeting) monoclonal antibody LyCoV016 (also known as CB6 or JS016) on 501Y.V2 ("South African") lineage background
+# Ablates ELISA test binding for class 1 (Spike 'up' conformation only, RBD targeting) monoclonal antibody CC12.1 on 501Y.V2 ("South African") lineage background
+# Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody BD23 on 501Y.V2 ("South African") lineage background 
+# Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody C119 (also known as CB6 or JS016) on 501Y.V2 ("South African") lineage background
+# Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody P2B-2F6 on 501Y.V2 ("South African") lineage background
+# Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
+K417N,E484K,N501Y
+
+# Ablates binding of Spike N terminal domain targeting monoconal anibody 4A8, by disruption of N5-loop/supersite loop, may work synergistically with 
+# 501Y.V2 ("South African") lineage background variant R246I to disrupt paratope binding.
+# Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
+L242del,A243del,L244del
+
+# Ablates binding of Spike N terminal domain targeting monoconal anibody 4A8, this residue is known to be key for CDR-H1 mediated
+# interactions. May work synergistically with 501Y.V2 ("South African") lineage background deletion 242del,243del,244del to disrupt paratope binding
+# via steric clash with residue R102.
+# Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
+R246I
+
 # Markedly resistant to neutralizing antibodies, unlike most ablated N-glycosylation sites.
 # Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
 N234Q

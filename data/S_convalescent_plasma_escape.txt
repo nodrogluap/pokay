@@ -1,3 +1,13 @@
+# Nearly half (21 of 44, 48%) of early pandemic exposure convalescent plasma/sera failed to neutralize the 501Y.V2 ("South African") lineage pseudovirus construct
+# Only 3 of 44 convascent sera (those with the highest titer, which correlated direectly with initial infection severity) had high neutralization against this 501Y.V2 
+# PG: note that lineage variant R246I was excluded from the text in reference to these sera assays, not sure if that was an oversight.
+# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166
+L18F,D80A,D215G,L242del,A243del,L244del,K417N,E484K,N501Y
+
+# 27% of 44 early pandemic exposure convalescent plasma/sera lose all activity against a RBD triple mutant pseudovirus (RBD mutatants of the 501Y.V2 "South African" lineage), while only 23% retained high titres 
+# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166
+K417N,E484K,N501Y
+
 # Strong positive selection (up to 72% of supernatant sequences) under six rounds of COV47 convalescent plasma passage
 # Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
 N148S
