@@ -2,6 +2,10 @@
 # Only 3 of 44 convascent sera (those with the highest titer, which correlated direectly with initial infection severity) had high neutralization against this 501Y.V2 
 # PG: note that lineage variant R246I was excluded from the text in reference to these sera assays, not sure if that was an oversight.
 # Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166
+# The 501Y.V2 to first wave IC50 ratio ranged from 6 to 200-fold. Averaging across all 7 participant convalescent sera highlighted the dramatic
+# decrease in sensitivity to neutralization of authentic 501Y.V2 variants.
+# PG: I'm purposefully ignoring D614G and A701V as contributors
+# Cele et al. (2021) https://www.krisp.org.za/manuscripts/MEDRXIV-2021-250224v1-Sigal.pdf
 L18F,D80A,D215G,L242del,A243del,L244del,K417N,E484K,N501Y
 
 # 27% of 44 early pandemic exposure convalescent plasma/sera lose all activity against a RBD triple mutant pseudovirus (RBD mutatants of the 501Y.V2 "South African" lineage), while only 23% retained high titres 
