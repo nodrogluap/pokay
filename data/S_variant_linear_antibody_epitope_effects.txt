@@ -7,6 +7,12 @@
 # Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
 K417N,E484K,N501Y
 
+# Ablates binding by class 2 mAbs such as C144 that do not directly interfere with ACE2 binding, 
+# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# show pronounced increase in binding to the variant. 
+# Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
+E484K
+
 # Ablates binding of Spike N terminal domain targeting monoconal anibody 4A8, by disruption of N5-loop/supersite loop, may work synergistically with 
 # 501Y.V2 ("South African") lineage background variant R246I to disrupt paratope binding.
 # Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
@@ -28,6 +34,10 @@ L452R
 
 # Resistent to some neutralizing antibodies: mAbs X593 and P2B-2F6
 # Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding,
+# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response)
+# show pronounced increase in binding to the variant.
+# Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 V483A
 
 # Resistent to some neutralizing antibodies: mAbs X593, 261-262, H4, and P2B-2F6
@@ -43,8 +53,43 @@ A475V
 # 6.8% of 442 tested post-infection sera showed a greater than two-fold
 # reduction in binding to N439K RBD as compared to WT. In some individuals, the >two-fold reduction diminished the RBD ED50 response below 30
 # a threshold previously determined to be a cutoff for specific binding
-# Thomson et al. (2021)
+# Thomson et al. (2021) https://www.cell.com/cell/fulltext/S0092-8674(21)00080-5
+# Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
+# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# show pronounced increase in binding to the variant. 
+# Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 N439K
+
+# Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
+# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# show pronounced increase in binding to the variant. 
+# Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
+N440K
+
+# Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
+# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# show pronounced increase in binding to the variant. 
+# Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
+S477N
+
+# Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
+# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# show pronounced increase in binding to the variant. 
+# Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
+V367F
+
+# Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
+# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# show pronounced increase in binding to the variant. 
+# Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
+A475V
+
+# Ablates binding by class 2 mAbs such as C144 that directly interfere with ACE2 binding, 
+# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# show pronounced increase in binding to the variant. 
+# Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
+Q493R
+
 
 # Resistent to neutralizing mAb H014
 # Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
