@@ -40,6 +40,10 @@ A475V
 
 # Resistent to neutralizing mAb H00S022
 # Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# 6.8% of 442 tested post-infection sera showed a greater than two-fold
+# reduction in binding to N439K RBD as compared to WT. In some individuals, the >two-fold reduction diminished the RBD ED50 response below 30
+# a threshold previously determined to be a cutoff for specific binding
+# Thomson et al. (2021)
 N439K
 
 # Resistent to neutralizing mAb H014

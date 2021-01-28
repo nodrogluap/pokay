@@ -7,3 +7,7 @@
 # PG: fusion peptide, so the varioant's suboptimal codon usage *could* possibly facilitate translation stall to improve protein confirmation 
 # PG: with downstream beta sheet.
 g.C24034U
+
+# Mutation has arisen independently multiple times, twice forming significant lineages
+# Thomson et al. (2021) https://www.cell.com/cell/fulltext/S0092-8674(21)00080-5
+N439K
