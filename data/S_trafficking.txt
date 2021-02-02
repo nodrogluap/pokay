@@ -1,0 +1,33 @@
+# Circulating variant shown in vitro to not have major defects or
+# enhancement of cell surface protein trafficking (i.e. Spike cleavage or fusion required for cell entry)
+# Barrett et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.24.428007v1
+A831V
+
+# Circulating variant shown in vitro to not have major defects or
+# enhancement of cell surface protein trafficking (i.e. Spike cleavage or fusion required for cell entry)
+# Barrett et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.24.428007v1
+D614G
+
+# Circulating variant near the internal fusion peptide shown in vitro to
+# reduce Spike subunit fusion required for cell entry.
+# Barrett et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.24.428007v1
+D839Y
+
+# Circulating variant near the internal fusion peptide shown in vitro to
+# reduce Spike subunit fusion required for cell entry.
+# Barrett et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.24.428007v1
+D839N
+
+# Circulating variant shown in vitro to not have major defects or
+# enhancement of cell surface protein trafficking (i.e. Spike cleavage or fusion required for cell entry)
+# Barrett et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.24.428007v1
+D839E
+
+# Circulating variant shown in vitro to not have major defects or
+# enhancement of cell surface protein trafficking (i.e. Spike cleavage or fusion required for cell entry)
+# Barrett et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.24.428007v1
+S943P
+
+# Circulating variant in the cytoplasmic tail, shown in vitro to increase Spike subunit fusion required for cell entry
+# Barrett et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.24.428007v1
+P1263L
