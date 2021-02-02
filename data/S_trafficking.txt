@@ -1,5 +1,5 @@
-# Barrett et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.24.428007v1
 # Mutation at the S2 internal fusion peptide site shown in vitro to reduce Spike subunit S2 cleavage into active S2'.
+# Barrett et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.24.428007v1
 R815A
 
 # Mutation combination at the S2 internal fusion peptide site shown in vitro to reduce Spike subunit S2 cleavage into active S2'.
