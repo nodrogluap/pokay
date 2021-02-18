@@ -1,0 +1,3 @@
+# This mutated version of RBD  completely abolishes the binding to a therapeutic antibody, Bamlanivimab, in vitro.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.16.431305v1
+K417N,E484K,N501Y
