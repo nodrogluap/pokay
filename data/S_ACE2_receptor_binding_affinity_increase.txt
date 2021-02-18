@@ -2,7 +2,17 @@
 # observed about 2-fold increase in ACE2 binding vs wildtype, but greatly decreased mAb binding, suggesting evolutionary optimum tension between 
 # immune evasion and ACE2 binding affinity as the N501Y variant alone has 10x increase in affinity but no effect on tested mAb binding.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.16.431305v1
+# Reported slight increase in affinity compared to wild-type RBD on the cell surface (Kd = 45.2nM vs 56.9nM).
+# Tian et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.14.431117v2
 K417N,E484K,N501Y
+
+# Reported 3-fold decrease in affinity compared to wild-type RBD on the cell surface (Kd = 145.1nM vs 56.9nM).
+# Tian et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.14.431117v2
+K417N
+
+# Reported moderate increase in affinity compared to wild-type RBD on the cell surface (Kd = 38.5nM vs 56.9nM).
+# Tian et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.14.431117v2
+E484K
 
 # In four cell lines (including 293T-hACE2 cells), this mutation combination increases infectivity vs D614G alone
 # Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
@@ -26,10 +36,12 @@ Y453F
 #Experimentally, ACE2 binding affinity increased 0.24 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 #Among the first selected and fixed variants in an in vitro evolution experiment for ACE2 binding.
-#Calculated disassociation constant for this variant is nearly four fold lower than wild type (455 pM vs 1600pM)
+#Calculated disassociation constant for this variant is nearly four fold lower than wild type (Kd = 455 pM vs 1600pM)
 #Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
-# Reported 10-fold increase in ACE2 binding vs wildtype (0.566nM vs 5.768 nM)
+# Reported 10-fold increase in ACE2 binding vs wildtype (Kd = 0.566nM vs 5.768 nM)
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.02.428884v1
+# Reported 4-fold increase in affinity compared to wild-type RBD on the cell surface (Kd = 13.1nM vs 56.9nM).
+# Tian et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.14.431117v2
 N501Y
 
 # ~2-fold loss of binding affinity for the K417V variant relative to WT
