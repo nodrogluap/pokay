@@ -1,0 +1,3 @@
+# One individual of 30 in the study, with HLA supertype HLA*A24:02, had a linear epitope that overlaps this variant of concern.
+# Redd et al. (2021) https://www.medrxiv.org/content/10.1101/2021.02.11.21251585v1
+D80A
