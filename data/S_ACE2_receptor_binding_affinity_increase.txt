@@ -58,7 +58,7 @@ K417V,N439K
 # Enhances RBD:hACE2 affinity approximately 2-fold.
 # Observed that the N439K mutation results in viral fitness (culture-based) that is
 # similar or possibly slightly improved relative to the wild-type N439 virus
-Thomson et al. (2021) https://www.cell.com/cell/fulltext/S0092-8674(21)00080-5
+# Thomson et al. (2021) https://www.cell.com/cell/fulltext/S0092-8674(21)00080-5
 N439K
 
 # Enhances RBD:hACE2 affinity approximately 2-fold.
