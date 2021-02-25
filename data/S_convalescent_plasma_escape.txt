@@ -1,3 +1,123 @@
+# Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
+# concentration (1:80 initial dilution) of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+E484K
+
+# Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
+# concentration (1:80 initial dilution) of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+E484A
+
+# Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
+# concentration (1:80 initial dilution) of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+E484D
+
+# Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
+# concentration (1:80 initial dilution) of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+E484G
+
+# Strong reduction in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+T345A
+
+# Strong reduction in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+T345N
+
+# Strong reduction in neutralization capability of all 4 convalescent sera tested (strongest of T345 alts).
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+T345S
+
+# Improvement in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+R346G
+
+# Improvement in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+A352D
+
+# Strong reduction in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+L441R
+
+# Ablation of neutralization capability of 3/4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+K444E
+
+# Improvement in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+K444N
+
+# Decrease in neutralization capability of all 4 convalescent sera tested (1 ablated).
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+G446D
+
+# Ablation of neutralization capability of 3 convalescent sera tested, 1 improvement.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+G446V
+
+# Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations).
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+N450D
+
+# Mixed bag of positive and negative changes in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+N450K
+
+# Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations).
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+N450Y
+
+# Ablation of neutralization capability of 3 of 4 convalescent sera tested, the other is significantly hindered.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+L452R
+
+# Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations).
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+S477G
+
+# Mixed bag of mild positive and negative changes in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+S477N
+
+# Mixed bag of positive and negative changes in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+S477R
+
+# Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations).
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+T478I
+
+# Mixed bag of positive and negative changes in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+F486Y
+
+# Modest decrease in in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+F486S
+
+# Strong reduction in neutralization capability of all 4 convalescent sera tested (3 ablations).
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+F490S
+
+# Mixed bag of positive and negative changes in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+S494P
+
+# General increase in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+P499L
+
+# General increase in neutralization capability of all 4 convalescent sera tested.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+T345A,L517R
+
+# Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations).
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+S477N,S514F
+
 # Nearly half (21 of 44, 48%) of early pandemic exposure convalescent plasma/sera failed to neutralize the 501Y.V2 ("South African") lineage pseudovirus construct
 # Only 3 of 44 convascent sera (those with the highest titer, which correlated direectly with initial infection severity) had high neutralization against this 501Y.V2 
 # PG: note that lineage variant R246I was excluded from the text in reference to these sera assays, not sure if that was an oversight.
