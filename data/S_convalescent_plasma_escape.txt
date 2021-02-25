@@ -1,15 +1,18 @@
 # Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
-# concentration (1:80 initial dilution) of all 4 convalescent sera tested.
+# concentration (1:80 initial dilution) of all 4 convalescent sera tested (triplicate experiments).
+# Against a wider panel of 16 convalescent plasma (no replicates), all but one show major resistance.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 E484K
 
 # Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
 # concentration (1:80 initial dilution) of all 4 convalescent sera tested.
+# Against a wider panel of 16 convalescent plasma (no replicates), all but one show major resistance.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 E484A
 
 # Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
 # concentration (1:80 initial dilution) of all 4 convalescent sera tested.
+# Against a wider panel of 16 convalescent plasma (no replicates), all but one show major resistance.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 E484D
 
@@ -66,7 +69,9 @@ N450D
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 N450K
 
-# Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations).
+# Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations), triple replicates.
+# Against a broader panel of 16 convalescent plasma (no replicates), reductions in neutralization are considerably less dramatic 
+# in pattern, and sometime neutralization increases. 
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 N450Y
 
@@ -79,6 +84,7 @@ L452R
 S477G
 
 # Mixed bag of mild positive and negative changes in neutralization capability of all 4 convalescent sera tested.
+# Against a wider panel of 16 convalescent plasma (no replicates), 10 show low neutralization.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 S477N
 
