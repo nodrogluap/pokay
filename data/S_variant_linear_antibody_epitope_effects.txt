@@ -1,3 +1,77 @@
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb 2H04 and SARS2-01.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+T345A
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb 2H04.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+T345N
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb 2H04, and 
+# slight resistence to a broad range of other antibodies.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+T345S
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb SARS2-01, 
+# mild resistemnce to 2H04.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+R346G
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb SARS2-01.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+A352D
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb 2H04.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+L441R
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+K444E
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+K444N
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+G446D
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+G446V
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+N450K
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+N450Y
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+N450D
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+L452R
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows some resistence across all antibodies tested.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+S477N
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows some resistence across all antibodies tested.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+S477G
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+S477R
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+T478I
+
 # Ablates ELISA test binding for class 1 (Spike 'up' conformation only, RBD targeting) monoclonal antibody CA1 on 501Y.V2 ("South African") lineage background 
 # Ablates ELISA test binding for class 1 (Spike 'up' conformation only, RBD targeting) monoclonal antibody LyCoV016 (also known as CB6 or JS016) on 501Y.V2 ("South African") lineage background
 # Ablates ELISA test binding for class 1 (Spike 'up' conformation only, RBD targeting) monoclonal antibody CC12.1 on 501Y.V2 ("South African") lineage background
@@ -11,7 +85,48 @@ K417N,E484K,N501Y
 # BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
 # Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 4 antibodies, 
+# and broad low level resistence against much of the rest of the panel.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 E484K
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 4 antibodies, 
+# and broad low level resistence against much of the rest of the panel.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+E484A
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAB 1B07.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+E484D
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 5 antibodies.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+F486S
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAB 1B07.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+F486Y
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAB SARS2-32.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+F490S
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAB SARS2-01.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+S494P
+
+# Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 3 antibodies.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+P499L
+
+# While S477N itself is highly resistent to a broad range of monoclonal antibodies, combined with S514F high neutralization
+# is restricted to only three antibodies in a broad screen.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+S477N,S514F
+
+# The combination has only a mild effect of making neutralizing mAbs less effective vs. T345A alone.
+# Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+T345A,L517R
 
 # Ablates binding of Spike N terminal domain targeting monoconal anibody 4A8, by disruption of N5-loop/supersite loop, may work synergistically with 
 # 501Y.V2 ("South African") lineage background variant R246I to disrupt paratope binding.
@@ -89,7 +204,6 @@ A475V
 # show pronounced increase in binding to the variant. 
 # Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 Q493R
-
 
 # Resistent to neutralizing mAb H014
 # Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
