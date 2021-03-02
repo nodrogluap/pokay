@@ -179,7 +179,7 @@ K444Q
 V445E
 
 # Fatal COVID-19 complications in immunocomprimised patient after immune escape from convalescent plasma
-# https://www.medrxiv.org/content/10.1101/2020.12.05.20241927v1
+# Kemp et al. (2020) https://www.medrxiv.org/content/10.1101/2020.12.05.20241927v1
 D796H, H69del, V70del
 
 # 36% of virions contained this variant (in the S-protein NTD N3 loop) after 7 passages (45 days) in convalescent plasma PT188
@@ -189,7 +189,7 @@ D796H, H69del, V70del
 F140del
 
 # This mutation occurred in 100% of sequenced virions after 12 passages and led to a 4-fold decrease in convalescent plasma neutralization activity
-# Andreano et al. (2020)https://www.biorxiv.org/content/10.1101/2020.12.28.424451
+# Andreano et al. (2020) https://www.biorxiv.org/content/10.1101/2020.12.28.424451
 E484K
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
