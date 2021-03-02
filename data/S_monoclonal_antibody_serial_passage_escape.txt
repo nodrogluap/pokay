@@ -523,6 +523,7 @@ S383E
 P384K
 
 # Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
+# Long et al. (2020) https://doi.org/10.1128/mBio.02707-20
 F338L
 
 # Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
