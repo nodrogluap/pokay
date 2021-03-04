@@ -1,0 +1,14 @@
+# In a cohort of 20 patients 8+ weeks after second vaccine dose of Moderna (mRNA-1273) or Pfizer-BioNTech (BNT162b2) vaccines, 
+# ELISA tests show 10x reduced efficacy of a majority of isolated antibodies, but only a modest decrease for vaccine plasma overall.
+# Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
+E484K
+
+# In a cohort of 20 patients 8+ weeks after second vaccine dose of Moderna (mRNA-1273) or Pfizer-BioNTech (BNT162b2) vaccines, 
+# a modest decrease in neutralization by vaccine plasma was observed.
+# Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
+N501Y
+
+# In a cohort of 20 patients 8+ weeks after second vaccine dose of Moderna (mRNA-1273) or Pfizer-BioNTech (BNT162b2) vaccines, 
+# a significant (0.5 to 20-fold) decrease in neutralization by vaccine plasma was observed.
+# Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
+K417N;E484K;N501Y
