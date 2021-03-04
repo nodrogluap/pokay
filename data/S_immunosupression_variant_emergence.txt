@@ -1,8 +1,20 @@
-# Appeared (day 128) and persisted in chronic (152 day) SARS-CoV-2 infection of immunoicompromised patient with severe antiphospholipid syndrome
+# The so-called "delta F" variant combination previously observed in mink spillover events also emerged in a lymphoma 
+# patient (non-Hodgkin diffuse B-cell lymphoma IV stage B) with a long-term COVID-19 infection (4 months) where 18 de novo mutation occureed overall.
+# Patient was taking rituximab, the B-cell-depleting agent, and had no detectable neutralizing antibody response.
+# Bazykin et al. (2021) https://virological.org/t/emergence-of-y453f-and-69-70hv-mutations-in-a-lymphoma-patient-with-long-term-covid-19/580
+Y453F;H69del;V70del
+
+# Emergent as 100% variant from larger minor (1% allele frequency) deletion by day 70 post-infection of female immunocompromised 
+# individual with chronic lymphocytic leukemia and acquired hypogammaglobulinemia. Variant disappeared after convalescent plasma treatment (day 71)
+# in subsequent sample sequencing.
+# Avanzato et al. (2020) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7640888/
+L141del,G142del,V143del,Y144del
+
+# Appeared (day 128) and persisted in chronic (152 day) SARS-CoV-2 infection of immunocompromised patient with severe antiphospholipid syndrome
 # Choi et al. (2020) https://www.nejm.org/doi/full/10.1056/NEJMc2031364
 Q183H
 
-# Appeared (day 128) and persisted in chronic (152 day) SARS-CoV-2 infection of immunoicompromised patient with severe antiphospholipid syndrome
+# Appeared (day 128) and persisted in chronic (152 day) SARS-CoV-2 infection of immunocompromised patient with severe antiphospholipid syndrome
 # Choi et al. (2020) https://www.nejm.org/doi/full/10.1056/NEJMc2031364
 N501Y
 
