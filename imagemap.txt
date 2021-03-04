@@ -1,0 +1,37 @@
+   <area target="_self" alt="NSP1 - Host mRNA translation inhibiting [40S subunit binding] protein" title="NSP1 - Host mRNA translation inhibiting [40S subunit binding] protein" href="NSP1.html" coords="387,225,366,267" shape="rect">
+    <area target="_self" alt="NSP1 - Host mRNA translation inhibiting [40S subunit binding] protein" title="NSP1 - Host mRNA translation inhibiting [40S subunit binding] protein" href="NSP1.html" coords="557,344,288,317" shape="rect">
+    <area target="_self" alt="Spike" title="Spike" href="S.html" coords="920,106,1010,130" shape="rect">
+    <area target="_self" alt="Spike" title="Spike" href="S.html" coords="920,267,1190,243" shape="rect">
+    <area target="_self" alt="NSP2 - Prohibitin-interacting non-structural protein" title="NSP2 - Prohibitin-interacting non-structural protein" href="NSP2.html" coords="415,267,387,223" shape="rect">
+    <area target="_self" alt="NSP2 - Prohibitin-interacting non-structural protein" title="NSP2 - Prohibitin-interacting non-structural protein" href="NSP2.html" coords="212,393,481,414" shape="rect">
+    <area target="_self" alt="Papain-like protease / ER lumenal double-membrane vesicle forming complex member (a.k.a. NSP3)" title="Papain-like protease / ER lumenal double-membrane vesicle forming complex member (a.k.a. NSP3)" href="PLpro.html" coords="525,226,418,267" shape="rect">
+    <area target="_self" alt="Papain-like protease / ER lumenal double-membrane vesicle forming complex member (a.k.a. NSP3)" title="Papain-like protease / ER lumenal double-membrane vesicle forming complex member (a.k.a. NSP3)" href="PLpro.html" coords="137,466,403,487" shape="rect">
+    <area target="_self" alt="NSP4 - ER lumenal double-membrane vesicle forming complex member" title="NSP4 - ER lumenal double-membrane vesicle forming complex member" href="NSP4.html" coords="526,267,549,226" shape="rect">
+    <area target="_self" alt="3CL - 3C-like protease (a.k.a. NSP5)" title="3CL - 3C-like protease (a.k.a. NSP5)" href="3CL.html" coords="60,539,327,561" shape="rect">
+    <area target="_self" alt="3CL - 3C-like protease (a.k.a. NSP5)" title="3CL - 3C-like protease (a.k.a. NSP5)" href="3CL.html" coords="572,227,551,270" shape="rect">
+    <area target="_self" alt="ER lumenal double-membrane vesicle forming complex member / IFN-I signalling suppressor" title="ER lumenal double-membrane vesicle forming complex member / IFN-I signalling suppressor" href="NSP6.html" coords="575,268,600,225" shape="rect">
+    <area target="_self" alt="NSP7 - Hexadecameric supercomplex member of the core replicase complex" title="NSP7 - Hexadecameric supercomplex member of the core replicase complex" href="NSP7.html" coords="606,225,602,268" shape="rect">
+    <area target="_self" alt="NSP8 - Adenylyltransferase / hexadecameric supercomplex member of the core replicase complex" title="NSP8 - Adenylyltransferase / hexadecameric supercomplex member of the core replicase complex" href="NSP8.html" coords="608,267,619,226" shape="rect">
+    <area target="_self" alt="NSP9 - ssRNA-binding and orienting member of the replicase complex" title="NSP9 - ssRNA-binding and orienting member of the replicase complex" href="NSP9.html" coords="624,225,620,270" shape="rect">
+    <area target="_self" alt="NSP10 - 2'-O-ribose type 1 cap methyltransferase cofactor" title="NSP10 - 2'-O-ribose type 1 cap methyltransferase cofactor" href="NSP10.html" coords="632,226,625,268" shape="rect">
+    <area target="_self" alt="NSP11 - Intrinsically disordered protein" title="NSP11 - Intrinsically disordered protein" href="NSP11.html" coords="634,245,660,223" shape="rect">
+    <area target="_self" alt="RdRp - RNA-dependent RNA polymerase member protein of the core replicase complex (a.k.a. NSP12)" title="RdRp - RNA-dependent RNA polymerase member protein of the core replicase complex (a.k.a. NSP12)" href="RdRp.html" coords="685,247,635,270" shape="rect">
+    <area target="_self" alt="Hel - Helicase / packaging signal" title="Hel - Helicase / packaging signal" href="Hel.html" coords="711,267,686,248" shape="rect">
+    <area target="_self" alt="RdRp - RNA-dependent RNA polymerase member protein of the core replicase complex (a.k.a. NSP12)" title="RdRp - RNA-dependent RNA polymerase member protein of the core replicase complex (a.k.a. NSP12)" href="RdRp.html" coords="878,377,609,354" shape="rect">
+    <area target="_self" alt="Hel - Helicase / packaging signal" title="Hel - Helicase / packaging signal" href="Hel.html" coords="532,450,801,426" shape="rect">
+    <area target="_self" alt="Contact Us" title="Contact Us" href="https://www.genomecanada.ca/en/cancogen/contact-us" coords="1113,88,698,66" shape="rect">
+    <area target="_self" alt="ExoN - Exonuclease / guanine N7 methyltransferase / packaging signal (a.k.a. NSP14)" title="ExoN - Exonuclease / guanine N7 methyltransferase / packaging signal (a.k.a. NSP14)" href="ExoN.html" coords="738,249,714,267" shape="rect">
+    <area target="_self" alt="ExoN - Exonuclease / guanine N7 methyltransferase / packaging signal (a.k.a. NSP14)" title="ExoN - Exonuclease / guanine N7 methyltransferase / packaging signal (a.k.a. NSP14)" href="ExoN.html" coords="723,524,455,500" shape="rect">
+    <area target="_self" alt="EndoU - 5' subgenomic antisense transcript uracil endonuclease (a.k.a. NSP15)" title="EndoU - 5' subgenomic antisense transcript uracil endonuclease (a.k.a. NSP15)" href="EndoU.html" coords="759,247,739,268" shape="rect">
+    <area target="_self" alt="NSP16 - 2'-O-ribose type 1 cap methyltransferase" title="NSP16 - 2'-O-ribose type 1 cap methyltransferase" href="NSP16.html" coords="777,248,763,268" shape="rect">
+    <area target="_self" alt="ORF3a - Golgi-associating, caveolin-binding protein" title="ORF3a - Golgi-associating, caveolin-binding protein" href="ORF3a.html" coords="1009,132,1021,152" shape="rect">
+    <area target="_self" alt="E - Envelope protein" title="E - Envelope protein" href="E.html" coords="1030,153,1022,128" shape="rect">
+    <area target="_self" alt="E - Envelope protein" title="E - Envelope protein" href="E.html" coords="1191,341,920,319" shape="rect">
+    <area target="_self" alt="M - Matrix protein" title="M - Matrix protein" href="M.html" coords="1028,108,1040,128" shape="rect">
+    <area target="_self" alt="M - Matrix protein" title="M - Matrix protein" href="M.html" coords="1191,393,920,414" shape="rect">
+    <area target="_self" alt="ORF6 - Nuclear import / interferon response inhibiting protein" title="ORF6 - Nuclear import / interferon response inhibiting protein" href="ORF6.html" coords="1042,132,1050,150" shape="rect">
+    <area target="_self" alt="ORF7a - Cell cycle / program interferring protein" title="ORF7a - Cell cycle / program interferring protein" href="ORF7a.html" coords="1051,106,1061,130" shape="rect">
+    <area target="_self" alt="ORF7b - Non-essential transmembrane protein" title="ORF7b - Non-essential transmembrane protein" href="ORF7b.html" coords="1060,153,1065,131" shape="rect">
+    <area target="_self" alt="ORF8 - Ig-like folding / IFN-I response interferring protein" title="ORF8 - Ig-like folding / IFN-I response interferring protein" href="ORF8.html" coords="1064,109,1069,128" shape="rect">
+    <area target="_self" alt="N - Nucleocapsid protein" title="N - Nucleocapsid protein" href="N.html" coords="1073,108,1095,130" shape="rect">
+    <area target="_self" alt="N - Nucleocapsid protein" title="N - Nucleocapsid protein" href="N.html" coords="920,469,1188,492" shape="rect">
