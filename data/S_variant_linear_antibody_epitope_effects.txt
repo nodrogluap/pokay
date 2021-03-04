@@ -1,4 +1,4 @@
-# Resistent to class 3 antibodies (i.e. Abs that do not directly interfere with ACE2 binding).
+# Resistent to class 2/3 antibody C603.
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 R346S
 
@@ -85,7 +85,7 @@ T478I
 # Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
 K417N,E484K,N501Y
 
-# 5 antibodies tested were less potent against K417N by ten-fold or more
+# 5 antibodies tested were less potent against K417N by ten-fold or more (class 1 mAbs)
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 K417N
 
@@ -96,7 +96,8 @@ K417N
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 4 antibodies, 
 # and broad low level resistence against much of the rest of the panel.
 # Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
-# Resistent to a number of class 2 (Spike 'up' or 'down' conformation, RBD targeting) antibodies, with 10-fold or greater reduction in neutralization.
+# Resistent to all seven class 2 (Spike 'up' or 'down' conformation, RBD targeting) antibodies tested, with 10-fold 
+# or greater reduction in neutralization (plus notable reudction in two unclassfied mAbs).
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 E484K
 
@@ -171,7 +172,7 @@ F490L
 
 # Resistent to some neutralizing antibodies: mAbs 157, 247, CB6, P2C-1F11, B38, and CA1
 # Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
-# Resistent to a number of class 1 (Spike 'up' conformation) antibodies.
+# Resistent to some class 1 (Spike 'up' conformation) antibodies tested.
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 A475V
 
@@ -219,7 +220,8 @@ A475V
 # BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
 # Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
-# Resistent to class 2 (Spike 'up' or 'down' conformation, RBD targeting) antibodies.
+# Somewhat resistent to some class 1 (Spike 'up') antibodies tested.
+# Mix of non- to strongly resistent in class 2 antibodies tested.
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 Q493R
 
@@ -327,7 +329,7 @@ S254F
 # Wildtype elicits immune response, COVID-19 cohort epitope score > 99th percentile of the 497 pre-pandemic controls, mutant drops PIWAS epitope score from 3% to 1.2% (poorer immune recognition)
 # Together with other B1.1.7 lineage mutational changes (Spike: Y144del, A570D, P681H, Nucleoprotein: D3L, S235F) resulted in only 2 or 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen.
 # Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
-# 4 antibodies tested were less potent against K417N by ten-fold or more
+# 4 antibodies tested were less potent against K417N by ten-fold or more, in both mAb classes 1 and 3
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 N501Y
 
