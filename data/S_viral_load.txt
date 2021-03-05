@@ -1,0 +1,5 @@
+# In a study of 1260 ICU subjects, viral load distributions (collected within 48h of admission) were elevated in 
+# both seropositive and seronegative subjects infected with B.1.1.7 ("UK variant"). 
+# PG: The PANGO tool defining Spike variants for B.1.1.17 are listed here, whereas the paper only used a test for D1118H.
+# Ratcliff et al. (2021) https://www.medrxiv.org/content/10.1101/2021.02.24.21251989v1
+H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
