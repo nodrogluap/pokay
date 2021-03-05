@@ -1,3 +1,11 @@
+# Demonstrate (via competitive assays in human and mouse) immune escape from polyclonal antibodies induced
+# by vaccination or infection, comparable to what was previously shown with monoclonal
+# antibodies for N501Y and more importantly for E484K. Even though viral mutations
+# may more strongly affect monoclonal antibodies than sera activity, the latter may also be
+# reduced as confirmed here.
+# Vogel et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.04.433887v1
+K417N;E484K;N501K 
+
 # Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
 # concentration (1:80 initial dilution) of all 4 convalescent sera tested (triplicate experiments).
 # Against a wider panel of 16 convalescent plasma (no replicates), all but one show major resistance.
