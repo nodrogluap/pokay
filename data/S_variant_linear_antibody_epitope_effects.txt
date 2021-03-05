@@ -1,5 +1,8 @@
 # Resistent to class 2/3 antibody C603.
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
+# Clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# show pronounced increase in binding to the variant. 
+# Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 R346S
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb 2H04 and SARS2-01.
@@ -16,8 +19,11 @@ T345N
 T345S
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb SARS2-01, 
-# mild resistemnce to 2H04.
+# mild resistence to 2H04.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
+# Clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# show pronounced increase in binding to the variant. 
+# Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 R346G
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb SARS2-01.
@@ -89,7 +95,7 @@ K417N,E484K,N501Y
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 K417N
 
-# Ablates binding by class 2 mAbs such as C144 that do not directly interfere with ACE2 binding, 
+# Ablates binding by class 2 mAbs such as C144 that directly interfere with ACE2 binding, 
 # BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
 # Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
