@@ -1,4 +1,6 @@
 # Using primarily S-defining mutations for lineage B.1.1.17, most models of hospitalization and fatality risk ratios from
 # consortium members show elevated ratios (~1.3-1.7x).
-# NERVTAG Consoirtium (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/961042/S1095_NERVTAG_update_note_on_B.1.1.7_severity_20210211.pdf
+# NERVTAG Consortium (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/961042/S1095_NERVTAG_update_note_on_B.1.1.7_severity_20210211.pdf
+# Danish study of the B.1.1.17 lineage shows hospital admission odds ratio of 1.63 vs other lineages. The adjusted OR was increased in all strata of age.
+# Bager et al. (2021) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3792894
 H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
