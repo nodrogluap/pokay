@@ -4,6 +4,10 @@
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.16.431305v1
 # Reported slight increase in affinity compared to wild-type RBD on the cell surface (Kd = 45.2nM vs 56.9nM).
 # Tian et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.14.431117v2
+# The affinity of ACE2 for this mutation combination was twice as high as for wild type.
+# Having in mind that the affinity of the of SARS-CoV-2 for ACE2 is only 4-fold higher compared
+# to SARS-CoV-1, this factor of 2 is expected to be biologically significant.
+# Vogel et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.04.433887v1
 K417N,E484K,N501Y
 
 # Reported 3-fold decrease in affinity compared to wild-type RBD on the cell surface (Kd = 145.1nM vs 56.9nM).
