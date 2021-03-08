@@ -1,0 +1,4 @@
+# Hamsters infected with SARS-CoV-2 expressing spike(D614G) (G614 virus) produced higher infectious titres in nasal washes and the trachea, but not in the lungs, 
+# supporting clinical evidence showing that the mutation enhances viral loads in the upper respiratory tract of COVID-19 patients and may increase transmission.
+# Plante et al. (2020) https://www.nature.com/articles/s41586-020-2895-3
+D614G
