@@ -1,3 +1,9 @@
+# Antibody neutralization assays showed 4.0 to 6.7-fold resistence against 21 convalescent plasma.
+# Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
+S13I;W152C;L452R
+
+
+
 # The neutralizing activity of 16/20 convalescent sera was significantly lower against this pseudotyped virus model of B.1.351,
 # with similar results for the live virus.
 # Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
