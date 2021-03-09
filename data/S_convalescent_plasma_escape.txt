@@ -12,6 +12,13 @@ L242del;A243del;L244del
 # Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
 # Neutralization activity of convalescent sera tested decreased <2x with this B.1.1.7 pseudotyped virus.
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
+# Maximum fold-decrease in potency for the serum samples from mild illness was 8.2 but the 
+# majority of samples showed less than a 3-fold change. Similarly, the maximum decrease seen 
+# for samples from hospitalized patients was a 9.1-fold change, but most of the samples showed 
+# minimal change in the potency of their neutralization. Overall, three samples from each cohort 
+# (8%) showed a 5–10-fold reduction, but as they were potently neutralizing sera, the reduced 
+# ID50 values were still >1:100. 
+# Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Neutralization activity of convalescent sera tested decreased ~2x with this B.1.1.7 pseudotyped virus.
