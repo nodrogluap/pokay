@@ -380,7 +380,13 @@ P139Q
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2L28, S2X28
 # McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+# Selected once in passage with mAb COV2-2676.
+# Suryadevara et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.19.427324v1
 F140S
+
+# Selected three times in passage with mAb COV2-2489.
+# Suryadevara et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.19.427324v1
+R158S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
 # McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
@@ -392,6 +398,8 @@ L141S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28, S2X333
 # McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
+# Selected twice in passage with mAb COV2-2489.
+# Suryadevara et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.19.427324v1
 G142D
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
