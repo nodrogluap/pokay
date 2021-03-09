@@ -40,3 +40,11 @@ E484K;N501Y
 # The neutralizing activity of vaccine was somewhat lower against B.1.1.7 in sera tested from most of the 24 patients with the BNT162b2 mRNA vaccine. (Fig. 4)
 # Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
 H69del;V70del;Y144del;Y145del;N501Y;A570D;D614G;P681H
+
+# Pseudotyped B.1.1.7 Spike variants lentivirus.
+# 3.5x reduction in neutralization with Moderna vaccinated patient sera after 29 days (1st dose).
+# 2.0x reduction in neutralization with Moderna vaccinated patient sera after 57 days (2nd dose).
+# 2.1x reduction in neutralization with Novavax Phase 1 post-vaccination sera.
+# Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
