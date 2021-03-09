@@ -1,3 +1,15 @@
+# Identified in 6/20 replicates of recombinant VSV growth in the presence of mAb COV2-2130.
+# Dong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428529v2
+K444R
+
+# Identified in 2/20 replicates of recombinant VSV growth in the presence of mAb COV2-2130.
+# Dong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428529v2
+K444E
+
+# Provides ~80% escape from mAb COV2-2130, even though its appearance in culture is formed without selective mAb pressure.
+# Dong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428529v2
+R346I
+
 # In serial experiment of mAb 2B04 resistent mutation isolate E48K then selected against mAb 2H04,
 # this combination caused escape from both mAbs, even though incubation simultaneously with both
 # mAbs failed to yield this combination.
