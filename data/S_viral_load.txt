@@ -8,3 +8,7 @@ H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # supporting clinical evidence showing that the mutation enhances viral loads in the upper respiratory tract of COVID-19 patients and may increase transmission.
 # Plante et al. (2020) https://www.nature.com/articles/s41586-020-2895-3
 D614G
+
+# We estimated that in swab samples N/NP viral RNA is approximately 2-fold higher in B.1.427/B.1.429 than in non-variant viruses.
+# Drew et al. (2020) https://doi.org/10.1016/j.diagmicrobio.2020.115130
+S13I;W152C;L452R
