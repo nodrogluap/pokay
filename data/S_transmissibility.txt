@@ -3,3 +3,7 @@
 # 74% (66–82%) higher in Switzerland, and 59% (56–63%) higher in the United States, with consistent rates of displacement across regions within each country.
 # Davies et al. (2021) https://science.sciencemag.org/content/early/2021/03/02/science.abg3055
 H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
+
+# Exhibits an estimated 18.6-24% increase in transmissibility relative to wild-type circulating strains. a.k.a. 20C/L452R or B.1.427/B.1.429.
+# Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
+S13I;W152C;L452R
