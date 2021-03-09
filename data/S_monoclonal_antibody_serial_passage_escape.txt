@@ -384,6 +384,26 @@ P139Q
 # Suryadevara et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.19.427324v1
 F140S
 
+# Selected in passage with mAb COV2-2489 during alanine mutagenesis antibody mapping experiment.
+# Suryadevara et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.19.427324v1
+A123S
+
+# Selected in passage with mAb COV2-2489 during alanine mutagenesis antibody mapping experiment.
+# Suryadevara et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.19.427324v1
+G142A
+
+# Selected in passage with mAb COV2-2489 during alanine mutagenesis antibody mapping experiment.
+# Suryadevara et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.19.427324v1
+F157A
+
+# Selected in passage with mAb COV2-2489 during alanine mutagenesis antibody mapping experiment.
+# Suryadevara et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.19.427324v1
+N164A
+
+# Selected in passage with mAb COV2-2676 during alanine mutagenesis antibody mapping experiment.
+# Suryadevara et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.19.427324v1
+Y144A
+
 # Selected three times in passage with mAb COV2-2489.
 # Suryadevara et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.19.427324v1
 R158S
