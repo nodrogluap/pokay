@@ -37,7 +37,7 @@ K444T;V445S;G446T
 
 # Reduction in neutralization by mAbs COVA2-15 (~9x), B38 (~14x), S309 (~190x) by this B.1.1.7 pseudotyped virus model.
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
-# Lessens the potency of mAbs	COVA2-17, COVA1-12 and COVA1-21, which do not compete allosterically.
+# Lessens the potency of mAbs	COVA2-17 (~5x, similar to N501Y alone), COVA1-12 (~11x) and COVA1-21 (>100x), which do not compete allosterically.
 # Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
