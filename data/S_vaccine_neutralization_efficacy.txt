@@ -1,3 +1,7 @@
+# 6 of 11 (55%) vaccine recipients (Moderna or Pfizer), showed 2x reduction in neutralization to a B.1.429 lineage virus.
+# Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
+S13I;W152C;L452R
+
 # In a cohort of 20 patients 8+ weeks after second vaccine dose of Moderna (mRNA-1273) or Pfizer-BioNTech (BNT162b2) vaccines, 
 # ELISA tests show 10x reduced efficacy of a majority of isolated antibodies, but only a modest decrease for vaccine plasma overall.
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
