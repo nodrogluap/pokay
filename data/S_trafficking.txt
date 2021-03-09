@@ -1,3 +1,27 @@
+# We observed increased entry by pseudoviruses carrying the L452R mutation compared to D614G alone, 
+# with a 6.7 to 22.5-fold increase in 293T cells and a 5.8 to 14.7-fold increase in human airway organoids.
+# Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
+L452R
+
+# Pseudoviruses carrying the W152C mutation demonstrated small increases in cell entry compared to 
+# D614G alone in 293T cells and human airway organoids.
+# Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
+W152C
+
+# The entry efficiencies of Spike pseudotyped viruses bearing N501Y Variant 1 (B.1.1.17) mutant were
+# about 3 to 4.4 times higher than that of the WT pseudovirus when viral input
+# was normalized, suggesting that these spike variants promote the infectivity of
+# SARS-CoV-2.
+# Hu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.22.427749v1
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
+# The entry efficiencies of Spike pseudotyped viruses bearing N501Y Variant 2 (B.1.351) mutant were
+# about 3 to 4.4 times higher than that of the WT pseudovirus when viral input
+# was normalized, suggesting that these spike variants promote the infectivity of
+# SARS-CoV-2.
+# Hu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.22.427749v1
+L18F,D80A,D215G,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
+
 # Mutation at the S2 internal fusion peptide site shown in vitro to reduce Spike subunit S2 cleavage into active S2'.
 # Barrett et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.24.428007v1
 R815A
