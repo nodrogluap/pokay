@@ -1,5 +1,44 @@
-# Reduction in neutralization by mAbs COVA2-15 (~9x), B38 (~14x), S309 (~190x).
+# Resulted in complete loss of neutralization by mAb COVA1-16, a cluster III RBD-specific mAb	
+# that allosterically	competes with	ACE2 rather than directly blocking the binding site.
+# Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
+P384A
+
+# Less susceptible to	COVA2-07 mediated	neutralization, and neutralization by COVA2-04 (which uses the VH3-53 gene) is abolished.
+# Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
+K417V
+
+# Renders	pseudotyped	virus	resistant	to neutralization	by the cluster I mAb COVA2-29.
+# Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
+L452K
+
+# Destroys neutralization activity by both COVA2-29 (cluster I) and COVA1-12 (cluster VI).
+# Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
+S494D
+
+# This mutation prevents neutralization by COVA2-29 (cluster I), COVA2-07 (cluster III) and COVA2-02 (cluster  VII).  
+# It also reduces the activity of the most potent mAb COVA1-18 (cluster I) by 3-fold, whereas this 
+# mAb is only minimally affected by other mutations. Moreover, TEI470-2NVP lowers the potency 
+# of the structurally unmapped non-RBD cluster XI mAb,  COVA1-21, to the limit of detection.
+# Thus, this mutation negatively impacts the most mAbs, including representatives from four 
+# separate epitope clusters.
+# Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
+T470N;E471V;I472P
+
+# This double substitution reduces neutralization by RBD-specific mAbs  from different clusters,  
+# specifically, the cluster I mAb COVA2-29, cluster III mAb COVA2-07 and cluster VI mAb COVA1-12. 
+# For COVA1-12 all neutralization activity is abolished, while COVA2-07 activity is                   
+# just below the level required to calculate an IC50 value.
+# Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
+L455Y;F456L
+
+# Results	in a	3.7-fold drop	in neutralization	potency	for COVA2-29, which	is a cluster I RBD141 specific antibody.
+# Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
+K444T;V445S;G446T
+
+# Reduction in neutralization by mAbs COVA2-15 (~9x), B38 (~14x), S309 (~190x) by this B.1.1.7 pseudotyped virus model.
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
+# Lessens the potency of mAbs	COVA2-17, COVA1-12 and COVA1-21, which do not compete allosterically.
+# Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # B.1.351 pseudotyped virus model ablates neutralization by RBD-directed mAbs CB6, 4-20, 2-4, 2-43, 910-30, 2-302-15, LY-Cov555, C121.
@@ -424,6 +463,9 @@ S254F
 # Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
 # Reduction in neutralization by mAbs COVA1-18 (~4x), COVA2-15 (~9x), S309 (~3x)
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
+# Lowered	the	neutralization potency of mAb COVA1-12 to the	limit	of the assay.
+# Decrease in potency	was	observed against the N501Y pseudotype	for the cluster IX mAb COVA2-17.
+# Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
 N501Y
 
 # Wildtype elicits immune response, COVID-19 cohort epitope score > 99th percentile of the 497 pre-pandemic controls, mutant raises PIWAS epitope score from 3.6% to 6.2% (improved immune recognition)
@@ -469,3 +511,8 @@ S686V
 # PG: these effects are laregly missing in the deletion-alone data
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
 H69del,V70del,N501Y
+
+# Reduces neutralization by structurally unmapped mAb COVA1-21 (cluster XI).
+# Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
+H69del,V70del
+
