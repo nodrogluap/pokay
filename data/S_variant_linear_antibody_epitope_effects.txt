@@ -89,7 +89,28 @@ T478I
 # Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody C119 (also known as CB6 or JS016) on 501Y.V2 ("South African") lineage background
 # Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody P2B-2F6 on 501Y.V2 ("South African") lineage background
 # Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
+# Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
+# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
 K417N,E484K,N501Y
+
+# Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
+# Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
+# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+E484K,N501Y
+
+# B.1.1.248 variant constellation ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07.
+# B.1.1.248 variant constellation ablates Class 3 N-terminal domain targeting antibody COV2-2676.
+# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
+
+# B.1.1.7 variant constellation ablates Class 3 N-terminal domain targeting antibody COV2-2489. 
+# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+H69del;V70del;Y144del;Y145del;N501Y;A570D;D614G;P681H
+
+# B.1.1.351 variant constellation ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
+# B.1.1.351 variant constellation ablates Class 3 N-terminal domain targeting antibodies COV2-2489 and COV2-2676 (the only two tested). 
+# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # 5 antibodies tested were less potent against K417N by ten-fold or more (class 1 mAbs)
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
@@ -105,6 +126,8 @@ K417N
 # Resistent to all seven class 2 (Spike 'up' or 'down' conformation, RBD targeting) antibodies tested, with 10-fold 
 # or greater reduction in neutralization (plus notable reudction in two unclassfied mAbs).
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
+# Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384 and S2H58.
+# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
 E484K
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 4 antibodies, 
@@ -337,6 +360,8 @@ S254F
 # Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
 # 4 antibodies tested were less potent against K417N by ten-fold or more, in both mAb classes 1 and 3
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
+# Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
+# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
 N501Y
 
 # Wildtype elicits immune response, COVID-19 cohort epitope score > 99th percentile of the 497 pre-pandemic controls, mutant raises PIWAS epitope score from 3.6% to 6.2% (improved immune recognition)
@@ -349,6 +374,8 @@ A570D
 # Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
 # This variant is adjacent to the Spike protein furin cleavage site (cleavage of S into S1 and S2 subunits is required for viral membrane fusion and subsequent entry into host cells), a site shown to be highly immunogenic.
 # Johnson et al. (2020)  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457603/ 
+# Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
+# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
 P681H
 
 # Not in a major wildtype epitope, mutant increases PIWAS epitope score from 0.69% to 2.3%
@@ -373,3 +400,7 @@ W633P
 # Confers a significant PIWAS value decrease (reduced antigenicity)
 # Haynes et al. (2020) https://www.medrxiv.org/content/10.1101/2020.11.23.20235002v1
 S686V
+
+# Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
+# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+H69del,V70del,N501Y
