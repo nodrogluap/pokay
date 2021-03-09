@@ -18,7 +18,7 @@ K417N;E484K;N501Y
 # Liu et al. (2021) https://www.nejm.org/doi/full/10.1056/NEJMc2102017
 D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 
-# The neutralizing activity was significantly lower against B.1.351 (12.4x in 12 Moderna-recipient sera; 10.3x in Pfizer-recipient sera).
+# The neutralizing activity was significantly lower against B.1.351 (12.4x in twelve Moderna-recipient sera; 10.3x in ten Pfizer-recipient sera).
 # PG: Note that the list of "B.1.351" Spike mutations tested is different from Liu et al. (2021), as is the neutralization efficacy (lower).
 # Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
 L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
