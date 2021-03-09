@@ -1,13 +1,13 @@
 # Resulted in complete loss of neutralization by mAb COVA1-16, a cluster III RBD-specific mAb	
-# that allosterically	competes with	ACE2 rather than directly blocking the binding site.
+# that allosterically competes with ACE2 rather than directly blocking the binding site.
 # Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
 P384A
 
-# Less susceptible to	COVA2-07 mediated	neutralization, and neutralization by COVA2-04 (which uses the VH3-53 gene) is abolished.
+# Less susceptible to COVA2-07 mediated neutralization, and neutralization by COVA2-04 (which uses the VH3-53 gene) is abolished.
 # Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
 K417V
 
-# Renders	pseudotyped	virus	resistant	to neutralization	by the cluster I mAb COVA2-29.
+# Renders pseudotyped virus resistant to neutralization by the cluster I mAb COVA2-29.
 # Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
 L452K
 
@@ -24,14 +24,14 @@ S494D
 # Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
 T470N;E471V;I472P
 
-# This double substitution reduces neutralization by RBD-specific mAbs  from different clusters,  
+# This double substitution reduces neutralization by RBD-specific mAbs from different clusters,  
 # specifically, the cluster I mAb COVA2-29, cluster III mAb COVA2-07 and cluster VI mAb COVA1-12. 
 # For COVA1-12 all neutralization activity is abolished, while COVA2-07 activity is                   
 # just below the level required to calculate an IC50 value.
 # Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
 L455Y;F456L
 
-# Results	in a	3.7-fold drop	in neutralization	potency	for COVA2-29, which	is a cluster I RBD141 specific antibody.
+# Results in 3.7-fold drop in neutralization potency for COVA2-29, which is a cluster I RBD141 specific antibody.
 # Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
 K444T;V445S;G446T
 
