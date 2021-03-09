@@ -1,3 +1,7 @@
+# Reduction in neutralization by mAbs COVA2-15 (~9x), B38 (~14x), S309 (~190x).
+# Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
 # B.1.351 pseudotyped virus model ablates neutralization by RBD-directed mAbs CB6, 4-20, 2-4, 2-43, 910-30, 2-302-15, LY-Cov555, C121.
 # B.1.351 pseudotyped virus model severely impairs neutralization by RBD-directed mAb 1-20.
 # B.1.351 pseudotyped virus model impairs neutralization by RBD-directed mAb REGN10933.
@@ -418,6 +422,8 @@ S254F
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
 # Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Reduction in neutralization by mAbs COVA1-18 (~4x), COVA2-15 (~9x), S309 (~3x)
+# Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
 N501Y
 
 # Wildtype elicits immune response, COVID-19 cohort epitope score > 99th percentile of the 497 pre-pandemic controls, mutant raises PIWAS epitope score from 3.6% to 6.2% (improved immune recognition)
@@ -459,4 +465,7 @@ S686V
 
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
 # Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Reduction in neutralization by mAbs COVA1-18 (~4x), COVA2-15 (~9x).
+# PG: these effects are laregly missing in the deletion-alone data
+# Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
 H69del,V70del,N501Y
