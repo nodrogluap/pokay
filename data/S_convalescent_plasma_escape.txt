@@ -11,11 +11,6 @@ L242del;A243del;L244del
 # yet almost no effect was detected using the live B.1.1.7 virus.
 # Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
 # Neutralization activity of convalescent sera tested decreased <2x with this B.1.1.7 pseudotyped virus.
-# Neutralization activity of Moderna Phase 1 and Novavax Phase 1 post-vaccination sera decreased ~2x.
-# 3.5x reduction in neutralization with Moderna vaccinated patient sera after 29 days (1st dose).
-# 2.0x reduction in neutralization with Moderna vaccinated patient sera after 57 days (2nd dose).
-# 2.1x reduction in neutralization with Novavax Phase 1 post-vaccination sera.
-# 1.5x reduction in neutralization with convalescent sera.
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
