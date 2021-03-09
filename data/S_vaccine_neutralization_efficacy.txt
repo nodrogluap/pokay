@@ -35,6 +35,10 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 # the BNT162b2 mRNA vaccine. (Fig. 4)
 # PG: This is in stark contrast to this combination plus K417N, which had no effect (P<0.0001 vs. P=0.8774).
 # Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w
+# In 20 sera from BNT162b2 mRNA vaccine inoculated participants, 6 displayed mild (2x) reductions in neutralization.
+# This variant cobination showed the highest reduction, but the magnitude of the differences was small 
+# compared to the >4x differences in HA-inhibition titers that have been used to signal potential need for a strain change in influenza vaccines.
+# Xie et al. (2021) https://www.nature.com/articles/s41591-021-01270-4
 E484K;N501Y
 
 # The neutralizing activity of vaccine was somewhat lower against B.1.1.7 in sera tested from most of the 24 patients with the BNT162b2 mRNA vaccine. (Fig. 4)
