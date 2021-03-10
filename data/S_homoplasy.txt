@@ -4,7 +4,7 @@
 # PG: Has not lead to major lineage expansions, but is in an accessible unpaired break in a preicted RNA structure. 
 # PG: The homoplasy may be due to propensity of this site to deamination rather than a fitness advantage,
 # PG: or the fitness advantage is quite small. The residue immediately follows the initial helix domain of the Spike
-# PG: fusion peptide, so the varioant's suboptimal codon usage *could* possibly facilitate translation stall to improve protein confirmation 
+# PG: fusion peptide, so the variant's suboptimal codon usage *could* possibly facilitate translation stall to improve protein confirmation 
 # PG: with downstream beta sheet.
 g.C24034U
 
