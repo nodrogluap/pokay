@@ -7,3 +7,11 @@ H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # Exhibits an estimated 18.6-24% increase in transmissibility relative to wild-type circulating strains. a.k.a. 20C/L452R or B.1.427/B.1.429.
 # Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
 S13I;W152C;L452R
+
+# Assuming complete cross-protection, we estimate 501Y.V2/B1.351 was 1.50 (95% CrI: 1.20-2.13)
+# times as transmissible than previously circulating variants. Assuming instead that 501Y.V2 is
+# identically transmissible, the new variant evades 21% (95% CrI: 11-36%) of previously
+# acquired immunity. Reality may lie between these extremes, with an intermediate increase in
+# transmissibility and mildly imperfect cross-protection from past exposure. 
+# Pearson et al. (2021) https://cmmid.github.io/topics/covid19/reports/sa-novel-variant/2021_01_11_Transmissibility_and_severity_of_501Y_V2_in_SA.pdf
+K417N;E484K;N501Y;D614G
