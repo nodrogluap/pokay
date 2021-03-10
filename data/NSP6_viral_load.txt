@@ -1,4 +1,4 @@
-# NSP6 part of the lineage defining variants for B.1.1.17 in PANGO.
+# NSP6 part of the lineage defining variants for B.1.1.7 in PANGO.
 # This lineage is associate with higher viral load in a study of 1260 ICU patients. 
 # It is not clear whether the hoigher load is due to reduced virus clearance, increased virion production, or both.
 # This variant is found in other Variants of Concern.
