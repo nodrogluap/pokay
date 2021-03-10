@@ -8,6 +8,14 @@
 # Having in mind that the affinity of SARS-CoV-2 for ACE2 is only 4-fold higher compared
 # to SARS-CoV-1, this factor of 2 is expected to be biologically significant.
 # Vogel et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.04.433887v1
+# RBD containing the N501Y mutation results in 9-fold stronger binding to the hACE2 receptor than 
+# wild type RBD. The E484K mutation does not significantly influence the affinity for the receptor, 
+# while K417N attenuates affinity. As a result, RBD from B.1.351 containing all three mutations binds 
+# 3-fold stronger to hACE2 than wild type RBD but 3-fold weaker than N501Y.
+# Laffeber et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.22.432357v1
+# Using Mircoscale Thermopheresis, the B.1.351 variant harboring three mutations, binds ACE2 at nearly 
+# five-fold greater affinity than the original SARS-COV-2 RBD (Kd 87.6, vs 402.5 nM).
+# Ramanathan et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.22.432359v1
 K417N,E484K,N501Y
 
 # Reported 3-fold decrease in affinity compared to wild-type RBD on the cell surface (Kd = 145.1nM vs 56.9nM).
@@ -47,6 +55,9 @@ Y453F
 # The additional interactions result in increased affinity of ACE2 for the N501Y mutant, 
 # accounting for its increased infectivity.
 # Zhu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.11.426269v2
+# Using Mircoscale Thermopheresis, this variant binds ACE2 at nearly 
+# two-fold greater affinity than the original SARS-COV-2 RBD (203.7 nM vs 402.5 nM).
+# Ramanathan et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.22.432359v1
 N501Y
 
 # ~2-fold loss of binding affinity for the K417V variant relative to WT
