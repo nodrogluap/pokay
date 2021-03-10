@@ -8,7 +8,7 @@ L452R
 # Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
 W152C
 
-# The entry efficiencies of Spike pseudotyped viruses bearing N501Y Variant 1 (B.1.1.17) mutant were
+# The entry efficiencies of Spike pseudotyped viruses bearing N501Y Variant 1 (B.1.1.7) mutant were
 # about 3 to 4.4 times higher than that of the WT pseudovirus when viral input
 # was normalized, suggesting that these spike variants promote the infectivity of
 # SARS-CoV-2.
