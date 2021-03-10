@@ -1,3 +1,8 @@
+# Neutralizing antibody titers of 18 samples (90%) decreased against this B.1.351 pseudotyped virus below an ID50 threshold of 40 (sera 
+# collected ~8mo post Jan 2020 first wave in China).
+# Hu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.22.427749v1
+K417N;E484K;N501Y;D614G
+
 # Antibody neutralization assays showed 6.7-fold resistence against 7/8 convalescent plasma.
 # Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
 S13I;W152C;L452R
@@ -23,6 +28,10 @@ L242del;A243del;L244del
 # (8%) showed a 5–10-fold reduction, but as they were potently neutralizing sera, the reduced 
 # ID50 values were still >1:100. 
 # Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
+# Neutralizing antibody titers of 2/20 (10%) samples showed >10x reduction (sera collected ~1mo post Jan 2020 first wave in China).
+# Neutralizing antibody titers of 8/20 samples (40%) decreased below an ID50 threshold of 40 (sera 
+# collected ~8mo post Jan 2020 first wave in China).
+# Hu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.22.427749v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Neutralization activity of convalescent sera tested decreased ~2x with this B.1.1.7 pseudotyped virus.
