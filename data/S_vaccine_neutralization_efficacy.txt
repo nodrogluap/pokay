@@ -15,7 +15,7 @@ N501Y
 # In a cohort of 20 patients 8+ weeks after second vaccine dose of Moderna (mRNA-1273) or Pfizer-BioNTech (BNT162b2) vaccines, 
 # a significant (0.5 to 20-fold, but average ~2x) decrease in neutralization by vaccine plasma was observed.
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
-# 2.7x reduction in neutralization, and 6.4 for the full B.1.351 Spike mutation complement, but despite the observed decreases, 
+# In Moderna vaccinee sera, 2.7x reduction in neutralization, and 6.4 for the full B.1.351 Spike mutation complement, but despite the observed decreases, 
 # titers in human vaccinee sera against the B.1.351 variant remained at clinically significant level of ~1/300.
 # Wu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.25.427948v1
 K417N;E484K;N501Y
