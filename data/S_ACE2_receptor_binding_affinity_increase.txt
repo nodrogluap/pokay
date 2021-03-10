@@ -5,7 +5,7 @@
 # Reported slight increase in affinity compared to wild-type RBD on the cell surface (Kd = 45.2nM vs 56.9nM).
 # Tian et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.14.431117v2
 # The affinity of ACE2 for this mutation combination was twice as high as for wild type.
-# Having in mind that the affinity of the of SARS-CoV-2 for ACE2 is only 4-fold higher compared
+# Having in mind that the affinity of SARS-CoV-2 for ACE2 is only 4-fold higher compared
 # to SARS-CoV-1, this factor of 2 is expected to be biologically significant.
 # Vogel et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.04.433887v1
 K417N,E484K,N501Y
@@ -34,9 +34,6 @@ N501F
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 Y453F
 
-# Variant within the six key residues in the receptor binding domain (RBD). Independently reported in UK, Australia (same origin as UK), and South Africa (independent origin).
-# Estimated to cause an increase of between 40% and 70% in transmissibility.
-# World Health Organization (2020) https://www.who.int/csr/don/21-december-2020-sars-cov2-variant-united-kingdom/en/ 
 # Experimentally, ACE2 binding affinity increased 0.24 fold
 # Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 # Among the first selected and fixed variants in an in vitro evolution experiment for ACE2 binding.
