@@ -1,3 +1,11 @@
+# ~20x resistence to mAb CQ038 by B.1.1.7 pseudotyped virus
+# Hu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.22.427749v1
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
+# Abolished neutralization by mAbs CQ026 and CQ038, greatly diminished neutralization by CQ012 and CQ046.
+# Hu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.22.427749v1
+K417N;E484K;N501Y;D614G
+
 # Resulted in complete loss of neutralization by mAb COVA1-16, a cluster III RBD-specific mAb	
 # that allosterically competes with ACE2 rather than directly blocking the binding site.
 # Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
