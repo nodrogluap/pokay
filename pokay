@@ -172,8 +172,8 @@ while(<BLAST>){
 			warn "Could not parse subject name from $hit\n";
 			next;
 		}
-		if($hit !~ /Frame = \+/s){
-			#warn "Skipping negative strand best match for $subject_name against $query_name\n";
+		if($hit !~ /Strand=Plus\/Plus|Frame = \+/s){
+			warn "Skipping negative strand best match for $subject_name against $query_name\n";
 			next;
 		}
 		next if exists $exclude{$subject_name};
