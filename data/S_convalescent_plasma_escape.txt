@@ -1,5 +1,5 @@
 # S494P frequently engages in interactions with antibodies but not with ACE2. It reduces antibody 
-# neutralization of all 16 convalescent sera tested, averaging WT ratio of 0.41+=0.08 (less dramatic than E484K). 
+# neutralization of all 16 convalescent sera tested, averaging WT ratio of 0.41+-0.08 (less dramatic than E484K). 
 # This amino acid emerges as an additional hotspot for immune evasion and a target for therapies, vaccines and diagnostics.
 # It has emerged independently in multiple lineages.
 # Alenquer et al. (2021) http://biorxiv.org/cgi/content/short/2021.04.22.441007
