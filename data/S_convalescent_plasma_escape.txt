@@ -1,3 +1,9 @@
+# In 1 of 11 convalescent sera (26 days post-infection) tested in a mutational landscape analysis of the RBD, this variant
+# showed >10 fold reduction in neutralization. The same sample showed smaller than typical (~10 vs 30+ fold) reduction in
+# neutralization by E484K.
+# Greaney et al. (2021) https://doi.org/10.1016/j.chom.2021.02.003
+E484Q
+
 # S494P frequently engages in interactions with antibodies but not with ACE2. It reduces antibody 
 # neutralization of all 16 convalescent sera tested, averaging WT ratio of 0.41+-0.08 (less dramatic than E484K). 
 # This amino acid emerges as an additional hotspot for immune evasion and a target for therapies, vaccines and diagnostics.
