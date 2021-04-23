@@ -1,3 +1,17 @@
+# This mutation in the first base of the furin clevage site maintains the RXXR recognition motif, and is presumed to enhance
+# cleavage based on the removal of a proline-directed phosphotase recognition site at S680. In a homologuous site in Infectious 
+# Bronchitis Virus (IBV, Gammacoronaviruses), abolition of S680 phosphorylation improves furin cleavage 
+# (and hence cell entry).
+# Maaroufi (2021) https://www.researchgate.net/publication/348943694_The_mutation_P681H_in_the_B117_variant_of_SARS-CoV-2_probably_enhances_viral_entry_and_replication
+P681H
+
+# This mutation in the first base of the furin clevage site maintains the RXXR recognition motif, and is presumed to enhance
+# cleavage based on the removal of a proline-directed phosphotase recognition site at S680. In a homologuous site in Infectious 
+# Bronchitis Virus (IBV, Gammacoronaviruses), abolition of S680 phosphorylation improves furin cleavage 
+# (and hence cell entry). [PG: Inference from similar positively charged substitution P681H actually described in the work]
+# Maaroufi (2021) https://www.researchgate.net/publication/348943694_The_mutation_P681H_in_the_B117_variant_of_SARS-CoV-2_probably_enhances_viral_entry_and_replication
+P681R
+
 # We observed increased entry by pseudoviruses carrying the L452R mutation compared to D614G alone, 
 # with a 6.7 to 22.5-fold increase in 293T cells and a 5.8 to 14.7-fold increase in human airway organoids.
 # Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
