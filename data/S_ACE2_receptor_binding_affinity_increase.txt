@@ -1,3 +1,10 @@
+# Using molecular dynamic simulation, the mildly (~1kcal/mol) enhanced binding energy of this variant is primarily 
+# contributed by Tyr505 (−4.98 kcal/mol) which is now involved in a strong hydrogen bonding network with Arg393. 
+# Another important energetic contribution comes from the altered orientation of Tyr41 which is now involved with 
+# two hydrogen-bonding interactions with Asp355 and Thr500. 
+# Chakraborty (2021) https://doi.org/10.1016/j.bbrc.2021.01.035
+S494P
+
 # Studying the key covariants in lineage of concern 501Y.V2, 
 # observed about 2-fold increase in ACE2 binding vs wildtype, but greatly decreased mAb binding, suggesting evolutionary optimum tension between 
 # immune evasion and ACE2 binding affinity as the N501Y variant alone has 10x increase in affinity but no effect on tested mAb binding.
