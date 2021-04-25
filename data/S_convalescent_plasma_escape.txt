@@ -65,7 +65,41 @@ L18F;D80A;D215G;L242del;A243del;K417N;E484K;N501Y;D614G;A701V
 # Neutralizing antibody titers of 18 samples (90%) decreased against this B.1.351 pseudotyped virus below an ID50 threshold of 40 (sera 
 # collected ~8mo post Jan 2020 first wave in China).
 # Hu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.22.427749v1
+# Average ~10-fold reduction in neutralization efficay in convalescent sera of 16 health workers infected in Spring 2020.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
 K417N;E484K;N501Y;D614G
+
+# Average ~5-fold reduction in neutralization efficay in convalescent sera of 16 health workers infected in Spring 2020.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+E484K
+
+# No notable change in neutralization efficiency, despite N439K by itself showing a ~2x decrease on average in 16 health workers' convalescent sera.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+H69del;V70del;N439K
+
+# Slight neutralization improvement on average in 16 health workers' convalescent sera.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+H69del;V70del;N501Y;P681H
+
+# Observed ~2x decrease on average in 16 health workers' convalescent sera.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+N439K
+
+# Observed ~2x decrease on average in 16 health workers' convalescent sera.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+L452R
+
+# One convalescent sera tested showed 4-fold or greater reduction in neutralization efficiency.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+H69del;V70del;N501Y;P681H
+
+# Four the convalescent sera tested showed 4-fold or greater improvement in neutralization efficiency.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+L5F;Q1208H
+
+# One convalescent sera tested showed 4-fold or greater reduction in neutralization efficiency.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+H69del;V70del;N439K
 
 # Antibody neutralization assays showed 6.7-fold resistence against 7/8 convalescent plasma.
 # Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
