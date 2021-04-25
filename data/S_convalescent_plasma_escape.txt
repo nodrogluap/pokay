@@ -1,3 +1,11 @@
+# Highly ranked escape variant in most of the early and late convalescent sera in a study of 11 post-infection subjects.
+# Greaney et al. (2021) https://doi.org/10.1016/j.chom.2021.02.003
+F456A
+
+# Highly ranked escape variant in most of the early and late convalescent sera in a study of 11 post-infection subjects.
+# Greaney et al. (2021) https://doi.org/10.1016/j.chom.2021.02.003
+F456T
+
 # In 3 of 11 subjects' convalescent sera in an early+late mutational landscape analysis of the RBD, 
 # E484P shows a resistent profile, but was mostly reduce or eliminated by  
 # later time points (i.e. generally less resistant to immune cell somatic mutation evolution than E484Q of E484K), see Figure 5a,b.
