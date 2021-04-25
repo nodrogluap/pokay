@@ -1,3 +1,8 @@
+# Average 2x neutralization efficiency decrease against sera from 26 Phase II trial Covaxin (BBV152) vaccine recipents. 
+# Very similar to B.1.1.7 (~2x) in the same study, and the neutralization from 17 sera of natural infections across B1 lineages.
+# Yadav et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.23.441101v1
+G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
+
 # 6 of 11 (55%) vaccine recipients (Moderna or Pfizer), showed 2x reduction in neutralization to a B.1.429 lineage virus.
 # Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
 S13I;W152C;L452R
