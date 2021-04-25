@@ -239,7 +239,7 @@ N460K
 # The synergism of Q498R with N501Y (and E484K) increases ACE2 binding by ~50-
 # fold relative to WT.
 # Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
-Q498R;N501Y
+E484K;Q498R;N501Y
 
 #Experimentally, ACE2 binding affinity increased 0.09 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
