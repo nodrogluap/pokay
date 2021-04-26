@@ -1,5 +1,5 @@
 # Sera after the second dose of Pfizer showed an average reduction in neutralization titres against the B.1.1.7 + E484K 
-# variant of ~6.7x, markedly higher than B.1.1.7 alone.
+# variant of ~6.7x, markedly higher than B.1.1.7 alone. For first dose sera, a 9.7x drop was observed.
 # Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
 H69del;V70del;Y144del;E484K;N501Y;A570D;P681H;T716I;S982A;D1118H
 
