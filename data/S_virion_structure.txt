@@ -9,5 +9,13 @@
 D614G
 
 # CryoEM analysis of B.1.1.7 demonstrates an increased propensity for 'up', receptor accessible conformation of the Spike protein trimer. 
-# Cai et al. (2021)
+# Cai et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.13.439709v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
+# The L18F and D80A of the B.1.351 lineage lead to reconfiguration of the N-terminal segment despite the disulfide between
+# Cys16 and Cys136 that partly anchors the N-terminal peptide. The most consequential changes are probably from the triple residue deletion...
+# which causes a shift of the nearby loop 144-155 and must also reconfigure the adjacent disorder
+# loop (residues 246-260), both of which form part of the neutralizing epitopes...bringing large changes in the antigenic surface in this
+# region.
+# Cai et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.13.439709v1
+L18F;D80A;L242del;A243del;L244del
