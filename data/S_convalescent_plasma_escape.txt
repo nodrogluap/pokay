@@ -1,3 +1,9 @@
+# In convalescent sera one month or more post-infection in Spring 2020, an average 6.5x decrease in reciprocal ID50 value was observed 
+# ten key point mutations in Spike in the P.1 lineage vs wildtype. A 3.4x decrease against the full P.1 type vs WA-1 was observed, with 
+# better full P.1 ID50 reciprocal value compared to the 10-mutation model.
+# Wang et al. (2021) https://dx.doi.org/10.1101%2F2021.03.01.433466
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y
+
 # In a Syrian hamster model, B.1.351 variant virus had >4x reduction in YRNT90 (measure of neutralization) using wild type convalescent sera.
 # PG: Note that exact sequence for B.1.351 used was not disclosed.
 # Cochin et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.19.440435v1
