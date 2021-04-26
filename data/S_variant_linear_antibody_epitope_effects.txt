@@ -1,3 +1,11 @@
+# Of 50 mAbs tested, major loss of neutralization observed for S2X128, S2D8, S2X192, S2D19, S2H14, S2H19.
+# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+N501Y
+
+# Of 50 mAbs tested, major loss of neutralization observed for S2N28, S2X615, S2N12, S2X192, S2H7, S2X16, S2X58, S2H70, S2X613, S2D19, S2N22, S2D32, S2H58, S2M11, S2D106, S2X30.
+# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+E484K
+
 # Amongst RBD-targeting Emergency Use Authorized monoclonal antibody treatments CB6, LY-CoV555 and REGN10933 show abrogated neutralization activity against the
 # ten key point mutations in Spike in the P.1 lineage vs wildtype or WA-1, but REGN10987 activity remains strong.
 # RBD-targeting monoclonal antibodies 2-15 and C121 show abrogated neutralization activity against the
