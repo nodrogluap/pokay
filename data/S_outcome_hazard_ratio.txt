@@ -4,3 +4,13 @@
 # Danish study of the B.1.1.7 lineage shows hospital admission odds ratio of 1.63 vs other lineages. The adjusted OR was increased in all strata of age.
 # Bager et al. (2021) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3792894
 H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
+
+# In the Southern Brazilian stats of Rio Grande do Suli, comparing pre-P.1 and post-P.1 waves: 
+# The increase in Case Falaity Rate occurred in a greatest intensity in the population between 20 and 59 years old and among patients
+# without pre-existing risk conditions. Female 20 to 39 years old, with no pre-existing risk conditions, were
+# at risk of death 5.65 times higher in February (95%CI = 2.9 - 11.03; p <0.0001) and in the age group of
+# 40 and 59 years old, this risk was 7.7 times higher (95%CI = 5.01-11.83; p <0.0001) comparing with
+# November-December. This maybe due to a combination of changes in pathogenicity and virulence profiles, and health system overload.
+# PG: exact mutations used to define P.1 lineage not disclosed in this publication
+# Ribas Freitas et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.13.21255281v1
+L18F;D80A;D215G;L242;A243;L244;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
