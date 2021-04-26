@@ -62,9 +62,12 @@ Y453F
 # The additional interactions result in increased affinity of ACE2 for the N501Y mutant, 
 # accounting for its increased infectivity.
 # Zhu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.11.426269v2
-# Using Mircoscale Thermopheresis, this variant binds ACE2 at nearly 
+# Using Microscale Thermopheresis, this variant binds ACE2 at nearly 
 # two-fold greater affinity than the original SARS-COV-2 RBD (203.7 nM vs 402.5 nM).
 # Ramanathan et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.22.432359v1
+# The most frequent RBM mutation N501Y (165,519 instances) makes defective the atypical N-glycosylation 
+# sequon NGV 501-503, becoming a key RBM position for the interaction with hACE2-binding hotspot 353.
+# Gamez et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.09.439154v1
 N501Y
 
 # ~2-fold loss of binding affinity for the K417V variant relative to WT
