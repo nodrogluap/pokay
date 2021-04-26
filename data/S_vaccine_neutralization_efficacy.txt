@@ -1,3 +1,8 @@
+# Vaccinees that tested positive at least a week after the second dose were indeed disproportionally infected with B.1.351, 
+# as compared with unvaccinated individuals (odds ratio of 8:1).
+# Kustin et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.06.21254882v2
+L18F;D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
+
 # In 12 Moderna vaccinee sera 15 days post second dose (43 days since first vaccination), an average 2.8x decrease in reciprocal ID50 value was observed 
 # ten key point mutations in Spike in the P.1 lineage vs wildtype. A 4.8x decrease against the full P.1 type vs WA-1 was observed, though overall with 
 # a higher ID50 reciprocal value.
