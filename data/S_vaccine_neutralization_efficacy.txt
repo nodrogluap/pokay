@@ -1,3 +1,15 @@
+# Using B.1.351 defining mutations for Spike, observed 4x average decrease in neutralization efficiency 
+# (but still relevant titres) for sera from 10 BNT162b2 vaccinees 12 days after second dose, but only one 
+# relevant titre 12 days after first dose. Compares unfavorably to wild type or B.1.1.7 titres.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+D80A;D215G;K417N;E484K;N501Y;A701V
+
+# Using P.1 defining mutations for Spike, observed 4x average decrease in neutralization efficiency 
+# (but still relevant titres) for sera from 10 BNT162b2 vaccinees 12 days after second dose, but only one 
+# relevant titre 12 days after first dose. Compares unfavorably to wild type or B.1.1.7 titres.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I
+
 # Average 2x neutralization efficiency decrease against sera from 26 Phase II trial Covaxin (BBV152) vaccine recipents. 
 # Very similar to B.1.1.7 (~2x) in the same study, and the neutralization from 17 sera of natural infections across B1 lineages.
 # Yadav et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.23.441101v1
