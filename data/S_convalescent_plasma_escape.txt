@@ -1,3 +1,12 @@
+# Neutralization capacity GMT of 27 subjects' sera post-infection was considerably higher (stronger) than after the second 
+# Pfizer dose, and 4.5x drop in B.1.1.7 neutralization was observed.
+# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
+
+# Neutralization capacity GMT of 27 subjects' sera post-infection was markedly worse against B.1.1.7 + E484K than the lineage alone, with a 11.4x drop.
+# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+H69del;V70del;Y144del;E484K;N501Y;A570D;P681H;T716I;S982A;D1118H
+
 # In convalescent sera one month or more post-infection in Spring 2020, an average 6.5x decrease in reciprocal ID50 value was observed 
 # ten key point mutations in Spike in the P.1 lineage vs wildtype. A 3.4x decrease against the full P.1 type vs WA-1 was observed, with 
 # better full P.1 ID50 reciprocal value compared to the 10-mutation model.
