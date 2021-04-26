@@ -1,3 +1,13 @@
+# Dominant (70%) in day 21 of prolonged infection in immunocompromised host on tacrolimus, steroids and convalescent 
+# plasma therapy, then nearly disappearing (<5%) by day 27.
+# Chen et al. (2021) https://doi.org/10.1101/2021.04.08.21254791
+L243del;A244del;Q493R
+
+# Individual variants appearing at <=30% frequency at day 21 in immunocompromised host on tacrolimus, steroids and convalescent 
+# plasma therapy, then appearing all at >95% frequency at day 27.
+# Chen et al. (2021) https://doi.org/10.1101/2021.04.08.21254791
+L141del;G142del;V143del;Y144del;E484K
+
 # The so-called "delta F" variant combination previously observed in mink spillover events also emerged in a lymphoma 
 # patient (non-Hodgkin diffuse B-cell lymphoma IV stage B) with a long-term COVID-19 infection (4 months) where 18 de novo mutation occureed overall.
 # Patient was taking rituximab, the B-cell-depleting agent, and had no detectable neutralizing antibody response.
