@@ -1,3 +1,12 @@
+# Amongst RBD-targeting Emergency Use Authorized monoclonal antibody treatments CB6, LY-CoV555 and REGN10933 show abrogated neutralization activity against the
+# ten key point mutations in Spike in the P.1 lineage vs wildtype or WA-1, but REGN10987 activity remains strong.
+# RBD-targeting monoclonal antibodies 2-15 and C121 show abrogated neutralization activity against the
+# ten key point mutations in Spike in the P.1 lineage vs wildtype or WA-1.
+# N terminal domain targeting monoclonal antibodies 5-7, 4-8, 4-18 and 2-17 have abrogated neutralization activity against the
+# ten key point mutations in Spike in the P.1 lineage vs wildtype or WA-1.
+# Wang et al. (2021) https://dx.doi.org/10.1101%2F2021.03.01.433466
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y
+
 # Monoclonal antibodies 13G9 and 58G6 maintain fairly high neutralization potency, compared to others interfacing with E484K.
 # Li et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.19.440481v1
 E484K
