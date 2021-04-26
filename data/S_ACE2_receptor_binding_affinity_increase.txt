@@ -5,7 +5,7 @@
 # Chakraborty (2021) https://doi.org/10.1016/j.bbrc.2021.01.035
 S494P
 
-# Six fold increased in affinity for ACE2 by the B.1.1.7 lineage vs wild type is driven by a drop in observed dissociation rate constant.
+# Six fold increase in affinity for ACE2 by the B.1.1.7 lineage vs wild type is driven by a drop in observed dissociation rate constant.
 # Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
