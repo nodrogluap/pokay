@@ -1,6 +1,8 @@
 # Four fold reduction in neutralization efficiency was observed in sera of ferrets post-vaccination with 
 # INO-4800 (DNA plasmid pGX9501 encoding full length Spike).
 # Riddell et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.17.440246v1
+# In human sera 8 weeks post-vaccination with INO-4800, a ~7-fold reduction in B.1.351 neutralization was observed.
+# Andrade et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.14.439719v1
 L18F;D80A;D215G;L242;A243;L244;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
 
 # The presence of these B.1.417/B.1.429 defining variants in 189 post-mRNA-vaccination COVID-19 cases
@@ -31,6 +33,8 @@ D80A;D215G;K417N;E484K;N501Y;A701V
 # (but still relevant titres) for sera from 10 BNT162b2 vaccinees 12 days after second dose, but only one 
 # relevant titre 12 days after first dose. Compares unfavorably to wild type or B.1.1.7 titres.
 # Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+# In human sera 8 weeks post-vaccination with INO-4800, a ~2-fold reduction in P.1 neutralization was observed.
+# Andrade et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.14.439719v1
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I
 
 # Average 2x neutralization efficiency decrease against sera from 26 Phase II trial Covaxin (BBV152) vaccine recipents. 
