@@ -5,6 +5,10 @@
 # Chakraborty (2021) https://doi.org/10.1016/j.bbrc.2021.01.035
 S494P
 
+# Six fold increased in affinity for ACE2 by the B.1.1.7 lineage vs wild type is driven by a drop in observed dissociation rate constant.
+# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
+
 # Studying the key covariants in lineage of concern 501Y.V2, 
 # observed about 2-fold increase in ACE2 binding vs wildtype, but greatly decreased mAb binding, suggesting evolutionary optimum tension between 
 # immune evasion and ACE2 binding affinity as the N501Y variant alone has 10x increase in affinity but no effect on tested mAb binding.
@@ -23,6 +27,9 @@ S494P
 # Using Mircoscale Thermopheresis, the B.1.351 variant harboring three mutations, binds ACE2 at nearly 
 # five-fold greater affinity than the original SARS-COV-2 RBD (Kd 87.6, vs 402.5 nM).
 # Ramanathan et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.22.432359v1
+# This combination showed ~3x increase binding to ACE2 vs wild type, about half that of the B.1.1.7 lineage, suggesting
+# that the K417N mutation is slightly detrimental to ACE2 binding, probably as a result of disrupting the salt bridge formed with ACE2 residue D30
+# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
 K417N,E484K,N501Y
 
 # Reported 3-fold decrease in affinity compared to wild-type RBD on the cell surface (Kd = 145.1nM vs 56.9nM).
