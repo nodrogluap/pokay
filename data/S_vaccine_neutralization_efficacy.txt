@@ -1,3 +1,12 @@
+# In 12 Moderna vaccinee sera 15 days post second dose (43 days since first vaccination), an average 2.8x decrease in reciprocal ID50 value was observed 
+# ten key point mutations in Spike in the P.1 lineage vs wildtype. A 4.8x decrease against the full P.1 type vs WA-1 was observed, though overall with 
+# a higher ID50 reciprocal value.
+# In 10 Pfizer vaccinee sera 15 days post second dose (43 days since first vaccination), an average 2.2x decrease in reciprocal ID50 value was observed 
+# ten key point mutations in Spike in the P.1 lineage vs wildtype. A 3.8x decrease against the full P.1 type vs WA-1 was observed, with 
+# similar variant ID50 reciprocal value.
+# Wang et al. (2021) https://dx.doi.org/10.1101%2F2021.03.01.433466
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y
+
 # Monovalent mRNA-1273.351 encodes for the S protein found in the B.1.351 lineage and (2) mRNA-1273.211 comprising a 1:1 mix of mRNA-1273 and mRNA-1273.351. 
 # In a mouse study, primary vaccination series of mRNA-1273.351 was effective at increasing neutralizing antibody titers against the B.1.351 lineage, 
 # while mRNA-1273.211 was most effective at providing broad cross-variant neutralization. In addition, these results demonstrated a third dose of 
