@@ -1,9 +1,14 @@
+# Monovalent mRNA-1273.351 encodes for the S protein found in the B.1.351 lineage and (2) mRNA-1273.211 comprising a 1:1 mix of mRNA-1273 and mRNA-1273.351. 
+# In a mouse study, primary vaccination series of mRNA-1273.351 was effective at increasing neutralizing antibody titers against the B.1.351 lineage, 
+# while mRNA-1273.211 was most effective at providing broad cross-variant neutralization. In addition, these results demonstrated a third dose of 
+# mRNA-1273.351 significantly increased both wild-type and B.1.351-specific neutralization titers. 
+# Wu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.13.439482v1
 # Four fold reduction in neutralization efficiency was observed in sera of ferrets post-vaccination with 
 # INO-4800 (DNA plasmid pGX9501 encoding full length Spike).
 # Riddell et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.17.440246v1
 # In human sera 8 weeks post-vaccination with INO-4800, a ~7-fold reduction in B.1.351 neutralization was observed.
 # Andrade et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.14.439719v1
-L18F;D80A;D215G;L242;A243;L244;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
+L18F;D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
 
 # The presence of these B.1.417/B.1.429 defining variants in 189 post-mRNA-vaccination COVID-19 cases
 # was proportionally in line with lineage prevalence in Northen California during the study period,
