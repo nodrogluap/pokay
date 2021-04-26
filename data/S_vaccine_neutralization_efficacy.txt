@@ -1,3 +1,9 @@
+# 20/29 sera after the first dose of Pfizer showed an average reduction in neutralization titres against the B.1.1.7 variant of 3.2 ± 5.7.
+# After the second dose, the GMT was markedly increased compared with the first-dose titres, with a fold change of 1.9 ± 0.9 (mean ± s.d.).
+# Neutralization GMT of 27 subjects post-infection was considerably higher (stronger) than after the second Pfizer dose, and 4.5x drop in B.1.1.7 neutralization was observed.
+# Collier et al. (2021)
+H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
+
 # Vaccinees that tested positive at least a week after the second dose were indeed disproportionally infected with B.1.351, 
 # as compared with unvaccinated individuals (odds ratio of 8:1).
 # Kustin et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.06.21254882v2
