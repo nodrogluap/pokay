@@ -101,6 +101,18 @@ L5F;Q1208H
 # Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
 H69del;V70del;N439K
 
+# Using B.1.351 defining mutations for Spike, observed 4x average decrease in neutralization efficiency 
+# (but still relevant titres) for sera from 10 BNT162b2 vaccinees 12 days after second dose, but only one 
+# relevant titre 12 days after first dose. Compares unfavorably to wild type or B.1.1.7 titres.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+D80A;D215G;K417N;E484K;N501Y;A701V
+
+# Using P.1 defining mutations for Spike, observed 4x average decrease in neutralization efficiency 
+# (but still relevant titres) for sera from 10 BNT162b2 vaccinees 12 days after second dose, but only one 
+# relevant titre 12 days after first dose. Compares unfavorably to wild type or B.1.1.7 titres.
+# Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I
+
 # Antibody neutralization assays showed 6.7-fold resistence against 7/8 convalescent plasma.
 # Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
 S13I;W152C;L452R
