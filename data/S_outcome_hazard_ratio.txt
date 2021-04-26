@@ -5,7 +5,7 @@
 # Bager et al. (2021) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3792894
 H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
-# In the Southern Brazilian stats of Rio Grande do Suli, comparing pre-P.1 and post-P.1 waves: 
+# In the Southern Brazilian stats of Rio Grande do Sul, comparing pre-P.1 and post-P.1 waves: 
 # The increase in Case Falaity Rate occurred in a greatest intensity in the population between 20 and 59 years old and among patients
 # without pre-existing risk conditions. Female 20 to 39 years old, with no pre-existing risk conditions, were
 # at risk of death 5.65 times higher in February (95%CI = 2.9 - 11.03; p <0.0001) and in the age group of
