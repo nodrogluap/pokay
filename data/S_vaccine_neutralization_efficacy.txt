@@ -1,3 +1,8 @@
+# Four fold reduction in neutralization efficiency was observed in sera of ferrets post-vaccination with 
+# INO-4800 (DNA plasmid pGX9501 encoding full length Spike).
+# Riddell et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.17.440246v1
+L18F;D80A;D215G;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
+
 # The presence of these B.1.417/B.1.429 defining variants in 189 post-mRNA-vaccination COVID-19 cases
 # was proportionally in line with lineage prevalence in Northen California during the study period,
 # suggesting no effect of these variants on immune escape.
