@@ -7,3 +7,7 @@
 # conformation is presumed to be more likely to bind ACE2.
 # Weissman et al. (2020) https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v2
 D614G
+
+# CryoEM analysis of B.1.1.7 demonstrates an increased propensity for 'up', receptor accessible conformation of the Spike protein trimer. 
+# Cai et al. (2021)
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
