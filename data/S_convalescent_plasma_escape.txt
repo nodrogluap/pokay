@@ -1,3 +1,8 @@
+# In a Syrian hamster model, B.1.351 variant virus had >4x reduction in YRNT90 (measure of neutralization) using wild type convalescent sera.
+# PG: Note that exact sequence for B.1.351 used was not disclosed.
+# Cochin et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.19.440435v1
+D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
+
 # Highly ranked escape variant in most of the early and late convalescent sera in a study of 11 post-infection subjects.
 # Greaney et al. (2021) https://doi.org/10.1016/j.chom.2021.02.003
 F456A
