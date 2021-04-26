@@ -1,7 +1,7 @@
 # In 12 Moderna vaccinee sera 15 days post second dose (43 days since first vaccination), an average 2.8x decrease in reciprocal ID50 value was observed 
 # ten key point mutations in Spike in the P.1 lineage vs wildtype. A 4.8x decrease against the full P.1 type vs WA-1 was observed, though overall with 
 # a higher ID50 reciprocal value.
-# In 10 Pfizer vaccinee sera 15 days post second dose (43 days since first vaccination), an average 2.2x decrease in reciprocal ID50 value was observed 
+# In 10 Pfizer vaccinee sera 7 days or more post second dose (28 days or more since first vaccination), an average 2.2x decrease in reciprocal ID50 value was observed 
 # ten key point mutations in Spike in the P.1 lineage vs wildtype. A 3.8x decrease against the full P.1 type vs WA-1 was observed, with 
 # similar variant ID50 reciprocal value.
 # Wang et al. (2021) https://dx.doi.org/10.1101%2F2021.03.01.433466
