@@ -2,6 +2,9 @@
 # Data from other countries yield similar results: we estimate that R for VOC 202012/01 relative to other lineages is 55% (45–66%) higher in Denmark, 
 # 74% (66–82%) higher in Switzerland, and 59% (56–63%) higher in the United States, with consistent rates of displacement across regions within each country.
 # Davies et al. (2021) https://science.sciencemag.org/content/early/2021/03/02/science.abg3055
+# Primary cases infected with B.1.1.7 had an increased transmissibility of 1.5-1.7 times that of primary cases infected with other 
+# lineages. The increased transmissibility of B.1.1.7 was multiplicative across age and viral load.
+# Lyngse et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.16.21255459v1
 H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Exhibits an estimated 18.6-24% increase in transmissibility relative to wild-type circulating strains. a.k.a. 20C/L452R or B.1.427/B.1.429.
