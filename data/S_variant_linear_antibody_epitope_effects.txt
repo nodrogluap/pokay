@@ -1,3 +1,7 @@
+# Monoclonal antibodies 13G9 and 58G6 maintain fairly high neutralization potency, compared to others interfacing with E484K.
+# Li et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.19.440481v1
+E484K
+
 # ~20x resistence to mAb CQ038 by B.1.1.7 pseudotyped virus
 # Hu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.22.427749v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
