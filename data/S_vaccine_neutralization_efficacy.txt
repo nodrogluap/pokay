@@ -1,3 +1,21 @@
+# The presence of these B.1.417/B.1.429 defining variants in 189 post-mRNA-vaccination COVID-19 cases
+# was proportionally in line with lineage prevalence in Northen California during the study period,
+# suggesting no effect of these variants on immune escape.
+# Jacobson et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.14.21255431v2
+L452R;N501Y
+
+# The presence of this variant in 189 post-mRNA-vaccination COVID-19 cases
+# was proportionally in line with lineage prevalence in Northen California during the study period,
+# suggesting no effect of these variants on immune escape.
+# Jacobson et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.14.21255431v2
+L452R
+
+# The presence of this variant in 189 post-mRNA-vaccination COVID-19 cases
+# was proportionally in line with lineage prevalence in Northen California during the study period,
+# suggesting no effect of these variants on immune escape.
+# Jacobson et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.14.21255431v2
+N501Y
+
 # Using B.1.351 defining mutations for Spike, observed 4x average decrease in neutralization efficiency 
 # (but still relevant titres) for sera from 10 BNT162b2 vaccinees 12 days after second dose, but only one 
 # relevant titre 12 days after first dose. Compares unfavorably to wild type or B.1.1.7 titres.
