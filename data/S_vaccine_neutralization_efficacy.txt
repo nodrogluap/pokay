@@ -1,7 +1,7 @@
 # Neutralization assays of B.1.1.7 virus showed a reduction of 2.5-fold (14 days post 2nd dose AstraZeneca, n=15), 2.1-fold (28 days post 2nd dose AstraZeneca, n=10), 
 # and 3.3-fold (7-17 days post 2nd dose Pfizer-BioNTech, n=25).
 # PG: Note that D1119H was included in the original paper, I am assuming that's a typo and it should be D1118H
-# Supasa et al. (2021)
+# Supasa et al. (2021) https://doi.org/10.1016/j.cell.2021.02.033
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Pseudotyped D614G virus has reduced neutralization activity vs wild type: 1.2x (37 sera Pfizer median 9 
