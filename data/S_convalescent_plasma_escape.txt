@@ -1,3 +1,7 @@
+# A 1.8-fold drop in FRNT50 for B.1.351 was observed in 44 sera collected between 1 and 301 post-infection.
+# Bates et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.04.21254881v1
+L18F;D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
+
 # In 34 convalescent cases 4–9 weeks following infection in June 2020, before the emergence of B.1.1.7, neutralization titers 
 # against B.1.351 were, on average, 13.3-fold reduced compared with an early Victoria sample (p < 0.0001). Significantly, 18 
 # of 34 samples failed to reach 50% neutralization at a plasma dilution of 1:20, with a number showing a near total reduction of neutralization activity.
