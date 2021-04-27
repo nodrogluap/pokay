@@ -5,7 +5,17 @@
 # Primary cases infected with B.1.1.7 had an increased transmissibility of 1.5-1.7 times that of primary cases infected with other 
 # lineages. The increased transmissibility of B.1.1.7 was multiplicative across age and viral load.
 # Lyngse et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.16.21255459v1
+# At the national level (Italy), we estimated a mean relative transmissibility of B.1.1.7 (compared to historical lineages) ranging 
+# between 1.55 and 1.57 (with confidence intervals between 1.45 and 1.66).
+# Stefanelli et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.06.21254923v1
 H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
+
+# The relative transmissibility of P.1 estimated at the national level (Italy) varied according to the assumed 
+# degree of cross-protection granted by infection with other lineages and ranged from 1.12 (95%CI 1.03-1.23) in the 
+# case of complete immune evasion by P.1 to 1.39 (95%CI 1.26-1.56) in the case of complete cross-protection.
+# PG: variant list has been abbreviated due to mixed K417 bases in this lineage, potential miscalls of deletions
+# Stefanelli et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.06.21254923v1
+L18F;T20N;P26S;D138Y;R190S;E484K;N501Y;D614G;H655Y
 
 # Exhibits an estimated 18.6-24% increase in transmissibility relative to wild-type circulating strains. a.k.a. 20C/L452R or B.1.427/B.1.429.
 # Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
