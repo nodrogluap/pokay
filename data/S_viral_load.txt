@@ -2,6 +2,9 @@
 # both seropositive and seronegative subjects infected with B.1.1.7 ("UK variant"). 
 # PG: The PANGO tool defining Spike variants for B.1.1.7 are listed here, whereas the paper only used a test for D1118H.
 # Ratcliff et al. (2021) https://www.medrxiv.org/content/10.1101/2021.02.24.21251989v1
+# Using lack of S probe detection as a proxy for B.1.1.7 status, 275 putative B.1.1.7 samples and 390 "wild type" SARS-CoV-2 positive
+# samples in Wales were compared for Ct values, suggesting ~12-fold increase (~3.5 Ct decrease) in viral load for B.1.1.7 samples.
+# Couzens et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.02.21254832v1
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Hamsters infected with SARS-CoV-2 expressing spike(D614G) (G614 virus) produced higher infectious titres in nasal washes and the trachea, but not in the lungs, 
