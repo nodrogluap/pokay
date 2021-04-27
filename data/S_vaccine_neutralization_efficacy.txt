@@ -105,6 +105,11 @@ D80A;D215G;K417N;E484K;N501Y;A701V
 # Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
 # In human sera 8 weeks post-vaccination with INO-4800, a ~2-fold reduction in P.1 neutralization was observed.
 # Andrade et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.14.439719v1
+# Among 46,884 HCWs in Manaus, Brazil vaccinated with at least one dose of CoronaVac, a 0.50-fold reduction (adjusted vaccine 
+# effectiveness, 49.6%; 95% CI, 11.3 - 71.4) in the odds of 
+# symptomatic SARS-CoV-2 infection was observed during the period 14 days or more after receiving the first dose.
+# Estimated vaccine effectiveness of at least one dose against any SARS-CoV-2 infection was 35.1% (95% CI, −6.6 - 60.5) in the same time period.
+# Hitchlings et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.07.21255081v1
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I
 
 # Average 2x neutralization efficiency decrease against sera from 26 Phase II trial Covaxin (BBV152) vaccine recipents. 
