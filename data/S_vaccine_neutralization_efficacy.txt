@@ -27,7 +27,7 @@ H69del;V70del;Y144del;E484K;N501Y;A570D;P681H;T716I;S982A;D1118H
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Vaccinees that tested positive at least a week after the second dose were indeed disproportionally infected with B.1.351, 
-# as compared with unvaccinated individuals (odds ratio of 8:1).
+# as compared with unvaccinated individuals (odds ratio of 8:1), but were all infected before 14 days post second vaccination.
 # Kustin et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.06.21254882v2
 L18F;D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
 
