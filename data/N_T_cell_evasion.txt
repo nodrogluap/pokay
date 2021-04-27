@@ -1,0 +1,21 @@
+# Variant causes complete loss of T cell line responsiveness to B*27:05-restricted CD8+ ORF3a epitope QRNAPRITF 1-17(2,13).
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+P13L
+
+# Variant causes complete loss of T cell line responsiveness to B*27:05-restricted CD8+ ORF3a epitope QRNAPRITF 1-17(2,13).
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+P13S
+
+# Variant causes complete loss of T cell line responsiveness to B*27:05-restricted CD8+ ORF3a epitope QRNAPRITF 1-17(2,13).
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+P13T
+
+# Variant causes complete loss of T cell line responsiveness to A*03:01/A*11:01-restricted CD8+ ORF3a epitope 
+# KTFPPTEPK 361-369(2,8,10,20), which otherwise is "consistently dominant and of high magnitude".
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+T362I
+
+# Variant causes complete loss of T cell line responsiveness to A*03:01/A*11:01-restricted CD8+ ORF3a epitope 
+# KTFPPTEPK 361-369(2,8,10,20), which otherwise is "consistently dominant and of high magnitude".
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+P365S
