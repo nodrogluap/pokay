@@ -1,3 +1,12 @@
+# We analyzed 34 convalescent samples including the WHONIBSC 20/130 reference serum, and, although 
+# a few sera showed near identical FRNT 50 values, the FRNT50 dilutions for the B.1.1.7 strain 
+# were 2.9-fold lower (geometric mean) than those for the Victoria strain (p < 0.0001).
+# Sera from 13 subjects post-B.1.1.7 infection showed no significant change in neutralization against Victoria (~wild type),
+# suggesting that B.1.1.7 infection also protects against ancestral virus.
+# PG: Note that D1119H was included in the original paper, I am assuming that's a typo and it should be D1118H
+# Supasa et al. (2021) https://doi.org/10.1016/j.cell.2021.02.033
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
 # Virus evolution data in 9 immunocomprised patients with long active COVID-19 infections was gathered, showing sequence deletion hotspots.
 # This variant was present in 1 patient.
 # McCarthy et al. (2021) https://doi.org/10.1126/science.abf6950
