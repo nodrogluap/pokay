@@ -1,3 +1,8 @@
+# No significant change in virus neutralzation by 18 Pfizer two dose vaccinnee sera compared to B.1.1.7.
+# PG: results without include A27S seem generaluzable as this is not a lineage defining mutation.
+# Zuckerman et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.25.21253908v1
+D614G;P681H
+
 # Using HIV pseudotype: Neutralization potency of 11 Moderna mRNA1273-elicited plasma (7-27 days post-2nd dose) was
 # reduced ~2.8-fold compared to wildtype (D614G) S. 
 # It was reduced ~4-fold in 14 Pfizer/BioNtech BNT162b2-elicited plasma (7-27 days post-2nd dose). 
