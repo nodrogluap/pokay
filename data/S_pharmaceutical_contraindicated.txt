@@ -12,3 +12,9 @@ D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
 # Entry driven by the S proteins of the B.1.351 was partially resistant against Casirivimab.
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
+
+# Bamlanivimab (LY-CoV555) entirely lost its neutralizing activity due to the central location of
+# L452R in the epitopes recognized by this mAb.
+# Regdanvimab (CT-P59), and to a smaller extent etesevimab, showed a reduction in neutralization potency.
+# McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1
+L452R
