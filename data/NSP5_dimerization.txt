@@ -1,5 +1,5 @@
 # This mutation demonstrates that glutathionylation (in vivo oxidative post-translational modification of cysteine) of Mpro/NSP5 residue C300
-# is responsabile for controlling the dimerization of the protein, where the monomer's protease acrivity is hampereed by the collapsing 
+# is responsable for controlling the dimerization of the protein, where the monomer's protease activity is hampereed by the collapsing 
 # of the active site pocket.
 # Davis et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.09.439169v2
 C300S
