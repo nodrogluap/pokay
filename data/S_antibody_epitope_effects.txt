@@ -1,3 +1,33 @@
+# 10 of 14 RBD-specific mAbs that showed at least 10-fold reduced neutralization of B.1.427/B.1.429 variant pseudotype (S13I, W152C, and L452R) were also found
+# to poorly bind to just a L452R RBD mutant, demonstrating a role for this mutation as an escape
+# mechanism for certain RBD-targeting mAbs.
+# McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1
+L452R
+
+# 14 of 34 RBD-specific mAbs showed reduced neutralization to the B.1.427/B.1.429 variant pseudotype.
+# McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1
+S13I, W152C, and L452R
+
+# The S13I mutation dampened binding of 5 mAbs and abrogated binding of 5 additional mAbs out of 11 neutralizing mAbs evaluated.
+# Predicted to shift the signal peptide cleavage site from S13-Q14 to C15-V16, which can affect NTD conformation. 
+# PG: in saying S12F does not shift the signal peptide nor affect mAb binding, this manuscript appears to contradict the 
+# text of McCallum et al.'s earlier 2021 manuscript stating that S12F *does* affected some mAb binding
+# via putative signal peptide shift.
+# McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1
+S13I
+
+# The W152C mutation reduced recognition of six NTD neutralizing mAbs, including a complete loss of binding for two of them, with a complementary
+# pattern to that observed for S13I (also found in lineage B.1.427/B.1.429) out of 11 neutralizing mAbs evaluated.
+# McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1
+W152C
+
+# The B.1.427/B.1.429 S13I/W152C NTD did not bind to any NTD-directed neutralizing mAbs, which are known to
+# target a single antigenic site (antigenic site i), whereas binding of the non-neutralizing
+# S2L20 mAb to the NTD antigenic site iv was not affected by any mutants, confirming proper
+# retention of folding.
+# McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1
+S13I;W152C
+
 # Contrary to other reports on N501Y containing lineages (i.e. with additional mutations), N501Y alone may
 # have an even greater affinity for a human monoclonal antibody specific for wild type. These results suggest that
 # the individual N501Y mutation does not contribute to altered viral properties by itself, but
