@@ -1,12 +1,15 @@
 # VSV pseudotype B.1.1.7 showed no significant difference in cell entry relative to wild type in 6 cell lines.
+# Cell fusion proficiency was unchanged.
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # VSV pseudotype B.1.351 showed slight decrease in cell entry relative to wild type in 263T-ACE2 (kidney) cell line, and slight increase in Calu-3 (lung).
+# Cell fusion proficiency was slight impaired.
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
 D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
 
 # VSV pseudotype P.1 showed slight decrease in cell entry relative to wild type in 262T and 263T-ACE2 (kidney) cell lines.
+# Cell fusion proficiency was slight impaired.
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
