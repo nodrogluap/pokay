@@ -1,4 +1,4 @@
-# We estimate that this [B1.1.17] variant has a 43–90% (range of 95% credible intervals 38–130%) higher reproduction number than preexisting variants.
+# We estimate that this [B.1.1.17] variant has a 43–90% (range of 95% credible intervals 38–130%) higher reproduction number than preexisting variants.
 # Data from other countries yield similar results: we estimate that R for VOC 202012/01 relative to other lineages is 55% (45–66%) higher in Denmark, 
 # 74% (66–82%) higher in Switzerland, and 59% (56–63%) higher in the United States, with consistent rates of displacement across regions within each country.
 # Davies et al. (2021) https://science.sciencemag.org/content/early/2021/03/02/science.abg3055
@@ -8,6 +8,8 @@
 # At the national level (Italy), we estimated a mean relative transmissibility of B.1.1.7 (compared to historical lineages) ranging 
 # between 1.55 and 1.57 (with confidence intervals between 1.45 and 1.66).
 # Stefanelli et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.06.21254923v1
+# Ontario, Feb 2021: The secondary attack rate for VOC index cases in this matched cohort was 1.31 times higher than non-VOC index cases (RR=1.31, 95%CI 1.14-1.49)
+# Buchan et al. (2021) ttps://www.medrxiv.org/content/10.1101/2021.03.31.21254502v1
 H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # The relative transmissibility of P.1 estimated at the national level (Italy) varied according to the assumed 
