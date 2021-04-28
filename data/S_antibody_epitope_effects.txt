@@ -1,3 +1,10 @@
+# Contrary to other reports on N501Y containing lineages (i.e. with additional mutations), N501Y alone may
+# have an even greater affinity for a human monoclonal antibody specific for wild type. These results suggest that
+# the individual N501Y mutation does not contribute to altered viral properties by itself, but
+# may contribute to a collective conformational shift produced by multiple mutations.
+# Klegerman et al. (2021) https://doi.org/10.1101/2021.04.26.441517
+N501Y
+
 # Testing against B.1.351 the 20 most effective mAbs (19 anti-RBD, 1 anti-NTD) from a screen of 377 against wild type, 
 # 4 of 20 antibodies had >10-fold fall in neutralization titers, with most of these showing a complete knockout of 
 # activity. This is in line with the key roles of K417, E484, and N501, in particular E484, in antibody recognition 
