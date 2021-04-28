@@ -26,6 +26,14 @@ H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # Significant increase in ICU rate (2.1% vs 0.6% for non-VOC cases).
 # Significant increase in health care worker rate (19.8% vs 8.0% for non-VOC cases).
 # Funk et al. (2021) https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.16.2100348
+# In the Paran state of Brazil, patients aged 20-29 years experienced a tripling of their case fatality rate (CFR), from 0.04% to 0.13%, while those aged 
+# 30-39, 40-49, 50-59 experienced approximate CFR doubling comparing February to January in 2021. Notably, 
+# the observed CFR increase coincided with the second consecutive month of declining number of diagnosed SARS-CoV-2 cases. 
+# Taken together, these preliminary findings suggest significant increases in CFR in young and middle-aged adults after 
+# identification of a novel SARS-CoV-2 strain circulating in Brazil. 
+# PG: this is somewhat indirect evidence that assume greatly increasing proportion of P.1 cases in March (70%) compared to 
+# February, but the first official ID of P.1 in Parana state (Feb 16th) may be due to testing procedures rather than actual prevalence?
+# Santos de Oliviera et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.24.21254046v1
 L18F;K417T;E484K;N501Y;H655Y
 
 # On average across 7 European countries studied, using B.1.351 defining mutations:
