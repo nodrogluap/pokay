@@ -10,6 +10,10 @@
 # Stefanelli et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.06.21254923v1
 # Ontario, Feb 2021: The secondary attack rate for VOC index cases in this matched cohort was 1.31 times higher than non-VOC index cases (RR=1.31, 95%CI 1.14-1.49)
 # Buchan et al. (2021) ttps://www.medrxiv.org/content/10.1101/2021.03.31.21254502v1
+# Oslo, Norway: Within households, we find an increase in the secondary attack rate by 60% (20% 114%) compared to other variants. 
+# In general, we find a significant increase in the estimated reproduction number of 24% (95% CI 0% - 52%), or an absolute 
+# increase of 0.19 compared to other variants.
+# Lindstrøm et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.29.21254122v1
 H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # The relative transmissibility of P.1 estimated at the national level (Italy) varied according to the assumed 
