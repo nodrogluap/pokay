@@ -3,6 +3,13 @@
 # NERVTAG Consortium (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/961042/S1095_NERVTAG_update_note_on_B.1.1.7_severity_20210211.pdf
 # Danish study of the B.1.1.7 lineage shows hospital admission odds ratio of 1.63 vs other lineages. The adjusted OR was increased in all strata of age.
 # Bager et al. (2021) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3792894
+# On average across 7 European countries studied, using B.1.1.7 defining mutations:
+# Significant shift to asymptomatic cases (27.4% vs 18.6% for non-VOC cases). 
+# Significant shift to infection in those without pre-existing conditions (44.8% vs 89% for non-VOC cases).
+# Significant increase in hospitalization rate (11% vs 7.5% for non-VOC cases).
+# Significant increase in ICU rate (1.4% vs 0.6% for non-VOC cases).
+# Significant decrease in death rate (2.0% vs vs 4.0% for non-VOC cases).
+# Funk et al. (2021) https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.16.2100348
 H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # In the Southern Brazilian stats of Rio Grande do Sul, comparing pre-P.1 and post-P.1 waves: 
@@ -13,4 +20,18 @@ H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # November-December. This maybe due to a combination of changes in pathogenicity and virulence profiles, and health system overload.
 # PG: exact mutations used to define P.1 lineage not disclosed in this publication
 # Ribas Freitas et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.13.21255281v1
-L18F;D80A;D215G;L242;A243;L244;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
+# On average across 7 European countries studied, using P.1 defining mutations:
+# Significant shift to infection in those without pre-existing conditions (27.8% vs 89% for non-VOC cases).
+# Significant increase in hospitalization rate (20% vs 7.5% for non-VOC cases).
+# Significant increase in ICU rate (2.1% vs 0.6% for non-VOC cases).
+# Significant increase in health care worker rate (19.8% vs 8.0% for non-VOC cases).
+# Funk et al. (2021) https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.16.2100348
+L18F;K417T;E484K;N501Y;H655Y
+
+# On average across 7 European countries studied, using B.1.351 defining mutations:
+# Significant shift to infection in those without pre-existing conditions (79.6% vs 89% for non-VOC cases).
+# Significant increase in hospitalization rate (19.3% vs 7.5% for non-VOC cases).
+# Significant increase in ICU rate (2.3% vs 0.6% for non-VOC cases).
+# PG: seems to be different notations around the LAL deletion, using the minimal shared definition to catch as many as possible.
+# Funk et al. (2021) https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.16.2100348
+D80A;D215G;L242del;A243del;K417N;E484K;N501Y;D614G;A701V
