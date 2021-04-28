@@ -3,3 +3,9 @@
 # in nucleocapsid in this lineage which increases complementarity with the genomic leader sequence. 
 # Parker et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.02.433156v1
 D3L
+
+# This variant, likely arisen by homologous recombination from the core sequence (CS) of the leader transcription-regulating
+# sequence (TRS), generate a novel sub-genomic RNA transcript for the C-terminal dimerization domain. It may also have increased
+# expression of sub-genomic RNA from other open reading frames, based on public data analysis.
+# Leary et al. (2021) https://www.biorxiv.org/content/10.1101/2020.04.10.029454v2
+R203K;G204R
