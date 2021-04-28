@@ -1,3 +1,22 @@
+# In 9 plasma collected 15 to 28 days after early 2020 infections, neutralization reduced 4.9-fold for
+# B.1.427/B.1.429 compared to wildtype (D614G).
+# In 13 plasma collected ~1mo after B.1.1.7 infection (nursing home in Ticino, Switzerland), neutralization 
+# reduced to undetectable levels in many plasma for B.1.427/B.1.429 pseudotyped virus, as well as WT and other VOCs. 
+# McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1.full.pdf
+S13I;W152C;L452R
+
+# In 13 plasma collected ~1mo after B.1.1.7 infection (nursing home in Ticino, Switzerland), neutralization 
+# reduced to undetectable levels in many plasma for B.1.351 pseudotyped virus, as well as WT and other VOCs. 
+# PG: paper does not detail the B.1.351 variants used, going with the most popular as an educated guess
+# McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1.full.pdf
+D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
+
+# In 13 plasma collected ~1mo after B.1.1.7 infection (nursing home in Ticino, Switzerland), neutralization 
+# reduced to undetectable levels in many plasma for P.1 pseudotyped virus, as well as WT and other VOCs. 
+# PG: paper does not detail the P.1 variants used, going with the most popular as an educated guess
+# McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1.full.pdf
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
+
 # VSV pseudotype B.1.351 showed 7.86-fold decrease in NT50 vs wild type in sera from 9 ICU patients undergoing treatment in Germany (pre-variant infections).
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
 D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
