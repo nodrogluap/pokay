@@ -1,5 +1,7 @@
 # This mutated version of RBD completely abolishes the binding to a therapeutic antibody, Bamlanivimab, in vitro.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.16.431305v1
+# Tixagevimab, Regdanvimab and COR-101 display reduced binding affinity to virus pseudotyped as RBD from B.1.351.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
 K417N,E484K,N501Y
 
 # VSV pseudotype B.1.351 entry mediated by the S proteins of the B.1.351 variant was completely resistant to blocking by REGN10989 and Bamlanivimab.
@@ -13,8 +15,48 @@ D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
+# Tixagevimab, Regdanvimab and COR-101 display reduced binding affinity to virus pseudotyped as RBD from P.1.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+K417T;E484K;N501Y
+
 # Bamlanivimab (LY-CoV555) entirely lost its neutralizing activity due to the central location of
 # L452R in the epitopes recognized by this mAb.
 # Regdanvimab (CT-P59), and to a smaller extent etesevimab, showed a reduction in neutralization potency.
 # McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1
+# Bamlanivimab (LY-CoV555) lost ~5x binding against this isolated mutation.
+# Cligavimab lost ~4x binding against this isolated mutation.
+# Regdanvimab lost ~4x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
 L452R
+
+# COR-101 lost ~6x binding against this isolated mutation.
+# Estesevimab lost ~40x binding against this isolated mutation.
+# Regdanvimab lost ~8x binding against this isolated mutation.
+# m396 lost ~10x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+E406W
+
+# COR-101 lost ~6x binding against this isolated mutation.
+# Estesevimab lost ~100x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+K417N
+
+# COR-101 lost ~16x binding against this isolated mutation.
+# Estesevimab lost ~16x binding against this isolated mutation.
+# m396 lost ~8x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+K417T
+
+# Cligavimab lost ~8x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+K444Q
+
+# Cligavimab lost ~16x binding against this isolated mutation.
+# Imdevimab lost ~16x binding against this isolated mutation (the only RBD variant to do so).
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+G446V
+
+# Bamlanivimab (LY-CoV555) lost ~4x binding against this isolated mutation.
+# Casirivimab lost ~300x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+Y543F
