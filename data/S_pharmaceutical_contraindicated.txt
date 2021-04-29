@@ -60,3 +60,101 @@ G446V
 # Casirivimab lost ~300x binding against this isolated mutation.
 # Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
 Y543F
+
+# COR-101 lost ~50x binding against this isolated mutation.
+# Estesevimab lost ~8x binding against this isolated mutation.
+# Sotrovimab lost ~30x binding against this isolated mutation.
+# Tixagevimab lost ~15x binding against this isolated mutation.
+# m396 lost ~8x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+A475V
+
+# Bamlanivimab (LY-CoV555) lost ~8x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+E484A
+
+# Bamlanivimab (LY-CoV555) lost ~16x binding against this isolated mutation.
+# Casirivimab lost ~16x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+E484K
+
+# Bamlanivimab (LY-CoV555) lost ~20x binding against this isolated mutation.
+# Casirivimab lost ~4x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+E484Q
+
+# Casirivimab lost ~5x binding against this isolated mutation.
+# Estesevimab lost ~10x binding against this isolated mutation.
+# Regdanvimab lost ~10x binding against this isolated mutation.
+# Tixagevimab lost ~10x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+F486K
+
+# Bamlanivimab (LY-CoV555) lost ~8x binding against this isolated mutation.
+# Regdanvimab lost ~32x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+S494P
+
+# COR-101 lost ~8x binding against this isolated mutation.
+# Regdanvimab lost ~6x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+N501F
+
+# Estesevimab lost ~6x binding against this isolated mutation.
+# m396 lost ~16x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+N501S
+
+# Estesevimab lost ~12x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+N501T
+
+# COR-101 lost ~8x binding against this isolated mutation.
+# Regdanvimab lost ~6x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+N501Y
+
+# CR3022 (SARS-targeting mAb) cross-reactivity lost ~4x binding against this isolated mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+A520S
+
+# Bamlanivimab (LY-CoV555) lost ~32x binding against this double mutation.
+# COR-101 lost ~160x binding against this double mutation.
+# Casirivimab lost ~16x binding against this double mutation.
+# Estesevimab lost ~32x binding against this double mutation.
+# Regdanvimab lost ~4x binding against this double mutation.
+# Tixagevimab lost ~12x binding against this double mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+E484K;K417N
+
+# COR-101 lost ~12x binding against this double mutation.
+# Casirivimab lost ~64x binding against this double mutation.
+# Cligavimab lost ~6x binding against this double mutation.
+# Estesevimab lost ~10x binding against this double mutation.
+# Imdevimab lost ~5x binding against this double mutation.
+# Regdanvimab lost ~8x binding against this double mutation.
+# Sotrovimab lost ~4x binding against this double mutation.
+# Tixagevimab lost ~12x binding against this double mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+N439K;Y453F
+
+# Bamlanivimab (LY-CoV555) lost ~10x binding against this double mutation.
+# Tixagevimab lost ~16x binding against this double mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+S477N;E484K
+
+# Bamlanivimab (LY-CoV555) lost ~64x binding against this double mutation.
+# COR-101 lost ~50x binding against this double mutation.
+# Casirivimab lost ~250x binding against this double mutation.
+# Estesevimab lost ~16x binding against this double mutation.
+# Regdanvimab lost ~32x binding against this double mutation.
+# Tixagevimab lost ~10x binding against this double mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+N501Y;E484K
+
+# COR-101 lost ~20x binding against this double mutation.
+# Estesevimab lost ~16x binding against this double mutation.
+# Regdanvimab lost ~6x binding against this double mutation.
+# M396 lost ~10x binding against this double mutation.
+# Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
+N501Y;K417N
