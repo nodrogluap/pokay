@@ -1,0 +1,9 @@
+# Arginine methylation of N protein is required for its RNA binding capacity, since treatment with a type I PRMT inhibitor (MS023) 
+# or substitution of R95K or R177K inhibited interaction with the 5’-UTR of the SARS-CoV-2 genomic RNA.
+# Cai et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436822v1
+R95X
+
+# Arginine methylation of N protein is required for its RNA binding capacity, since treatment with a type I PRMT inhibitor (MS023) 
+# or substitution of R95K or R177K inhibited interaction with the 5’-UTR of the SARS-CoV-2 genomic RNA.
+# Cai et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436822v1
+R177X
