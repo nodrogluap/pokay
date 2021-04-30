@@ -24,6 +24,10 @@ S13I;W152C;L452R
 # VSV pseudotype B.1.1.7 showed 1.77-fold reduction in neutralization efficiency vs wild type in 15 Pfizer BNT162b2 vaccinee sera 13-15 days post second dose.
 # Cell fusion proficiency was unchanged.
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
+# Lineage B.1.1.7 spike–pseudotyped VSV was tested for neutralization vs Wuhan reference genome pseudotype in 40 sera collected
+# 7 or 21 days post-booster dose. Statistically signficant change (22%) in neutralization was observed among the 26 sera from those <=55yo, 
+# but not in the 14 sera from those >55yo. A ~20% change is not considered immunologically significant historically in influenza antiboduy studies. 
+# Muik et al. (2021) https://science.sciencemag.org/content/371/6534/1152
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # VSV pseudotype B.1.351 showed 7.85-fold reduction in neutralization efficiency vs wild type in 15 Pfizer BNT162b2 vaccinee sera 13-15 days post second dose.
