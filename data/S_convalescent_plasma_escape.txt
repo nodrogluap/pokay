@@ -1,3 +1,13 @@
+# Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed no significant 
+# change in IC50 serum dilution concentration for 6 convalescent sera.
+# Zhou et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436620v1
+L5F;T95I;D253G;S477N;D614G;A701V
+
+# Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.8x reduction in 
+# IC50 serum dilution concentration for 6 convalescent sera.
+# Zhou et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436620v1
+L5F;T95I;D253G;E484K;D614G;A701V
+
 # In 9 plasma collected 15 to 28 days after early 2020 infections, neutralization reduced 4.9-fold for
 # B.1.427/B.1.429 compared to wildtype (D614G).
 # In 13 plasma collected ~1mo after B.1.1.7 infection (nursing home in Ticino, Switzerland), neutralization 
@@ -179,6 +189,9 @@ K417N;E484K;N501Y;D614G
 
 # Average ~5-fold reduction in neutralization efficay in convalescent sera of 16 health workers infected in Spring 2020.
 # Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
+# Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.3x reduction in 
+# IC50 serum dilution concentration for 6 convalescent sera.
+# Zhou et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436620v1
 E484K
 
 # No notable change in neutralization efficiency, despite N439K by itself showing a ~2x decrease on average in 16 health workers' convalescent sera.
