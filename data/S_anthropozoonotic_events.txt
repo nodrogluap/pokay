@@ -1,3 +1,8 @@
+# These variants dominate in mink infections in North America, sometime supplemented with F486L.  
+# The Y453F variant found in other jurisdictions in mink infections is notably absent in North America.
+# Cai and Cai (2021) https://www.medrxiv.org/content/10.1101/2021.03.18.21253734v3
+N501T;G142D
+
 # Observed first in a single tiger (cohort of 5), potential adaptation.
 # McAloose et al. (2020) https://dx.doi.org/10.1128/mBio.02220-20
 Y505H
