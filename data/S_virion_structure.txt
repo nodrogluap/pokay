@@ -6,6 +6,8 @@
 # Negative stain EM shows increased proportion of "one-up" trimer conformation of Spike proteins on the surface of virions, where the up 
 # conformation is presumed to be more likely to bind ACE2.
 # Weissman et al. (2020) https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v2
+# Estimated free energy change (ddG) for this variant is 2.5 kcal/mol (i.e. stabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
 D614G
 
 # CryoEM analysis of B.1.1.7 demonstrates an increased propensity for 'up', receptor accessible conformation of the Spike protein trimer. 
@@ -23,3 +25,63 @@ L18F;D80A;L242del;A243del;L244del
 # CryoEM reveals the P.1 trimer to adopt exclusively a conformation in which one of the receptor-binding domains is in the “up” position.
 # Wang et al. (2021) https://dx.doi.org/10.1101%2F2021.03.01.433466
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y
+
+# Estimated free energy change (ddG) for this variant is 1.51 kcal/mol (i.e. stabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+T1027I
+
+# Estimated free energy change (ddG) for this variant is 0.98 kcal/mol (i.e. stabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+D215G
+
+# Estimated free energy change (ddG) for this variant is 0.87 kcal/mol (i.e. stabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+H655Y
+
+# Estimated free energy change (ddG) for this variant is 0.69 kcal/mol (i.e. stabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+N501Y
+
+# Estimated free energy change (ddG) for this variant is 0.43 kcal/mol (i.e. stabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+D138Y
+
+# Estimated free energy change (ddG) for this variant is 0.33 kcal/mol (i.e. stabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+R246I
+
+# Estimated free energy change (ddG) for this variant is 0.22 kcal/mol (i.e. stabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+S477N
+
+# Estimated that there is no free energy change (ddG) for this variant (i.e. same stability as wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+D80A
+
+# Estimated that there is very little free energy change (ddG. -0.02 kcal/mol) for this variant (i.e. approx. same stability as wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+D80A
+
+# Estimated free energy change (ddG) for this variant is -0.33 kcal/mol (i.e. destabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+A701V
+
+# Estimated free energy change (ddG) for this variant is -0.6 kcal/mol (i.e. destabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+E484K
+
+# Estimated free energy change (ddG) for this variant is -0.64 kcal/mol (i.e. destabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+K417T
+
+# Estimated free energy change (ddG) for this variant is -0.67 kcal/mol (i.e. destabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+L452R
+
+# Estimated free energy change (ddG) for this variant is -0.69 kcal/mol (i.e. destabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+R190S
+
+# Estimated free energy change (ddG) for this variant is -0.86 kcal/mol (i.e. destabilizing relative to wild type) 
+# Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
+K417N
