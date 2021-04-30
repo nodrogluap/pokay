@@ -135,6 +135,9 @@ K417N;E484K;N501Y
 # Observed 1.3-fold reduction in neutralization efficiency of Pfizer vaccinee sera (collected 14 days after second dose) 
 # against pseudotype B.1.1.7 key variant lentivirus. Compare to 2.6-fold reduction against cultured B.1.1.7 virus.
 # Bates et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.04.21254881v1
+# Human sera from 6 single-dose Pfizer vaccinated individuals (47-68 days post-dose) can neutralize both the reference 
+# USA-WA1/2020 strain and the mouse adapted SARS-CoV-2 strain that contains the N501Y spike mutation with similar efficiency.
+# Rathnasinghe et al. (2021) https://dx.doi.org/10.1101%2F2021.01.19.21249592
 N501Y
 
 # Observed 8.8-fold reduction in neutralization efficiency of Pfizer vaccinee sera (collected 14 days after second dose) against cultured B.1.1.7 sample.
