@@ -1,3 +1,13 @@
+# Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed no significant change in IC50 serum dilution concentration
+# for sera from BNT162b2 (Pzifer) or mRNA1273 (Moderna) vacinees collected 28 days following booster dose.
+# Zhou et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436620v1
+L5F;T95I;D253G;S477N;D614G;A701V
+
+# Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.6x reduction in both
+# IC50 serum dilution concentration for sera from 5 BNT162b2 (Pzifer) or 3 mRNA1273 (Moderna) vacinees collected 28 days following booster dose.
+# Zhou et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436620v1
+L5F;T95I;D253G;E484K;D614G;A701V
+
 # No significant change in virus neutralzation by 18 Pfizer two dose vaccinnee sera compared to B.1.1.7.
 # PG: results without include A27S seem generaluzable as this is not a lineage defining mutation.
 # Zuckerman et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.25.21253908v1
@@ -19,6 +29,9 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # VSV pseudotype B.1.351 showed 7.85-fold reduction in neutralization efficiency vs wild type in 15 Pfizer BNT162b2 vaccinee sera 13-15 days post second dose.
 # Cell fusion proficiency was slight impaired.
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
+# B.1.351 pseudotyped lentivirus showed 3.4 and 3.8x reduction in IC50 serum dilution concentration
+# for sera from BNT162b2 (Pzifer) or mRNA1273 (Moderna) vacinees collected 28 days following booster dose.
+# Zhou et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436620v1
 D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
 
 # VSV pseudotype P.1 showed 5.12-fold reduction in neutralization efficiency vs wild type in 15 Pfizer BNT162b2 vaccinee sera 13-15 days post second dose.
