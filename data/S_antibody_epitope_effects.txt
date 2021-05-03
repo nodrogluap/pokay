@@ -1,3 +1,52 @@
+# >90% drop in antibody binding (ELISA) by this variant against mAbs VH-Fc and IgG1 ab1.
+# Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
+E406W
+
+# >20% (ELISA signficance threshold) drop in antibody binding (ELISA) by this variant against IgG1 monoclonal antibody ab1.
+# Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
+K417N
+
+# ~20% (ELISA signficance threshold) drop in antibody binding (ELISA) by this variant against monoclonal antibody VH ab6.
+# Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
+K444N
+
+# ~20% (ELISA signficance threshold) drop in antibody binding (ELISA) by this variant against monoclonal antibody VH ab6.
+# Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
+L452R
+
+# Complete loss of binding in ELISA by the variant against monoclonal antibody VH-Fc ab8
+# Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
+E484K
+
+# >20% (ELISA signficance threshold) drop in antibody binding by this variant against monoclonal antibody VH-Fc ab8.
+# Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
+E484Q
+
+# Nearly complete loss of binding in ELISA by the variant against monoclonal antibody VH-Fc ab8.
+# >20% (ELISA signficance threshold) drop in antibody binding by this variant against IgG1 monoclonal antibody ab1.
+# Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
+E484D
+
+# >60% drop in antibody binding (ELISA) by this variant against monoclonal antibody VH-Fc ab8.
+# Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
+F486S
+
+# >20% (ELISA signficance threshold) drop in antibody binding by this variant against IgG1 monoclonal antibody ab1.
+# Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
+N487R
+
+# Complete loss of binding in ELISA by the variant against monoclonal antibody ab8
+# Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
+F490L
+
+# Complete loss of binding in ELISA by the variant against monoclonal antibody ab8
+# Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
+F490S
+
+# Complete loss of binding in ELISA by the variant against monoclonal antibodies ab8 and IgG1 ab1.
+# Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
+K417N;E484K;N501Y
+
 # 10 of 14 RBD-specific mAbs that showed at least 10-fold reduced neutralization of B.1.427/B.1.429 variant pseudotype (S13I, W152C, and L452R) were also found
 # to poorly bind to just a L452R RBD mutant, demonstrating a role for this mutation as an escape
 # mechanism for certain RBD-targeting mAbs.
