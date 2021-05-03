@@ -46,6 +46,7 @@ F490S
 # Complete loss of binding in ELISA by the variant against monoclonal antibodies ab8 and IgG1 ab1.
 # Complete loss for the same antibodies was also observed against S1 pseudotyped and full Spike 
 # protein trimers with both B.1.351 and P.1 lineage variants, with slight binding signal for P.1 against IgG1 at the highest concentration tested (1uM).
+# Complete loss of neutralization by these two antibodies was also observed.
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 K417N;E484K;N501Y
 
