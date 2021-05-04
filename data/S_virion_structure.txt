@@ -1,3 +1,27 @@
+# The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation, 
+# due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
+# by improved proteolytic processing.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+P681H
+
+# The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation, 
+# due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
+# by improved proteolytic processing.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+A570D
+
+# The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation combination, 
+# due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
+# by improved proteolytic processing.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+H69del;V70del;N501Y
+
+# The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation combination, 
+# due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
+# by improved proteolytic processing.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+H69del;V70del;N501Y;P681H
+
 # Relative to D614G, this mutation demonstrated significant increase in infectivity (i.e. heat stability) after incubation at 50C after 30 minutes or 1 hour
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
 N501Y
