@@ -20,6 +20,7 @@ D1118H
 # Reynolds et al. (2021) https://science.sciencemag.org/content/early/2021/04/29/science.abh1282
 E484K
 
+# Vaccinated, but not post-infection sera, show decreased average T cell response to an N501Y peptide.
 # When we primed transgenic mice expressing human HLA-DRB1*0401 with the Wuhan Hu-1 peptide pool, 
 # T cell responses to the B.1.1.7 variant peptide pool were significantly reduced (p = 0.0286). 
 # Furthermore, the T cell response to the spike N501Y mutation common to all three of the current VOC was ablated.
