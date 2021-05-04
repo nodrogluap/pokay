@@ -1,6 +1,212 @@
+# Lentiviral pseudotyped with this individual mutation from B.1.1.7
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing slightly increased infection rate amongst the cells. 
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+Y144del
+
+# Lentiviral pseudotyped with this individual mutation from B.1.1.7
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing slightly increased infection rate amongst the cells. 
+# PG: in what is essentially a replicate experiment in the same paper, because each 
+# B.1.351 lineage variant was independetly evaluated and N501 is in both lineages, 
+# a signficant decrease was observed, therefore the error bars described in this paper
+# should be interpreted carefully.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+N501Y
+
+# Lentiviral pseudotyped with this individual mutation from B.1.1.7
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing statistically significant increased infection rate amongst the cells. 
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+A570D
+
+# Lentiviral pseudotyped with this individual mutation from B.1.1.7
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing NO statistically significant infection rate change amongst the cells, suggesting that
+# furin cleavage typically used for cell entry is not affected by this change one 
+# amino acid upstream of the RXXR recognition pattern. 
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+P681H
+
+# Lentiviral pseudotyped with this individual mutation from B.1.1.7
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing major decrease in infection rate amongst the cells, hence this individual variant 
+# is unlikely to contribute to cell entry fitness. 
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+T716I
+
+# Lentiviral pseudotyped with this individual mutation from B.1.1.7
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing major (70%) increase in infection rate amongst the cells, hence this individual variant 
+# is likely to significantly contribute to cell entry fitness. 
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+S982A
+
+# Lentiviral pseudotyped with this individual mutation from B.1.1.7
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing mild decrease in infection rate amongst the cells, hence this individual variant 
+# is unlikely to contribute to cell entry fitness. 
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+D1118H
+
+# Lentiviral pseudotyped with this mutation set from B.1.1.7
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing significant (40%) increase in infection rate amongst the cells, much more than the effect of 
+# either the deletion or the point mutation alone, suggetsing that this combination has a synergistic effect 
+# contributing to cell entry fitness, moreso than this combination with the addition of P681H.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+H69del;V70del;N501Y
+
+# Lentiviral pseudotyped with this mutation set from B.1.1.7
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing significant (40%) increase in infection rate amongst the cells, much more than the effect of 
+# either the deletion or the point mutation alone, suggetsing that this combination has a synergistic effect 
+# contributing to cell entry fitness, but to a smaller extent than N501Y and the deletion alone.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+H69del;V70del;N501Y;P681H
+
+# Lentiviral pseudotyped with this individual mutation from B.1.351
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing mild decrease in infection rate amongst the cells, suggetsing that this 
+# mutation does not contributing to cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+L18F
+
+# Lentiviral pseudotyped with this individual mutation from B.1.351
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing mild decrease in infection rate amongst the cells, suggesting that this 
+# mutation does not contributing to cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+D80A
+
+# Lentiviral pseudotyped with this individual mutation from B.1.351
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing mild decrease in infection rate amongst the cells, suggesting that this 
+# mutation does not contributing to cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+D215G
+
+# Lentiviral pseudotyped with this individual mutation from B.1.351
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing mild decrease in infection rate amongst the cells, suggesting that this 
+# deletion does not contributing to cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+L242del;A243del;L244del
+
+# Lentiviral pseudotyped with this individual mutation from B.1.351
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing mild decrease in infection rate amongst the cells, suggesting that this 
+# mutation does not contributing to cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+R246I
+
+# Lentiviral pseudotyped with this individual mutation from B.1.351
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing mild decrease in infection rate amongst the cells, suggesting that this 
+# mutation does not contributing to cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+K417N
+
+# Lentiviral pseudotyped with this individual mutation from B.1.351
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing no change in infection rate amongst the cells.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+E484K
+
+# Lentiviral pseudotyped with this individual mutation from B.1.351
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing mild decrease in infection rate amongst the cells, suggesting that this 
+# mutation does not contributing to cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+A701V
+
+# Lentiviral pseudotyped with all key mutations from B.1.351 lineage
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing modest decrease in infection rate amongst the cells, suggesting some synergy between the mutations
+# to decrease cell entry fitness (i.e. cell entry is liklely not the driver of this lineage's dominance).
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+L18F;D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
+
+# Lentiviral pseudotyped with the key mutations from 20A.EU2 lineage
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing no significant change in infection rate amongst the cells, suggesting that this 
+# mutation does not contributing to cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+S477N;D614G
+
+# Lentiviral pseudotyped with the key mutations from COH.20G/677H lineage
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing no significant change in infection rate amongst the cells, suggesting that this 
+# mutation does not contributing to cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+N501Y;D614G;Q677H
+
+# Lentiviral pseudotyped with all key mutations from Mink Cluster 5 lineage,
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing major (~50%) decrease in infection rate amongst the cells, suggesting that this 
+# anthropozoonotic event is driven by other factors at the expense of human cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+H69del;V70del;Y453F;I692V;M1229I
+
+# Lentiviral pseudotyped with this mutation from Mink Cluster 5 lineage,
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing modest decrease in infection rate amongst the cells, suggesting that this 
+# variant does not contributing to human cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
 # Decreased stability of RBD expression in yeast, suggesting decreased Spike protein stability.
 # Motozono et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.02.438288v1
 Y453F
+
+# Lentiviral pseudotyped with this mutation from Mink Cluster 5 lineage,
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing mild decrease in infection rate amongst the cells, suggesting that this 
+# variant does not contributing to human cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+I692V
+
+# Lentiviral pseudotyped with this mutation from Mink Cluster 5 lineage,
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing moderate decrease in infection rate amongst the cells, suggesting that this 
+# variant does not contributing to human cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+S1174L
+
+# Lentiviral pseudotyped with this mutation from Mink Cluster 5 lineage,
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing slight decrease in infection rate amongst the cells, suggesting that this 
+# variant does not contributing to human cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+M1229I
+
+# Lentiviral pseudotyped with this mutation set from Mink Cluster 5 lineage,
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing slight decrease in infection rate amongst the cells, much closer to
+# D614G activity level than Y453F alone, suggesting compensatory effects between the 
+# deletion and the mutation in human cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+H69del;V70del;Y453F
+
+# Lentiviral pseudotyped with this mutation set from Mink Cluster 5 lineage,
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing moderate decrease in infection rate amongst the cells, significantly lower than the 
+# deletion or Y453F alone, or their combination, suggesting a synergistic effect on 
+# poorer human cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+H69del;V70del;Y453F;I692V
+
+# Lentiviral pseudotyped with this mutation set from Mink Cluster 5 lineage,
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing no change in infection rate amongst the cells, markedly higher infectivity than 
+# either mutation alone, suggesting a synergistic net neutral effect on human cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+H69del;V70del;Y453F;M1229I
+
+# Lentiviral pseudotyped with this mutation set from Mink Cluster 5 lineage,
+# was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
+# showing mild to modest decrease in infection rate amongst the cells, suggesting a net mild 
+# negative effect on human cell entry fitness.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+H69del;V70del;Y453F;S1147L
 
 # Decreased stability of RBD expression in yeast, suggesting decreased Spike protein stability.
 # Motozono et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.02.438288v1
