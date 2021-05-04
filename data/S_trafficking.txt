@@ -1,3 +1,7 @@
+# Live virus was tested ex vivo in reconstituted brochial epithelium, and out competed wild type.
+# Touret et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436427v1
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
 # Lentiviral pseudotyped with this individual mutation from B.1.1.7
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing slightly increased infection rate amongst the cells. 
