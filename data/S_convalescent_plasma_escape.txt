@@ -1,17 +1,22 @@
+# The only mutation in the B.1.351 lineage that appers to contribte to neutralization reduction (~1.7x across 10 convalescent sera from April 2020 infectees)
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+E484K
+
 # Viruses containing the point mutations
 # of B.1.1.7 showed that the single point mutations (Δ69-70 and N501Y) were neutralized
-# as efficiently as D614G.
+# as efficiently as D614G across 10 convalescent sera from April 2020 infectees.
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
 N501Y
 
 # Viruses containing the point mutations
 # of B.1.1.7 showed that the single point mutations (Δ69-70 and N501Y) were neutralized
-# as efficiently as D614G.
+# as efficiently as D614G across 10 convalescent sera from April 2020 infectees.
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
 H69del;V70del
 
 # These key B.1.1.7 mutations as a combination neutralized slightly less well than D614G
-# and this was noticeable in the lack of sera with high neutralizing titer for the viruses.
+# and this was noticeable in the lack of sera with high neutralizing titer for the viruses 
+# across 10 convalescent sera from April 2020 infectees.
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
 H69del;V70del;N501Y;P681H
 
