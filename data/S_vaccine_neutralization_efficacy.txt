@@ -1,3 +1,21 @@
+# After one dose, individuals with prior infection showed enhanced T cell immunity, 
+# antibody secreting memory B cell response to spike and neutralizing antibodies effective 
+# against B.1.351 (authentic cell culture supernatants). By comparison, HCW receiving one vaccine dose without prior 
+# infection showed reduced immunity against variants. B.1.351 spike mutations 
+# resulted in increased, abrogated or unchanged T cell responses depending on human leukocyte 
+# antigen (HLA) polymorphisms. Study was 26 each post-infection and post first dose HCWs.
+# Reynolds et al. (2021) https://science.sciencemag.org/content/early/2021/04/29/science.abh1282
+D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
+
+# After one dose, individuals with prior infection showed enhanced T cell immunity, 
+# antibody secreting memory B cell response to spike and neutralizing antibodies effective 
+# against B.1.1.7 (authentic cell culture supernatants). By comparison, HCW receiving one vaccine dose without prior 
+# infection showed reduced immunity against variants. B.1.1.7 spike mutations 
+# resulted in increased, abrogated or unchanged T cell responses depending on human leukocyte 
+# antigen (HLA) polymorphisms. Study was 26 each post-infection and post first dose HCWs.
+# Reynolds et al. (2021) https://science.sciencemag.org/content/early/2021/04/29/science.abh1282
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed no significant change in IC50 serum dilution concentration
 # for sera from BNT162b2 (Pzifer) or mRNA1273 (Moderna) vacinees collected 28 days following booster dose.
 # Zhou et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436620v1
