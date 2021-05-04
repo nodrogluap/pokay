@@ -31,9 +31,11 @@ P681H
 # Lentiviral pseudotyped with this individual mutation from B.1.1.7
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing major decrease in infection rate amongst the cells, hence this individual variant 
-# is unlikely to contribute to cell entry fitness. This property may be specific to spike protein
+# is unlikely to contribute to cell entry fitness. T716I was expressed at significantly lower
+# level, accounting for the decreased infectivity of this spike protein.
+# This property may be specific to spike protein
 # biosynthesis in 293T cells and is not likely to reflect the situation in vivo given the reported
-# increase in infectivity of the virus.
+# increase in infectivity of the B.1.1.7 virus.
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
 T716I
 
