@@ -13,3 +13,9 @@ L452R
 # This is also observed in a study of 26 each post-infection and post first dose HCWs.
 # Reynolds et al. (2021) https://science.sciencemag.org/content/early/2021/04/29/science.abh1282
 D1118H
+
+# Analyzing responses to the E484K mutation seen in B.1.351 and P.1 variants, we noted that it did 
+# not fall in a region predicted to bind the HLAII alleles tested (table S4). The mutation appeared 
+# to have no substantial or differential impact on T cell responses.
+# Reynolds et al. (2021) https://science.sciencemag.org/content/early/2021/04/29/science.abh1282
+E484K
