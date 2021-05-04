@@ -1,3 +1,19 @@
+# Relative to D614G, this mutation demonstrated significant increase in infectivity (i.e. heat stability) after incubation at 50C after 30 minutes or 1 hour
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+N501Y
+
+# Relative to D614G, this mutation demonstrated significant increase in infectivity (i.e. heat stability) after incubation at 50C after 30 minutes or 1 hour
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+S982A
+
+# Relative to D614G, this mutation demonstrated significant increase in infectivity (i.e. heat stability) after incubation at 50C after 1 hour.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+H69del;V70del;N501Y;P681H
+
+# Relative to D614G, this mutation demonstrated significant increase in infectivity (i.e. heat stability) after incubation at 50C after 1 hour.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
+L18F;D80A;L242del;A243del;L244del;R245I;K417N;E484K;N501Y;D614G;A701V
+
 # Based on pseudotyped virus experiments, D614G may increase infectivity by assembling more functional S protein into the virion.
 # Zhang et al. (2020) https://www.nature.com/articles/s41467-020-19808-4
 # CryoEM shows increased proportion of "one-up" trimer conformation of Spike proteins on the surface of virions, where the up 
