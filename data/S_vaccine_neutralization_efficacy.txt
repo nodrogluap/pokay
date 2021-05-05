@@ -45,6 +45,11 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 # ELISpot assays show T cell neutralization reduced by 15.4% in this B.1.1.7 pseudotype relative to wild type in 18-20 pooled patient samples post second mRNA vaccine dose,
 # with no significant difference between Pfizer and Moderna cohorts. Reduction was stronger in the S1 subunit than S2 (separate peptide pools were used).
 # Gallagher et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.03.442455v1
+# We observed a sharp decline in cases when ∼50% of the elderly population was 2 weeks beyond their first 
+# vaccination dose and at a time point during which the B.1.1.7 variant gained transmission dominance. 
+# In support of this finding, it was suggested that, after the first vaccination dose, more than 70% of 
+# patients develop neutralization antibodies,15 and the vaccine efficiency can reach 85%.
+# Munitz et al. (2021) https://doi.org/10.1016/j.xcrm.2021.100264
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed no significant change in IC50 serum dilution concentration
