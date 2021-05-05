@@ -1,3 +1,11 @@
+# This variant was designated A.27.RN according to its phylogenetic clade classification. It emerged in parallel 
+# with the B.1.1.7 variant, increased to >50% of all SARS-CoV-2 variants by week five. Subsequently it decreased 
+# to <10% of all variants by calendar week eight when B.1.1.7 had become the dominant strain. Antibodies induced 
+# by BNT162b2 vaccination neutralized A.27.RN but with a two-to-threefold reduced efficacy as compared to the 
+# wild-type and B.1.1.7 strains.
+# Mallm et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.27.21254849v1
+L18F;L452R;N501Y;A653V;H655Y;D796Y;G1219V
+
 # The study demonstrated 1.92 and 1.09 fold reductions (ELISA) in the neutralizing titer against B.1.1.28.2 (P2)
 # variant (n=2 authentic virus) in comparison with prototype D614G variant with 42 sera of BBV152 (a.k.a. Covaxin) vaccine recipients 
 # 2mo post-booster and 19 natural infections respectively.
