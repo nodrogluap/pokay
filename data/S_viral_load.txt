@@ -1,3 +1,7 @@
+# This study reveals that B.1.1.7 SARS-CoV-2 variant is a slower-growing virus than parental B.1. Further, a higher
+# replication along with reduced infectious viral titer was hypothesized to be linked to higher transmission
+# with reduced pathogenicity. 
+# Nyayanit et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.30.442222v1
 # In a study of 1260 ICU subjects, viral load distributions (collected within 48h of admission) were elevated in 
 # both seropositive and seronegative subjects infected with B.1.1.7 ("UK variant"). 
 # PG: The PANGO tool defining Spike variants for B.1.1.7 are listed here, whereas the paper only used a test for D1118H.
