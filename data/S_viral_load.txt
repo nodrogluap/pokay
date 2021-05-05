@@ -10,6 +10,8 @@
 # PG: BUT there is a discrepancy in drop between the ORF1ab and N probes, with the former suggesting only a 2-fold drop, 
 # consistent with the drop observed in B.1.351. This might indicate higher subgenomic RNA content in B.1.1.7 skewing the change.
 # Teyssou et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.21.21253498v1
+# B.1.1.7 samples showed average Ct cycle threshold of 21.9 vs 23 for wildtype (i.e. ~2x higher viral load) comparing 37758 and 22535 samples respectively.
+# Roquebert et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.19.21253971v2
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Hamsters infected with SARS-CoV-2 expressing spike(D614G) (G614 virus) produced higher infectious titres in nasal washes and the trachea, but not in the lungs, 
@@ -24,4 +26,6 @@ S13I;W152C;L452R
 # The 62 B.1.351 (a.k.a. N501Y.V2) variant cases in three Paris hospital labs had a ~2-fold viral load increase 
 # (~1 Ct drop in both N and ORF1ab probes) compared to 332 ancestral lineage cases from the same time frame (2020-12-20 to 2021-02-26). 
 # Teyssou et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.21.21253498v1
+# B.1.351 and P.1 samples showed average Ct cycle threshold of 22.2 vs 23 for wildtype (i.e. ~60% higher viral load) comparing 3360 and 22535 samples respectively.
+# Roquebert et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.19.21253971v2
 K417N;E484K;N501Y
