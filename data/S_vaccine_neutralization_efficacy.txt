@@ -1,7 +1,7 @@
 # This variant was designated A.27.RN according to its phylogenetic clade classification. It emerged in parallel 
 # with the B.1.1.7 variant, increased to >50% of all SARS-CoV-2 variants by week five. Subsequently it decreased 
 # to <10% of all variants by calendar week eight when B.1.1.7 had become the dominant strain. Antibodies induced 
-# by BNT162b2 vaccination neutralized A.27.RN but with a two-to-threefold reduced efficacy as compared to the 
+# by BNT162b2 (Pfizer) vaccination neutralized A.27.RN but with a two-to-threefold reduced efficacy as compared to the 
 # wild-type and B.1.1.7 strains.
 # Mallm et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.27.21254849v1
 L18F;L452R;N501Y;A653V;H655Y;D796Y;G1219V
@@ -13,6 +13,9 @@ L18F;L452R;N501Y;A653V;H655Y;D796Y;G1219V
 # Sapkal et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.30.441559v1
 E484K;F565L;D614G;V1176F
 
+# Neutralizing antibody titers increased in previously infected vaccinees relative to uninfected vaccinees 
+# 6.5-fold against B.1.351 (contrast with 3.4 fold against original SARS-CoV-2).
+# Leier et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.25.21256049v1
 # After one dose, individuals with prior infection showed enhanced T cell immunity, 
 # antibody secreting memory B cell response to spike and neutralizing antibodies effective 
 # against B.1.351 (authentic cell culture supernatants). By comparison, HCW receiving one vaccine dose without prior 
@@ -27,7 +30,7 @@ D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
 # Gallagher et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.03.442455v1
 D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 
-# ELISpot assays show T cell neutralization reduced by 29.8% in this B.1.351 pseudotype relative to wild type in 18-20 pooled patient samples post second mRNA vaccine dose,
+# ELISpot assays show T cell neutralization reduced by 16.6% in this B.1.1.248 pseudotype relative to wild type in 18-20 pooled patient samples post second mRNA vaccine dose,
 # with no significant difference between Pfizer and Moderna cohorts. Reduction was stronger in the S1 subunit than S2 (separate peptide pools were used).
 # Gallagher et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.03.442455v1
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
@@ -67,6 +70,9 @@ D614G;P681H
 # McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1
 S13I;W152C;L452R
 
+# Neutralizing antibody titers increased in previously infected vaccinees relative to uninfected vaccinees 
+# 5.2-fold against B.1.1.7 (contrast with 3.4 fold against original SARS-CoV-2).
+# Leier et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.25.21256049v1
 # VSV pseudotype B.1.1.7 showed 1.77-fold reduction in neutralization efficiency vs wild type in 15 Pfizer BNT162b2 vaccinee sera 13-15 days post second dose.
 # Cell fusion proficiency was unchanged.
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
@@ -130,6 +136,9 @@ S13I;W152C;L452R;D614G
 # Garcia-Beltran et al. (2021) https://doi.org/10.1016/j.cell.2021.03.013
 E484K;D614G;V1176F
 
+# Neutralizing antibody titers increased in previously infected vaccinees relative to uninfected vaccinees 
+# 4.3-fold against P.1 (contrast with 3.4 fold against original SARS-CoV-2).
+# Leier et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.25.21256049v1
 # Pseudotyped P.1 virus has reduced neutralization activity vs wild type: 6.7x (30 sera Pfizer median 9 days post 2nd dose) 
 # and 4.5x (35 sera Moderna median 18 days post 2nd dose). This was significant by ANOVA.
 # Garcia-Beltran et al. (2021) https://doi.org/10.1016/j.cell.2021.03.013
