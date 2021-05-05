@@ -10,7 +10,11 @@
 # Significant increase in ICU rate (1.4% vs 0.6% for non-VOC cases).
 # Significant decrease in death rate (2.0% vs vs 4.0% for non-VOC cases).
 # Funk et al. (2021) https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.16.2100348
-H69_V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
+# The matching-adjusted conditional odds ratio of hospitalisation was 1.58 (95% confidence interval 1.50 to 1.67) for COVID-19 patients 
+# infected with a SGTF-associated variant, compared to those infected with non-SGTF-associated variants. 
+# The effect was modified by age (p<0.001), with ORs of 0.96-1.13 below age 20 years and 1.57-1.67 in age groups 40 years or older.
+# Nyberg et al. (2021) https://arxiv.org/abs/2104.05560
+H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # In the Southern Brazilian stats of Rio Grande do Sul, comparing pre-P.1 and post-P.1 waves: 
 # The increase in Case Falaity Rate occurred in a greatest intensity in the population between 20 and 59 years old and among patients
