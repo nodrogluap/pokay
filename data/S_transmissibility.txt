@@ -1,3 +1,10 @@
+# The N440K variant produced ten times higher infectious viral titers than a prevalent A2a strain, 
+# and over 1000 folds higher titers than a much less prevalent A3i strain prototype in Caco2 cells. 
+# Interestingly, A3i strain showed the highest viral RNA levels, but the lowest infectious titers 
+# in the culture supernatants, indicating the absence of correlation between the RNA content and the infectivity of the sample.
+# Tandel et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.30.441434v1
+N440K
+
 # We estimate that this [B.1.1.17] variant has a 43–90% (range of 95% credible intervals 38–130%) higher reproduction number than preexisting variants.
 # Data from other countries yield similar results: we estimate that R for VOC 202012/01 relative to other lineages is 55% (45–66%) higher in Denmark, 
 # 74% (66–82%) higher in Switzerland, and 59% (56–63%) higher in the United States, with consistent rates of displacement across regions within each country.
