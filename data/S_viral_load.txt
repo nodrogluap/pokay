@@ -1,3 +1,6 @@
+# We found that the British variant (clade B.1.1.7), compared to an ancestral SARS-CoV-2 clade B virus, produced higher 
+# levels of infectious virus late in infection and had a higher replicative fitness in human airway, alveolar and intestinal organoid models.
+# Lamers et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.03.441080v1
 # This study reveals that B.1.1.7 SARS-CoV-2 variant is a slower-growing virus than parental B.1. Further, a higher
 # replication along with reduced infectious viral titer was hypothesized to be linked to higher transmission
 # with reduced pathogenicity. 
