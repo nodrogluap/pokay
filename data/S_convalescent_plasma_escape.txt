@@ -1,4 +1,23 @@
-# The only mutation in the B.1.351 lineage that appers to contribte to neutralization reduction (~1.7x across 10 convalescent sera from April 2020 infectees)
+# The most significant loss of neutralizing activity using 6 hyperimmune immunoglobulin preparations from
+# convalescent plasma was seen against authentic B.1.351 lineage virus (9.2-fold). Neutralization against 10
+# convalescent plasma was poorer (~20x).
+# Tang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.19.436183v1
+L18F;D80A;D215G;L242del;A243del;L244del;N501Y;K417N;E484K;D614G 
+
+# Loss of neutralizing activity using 6 hyperimmune immunoglobulin preparations from
+# convalescent plasma was seen against P.1 (3.5-fold). Neutralization against 10
+# convalescent plasma was poorer.
+# Tang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.19.436183v1
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
+
+# Loss of neutralizing activity using 6 hyperimmune immunoglobulin preparations from
+# convalescent plasma was minimal against B.1.249 (1.7-fold). Neutralization against 10
+# convalescent plasma was poorer.
+# Tang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.19.436183v1
+# (<2-fold).
+S13I;W152C;L452R
+
+# The only mutation in the B.1.351 lineage that appers to contribute to neutralization reduction (~1.7x across 10 convalescent sera from April 2020 infectees)
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
 E484K
 
@@ -72,6 +91,10 @@ D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
+# Loss of neutralizing activity using 6 hyperimmune immunoglobulin preparations from
+# convalescent plasma was minimal against B.1.1.7 (1.9-fold). Neutralization against 10
+# convalescent plasma was poorer.
+# Tang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.19.436183v1
 # We analyzed 34 convalescent samples including the WHONIBSC 20/130 reference serum, and, although 
 # a few sera showed near identical FRNT 50 values, the FRNT50 dilutions for the B.1.1.7 strain 
 # were 2.9-fold lower (geometric mean) than those for the Victoria strain (p < 0.0001).
