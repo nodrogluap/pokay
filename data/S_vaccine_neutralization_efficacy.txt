@@ -1,3 +1,10 @@
+# The study demonstrated 1.92 and 1.09 fold reductions (ELISA) in the neutralizing titer against B.1.1.28.2 (P2)
+# variant (n=2 authentic virus) in comparison with prototype D614G variant with 42 sera of BBV152 (a.k.a. Covaxin) vaccine recipients 
+# 2mo post-booster and 19 natural infections respectively.
+# PG: exact P.2 sequences were not given, using the common defining SNPs
+# Sapkal et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.30.441559v1
+E484K;F565L;D614G;V1176F
+
 # After one dose, individuals with prior infection showed enhanced T cell immunity, 
 # antibody secreting memory B cell response to spike and neutralizing antibodies effective 
 # against B.1.351 (authentic cell culture supernatants). By comparison, HCW receiving one vaccine dose without prior 
