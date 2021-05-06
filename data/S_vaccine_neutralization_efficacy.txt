@@ -3,7 +3,7 @@
 # B.1.1.7 lineage effectiveness was observed as 29.5% (95% CI [22.9,35.5]) against infection, and 54.1% against severe/critical/fatal disease 
 # (95% CI [26.1-71.9]). Two weeks or more after 2nd dose, effectiveness climbed to 89.5% [85.9,92.3] against infection, and 100% against 
 # severe/critical/fatal disease (95% CI [81.7,100]).
-# All vaccinees were on a strict 3 wek interval for second dose (https://twitter.com/supermarioelia/status/1390362358971781122), therefore 1st dose efficacy is likely underestimated.
+# All vaccinees were on a strict 3 week interval for second dose (https://twitter.com/supermarioelia/status/1390362358971781122), therefore 1st dose efficacy is likely underestimated.
 # Abu-Raddad et al. (2021) https://www.nejm.org/doi/full/10.1056/NEJMc2104974
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;D1118H
 
@@ -12,7 +12,7 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;D1118H
 # B.1.351 lineage effectiveness was observed as 16.9% (95% CI [10.4,23.0]) against infection, and 0% against severe/critical/fatal disease 
 # (95% CI [0-19.0]). Two weeks or more after 2nd dose, effectiveness climbed to 75.0% [70.5,78.9] against infection, and 100% against 
 # severe/critical/fatal disease (95% CI [73.7,100]).
-# All vaccinees were on a strict 3 wek interval for second dose (https://twitter.com/supermarioelia/status/1390362358971781122), therefore 1st dose efficacy is likely underestimated.
+# All vaccinees were on a strict 3 week interval for second dose (https://twitter.com/supermarioelia/status/1390362358971781122), therefore 1st dose efficacy is likely underestimated.
 # Abu-Raddad et al. (2021) https://www.nejm.org/doi/full/10.1056/NEJMc2104974
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
