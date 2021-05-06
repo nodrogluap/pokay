@@ -1,3 +1,19 @@
+# In Qatar, where Pfizer vaccine use is prevalent (<10% of the population covered in the time period of the study ending Mar 31, 2021), any time after one dose 
+# (including the 2 weeks where no major effect is expected)
+# B.1.1.7 lineage effectiveness was observed as 29.5% (95% CI [22.9,35.5]) against infection, and 54.1% against severe/critical/fatal disease 
+# (95% CI [26.1-71.9]). Two weeks or more after 2nd dose, effectiveness climbed to 89.5% [85.9,92.3] against infection, and 100% against 
+# severe/critical/fatal disease (95% CI [81.7,100]).
+# Abu-Raddad et al. (2021) https://www.nejm.org/doi/full/10.1056/NEJMc2104974
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;D1118H
+
+# In Qatar, where Pfizer vaccine use is prevalent (<10% of the population covered in the time period of the study ending Mar 31, 2021), any time after one dose 
+# (including the 2 weeks where no major effect is expected)
+# B.1.351 lineage effectiveness was observed as 16.9% (95% CI [10.4,23.0]) against infection, and 0% against severe/critical/fatal disease 
+# (95% CI [0-19.0]). Two weeks or more after 2nd dose, effectiveness climbed to 75.0% [70.5,78.9] against infection, and 100% against 
+# severe/critical/fatal disease (95% CI [73.7,100]).
+# Abu-Raddad et al. (2021) https://www.nejm.org/doi/full/10.1056/NEJMc2104974
+D80A;L242del;R246I;K417N;E484K;N501Y;A701V
+
 # This variant was designated A.27.RN according to its phylogenetic clade classification. It emerged in parallel 
 # with the B.1.1.7 variant, increased to >50% of all SARS-CoV-2 variants by week five. Subsequently it decreased 
 # to <10% of all variants by calendar week eight when B.1.1.7 had become the dominant strain. Antibodies induced 
@@ -23,12 +39,12 @@ E484K;F565L;D614G;V1176F
 # resulted in increased, abrogated or unchanged T cell responses depending on human leukocyte 
 # antigen (HLA) polymorphisms. Study was 26 each post-infection and post first dose HCWs.
 # Reynolds et al. (2021) https://science.sciencemag.org/content/early/2021/04/29/science.abh1282
-D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
+D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # ELISpot assays show T cell neutralization reduced by 29.8% in this B.1.351 pseudotype relative to wild type in 18-20 pooled patient samples post second mRNA vaccine dose,
 # with no significant difference between Pfizer and Moderna cohorts. Reduction was stronger in the S1 subunit than S2 (separate peptide pools were used).
 # Gallagher et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.03.442455v1
-D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
+D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # ELISpot assays show T cell neutralization reduced by 16.6% in this B.1.1.248 pseudotype relative to wild type in 18-20 pooled patient samples post second mRNA vaccine dose,
 # with no significant difference between Pfizer and Moderna cohorts. Reduction was stronger in the S1 subunit than S2 (separate peptide pools were used).
@@ -101,7 +117,7 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # from individuals vaccinated with the BNT162b2 mRNA vaccine neutralized D614G virus with titers that were on average 7-fold greater 
 # than convalescent sera.
 # Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003
-D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
+D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # VSV pseudotype P.1 showed 5.12-fold reduction in neutralization efficiency vs wild type in 15 Pfizer BNT162b2 vaccinee sera 13-15 days post second dose.
 # Cell fusion proficiency was slight impaired.
@@ -154,21 +170,21 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 # Notably, 36.7% (11/30) recipients of two-dose Pfizer and 42.9% (15/35) recipients of two-dose Moderna vaccines did not have 
 # detectable neutralization of at least one of the B.1.351 variants. 
 # Garcia-Beltran et al. (2021) https://doi.org/10.1016/j.cell.2021.03.013
-D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
+D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Pseudotyped B.1.351 v2 virus has reduced neutralization activity vs wild type: 41.2x (30 sera Pfizer median 9 days post 2nd dose) 
 # and 20.8x (35 sera Moderna median 18 days post 2nd dose). This was significant by ANOVA.
 # Notably, 36.7% (11/30) recipients of two-dose Pfizer and 42.9% (15/35) recipients of two-dose Moderna vaccines did not have 
 # detectable neutralization of at least one of the B.1.351 variants. 
 # Garcia-Beltran et al. (2021) https://doi.org/10.1016/j.cell.2021.03.013
-L18F;D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
+L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Pseudotyped B.1.351 v3 virus has reduced neutralization activity vs wild type: 42.4x (30 sera Pfizer median 9 days post 2nd dose) 
 # and 19.2x (35 sera Moderna median 18 days post 2nd dose). This was significant by ANOVA.
 # Notably, 36.7% (11/30) recipients of two-dose Pfizer and 42.9% (15/35) recipients of two-dose Moderna vaccines did not have 
 # detectable neutralization of at least one of the B.1.351 variants. 
 # Garcia-Beltran et al. (2021) https://doi.org/10.1016/j.cell.2021.03.013
-D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
+D80A;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Sera from healthcare workers (n = 25) 4–17 days following the second dose of Pfizer vaccine, administered 3 weeks after 
 # the first dose, showed geometric mean titers for B.1.351  7.6-fold lower than for an early Victoria sample (p < 0.0001).
@@ -185,7 +201,7 @@ D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 # A two-dose regimen of (AstraZeneca) ChAdOx1-nCoV19 did not show protection against mild-moderate Covid-19 due to B.1.351 variant, however, 
 # vaccine efficacy against severe Covid-19 is undetermined.
 # Madhi et al. (2021) https://www.medrxiv.org/content/10.1101/2021.02.10.21251247v1
-D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
+D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Observed 8.8-fold reduction in neutralization efficiency of Pfizer vaccinee sera (collected 14 days after second dose) against cultured B.1.351 sample.
 # Contrast this with 1.4-fold reduction for just the pseudovirus combination of "key" B.1.351 mutations K417N+E484K+N501Y.
@@ -193,7 +209,7 @@ D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 # individual level, with some individual’s serum potently neutralizing WA1 while having
 # FRNT50 for B.1.351 below the assay limit of detection (1:20).
 # Bates et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.04.21254881v1
-L18F;D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
+L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Observed 1.4-fold reduction in neutralization efficiency of Pfizer vaccinee sera (collected 14 days after second dose) 
 # against pseudotype B.1.351 key variants lentivirus. Compare to 8.8-fold reduction against cultured B.1.351 virus.
@@ -227,7 +243,7 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # Pzifer vaccinees that tested positive at least a week after the second dose were indeed disproportionally infected with B.1.351, 
 # as compared with unvaccinated individuals (odds ratio of 8:1), but were all infected before 14 days post second vaccination.
 # Kustin et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.06.21254882v2
-L18F;D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
+L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
 
 # In 12 Moderna vaccinee sera 15 days post second dose (43 days since first vaccination), an average 2.8x decrease in reciprocal ID50 value was observed 
 # ten key point mutations in Spike in the P.1 lineage vs wildtype. A 4.8x decrease against the full P.1 type vs WA-1 was observed, though overall with 
@@ -248,7 +264,7 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y
 # Riddell et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.17.440246v1
 # In human sera 8 weeks post-vaccination with INO-4800, a ~7-fold reduction in B.1.351 neutralization was observed.
 # Andrade et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.14.439719v1
-L18F;D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
+L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
 
 # The presence of these B.1.417/B.1.429 defining variants in 189 post-mRNA-vaccination COVID-19 cases
 # was proportionally in line with lineage prevalence in Northen California during the study period,
@@ -316,16 +332,16 @@ K417N;E484K;N501Y
 
 # Vaccine plasma neutralization of B.1.351-spike virus was nominally robust but lower (~3x) than other variants of concern.
 # Liu et al. (2021) https://www.nejm.org/doi/full/10.1056/NEJMc2102017
-D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
+D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of vaccine was significantly lower against B.1.351 (12.4x in twelve Moderna-recipient sera; 10.3x in ten Pfizer-recipient sera).
 # PG: this is a larger list of B.1.351 than modeled by Wang et al. (2021) by including L18F and R246I, and is less effective at neutralizing.
 # Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
-L18F,D80A,D215G,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
+L18F,D80A,D215G,L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of vaccine was significantly lower against B.1.351 in sera from all 24 patients with the BNT162b2 mRNA vaccine. (Fig. 4)
 # Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
-D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
+D80A,L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of vaccine was slightly lower against B.1.1.248 variant constellation in sera tested from most of the 15 patients with 
 # the BNT162b2 mRNA vaccine. (Fig. 4)
