@@ -100,6 +100,7 @@ while(my $txt_file = readdir(TXT_INDIR)){
       else{ # assume it's a sentence that runs over two lines
         $lit_link_evidence_summary .= " ".$_;
       }
+      $lit_link_evidence_summary =~ s/\.\s*<br\/>\s*\.<br\/>/.<br\/>/g;
     }
     elsif(not /^\s*$/){
       warn "Ignoring line that is not a comment starting with '#', nor a properly formatted variant ($qualified_txt_file line #$.)\n";
@@ -491,7 +492,7 @@ END
 			print LINEAGE_HTML "<h3>Gene $gene &mdash; $gene_pretty{$gene}</h3><ul class=\"lit_list\">\n";
 
     			for my $constellation (keys %{$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene}}){
-				print LINEAGE_HTML "$constellation<br/><ul class=\"lit_list\">\n";
+				print LINEAGE_HTML hgvsify($constellation)."<br/><ul class=\"lit_list\">\n";
     				for my $lit_ref (@{$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene}->{$constellation}}){
       					print LINEAGE_HTML htmlify_lit_ref($lit_ref);
 				}
