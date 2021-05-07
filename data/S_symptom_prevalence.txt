@@ -5,3 +5,13 @@
 # in London between March 13th 2020 and February 17th 2021 (400 B.1.1.7 cases out of 1470 total sequenced).
 # Snell et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.16.21253377v1
 H69del;V70del;N501Y
+
+# Gross examination of 3+3 hamster lung specimens showed pronounced congestion and hemorrhages
+# on days 5 and 7 post-infection in the case of the B.1.617.1 as compared with the B.1. The lung lesions with 
+# the B.1 variant were minimal to mild whereas with B.1.617.1 they were moderate. For B.1 pneumonic
+# changes were minimal to mild (inflammatory cell infiltration, focal
+# consolidation and mild congestion). The pronounced changes (moderate to severe)
+# with mononuclear infiltration in the alveolar interstitial space, interstitial septal thickening,
+# consolidation and pneumocyte hyperplasia were observed with B.1.617.1 variant consistently.
+# Yadav et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.05.442760v1
+L452R;E484Q;P681R
