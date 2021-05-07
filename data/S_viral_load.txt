@@ -1,3 +1,7 @@
+# In 9 infected hamsters each for B.1 and B.1.617.1, no significant change in viral load or subgenomic RNA levels were detected. 
+# Yadav et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.05.442760v1
+L452R;E484Q;P681R
+
 # We found that the British variant (clade B.1.1.7), compared to an ancestral SARS-CoV-2 clade B virus, produced higher 
 # levels of infectious virus late in infection and had a higher replicative fitness in human airway, alveolar and intestinal organoid models.
 # Lamers et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.03.441080v1
