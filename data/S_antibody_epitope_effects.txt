@@ -318,7 +318,7 @@ D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 K417N
 
 # Ablates binding by class 2 mAbs such as C144 that directly interfere with ACE2 binding, 
-# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
 # Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 4 antibodies, 
@@ -406,7 +406,7 @@ L452R
 # Resistent to some neutralizing antibodies: mAbs X593 and P2B-2F6
 # Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding,
-# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response)
+# but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response)
 # show pronounced increase in binding to the variant.
 # Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 V483A
@@ -428,7 +428,7 @@ A475V
 # a threshold previously determined to be a cutoff for specific binding
 # Thomson et al. (2021) https://www.cell.com/cell/fulltext/S0092-8674(21)00080-5
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
-# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
 # Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 # Resistent to class 3 antibodies (i.e. Abs that do not directly interfere with ACE2 binding).
@@ -436,7 +436,7 @@ A475V
 N439K
 
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
-# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
 # Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 # Resistent to class 3 antibodies (i.e. Abs that do not directly interfere with ACE2 binding).
@@ -449,25 +449,25 @@ N439K
 N440K
 
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
-# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
 # Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 S477N
 
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
-# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
 # Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 V367F
 
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
-# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
 # Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 A475V
 
 # Ablates binding by class 2 mAbs such as C144 that directly interfere with ACE2 binding, 
-# BUT clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
+# but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
 # Gaebler et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.03.367391v2
 # Somewhat resistent to some class 1 (Spike 'up') antibodies tested.
