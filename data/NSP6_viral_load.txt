@@ -5,4 +5,4 @@
 # PG: This variant flanks an endoplasmic reticulum lumenal binding domain, possibly implicating increased virion 
 # production through better recruitment of SARS-CoV-2 replication machinery assembly in the lumen.
 # Ratcliff et al. (2021) https://www.medrxiv.org/content/10.1101/2021.02.24.21251989v1
-S106_F108del
+S106del;G107del;F108del
