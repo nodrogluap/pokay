@@ -118,8 +118,6 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # Cell fusion proficiency was slight impaired.
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
 # In 15 Pzifer vaccinee sera collected 2-3 weeks post-booster, neutralization was reduced ~11x.
-# [PG: note that the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
-# therefore the results should be interpreted carefully as transferable to B.1.617 generally]
 # Hoffman et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.04.442663
 # B.1.351 pseudotyped lentivirus showed 3.4 and 3.8x reduction in IC50 serum dilution concentration
 # for sera from BNT162b2 (Pzifer) or mRNA1273 (Moderna) vacinees collected 28 days following booster dose.
