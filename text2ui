@@ -6,8 +6,9 @@ use strict;
 use warnings;
 use File::Copy;
 
-@ARGV == 3 or die "Usage: $0 <input dir with txt files> <output html dir> <output.json>\n";
+@ARGV == 4 or die "Usage: $0 <constellations of interest.tab> <input dir with txt files> <output html dir> <output.json>\n";
 
+my $vocs_tab_file = shift @ARGV;
 my $text_indir = shift @ARGV;
 my $html_outdir = shift @ARGV;
 my $json_outfile = shift @ARGV;
@@ -21,6 +22,37 @@ elsif(not mkdir $html_outdir, 0755){
 
 open(JSON_OUT, ">$json_outfile")
   or die "Cannot open $json_outfile for writing: $!\n";
+
+# We may for convenience want to lump together all the variants for a lineage into one report from the functional perspective
+# {name => {gene => [mutations]}}
+my %lineage_mutations;
+my %lineage_optional_mutations;
+open(TAB_FILE, $vocs_tab_file)
+  or die "Cannot open $vocs_tab_file for reading: $!\n";
+while(<TAB_FILE>){
+	next if /^\s*#/; # comment lines
+	chomp;
+	my @fields = split /\t/, $_;
+	if(@fields > 3){
+		warn "Skipping line $. of $vocs_tab_file because it has more tab delimited fields (", scalar(@fields), ") than expected (2 or 3)\n";
+		next;
+	}
+	my $lineage_name = $fields[0];
+	my %gene_to_mutations;
+	for my $mutation_spec (split /\s*;\s*/, $fields[1]){
+		my ($gene, $mutation) = split /:p.|:/, $mutation_spec;
+		$lineage_mutations{$lineage_name}->{$gene} //= [];
+		push @{$lineage_mutations{$lineage_name}->{$gene}}, $mutation;
+	}
+	next if $#fields == 1; # no optional mutations in this lineage
+        for my $mutation_spec (split /\s*;\s*/, $fields[2]){
+                my ($gene, $mutation) = split /:p.|:/, $mutation_spec;
+                $lineage_optional_mutations{$lineage_name}->{$gene} //= [];
+                push @{$lineage_optional_mutations{$lineage_name}->{$gene}}, $mutation;
+        }
+
+}
+close(TAB_FILE);
 
 my %constellations2categories; # { unique var combo name => { short effect desc => [lit references] } }
 opendir(TXT_INDIR, $text_indir)
@@ -60,9 +92,12 @@ while(my $txt_file = readdir(TXT_INDIR)){
       # Otherwise assume part of summary evidence text for lit link to come.
       # Maybe a missing period between lines of evidence from same paper.
       elsif(/^[A-Z]/ and defined $lit_link_evidence_summary and $lit_link_evidence_summary ne "" and $lit_link_evidence_summary !~ /\.\s*$/){
-        $lit_link_evidence_summary .= ". ".$_;
+        $lit_link_evidence_summary .= ".<br/>".$_;
       }
-      else{
+      elsif(/\.\s*$/){ # Keep the line ending
+        $lit_link_evidence_summary .= " ".$_."<br/>";
+      }
+      else{ # assume it's a sentence that runs over two lines
         $lit_link_evidence_summary .= " ".$_;
       }
     }
@@ -121,16 +156,11 @@ for my $constellation_key (keys %constellations2categories){
   }
 ENTRY
 
-    my $short_effect_desc_pretty = $short_effect_desc;
-    $short_effect_desc_pretty =~ s/^[a-z]/uc($&)/e; # Upper case first word in title
-    $short_effect_desc_pretty =~ tr/_/ /; # underscores to spaces
+    my $short_effect_desc_pretty = prettify_effect_text($short_effect_desc);
     push @{$constellation2html{$constellation_key}}, "<div class=\"effect_section\"><h2 id=\"$short_effect_desc\">$short_effect_desc_pretty</h2>\n<ul class=\"lit_list\">\n";
     
     for my $lit_ref (@{$constellations2categories{$constellation_key}->{$short_effect_desc}}){
-      push @{$constellation2html{$constellation_key}}, "<li class=\"lit_item\"><span class=\"lit_summary\">", 
-		$lit_ref->[0], # text desce
-		" (<a href=\"",$lit_ref->[2],"\" class=\"lit_link\">".$lit_ref->[1]."</a>)",
-		"</span></li>\n";
+      push @{$constellation2html{$constellation_key}}, htmlify_lit_ref($lit_ref);
     }
     push @{$constellation2html{$constellation_key}}, "</ul></div>\n";
   }
@@ -144,7 +174,7 @@ my @gene_pretty = ( NSP1 => "Host mRNA translation inhibiting [40S subunit bindi
                     NSP2 => "Prohibitin-interacting non-structural protein",
                     PLpro => "Papain-like protease / ER lumenal double-membrane vesicle forming complex member (a.k.a. NSP3)",
                     NSP4 => "ER lumenal double-membrane vesicle forming complex member",
-                    "3CL" => "3C-like protease (a.k.a. NSP5)",
+                    "3CL" => "3C-like protease (a.k.a. NSP5, Mpro, main protease)",
                     NSP6 => "ER lumenal double-membrane vesicle forming complex member / IFN-I signalling suppressor",
                     NSP7 => "Hexadecameric supercomplex member of the core replicase complex",
                     NSP8 => "Adenylyltransferase / hexadecameric supercomplex member of the core replicase complex",
@@ -159,7 +189,7 @@ my @gene_pretty = ( NSP1 => "Host mRNA translation inhibiting [40S subunit bindi
                     S => "Spike protein",
                     ORF3a => "Golgi-associating, caveolin-binding protein",
                     E => "Envelope protein",
-                    M => "Matrix protein",
+                    M => "Membrane protein",
                     ORF6 => "Nuclear import / interferon response inhibiting protein",
                     ORF7a => "Cell cycle / program interferring protein",
                     ORF7b => "Non-essential transmembrane protein",
@@ -169,6 +199,7 @@ my @gene_pretty = ( NSP1 => "Host mRNA translation inhibiting [40S subunit bindi
 
 my %gene_pretty = @gene_pretty;
 
+my $front_rel_url = "front.html";
 # Write the per-constellation pages
 for my $constellation_key (keys %constellation2html){
   my ($gene, $constellation) = split /:/, $constellation_key;
@@ -177,8 +208,8 @@ for my $constellation_key (keys %constellation2html){
   }
   my $constellation_key_pretty = hgvsify($constellation_key);
 
-  open(HTML, ">$html_outdir/$constellation_key.html")
-    or die "Cannot open $html_outdir/$constellation_key.html for writing: $!\n";
+  open(HTML, ">$html_outdir/$constellation_key_pretty.html")
+    or die "Cannot open $html_outdir/$constellation_key_pretty.html for writing: $!\n";
   print HTML <<DATA;
 <html>
 <head>
@@ -186,7 +217,7 @@ for my $constellation_key (keys %constellation2html){
   <link rel="stylesheet" href="constellations.css">
 </head>
 <body>
-<h1>SARS-CoV-2 $gene gene <span class="constellation">$constellation_key_pretty</span> literature reference collection</h1>
+<h1><a href="$front_rel_url">SARS-CoV-2</a> <a href="$gene.html">$gene</gene> gene <span class="constellation">$constellation_key_pretty</span> literature reference collection</h1>
 DATA
   print HTML @{$constellation2html{$constellation_key}};
   print HTML <<DATA;
@@ -201,8 +232,8 @@ open(MAP, "$text_indir/../imagemap.txt")
 my $map_data = join("", <MAP>);
 close(MAP);
 
-open(FRONT_HTML, ">$html_outdir/front.html")
-  or die "Cannot open $html_outdir/front.html for writing: $!\n";
+open(FRONT_HTML, ">$html_outdir/$front_rel_url")
+  or die "Cannot open $html_outdir/$front_rel_url for writing: $!\n";
 print FRONT_HTML <<END;
 <html>
 <head>
@@ -239,7 +270,25 @@ print FRONT_HTML <<END;
 <map name="map" id="map">
 $map_data
 </map>
+<hr/>
 
+<table width="100%">
+<tbody>
+<tr><td align="center"><em>Functional literature for Variants of Concern/Interest lineages</em></td></tr>
+<tr><td align="center"> 
+END
+
+my @lineage_names_html;
+for my $lineage_name (sort keys %lineage_mutations){
+	push @lineage_names_html, "<a href=\"lineage-$lineage_name.html\">$lineage_name</a>";
+}
+print FRONT_HTML join(" &mdash;\n", @lineage_names_html);
+
+print FRONT_HTML <<END;
+</td></tr>
+</tbody>
+</table>
+<hr/>
 <table>
 <tbody>
 <tr><td>
@@ -253,8 +302,9 @@ for (my $i = 0; $i <= $#gene_pretty; $i+=2){
   my $gene_desc = $gene_pretty[$i+1];
 
   my $total_num_constellations_this_gene = 0;
-  open(GENE_HTML, ">$html_outdir/$gene.html")
-    or die "Cannot open $html_outdir/$gene.html for writing: $!\n";
+  my $gene_rel_url = "gene.html";
+  open(GENE_HTML, ">$html_outdir/$gene_rel_url")
+    or die "Cannot open $html_outdir/$gene_rel_url for writing: $!\n";
   print GENE_HTML "<html><head><link rel=\"stylesheet\" href=\"constellations.css\"></head><body><h1>Functional mutation literature for $gene &mdash;<br/>$gene_desc</h1><ul class=\"category_list\">\n";
 
   print FRONT_HTML "<h3>$gene &mdash; $gene_desc</h3>\n<div><ul class=\"category_list\">\n";
@@ -271,7 +321,7 @@ for (my $i = 0; $i <= $#gene_pretty; $i+=2){
   <link rel="stylesheet" href="constellations.css">
 </head>
 <body>
-<h1>SARS-CoV-2 gene $gene literature references for $category_pretty</h1>
+<h1><a href="$front_rel_url">SARS-CoV-2</a> gene <a href="$gene_rel_url">$gene</a> literature references for $category_pretty</h1>
 <ul class=\"constellation_list\">
 END
 
@@ -279,7 +329,7 @@ END
     $category_pretty =~ s/^([a-z])/uc($1)/e;
     for my $constellation_key (sort @{$gene2category2constellations{$gene}->{$category}}){
       my $simplified_constellation_key = hgvsify($constellation_key);
-      print GENE_CAT_HTML "  <li class=\"constellation_list_item\"><a href=\"./$constellation_key.html#$category\"><span class=\"constellation\">$simplified_constellation_key</span></a></li>\n";
+      print GENE_CAT_HTML "  <li class=\"constellation_list_item\"><a href=\"./$simplified_constellation_key.html#$category\"><span class=\"constellation\">$simplified_constellation_key</span></a></li>\n";
       $num_constellations++;
     }
 
@@ -328,14 +378,14 @@ for my $category (sort keys %category2gene2constellations){
   <link rel="stylesheet" href="constellations.css">
 </head>
 <body>
-<h1>SARS-CoV-2 $category_pretty literature references for gene $gene</h1>
+<h1><a href="$front_rel_url">SARS-CoV-2</a> $category_pretty literature references for gene <a href="$gene.html">$gene</a></h1>
 <ul class=\"constellation_list\">
 END
 
     my $num_constellations = 0;
     for my $constellation_key (sort @{$gene2category2constellations{$gene}->{$category}}){
       my $simplified_constellation_key = hgvsify($constellation_key);
-      print CAT_GENE_HTML "  <li class=\"constellation_list_item\"><a href=\"./$constellation_key.html#$category\"><span class=\"constellation\">$simplified_constellation_key</span></a></li>\n";
+      print CAT_GENE_HTML "  <li class=\"constellation_list_item\"><a href=\"./$simplified_constellation_key.html#$category\"><span class=\"constellation\">$simplified_constellation_key</span></a></li>\n";
       $num_constellations++;
     }
 
@@ -354,17 +404,107 @@ END
 }
 
 
-
+my $date = `date`;
 print FRONT_HTML <<END;
 </div></td></tr></tbody></table>
 
 <div class="footer">
-This site is maintained by Paul Gordon &lt;gordonp\@ucalgary.ca&gt;. Added references are welcome by submitting data directory pull requests on <a href="https://github.com/nodrogluap/pokay">GitHub</a>.
+This site is maintained by Paul Gordon &lt;gordonp\@ucalgary.ca&gt;. Added references are welcome by submitting data directory pull requests on <a href="https://github.com/nodrogluap/pokay/tree/master/data">GitHub</a>. Updated $date.
 </div>
 </body>
 </html>
 END
 close(FRONT_HTML);
+
+# Write all the lineage-specific pages
+for my $lineage_name (keys %lineage_mutations){
+	open(LINEAGE_HTML, ">$html_outdir/lineage-$lineage_name.html")
+		or die "Cannot open $html_outdir/lineage-$lineage_name.html for writing: $!\n";
+	print LINEAGE_HTML <<END;
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Functional mutation literature for SARS-CoV-2 lineage $lineage_name</title>
+  <link rel="stylesheet" href="constellations.css">
+  <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="imageMapResizer.min.js"></script>
+  <script>
+ \$( function() {
+    \$( "#accordion" ).accordion({
+      collapsible: true,
+      heightStyle: "content"
+    });
+  } );
+
+  </script>
+</head>
+<body>
+<h1>Functional mutation literature for <a href="$front_rel_url">SARS-CoV-2</a> lineage $lineage_name</h1>
+<div id="accordion">
+END
+
+	# Collect all the constellation evidence that fits the mutations in this lineage
+	my %effect2gene2constellation2lineage_lit_refs;
+	for my $constellation (keys %constellations2categories){
+		# See of this constellation is in this lineage's spec for this gene 
+		my ($gene, $mutations_spec) = split /:/, $constellation;
+
+		next unless exists $lineage_mutations{$lineage_name}->{$gene};
+		my $lineage_mutations_ref = $lineage_mutations{$lineage_name}->{$gene};
+		my $missing_mutations = 0;
+		for my $mutation (split /;/, $mutations_spec){
+			if(not grep {$mutation eq $_} @$lineage_mutations_ref){
+				$missing_mutations++;
+				last;
+			}
+		}
+		next if $missing_mutations;
+
+		for my $short_effect_desc (keys %{$constellations2categories{$constellation}}){
+			my $lit_refs = $constellations2categories{$constellation}->{$short_effect_desc};
+			$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene} //= {};
+			$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene}->{$constellation} //= [];
+			for my $lit_ref (@$lit_refs){	
+				push @{$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene}->{$constellation}}, $lit_ref;
+			}
+		}
+		#TODO: deal with optional mutations
+	}
+
+	for my $short_effect_desc (sort keys %effect2gene2constellation2lineage_lit_refs){
+		my $short_effect_desc_pretty = prettify_effect_text($short_effect_desc);
+		my $num_references = 0;
+		for my $gene (@gene_pretty){ # keep in genome order
+			next unless exists $effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene};
+			for my $constellation (sort keys %{$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene}}){
+				for my $lit_ref (@{$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene}->{$constellation}}){
+					$num_references++;
+				}
+			}
+		}	
+
+   		print LINEAGE_HTML "<h3 id=\"$short_effect_desc\">$short_effect_desc_pretty - $num_references literature reference", ($num_references > 1 ? "s" : ""), "</h3><div>\n";
+		for my $gene (@gene_pretty){
+			next unless exists $effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene};
+			print LINEAGE_HTML "<h3>Gene $gene &mdash; $gene_pretty{$gene}</h3><ul class=\"lit_list\">\n";
+
+    			for my $constellation (keys %{$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene}}){
+				print LINEAGE_HTML "$constellation<br/><ul class=\"lit_list\">\n";
+    				for my $lit_ref (@{$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene}->{$constellation}}){
+      					print LINEAGE_HTML htmlify_lit_ref($lit_ref);
+				}
+				print LINEAGE_HTML "</ul>\n";
+    			}
+			print LINEAGE_HTML "</ul>\n";
+		}
+
+		print LINEAGE_HTML "</div>\n";
+	}
+	print LINEAGE_HTML "</div></body>\n</html>\n";
+	close(LINEAGE_HTML);
+}
 
 copy("$text_indir/../constellations.css", "$html_outdir/constellations.css")
   or die "Cannot copy image file to $html_outdir/constellations.css: $!\n";
@@ -375,11 +515,30 @@ copy("$text_indir/../imageMapResizer.min.js", "$html_outdir/imageMapResizer.min.
 
 sub hgvsify{ 
   my $simplified_constellation_key = $_[0];
-  $simplified_constellation_key =~ s/([A-Z]\d+)del.*([A-Z]\d+)del/$1\_$2del/;
+  while($simplified_constellation_key =~ /[A-Z](\d+)del;[A-Z](\d+)del/g){
+    next if $1 != $2-1; # merge only neighbouring residue deletions
+    my $last_aa = $2;
+    $simplified_constellation_key =~ s/(\d+)del;([A-Z])$last_aa del/"$1_$2".$last_aa."del"/xe;
+  }
+  $simplified_constellation_key =~ s/(\d+)_(?:\d+_)+(\d+)del/$1."_".$2."del"/eg;
   $simplified_constellation_key =~ s/:/:p./;
   if($simplified_constellation_key =~ /,/){
     $simplified_constellation_key =~ tr/,/;/;
     $simplified_constellation_key =~ s/p\.(.*)/p.[$1]/;
   }
   return $simplified_constellation_key;
+}
+
+sub prettify_effect_text{
+    	my $short_effect_desc_pretty = $_[0];
+    	$short_effect_desc_pretty =~ s/^[a-z]/uc($&)/e; # Upper case first word in title
+    	$short_effect_desc_pretty =~ tr/_/ /; # underscores to spaces
+	return $short_effect_desc_pretty;
+}
+
+sub htmlify_lit_ref{
+	return "<li class=\"lit_item\"><span class=\"lit_summary\">".
+                                $_[0]->[0]. # text desc
+                                " (<a href=\"",$_[0]->[2],"\" class=\"lit_link\">".$_[0]->[1]."</a>)".
+                                "</span></li>\n";
 }
