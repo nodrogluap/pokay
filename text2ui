@@ -218,7 +218,7 @@ for my $constellation_key (keys %constellation2html){
   <link rel="stylesheet" href="constellations.css">
 </head>
 <body>
-<h1><a href="$front_rel_url">SARS-CoV-2</a> <a href="$gene.html">$gene</gene> gene <span class="constellation">$constellation_key_pretty</span> literature reference collection</h1>
+<h1><a href="$front_rel_url">SARS-CoV-2</a> <a href="$gene.html">$gene</a> gene <span class="constellation">$constellation_key_pretty</span> literature reference collection</h1>
 DATA
   print HTML @{$constellation2html{$constellation_key}};
   print HTML <<DATA;
@@ -303,10 +303,10 @@ for (my $i = 0; $i <= $#gene_pretty; $i+=2){
   my $gene_desc = $gene_pretty[$i+1];
 
   my $total_num_constellations_this_gene = 0;
-  my $gene_rel_url = "gene.html";
+  my $gene_rel_url = "$gene.html";
   open(GENE_HTML, ">$html_outdir/$gene_rel_url")
     or die "Cannot open $html_outdir/$gene_rel_url for writing: $!\n";
-  print GENE_HTML "<html><head><link rel=\"stylesheet\" href=\"constellations.css\"></head><body><h1>Functional mutation literature for $gene &mdash;<br/>$gene_desc</h1><ul class=\"category_list\">\n";
+  print GENE_HTML "<html><head><link rel=\"stylesheet\" href=\"constellations.css\"></head><body><h1>Functional mutation literature for <a href=\"$front_rel_url\">SARS-CoV-2</a> $gene &mdash;<br/>$gene_desc</h1><ul class=\"category_list\">\n";
 
   print FRONT_HTML "<h3>$gene &mdash; $gene_desc</h3>\n<div><ul class=\"category_list\">\n";
   for my $category (sort keys %{$gene2category2constellations{$gene}}){
