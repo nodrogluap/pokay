@@ -91,7 +91,7 @@ while(my $txt_file = readdir(TXT_INDIR)){
       }
       # Otherwise assume part of summary evidence text for lit link to come.
       # Maybe a missing period between lines of evidence from same paper.
-      elsif(/^[A-Z]/ and defined $lit_link_evidence_summary and $lit_link_evidence_summary ne "" and $lit_link_evidence_summary !~ /\.\s*$/){
+      elsif(/^[A-Z](?=[a-z])/ and defined $lit_link_evidence_summary and $lit_link_evidence_summary ne "" and $lit_link_evidence_summary !~ /\.\s*$/){
         $lit_link_evidence_summary .= ".<br/>".$_;
       }
       elsif(/\.\s*$/){ # Keep the line ending
