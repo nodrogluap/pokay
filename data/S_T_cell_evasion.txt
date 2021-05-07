@@ -1,5 +1,5 @@
 # The induction level of IFN-γ expression by the Y453F derivative in two different A*24:02 convalescent sera 
-# donor plasma (linear epitope NYNYLYRLF 448,456) was signficantly lower.
+# donor plasma (linear epitope NYNYLYRLF 448,456) was significantly lower.
 # Motozono et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.02.438288v1.full.pdf
 Y453F
 

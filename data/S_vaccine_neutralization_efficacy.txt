@@ -100,7 +100,7 @@ S13I;W152C;L452R
 # Cell fusion proficiency was unchanged.
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
 # Lineage B.1.1.7 spike–pseudotyped VSV was tested for neutralization vs Wuhan reference genome pseudotype in 40 sera collected
-# 7 or 21 days post-booster dose. Statistically signficant change (22%) in neutralization was observed among the 26 sera from those <=55yo, 
+# 7 or 21 days post-booster dose. Statistically significant change (22%) in neutralization was observed among the 26 sera from those <=55yo, 
 # but not in the 14 sera from those >55yo. A ~20% change is not considered immunologically significant historically in influenza antiboduy studies. 
 # Muik et al. (2021) https://science.sciencemag.org/content/371/6534/1152
 # Vaccine elicited antibodies neutralized virus with the B.1.1.7 spike protein with titers similar to D614G virus. Serum specimens 

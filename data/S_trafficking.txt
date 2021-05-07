@@ -13,7 +13,7 @@ Y144del
 # showing slightly increased infection rate amongst the cells. 
 # PG: in what is essentially a replicate experiment in the same paper, because each 
 # B.1.351 lineage variant was independetly evaluated and N501 is in both lineages, 
-# a signficant decrease was observed, therefore the error bars described in this paper
+# a significant decrease was observed, therefore the error bars described in this paper
 # should be interpreted carefully.
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
 N501Y

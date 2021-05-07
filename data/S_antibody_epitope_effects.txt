@@ -2,15 +2,15 @@
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 E406W
 
-# >20% (ELISA signficance threshold) drop in antibody binding (ELISA) by this variant against IgG1 monoclonal antibody ab1.
+# >20% (ELISA significance threshold) drop in antibody binding (ELISA) by this variant against IgG1 monoclonal antibody ab1.
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 K417N
 
-# ~20% (ELISA signficance threshold) drop in antibody binding (ELISA) by this variant against monoclonal antibody VH ab6.
+# ~20% (ELISA significance threshold) drop in antibody binding (ELISA) by this variant against monoclonal antibody VH ab6.
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 K444N
 
-# ~20% (ELISA signficance threshold) drop in antibody binding (ELISA) by this variant against monoclonal antibody VH ab6.
+# ~20% (ELISA significance threshold) drop in antibody binding (ELISA) by this variant against monoclonal antibody VH ab6.
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 L452R
 
@@ -18,12 +18,12 @@ L452R
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 E484K
 
-# >20% (ELISA signficance threshold) drop in antibody binding by this variant against monoclonal antibody VH-Fc ab8.
+# >20% (ELISA significance threshold) drop in antibody binding by this variant against monoclonal antibody VH-Fc ab8.
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 E484Q
 
 # Nearly complete loss of binding in ELISA by the variant against monoclonal antibody VH-Fc ab8.
-# >20% (ELISA signficance threshold) drop in antibody binding by this variant against IgG1 monoclonal antibody ab1.
+# >20% (ELISA significance threshold) drop in antibody binding by this variant against IgG1 monoclonal antibody ab1.
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 E484D
 
@@ -31,7 +31,7 @@ E484D
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 F486S
 
-# >20% (ELISA signficance threshold) drop in antibody binding by this variant against IgG1 monoclonal antibody ab1.
+# >20% (ELISA significance threshold) drop in antibody binding by this variant against IgG1 monoclonal antibody ab1.
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 N487R
 
