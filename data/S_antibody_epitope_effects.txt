@@ -5,6 +5,11 @@
 # Hoffman et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.04.442663
 R21T;E154K;Q218H;L452R;E484Q;D614G;P681R;H1101D
 
+# Abrogates Bamlanivimab, Etesevimab, or their combined use neutralization as quantified by measuring virus-encoded luciferase 
+# activity in cell lysates at 16-18 h post transduction.
+# Hoffman et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.04.442663
+D80A;L242del;R246I;K417N;E484K;N501Y;A701V
+
 # >90% drop in antibody binding (ELISA) by this variant against mAbs VH-Fc and IgG1 ab1.
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 E406W
