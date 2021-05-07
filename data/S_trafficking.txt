@@ -1,3 +1,7 @@
+# In one of eight cell lines tested (293T lung cells), a modest increase in cell entry was observed.
+# Hoffman et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.04.442663
+D80A;L242del;R246I;K417N;E484K;N501Y;A701V
+
 # In two of eight cell lines tested (Caco-2 intenstinal and Calu-3 lung), a modest increase in cell entry was observed. This
 # increase was not observed in a Calu-3 cell line with overexpressed ACE2.
 # [PG: note that the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
