@@ -1,3 +1,10 @@
+# Abrogates Bamlanivimab neutralization as quantified by measuring virus-encoded luciferase activity in cell lysates at 16-18 h post transduction.
+# Significant decrease in combined Etesevimab+Bamlanivimab neutralization except at the highest concentration measured.
+# [PG: note that the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
+# therefore the results should be interpreted carefully as transferable to B.1.617 generally]
+# Hoffman et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.04.442663
+R21T;E154K;Q218H;L452R;E484Q;D614G;P681R;H1101D
+
 # >90% drop in antibody binding (ELISA) by this variant against mAbs VH-Fc and IgG1 ab1.
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 E406W
