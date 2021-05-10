@@ -1,3 +1,33 @@
+# Vaccination of health care workers in Delhi was started in early 2021, with the ChdOx-1 (Astra Zeenca)
+# vaccine. Surveillance has suggested B.1.1.7 dominance in the Delhi area during early 2021,
+# with growth of B.1.617 since March 2021 (personal communication). During the wave of
+# infections during March and April an outbreak of SARS-CoV-2 was confirmed in 33 vaccinated staff 
+# members at a single tertiary centre (age 27-77 years). Sequencing revealed that
+# 16/33 were B.1.617.2, with a range of other B lineage viruses including B.1.1.7 for the rest except one A lineage case. 
+# Importantly no severe cases were documented in this event.
+# Using HIV-B1.617.1 pseudotyped virus, 
+# Ferreira et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
+L452R;E484Q;P681R
+
+# Nine stored sera from Pfizer BNT162b2 vaccinees were tested against a range
+# of spike mutation bearing PV. E484Q had a ~5x drop in neutralization (vs ~10x for E484K). When
+# E484Q and L452R were combined, the fold change was significant, but similar to that of L452R alone (~2x),
+# suggesting no evidence for an additive effect [perhaps even E484Q effect dilution]. 
+# Ferreira et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
+L452R;E484Q
+
+# Nine stored sera from Pfizer BNT162b2 vaccinees were tested against a range
+# of spike mutation bearing PV. E484K conferred a ten-fold reduction in
+# neutralisation by vaccine sera.
+# Ferreira et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
+E484K
+
+# Nine stored sera from Pfizer BNT162b2 vaccinees were tested against a range
+# of spike mutation bearing PV. L452R conferred about a two-fold reduction in
+# neutralisation by vaccine sera, but was not statistically significant with this sample size.
+# Ferreira et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
+L452R
+
 # The sera of 16 individuals with time course collection was evaulated against VSV pseudotypes: neutralized D614G at week 2, 
 # whereas B.1.1.7 started to be neutralized at week 3, although less efficiently than D614G. B.1.1.7 and D614G strains were 
 # similarly neutralized at week 4 (1 week after booster dose). 
