@@ -1,3 +1,7 @@
+# The B.1.525 appears to have poor transmissibility when in competition with B.1.1.7 and other cirdulting strains in Denmark (early 2021).
+# Albertsen et al. (2021) https://www.covid19genomics.dk/2021-05-08_data-overview.html#b1525
+Q52R,E484K,Q677H,F888L
+
 # The N440K variant produced ten times higher infectious viral titers than a prevalent A2a strain, 
 # and over 1000 folds higher titers than a much less prevalent A3i strain prototype in Caco2 cells. 
 # Interestingly, A3i strain showed the highest viral RNA levels, but the lowest infectious titers 
