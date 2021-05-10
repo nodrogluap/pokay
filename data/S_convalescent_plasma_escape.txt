@@ -7,7 +7,7 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # convalescent individuals collected up to 9 months after symptoms had mean ~6x reduction in neutralizing titers, and 40% of the samples 
 # lacked any activity against B.1.351. 
 # Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
-D80A;L242del;R246I;K417N;E484K;N501Y;A701V
+L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Approximately 2-fold reduction in 15 ICU patient convalescent plasma neutralization as quantified by measuring virus-encoded 
 # luciferase activity in cell lysates at 16-18 h post transduction.
