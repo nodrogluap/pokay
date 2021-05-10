@@ -1,5 +1,6 @@
 # Using a new rapid neutralization assay, based on reporter cells that become positive for GFP after overnight infection, sera from 58 
 # convalescent individuals collected up to 9 months after symptoms, similarly neutralized B.1.1.7 and D614G. 
+# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Using a new rapid neutralization assay, based on reporter cells that become positive for GFP after overnight infection, sera from 58 
