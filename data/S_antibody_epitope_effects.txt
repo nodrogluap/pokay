@@ -392,7 +392,7 @@ S477N,S514F
 # Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 T345A,L517R
 
-# Ablates binding of Spike N terminal domain targeting monoconal anibody 4A8, by disruption of N5-loop/supersite loop, may work synergistically with 
+# Ablates binding of Spike N terminal domain targeting monoclonal antibody 4A8, by disruption of N5-loop/supersite loop, may work synergistically with 
 # 501Y.V2 ("South African") lineage background variant R246I to disrupt paratope binding.
 # Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
 # B.1.351 pseudotyped virus model ablates neutralization by N-terminal-domain-directed mAbs 5-24, 4-8, 4A8, 2-17, and 4-19 (independent of S:p.R246I).
