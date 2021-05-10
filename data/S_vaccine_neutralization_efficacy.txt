@@ -1,3 +1,16 @@
+# The sera of 16 individuals with time course collection was evaulated against VSV pseudotypes: neutralized D614G at week 2, 
+# whereas B.1.1.7 started to be neutralized at week 3, although less efficiently than D614G. B.1.1.7 and D614G strains were 
+# similarly neutralized at week 4 (1 week after booster dose). 
+# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
+# The sera of 16 individuals with time course collection was evaluated against VSV pseudotypes: while BD614G and B.1.1.7 were 
+# neutralized earlier, the anti-B.1.351 response was negative up to week 3, and became detectable at week 4 (1 week after booster dose), at a level lower 
+# than the two other viruses (~10x vs D614G) through week 6, the last timepoint measured. Three vaccinees never showed detectable neutralization
+# to B.1.351 even after second dose.
+# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
+
 # In 15 Pzifer non-senior vaccinee sera collected 3-4 weeks post-booster [using Table S1, not the text that says 2-3 weeks], neutralization was reduced ~3x (compared to ~11x for B.1.351).
 # [PG: note that the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
 # therefore the results should be interpreted carefully as transferable to B.1.617 generally]
