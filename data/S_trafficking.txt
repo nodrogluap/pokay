@@ -1,3 +1,27 @@
+# This variant alone shows a 10x decrease in cell entry efficiency (RLU measurement in 293T cells) compared to D614G. 
+# Ferriera et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
+E484Q
+
+# This variant alone shows a ~5x decrease in cell entry efficiency (RLU measurement in 293T cells) compared to D614G.
+# [PG: listed as L454R in Figure, but L452R in text, also text 
+# suggests not statistucally signbificant, but error bars say otherwise in Figure 4]
+# Ferriera et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
+L452R
+
+# This variant combination shows a ~4-5x decrease in cell entry efficiency (RLU measurement in 293T cells) compared to D614G, same as L452R alone.
+# Ferriera et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
+L452R;E484K
+
+# This variant alone shows a ~5x decrease in cell entry efficiency (RLU measurement in 293T cells) compared to D614G. 
+# Ferriera et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
+E484K
+
+# This variant combination shows a ~3x decrease in cell entry efficiency (RLU measurement in 293T cells) compared to D614G,
+# significantly less of a decrease than any B.1.617 lineage variants alone, suggesting a synergistic effect on cell entry
+# while maintaining known immunity esacpe mutants.
+# Ferriera et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
+L452R;E484K;P681R
+
 # In one of eight cell lines tested (293T lung cells), a modest increase in cell entry was observed.
 # Hoffman et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.04.442663
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
