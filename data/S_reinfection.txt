@@ -4,3 +4,9 @@
 # Initial infection with SARS-CoV-2 lineage A does not prevent heterologous reinfection with B.1.351, but prevents disease and onward transmission.  
 # Yinda et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.05.442780v1
 D80A;D215G;K417N;A701V;N501Y;E484K
+
+# Reinfection with Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) B.1.1.7 variant in an immunocompromised 16yo female with end stage renal disease
+# 94 days after initial infection with a B.1.2 lineage virus. Both lineages were the prevalent one at the time of 1st and 2nd infections respectively in Texas,
+# where the patient was located.
+# Marquez et al. (2021) https://doi.org/10.1017/ice.2021.195
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
