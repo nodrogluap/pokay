@@ -174,8 +174,8 @@ L5F;T95I;D253G;S477N;D614G;A701V
 # Zhou et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436620v1
 L5F;T95I;D253G;E484K;D614G;A701V
 
-# No significant change in virus neutralzation by 18 Pfizer two dose vaccinnee sera compared to B.1.1.7.
-# PG: results without include A27S seem generaluzable as this is not a lineage defining mutation.
+# No significant change in virus neutralzation by 18 Pfizer two dose vaccinee sera compared to B.1.1.7.
+# PG: results without including the used mutation A27S seem generalizable as this is not a lineage defining mutation.
 # Zuckerman et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.25.21253908v1
 D614G;P681H
 
