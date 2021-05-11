@@ -1,0 +1,6 @@
+# Hamsters re-infected with B.1.351 virus after seroversion from previous infection with a lineage A virus did not transmit 
+# virus to naive sentinels via direct contact transmission, in contrast to the non-seroconverted animals. They had little 
+# infectious virus and no pathology in the lungs.
+# Initial infection with SARS-CoV-2 lineage A does not prevent heterologous reinfection with B.1.351, but prevents disease and onward transmission.  
+# Yinda et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.05.442780v1
+D80A;D215G;K417N;A701V;N501Y;E484K
