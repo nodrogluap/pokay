@@ -106,7 +106,7 @@ D80A
 
 # Estimated that there is very little free energy change (ddG. -0.02 kcal/mol) for this variant (i.e. approx. same stability as wild type) 
 # Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
-D80A
+A570D
 
 # Estimated free energy change (ddG) for this variant is -0.33 kcal/mol (i.e. destabilizing relative to wild type) 
 # Spratt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436850v1
