@@ -4,7 +4,7 @@
 # Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
 N501Y;K417N;E484K
 
-# Using a lentivirus virus pseudtyped with D614G Spike, sera from vaccinated individuals who received the second dose (9–11 days post-second dose of Pfizer) exhibited a robust 
+# Using a lentivirus virus pseudotyped with D614G Spike, sera from vaccinated individuals who received the second dose (9–11 days post-second dose of Pfizer) exhibited a robust 
 # neutralizing potential, with a mean NT50 value of 99,000. This was an average of a 2-fold increase, relative to sera drawn from the 
 # individuals who received one dose of vaccination—mean NT50 dilution of 51,300. Importantly, a 6-fold increase in mean NT50 dilution was 
 # obtained when sera from the first vaccination dose was compared to convalescent sera from cohort with severe disease (NT50 51,000 vs 8,700) 
@@ -19,7 +19,6 @@ D614G
 # members at a single tertiary centre (age 27-77 years). Sequencing revealed that
 # 16/33 were B.1.617.2, with a range of other B lineage viruses including B.1.1.7 for the rest except one A lineage case. 
 # Importantly no severe cases were documented in this event.
-# Using HIV-B1.617.1 pseudotyped virus, 
 # Ferreira et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
 L452R;E484Q;P681R
 
