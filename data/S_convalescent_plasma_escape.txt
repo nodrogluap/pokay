@@ -50,7 +50,7 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 # (<2-fold).
 S13I;W152C;L452R
 
-# The only mutation in the B.1.351 lineage that appers to contribute to neutralization reduction (~1.7x across 10 convalescent sera from April 2020 infectees)
+# The only mutation in the B.1.351 lineage that appears to contribute to neutralization reduction (~1.7x across 10 convalescent sera from April 2020 infectees)
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
 E484K
 
