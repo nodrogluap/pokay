@@ -1,7 +1,7 @@
 # The KD for the pseudotyped P.1-ACE2 interaction is 4.8 nM, showing that binding to P.1 is essentially indistinguishable from B.1.351 (4.0 nM),
 # which binds with ~19x greater affinity that wild type.
 # Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
-K417T;E484K;N501Y
+K417T;E484K;N501Y;D614G
 
 # Flow cytometry was used on recombinant VSV proteins and yeast surface display to assess the binding of a labeled soluble ACE2 
 # protein to cells expressing B.1.1.7. We observed a dramatic increase (relative to D614G) in binding of soluble 
