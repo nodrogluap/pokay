@@ -1,3 +1,27 @@
+# P.1 virus neutralization (as tested using biolayer interferometry) of both Lilly antibodies was severely impacted, 
+# with Lilly mAb combination LY-CoV16 and LY-CoV555 
+# (due to mutations at 416 and 484 respectively) shows almost complete loss of neutralization of P.1. 
+# There was also escape from neutralization of P.1 by REGN10933 (one of 2 in Regeneron's mAb cocktail) 
+# and a modest reduction in neutralization of P.1 by AstraZeneca's AZD8895 (while AZD1061 and AZD7442 showed 
+# equal neutralization of all SARS-CoV-2 variants tested).
+# The three Adagio antibodies neutralized P.1 with all reaching a plateau at 100% neutralization; interestingly, ADG30 
+# showed a slight increase of neutralization of P.1.
+# S309 Vir was largely unaffected, although for several viruses, including P.1, the antibody failed to completely 
+# neutralize, conceivably reflecting incomplete glycosylation at N343, since the sugar interaction is key to binding of this antibody.
+# Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
+L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
+
+# B.1.351 virus neutralization (as tested using biolayer interferometry) of both Lilly antibodies was severely impacted, with LY-CoV16 and LY-CoV555 
+# (due to mutations at 416 and 484 respectively) shows almost complete loss of neutralization of B.1.351.
+# There was also escape from neutralization of B.1.351 by REGN10933 and a modest reduction in neutralization of B.1.351 by AZD8895 
+# (while AZD1061 and AZD7442 showed equal neutralization of all SARS-CoV-2 variants tested). The three Adagio antibodies neutralized B.1.351.
+# Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
+L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
+
+# Lilly's LY-CoV16 showed marked reduction in neutralization of B.1.1.7. 
+# Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;R716I;S982A;D1119H
+
 # This mutated version of RBD completely abolishes the binding to a therapeutic antibody, Bamlanivimab, in vitro.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.16.431305v1
 # Tixagevimab, Regdanvimab and COR-101 display reduced binding affinity to virus pseudotyped as RBD from B.1.351.
