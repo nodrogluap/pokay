@@ -8,4 +8,7 @@ D3L
 # sequence (TRS), generate a novel sub-genomic RNA transcript for the C-terminal dimerization domain. It may also have increased
 # expression of sub-genomic RNA from other open reading frames, based on public data analysis.
 # Leary et al. (2021) https://www.biorxiv.org/content/10.1101/2020.04.10.029454v2
+# This variant shows a significant increase in viral load compared to wild type, but not relative to D614G viruses without the variant
+# in circulating viruses in the Spring of 2020 in Saudia Arabia.
+# Mourier et al. (2021) https://www.medrxiv.org/content/10.1101/2021.05.06.21256706v1
 R203K;G204R
