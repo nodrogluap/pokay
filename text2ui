@@ -278,7 +278,7 @@ $map_data
 
 <table width="100%">
 <tbody>
-<tr><td align="center"><em>Functional literature for Variants of Concern/Interest lineages</em></td></tr>
+<tr><td align="center"><em>Functional literature for Variants of Concern/Interest/Under Monitoring lineages</em></td></tr>
 <tr><td align="center"> 
 END
 
@@ -425,6 +425,8 @@ close(FRONT_HTML);
 
 # Write all the lineage-specific pages
 for my $lineage_name (keys %lineage_mutations){
+	my $lineage_short_name = $lineage_name;
+	$lineage_short_name =~ s/\+.*//; # get rid of B.1+E484K addditional variant info that cov-lineages.org won;t handle
 	open(LINEAGE_HTML, ">$html_outdir/lineage-$lineage_name.html")
 		or die "Cannot open $html_outdir/lineage-$lineage_name.html for writing: $!\n";
 	print LINEAGE_HTML <<END;
@@ -448,7 +450,7 @@ for my $lineage_name (keys %lineage_mutations){
   </script>
 </head>
 <body>
-<h1>Functional mutation literature for <a href="$front_rel_url">SARS-CoV-2</a> lineage <a href="https://cov-lineages.org/lineages/lineage_$lineage_name.html">$lineage_name</a></h1>
+<h1>Functional mutation literature for <a href="$front_rel_url">SARS-CoV-2</a> lineage <a href="https://cov-lineages.org/lineages/lineage_$lineage_short_name.html">$lineage_name</a></h1>
 <div id="accordion">
 END
 
