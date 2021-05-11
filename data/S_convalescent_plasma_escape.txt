@@ -1,3 +1,16 @@
+# In 34 plasma collected 11-45 days post symptom onset, before B.1.1.7's emergence, neutralization of P.1 decreased 3.1x (comparable to B.1.1.7 at 2.9x).
+# When using plasma from individuals infected with B.1.1.7, only modest (1.8-fold, p=0.0039) reductions in neutralization comparing 
+# P.1 with Victoria (~wild type) were observed.
+# Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
+L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
+
+# In 34 plasma collected 11-45 days post symptom onset, before B.1.1.7's emergence, neutralization of B.1.351 decreased 13.3x 
+# (much more than B.1.1.7 at 2.9x and P.1 at 3.1x).
+# When using plasma from individuals infected with B.1.1.7, reductions in neutralization were significant but less extreme (4.4x) compared with 
+# with Victoria (~wild type).
+# Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
+L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
+
 # 0.7x reduction in neutralization by key variant in several variants of concern in sera collected from cohort of 10 with severe 
 # disease 21 to 63 days post-onset. 
 # Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
