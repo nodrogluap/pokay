@@ -6,8 +6,22 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
 # with enrollment June 24 and November 9, 2020 from ~2000 HIV-negative 18-64 year olds (1:1 placebo to treatment), incidence of serious 
 # adverse events 14 or more days post- 2nd dose was balanced between the vaccine and placebo groups. A two-dose regimen of the ChAdOx1 
 # nCoV-19 vaccine did not show protection against mild-to-moderate Covid-19 due to the B.1.351 variant.
+# Serum samples obtained from 13 ChAdOx1 nCoV-19 vaccine recipients without SARS-CoV-2 infection through 41 days after vaccination 
+# showed 3.5x reduction in neutralization (ID50) for B.1.351 RBD pseudotype HIB-1 virus compared to D614G alone. This 
+# RBD variant combination's neutralization by a placebo control 
+# group of 6 naturally infected patients showed a similar 3.2x drop (though with D614G starting at a 1.7x higher titre than vaccinee sera).
 # Madhi et al. (2021) https://doi.org/10.1056/NEJMoa2102214
 K417N;E484K;N501Y;D614G
+
+# Relative to B.1.1.117, PRNT50 line virus neutralizating antibody activity assay of B.1.351 showed ~11x reduction in 13 vacinees's sera 
+# collected through 41 days after vaccination. Neutralization by a placebo control group of 6 naturally infected patients showed a smaller ~8x drop
+# (starting from a ~50% higher PRNT50 value than vacinees for B.1.1.117 neutralization).
+# Serum samples obtained from 13 ChAdOx1 nCoV-19 vaccine recipients without SARS-CoV-2 infection through 41 days after vaccination 
+# showed ~4x reduction in neutralization (ID50) for full B.1.351 pseudotype HIV-1 virus compared to D614G alone. This 
+# RBD variant combination's neutralization by a placebo control 
+# group of 6 naturally infected patients showed a slightly higher 4.6x drop (though with D614G starting at a 1.7x higher titre than vaccinee sera).
+# Madhi et al. (2021) https://doi.org/10.1056/NEJMoa2102214
+L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Human sera from 5 two-dose Pfizer vaccinated individuals (47-68 days post 1st-dose) neutralized this variant 3.4x less relative to reference 
 # USA-WA1/2020 strain.
