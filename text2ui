@@ -72,8 +72,10 @@ while(my $txt_file = readdir(TXT_INDIR)){
   while(<TXT_FILE>){
     if(/^[A-Z]+\d+(?:[A-Z]+|del)/){
       tr/ //d; # remove any errant whitespace
+      chomp $_;
+      # Sort the constellation key atoms so the naming is consistent even if the file encoding of the combos was not
+      $_ = join(";", sort {&constellation_cmp($a,$b)} split(/;/, $_));
       my $constellation_key = "$gene:$_";
-      chomp $constellation_key;
       if(not @lit_references){
         warn "Ignoring variant '$&' without literature annotations ($qualified_txt_file line #$.)\n";
       }
@@ -203,14 +205,15 @@ my %gene_pretty = @gene_pretty;
 my $front_rel_url = "front.html";
 # Write the per-constellation pages
 for my $constellation_key (keys %constellation2html){
-  my ($gene, $constellation) = split /:/, $constellation_key;
+  my ($plain_gene, $constellation) = split /:/, $constellation_key;
+ my $gene = $plain_gene;
   if(exists $gene_pretty{$gene}){
     $gene = $gene_pretty{$gene}. " ($gene)";
   }
   my $constellation_key_pretty = hgvsify($constellation_key);
 
-  open(HTML, ">$html_outdir/$constellation_key_pretty.html")
-    or die "Cannot open $html_outdir/$constellation_key_pretty.html for writing: $!\n";
+  open(HTML, ">$html_outdir/$constellation_key.html")
+    or die "Cannot open $html_outdir/$constellation_key.html for writing: $!\n";
   print HTML <<DATA;
 <html>
 <head>
@@ -218,7 +221,7 @@ for my $constellation_key (keys %constellation2html){
   <link rel="stylesheet" href="constellations.css">
 </head>
 <body>
-<h1><a href="$front_rel_url">SARS-CoV-2</a> <a href="$gene.html">$gene</a> gene <span class="constellation">$constellation_key_pretty</span> literature reference collection</h1>
+<h1><a href="$front_rel_url">SARS-CoV-2</a> <a href="$plain_gene.html">$gene</a> gene <span class="constellation">$constellation_key_pretty</span> literature reference collection</h1>
 DATA
   print HTML @{$constellation2html{$constellation_key}};
   print HTML <<DATA;
@@ -330,7 +333,8 @@ END
     $category_pretty =~ s/^([a-z])/uc($1)/e;
     for my $constellation_key (sort @{$gene2category2constellations{$gene}->{$category}}){
       my $simplified_constellation_key = hgvsify($constellation_key);
-      print GENE_CAT_HTML "  <li class=\"constellation_list_item\"><a href=\"./$simplified_constellation_key.html#$category\"><span class=\"constellation\">$simplified_constellation_key</span></a></li>\n";
+      $simplified_constellation_key =~ s/(\S{1,24};)/$1 /g;
+      print GENE_CAT_HTML "  <li class=\"constellation_list_item\"><a href=\"./$constellation_key.html#$category\"><span class=\"constellation\">$simplified_constellation_key</span></a></li>\n";
       $num_constellations++;
     }
 
@@ -386,7 +390,9 @@ END
     my $num_constellations = 0;
     for my $constellation_key (sort @{$gene2category2constellations{$gene}->{$category}}){
       my $simplified_constellation_key = hgvsify($constellation_key);
-      print CAT_GENE_HTML "  <li class=\"constellation_list_item\"><a href=\"./$simplified_constellation_key.html#$category\"><span class=\"constellation\">$simplified_constellation_key</span></a></li>\n";
+      # Some constellation keys are getting pretty long, let's insert breakable space in them so we don't get overlapping text in the columns list layout used
+      $simplified_constellation_key =~ s/(\S{1,24};)/$1 /g;
+      print CAT_GENE_HTML "  <li class=\"constellation_list_item\"><a href=\"./$constellation_key.html#$category\"><span class=\"constellation\">$simplified_constellation_key</span></a></li>\n";
       $num_constellations++;
     }
 
@@ -442,7 +448,7 @@ for my $lineage_name (keys %lineage_mutations){
   </script>
 </head>
 <body>
-<h1>Functional mutation literature for <a href="$front_rel_url">SARS-CoV-2</a> lineage $lineage_name</h1>
+<h1>Functional mutation literature for <a href="$front_rel_url">SARS-CoV-2</a> lineage <a href="https://cov-lineages.org/lineages/lineage_$lineage_name.html">$lineage_name</a></h1>
 <div id="accordion">
 END
 
@@ -491,7 +497,7 @@ END
 			next unless exists $effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene};
 			print LINEAGE_HTML "<h3>Gene $gene &mdash; $gene_pretty{$gene}</h3><ul class=\"lit_list\">\n";
 
-    			for my $constellation (keys %{$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene}}){
+    			for my $constellation (sort {&constellation_cmp($a,$b)} keys %{$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene}}){
 				print LINEAGE_HTML hgvsify($constellation)."<br/><ul class=\"lit_list\">\n";
     				for my $lit_ref (@{$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene}->{$constellation}}){
       					print LINEAGE_HTML htmlify_lit_ref($lit_ref);
@@ -513,6 +519,14 @@ copy("$text_indir/../genome.png", "$html_outdir/genome.png")
   or die "Cannot copy image file to $html_outdir/genome.png: $!\n";
 copy("$text_indir/../imageMapResizer.min.js", "$html_outdir/imageMapResizer.min.js")
   or die "Cannot copy script file to $html_outdir/imageMapResizer.min.js: $!\n";
+
+# Sort constellations by position
+sub constellation_cmp{
+  my ($a, $b) = @_;
+  my ($pos_a) = $a =~ /^.*?(\d+)/;
+  my ($pos_b) = $b =~ /^.*?(\d+)/;
+  return $pos_a <=> $pos_b or $a cmp $b; # position-based or fall back toa lexical if same position 
+}
 
 sub hgvsify{ 
   my $simplified_constellation_key = $_[0];
