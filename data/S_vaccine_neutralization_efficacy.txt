@@ -1,3 +1,10 @@
+# In a multicenter, double-blind, randomized, controlled trial to assess the safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222)
+# with enrollment June 24 and November 9, 2020 from ~2000 HIV-negative 18-64 year olds (1:1 placebo to treatment), incidence of serious 
+# adverse events 14 or more days post- 2nd dose was balanced between the vaccine and placebo groups. A two-dose regimen of the ChAdOx1 
+# nCoV-19 vaccine did not show protection against mild-to-moderate Covid-19 due to the B.1.351 variant.
+# Madhi et al. (2021) https://doi.org/10.1056/NEJMoa2102214
+K417N;E484K;N501Y;D614G
+
 # Human sera from 5 two-dose Pfizer vaccinated individuals (47-68 days post 1st-dose) neutralized this variant 3.4x less relative to reference 
 # USA-WA1/2020 strain.
 # 8 convalescent plasma with weak IgG ELISA titre neutralized this variant 2.4x less relative to reference 
