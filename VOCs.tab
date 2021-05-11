@@ -1,0 +1,18 @@
+# This is not a full list of mutations for B.1.1.7, notably the ORF8 variants after the new stop are excluded as probably non-functional
+B.1.1.7	NSP6:p.S106del;NSP6:p.G107del;NSP6:p.F108del;S:p.H69del;S:p.V70del;S:p.Y144del;S:p.N501Y;S:p.A570D;S:p.D614G;S:p.P681H;S:p.T716I;S:p.S982A;S:p.D1118H;ORF8:p.Q27*;N:p.D3L;N:235F	S:p.E484K;S:p.S494P;S:p.K1191N
+P.1	S:p.L18F;S:p.T20N;S:p.P26S;S:p.D138Y;S:p.R190S;S:p.K417T;S:p.E484K;S:p.N501Y;S:p.D614G;S:p.H655Y;S:p.T1027I
+# Depending on how the alignment is done, the exact change due to the three base deletion can be 241-243 or 242-244, so we are including only the one that always pops up
+B.1.351	S:p.D80A;S:p.D215G;S:p.A242del;L243del;L244del;S:p.K417N;S:p.E484K;S:p.N501Y;S:p.D614G;S:p.A701V
+B.1.427	S:p.L452R;S:p.D614G
+B.1.429	S:p.S13I;S:p.W152C;S:p.L452R;S:p.D614G
+B.1.526	S:p.T95I;S:p.D253G;S:p.D614G	S:p.L5F;S:p.S477N;S:p.E484K;S:p.A701V
+B.1.526.1	S:p.D80G;S:p.Y144del;S:p.F157S;S:p.L452R;S:p.D614G;S:p.D950H	S:p.T791I;S:p.T859N
+B.1.525	S:p.A67V;S:p.H69del;S:p.V70del;S:p.Y144del;S:p.E484K;S:p.D614G;S:p.Q677H;S:p.F888L
+P.2	S:p.E484K;S:p.D614G;S:p.V1176F	S:p.F565L
+B.1.616	ORF3:Q57H;ORF7a:*122R;S:H66D;S:G142V;S:Y144del;S:D215G;S:V483A;S:D614G;S:H655Y;S:G669S;S:Q949R;S:N1187D;E:F20L;E:T30I;M:H125Y;N:T325I
+B.1.617	S:p.L452R;S:p.E484Q;S:p.D614G	
+B.1.617.1	S:p.G142D;S:p.E154K;S:p.L452R;S:p.E484Q;S:p.D614G;S:p.P681R;S:p.Q1071H	S:p.T95I
+B.1.617.2	S:p.T19R;S:p.E156del,S:p.F157del;S:p.R158G;S:p.L452R;S:p.T478K;S:p.D614G;S:p.P681R;S:p.D950N	S:p.G142D
+B.1.617.3	S:p.T19R;S:p.G142D;S:p.L452R;S:p.E484Q;S:p.D614G;S:p.P681R;S:p.D950N
+B.1.620	S:p.P26S;S:p.H69del;S:p.V70del;S:p.V126A;S:p.Y144del;S:p.L242del;S:p.H245Y;S:p.S477N;S:p.E484K;S:p.D614G;S:p.P681H;S:p.T1027I;S:p.D1118H;ORF9b:p.I5T;N:p.A220V
+B.1.621	ORF8:p.T11K;ORF8:p.P38S;ORF8:p.S67F;S:p.T95I;S:p.Y144T;S:p.R346K;S:p.E484K;S:p.N501Y;S:p.P681H
