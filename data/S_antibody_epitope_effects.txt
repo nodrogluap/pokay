@@ -1,3 +1,11 @@
+# The neutralization titer of NTD-binding mAb159 was 133-fold reduced on P.1 compared to Victoria (~wild type), with only 64% neutralization at 10 μg/mL. 
+# Residues 20, 18, and 138 form a cluster underlying the 245–259 loop, which inserts into a groove between the light and heavy chains of Fab 159. In addition,
+# the N-terminal residues preceding residue 18 interact with the antibody and may be perturbed. It is also conceivable that the failure of this antibody to
+# achieve complete neutralization could be due to partial glycosylation at residue 20, which is some 16 Å from bound Fab 159. 
+# Since it has been proposed that there is a single supersite for potent NTD-binding antibodies, we would expect the binding of many of these to be affected.
+# Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
+L18F;T20N;P26S;D138Y;R190S
+
 # Abrogates Bamlanivimab neutralization as quantified by measuring virus-encoded luciferase activity in cell lysates at 16-18 h post transduction.
 # Significant decrease in combined Etesevimab+Bamlanivimab neutralization except at the highest concentration measured.
 # [PG: note that the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
