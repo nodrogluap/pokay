@@ -15,3 +15,10 @@ H69del;V70del;N501Y
 # consolidation and pneumocyte hyperplasia were observed with B.1.617.1 variant consistently.
 # Yadav et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.05.442760v1
 L452R;E484Q;P681R
+
+# Inoculation with the B.1.351 isolate resulted in lower clinical scores in 6 rhesus macaques that correlated with lower virus 
+# titers in the lungs, less severe histologic lung lesions and less viral antigen detected in the lungs. Our comparative 
+# pathogenicity study suggests that ongoing circulation under diverse evolutionary pressure favors transmissibility and 
+# immune evasion rather than an increase in intrinsic pathogenicity.
+# Munster et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.07.443115v1
+D80A;D215G;K417N;A701V;N501Y;E484K
