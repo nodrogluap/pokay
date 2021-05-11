@@ -1,3 +1,13 @@
+# 0.7x reduction in neutralization by key variant in several variants of concern in sera collected from cohort of 10 with severe 
+# disease 21 to 63 days post-onset. 
+# Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
+N501Y
+
+# ~7x reduction in neutralization by key B.1.351 lineage RBD variant combination in sera collected from cohort of 10 with severe 
+# disease 21 to 63 days post-onset. Two of the cohort showed no neutralization against this variant.
+# Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
+N501Y;K417N;E484K
+
 # Using a new rapid neutralization assay, based on reporter cells that become positive for GFP after overnight infection, sera from 58 
 # convalescent individuals collected up to 9 months after symptoms, similarly neutralized B.1.1.7 and D614G. 
 # Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
