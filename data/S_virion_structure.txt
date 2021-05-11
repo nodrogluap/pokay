@@ -66,7 +66,7 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # loop (residues 246-260), both of which form part of the neutralizing epitopes...bringing large changes in the antigenic surface in this
 # region.
 # Cai et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.13.439709v1
-L18F;D80A;L242del;A243del;L244del
+L18F;D80A;L242del
 
 # CryoEM reveals the P.1 trimer to adopt exclusively a conformation in which one of the receptor-binding domains is in the “up” position.
 # Wang et al. (2021) https://dx.doi.org/10.1101%2F2021.03.01.433466
