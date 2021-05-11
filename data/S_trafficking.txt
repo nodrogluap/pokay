@@ -1,32 +1,32 @@
-# 9x more infectivity than D614G alone in HEK293T-ACE2 cells 48 post-transduction.
+# 9x more infectivity than D614G alone in HEK293T-ACE2 cells 48h post-transduction.
 # Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
 N501Y;D614G
 
-# ~2x more infectivity than D614G alone in HEK293T-ACE2 cells 48 post-transduction.
+# ~2x more infectivity than D614G alone in HEK293T-ACE2 cells 48h post-transduction.
 # Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
 E484K;D614G
 
-# ~2x more infectivity than D614G alone in HEK293T-ACE2 cells 48 post-transduction.
+# ~2x more infectivity than D614G alone in HEK293T-ACE2 cells 48h post-transduction.
 # Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
 K417N;D614G
 
-# ~9x more infectivity than D614G alone in HEK293T-ACE2 cells 48 post-transduction (no synergy as level approx. that of N501Y alone).
+# ~9x more infectivity than D614G alone in HEK293T-ACE2 cells 48h post-transduction (no synergy as level approx. that of N501Y alone).
 # Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
 K417N;N501Y;D614G
 
-# ~12x more infectivity than D614G alone in HEK293T-ACE2 cells 48 post-transduction (~additive effects of 501 and 484).
+# ~12x more infectivity than D614G alone in HEK293T-ACE2 cells 48h post-transduction (~additive effects of 501 and 484).
 # Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
 E484K;N501Y;D614G
 
-# Approximately as infective as D614G alone in HEK293T-ACE2 cells 48 post-transduction (~additive effects of the individual variants).
+# Approximately as infective as D614G alone in HEK293T-ACE2 cells 48h post-transduction (~additive effects of the individual variants).
 # Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
 E484K;K417N;D614G
 
-# ~13x more infective as D614G alone in HEK293T-ACE2 cells 48 post-transduction .
+# ~13x more infective as D614G alone in HEK293T-ACE2 cells 48h post-transduction.
 # Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
 E484K;K417N;N501Y;D614G
 
-# 9x more infectivity than D614G alone in HEK293T-ACE2 cells 48 post-transduction.
+# 9x more infectivity than D614G alone in HEK293T-ACE2 cells 48h post-transduction.
 # Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
 N501Y;D614G
 
