@@ -1,8 +1,11 @@
 # The neutralization titer of NTD-binding mAb159 was 133-fold reduced on P.1 compared to Victoria (~wild type), with only 64% neutralization at 10 μg/mL. 
 # Residues 20, 18, and 138 form a cluster underlying the 245–259 loop, which inserts into a groove between the light and heavy chains of Fab 159. In addition,
-# the N-terminal residues preceding residue 18 interact with the antibody and may be perturbed. It is also conceivable that the failure of this antibody to
-# achieve complete neutralization could be due to partial glycosylation at residue 20, which is some 16 Å from bound Fab 159. 
-# Since it has been proposed that there is a single supersite for potent NTD-binding antibodies, we would expect the binding of many of these to be affected.
+# the N-terminal residues preceding residue 18 interact with the antibody and may be perturbed. 
+# Given that there is likely a single supersite ("i") for potent NTD-binding antibodies, the binding of many of these are likely affected.
+# Using 20 potent (primaruly anti-RBD) antibodies, neutralization was measured by a focus reduction neutralization test (FRNT) and compared with 
+# neutralization of Victoria (~wild type) and variants B.1.1.7 and B.1.351. Compared to Victoria neutralization by the mAbs was significantly impacted by P.1, 
+# with 12/20 showing > 10-fold reduction in FRNT50 titer and a number showing complete knockout of activity. The results with P.1 showed a 
+# greater impact compared to B.1.1.7 but were, as expected, similar to those with B.1.351.
 # Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
 L18F;T20N;P26S;D138Y;R190S
 
