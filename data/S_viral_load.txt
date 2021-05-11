@@ -23,6 +23,8 @@ L452R;E484Q;P681R
 # Teyssou et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.21.21253498v1
 # B.1.1.7 samples showed average Ct cycle threshold of 21.9 vs 23 for wildtype (i.e. ~2x higher viral load) comparing 37758 and 22535 samples respectively.
 # Roquebert et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.19.21253971v2
+# The median Ct value of RT-qPCR tests of the N-gene target in the Daxing B.1.1.7 group was significantly lower than the Shunyi B.1.470 group (P=0.036).
+# Song et al. (2021) https://www.medrxiv.org/content/10.1101/2021.05.04.21256655v1
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Hamsters infected with SARS-CoV-2 expressing spike(D614G) (G614 virus) produced higher infectious titres in nasal washes and the trachea, but not in the lungs, 
