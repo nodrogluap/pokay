@@ -1,3 +1,7 @@
+# P.1 lineage titers were reduced 7.6-fold and 9-fold for the BNT162b2 Pfizer and ChAdOx1 nCoV-19 AstraZeneca vaccines respectively.
+# Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
+L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
+
 # In a multicenter, double-blind, randomized, controlled trial to assess the safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222)
 # with enrollment June 24 and November 9, 2020 from ~2000 HIV-negative 18-64 year olds (1:1 placebo to treatment), incidence of serious 
 # adverse events 14 or more days post- 2nd dose was balanced between the vaccine and placebo groups. A two-dose regimen of the ChAdOx1 
