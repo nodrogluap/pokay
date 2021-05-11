@@ -5,7 +5,7 @@
 # Edara et al. (2021) https://www.medrxiv.org/content/10.1101/2021.02.02.21250799v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
-# 2.1x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
+# 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
 # at a dose of 100 µg (18-55 years; day 1 and day 14 post-2nd dose) against a recombinant single variant virus (modified replicating WA-1 cDNA clone) 
 # relative to contemporary circulating D614G variant (USA/GA-EHC-083E/2020) using a live-virus Focus Reduction Neutralization Test (FRNT) assay. 
 # Edara et al. (2021) https://www.medrxiv.org/content/10.1101/2021.02.02.21250799v1
