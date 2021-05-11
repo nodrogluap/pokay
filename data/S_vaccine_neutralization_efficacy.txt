@@ -1,3 +1,10 @@
+# Using national surveillance data from Israel, using Pfizer vaccine and an estimated prevalence of the B.1.1.7 variant of 94.5% among SARS-CoV-2 infections:
+# Adjusted estimates of vaccine effectiveness 7+ days after second dose were 95·3% (95% CI 94.9–95.7); 
+# 91.5% against asymptomatic SARS-CoV-2 infection (90·7–92·2; 40.9 vs 1.8 per 100 000 person-days), 97·0% against symptomatic 
+# COVID-19 (96.7–97.2%), 97.2% against COVID-19-related hospitalisation (96.8–97.5%), 
+# 97.5% against severe or critical COVID-19-related hospitalisation (97.1–97.8%), and 96.7% against COVID-19-related death (96.0–97.3%). 
+# In all age groups, as vaccine coverage increased, the incidence of SARS-CoV-2 outcomes declined
+# Haas et al. (2021) https://dx.doi.org/10.1016%2FS0140-6736(21)00947-8
 # 2.1x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
 # at a dose of 100 µg (18-55 years; day 1 (n=15) and day 14 (n-14) post-2nd dose) against a B.1.1.7 variant (USA/CA_CDC_5574/2020 
 # [PG: USA/CA-SEARCH-5574/2020?]) relative to
