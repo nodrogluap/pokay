@@ -307,7 +307,7 @@ N460K
 # Y501 makes a pi interaction with Y41 and places R498 to make a hydrogen
 # bond and salt bridge to Q42 and D38 of ACE2, forming a strong network of new interactions
 # supporting the impact of these residues on affinity. 
-# Q498R alone appers to decrease ACE2 binding.
+# Q498R alone appears to decrease ACE2 binding.
 # The synergism of Q498R with N501Y (and E484K) increases ACE2 binding by ~50-
 # fold relative to WT.
 # Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
