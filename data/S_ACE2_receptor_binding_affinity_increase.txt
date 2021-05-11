@@ -22,6 +22,12 @@ N501Y;D614G;Q677H
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
 # ~4-fold increase in binding affinity vs wild type.
 # Motozono et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.02.438288v1
+# In silico methods (PyMOL and PDBePISA) involving mutagenesis (N501Y mutation) and interface analysis focusing on the Spike 
+# RDB-ACE2 interaction showed that the SARS-CoV-2 N501Y mutant (lineage B.1.1.7) establishes a more significant number of 
+# interactions relating to the mutant residue Y501 (Spike RDB) with residues Y41 and K353 (ACE2). This finding shows that the 
+# increased infectivity of SARS-CoV-2 lineage B.1.1.7 is associated with the interaction force between the Spike RBD Y501 
+# mutant residue with the ACE2 receptor, which in this strain is increased.
+# Santos and Passos (2021) https://www.biorxiv.org/content/10.1101/2020.12.29.424708v1
 N501Y
 
 # This mutation combination causes major increase in binding affinity vs. wild type as measured by IC50 vs pseudotyped 
