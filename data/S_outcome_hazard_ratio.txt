@@ -14,6 +14,12 @@
 # infected with a SGTF-associated variant [primarily B.1.1.7], compared to those infected with non-SGTF-associated variants. 
 # The effect was modified by age (p<0.001), with ORs of 0.96-1.13 below age 20 years and 1.57-1.67 in age groups 40 years or older.
 # Nyberg et al. (2021) https://arxiv.org/abs/2104.05560
+# Using UK data 1 November 2020 to 14 February 2021, while correcting for misclassification of PCR test Spike Gene Target Failure (SGTF)
+# and missingness in SGTF status, we estimate that the hazard of death associated with B.1.1.7 is 61% (42–82%) higher than with 
+# pre-existing variants after adjustment for age, sex, ethnicity, deprivation, residence in a care home, the local authority of residence and test date. 
+# This corresponds to the absolute risk of death for a 55–69-year-old man increasing from 
+# 0.6% to 0.9% (95% confidence interval, 0.8–1.0%) within 28 days of a positive test in the community.
+# Davies et al. (2021) https://www.nature.com/articles/s41586-021-03426-1
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # In the Southern Brazilian stats of Rio Grande do Sul, comparing pre-P.1 and post-P.1 waves: 
