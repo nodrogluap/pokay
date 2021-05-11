@@ -3,6 +3,12 @@
 # [PG: USA/CA-SEARCH-5574/2020?]) relative to
 # contemporary circulating D614G variant (USA/GA-EHC-083E/2020) using a live-virus Focus Reduction Neutralization Test (FRNT) assay. 
 # Edara et al. (2021) https://www.medrxiv.org/content/10.1101/2021.02.02.21250799v1
+# Virus neutralisation activity (using a live SARS-CoV-2 microneutralisation assay (ND50)) by vaccine induced antibodies was 9-fold lower 
+# against the B.1.1.7 variant than against a canonical non B.1.1.7 lineage. Vaccine efficacy against symptomatic NAAT positive infection 
+# was similar for B.1.1.7 and non-B.1.1.7 lineages (74.6% [95%CI 41.6-88.9] and 84% [95% CI 70.7-91.4] respectively).
+# Furthermore, vaccination with ChAdOx1 nCoV-19 results in a reduction in the duration of shedding and viral load, which may
+# translate into a material impact on transmission of disease.
+# Emary et al. (2021) http://dx.doi.org/10.2139/ssrn.3779160
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
