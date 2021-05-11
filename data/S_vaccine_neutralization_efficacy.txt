@@ -1,3 +1,14 @@
+# Human sera from 5 two-dose Pfizer vaccinated individuals (47-68 days post 1st-dose) neutralized this variant 3.4x less relative to reference 
+# USA-WA1/2020 strain.
+# 8 convalesscent plasma with weak IgG ELISA titre neutralized this variant 2.4x less relative to reference 
+# USA-WA1/2020 strain. 
+# 11 convalesscent plasma with moderate IgG ELISA titre neutralized this variant 4.2x less relative to reference 
+# USA-WA1/2020 strain. 
+# 11 convalesscent plasma with high IgG ELISA titre neutralized this variant 2.6x less relative to reference 
+# USA-WA1/2020 strain. 
+# Jangra et al. (2021) https://doi.org/10.1016/S2666-5247(21)00068-9
+E484K
+
 # In post-vaccination sera from individuals who received one (3 weeks post-first dose; n = 5) or two doses (9–11 days post-second dose; 
 # n = 10) of the BNT162b2 Pfizer vaccine, an average 6.8x reduction in neutralization efficacy of this B.1.351 key variants pseudotype 
 # lentivirus vs D614G was observed.
