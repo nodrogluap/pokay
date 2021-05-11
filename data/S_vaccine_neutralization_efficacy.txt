@@ -1,4 +1,5 @@
-# P.1 lineage titers were reduced 7.6-fold and 9-fold for the BNT162b2 Pfizer and ChAdOx1 nCoV-19 AstraZeneca vaccines respectively.
+# P.1 lineage titers were reduced 7.6-fold and 9-fold for the BNT162b2 Pfizer (sera collected 4-14 days post-booster) 
+# and ChAdOx1 nCoV-19 AstraZeneca (sera collected 14 or 28 days post-booster) vaccines respectively.
 # Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
 L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
 
