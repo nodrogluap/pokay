@@ -9,6 +9,10 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
 # When using plasma from individuals infected with B.1.1.7, reductions in neutralization were significant but less extreme (4.4x) compared with 
 # with Victoria (~wild type).
 # Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
+# Passive immunization with plasma from an early pandemic SARS-CoV-2 patients given to K18-hACE2 transgenic mice did not protect 
+# against viral propogation or lethal disease (whereas B.1.1.7 ha=d partial protection and wild type complete protection).
+# B.1.351 triggering significantly altered cytokine profiles than other strains in these mice.
+# Horspool et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.05.442784v1
 L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # 0.7x reduction in neutralization by key variant in several variants of concern in sera collected from cohort of 10 with severe 
