@@ -120,7 +120,7 @@ D614G
 
 # Vaccination of health care workers in Delhi was started in early 2021, with the ChdOx-1 (Astra Zeenca)
 # vaccine. Surveillance has suggested B.1.1.7 dominance in the Delhi area during early 2021,
-# with growth of B.1.617 since March 2021 (personal communication). During the wave of
+# with growth of B.1.617 since March 2021. During the wave of
 # infections during March and April an outbreak of SARS-CoV-2 was confirmed in 33 vaccinated staff 
 # members at a single tertiary centre (age 27-77 years). Sequencing revealed that
 # 16/33 were B.1.617.2, with a range of other B lineage viruses including B.1.1.7 for the rest except one A lineage case. 
