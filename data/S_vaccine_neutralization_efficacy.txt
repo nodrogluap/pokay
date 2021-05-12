@@ -1,5 +1,5 @@
-# In a cluster of B.1.617 infections related to travel from India to USA, one patient with mild symptoms
-# had received their second dose of Pfizer vaccine more than two weeks before the infection, suggesting vaccine escape.
+# In a cluster of B.1.617[.1] infections related to travel from India to USA, one patient with mild symptoms
+# had received their second dose of Pfizer vaccine more than two weeks before the infection [i.e. vaccine breakthrough].
 # Verghese et al. (2021) https://doi.org/10.1128/jcm.00741-21
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;H1101D
 
@@ -118,7 +118,7 @@ K417N;E484K;N501Y;D614G
 # Kuzmina et al. (2021) https://dx.doi.org/10.1016%2Fj.chom.2021.03.008
 D614G
 
-# Vaccination of health care workers in Delhi was started in early 2021, with the ChdOx-1 (Astra Zeenca)
+# Vaccination of health care workers in Delhi was started in early 2021, with the ChdOx-1 (Astra Zeneca)
 # vaccine. Surveillance has suggested B.1.1.7 dominance in the Delhi area during early 2021,
 # with growth of B.1.617 since March 2021 (personal communication). During the wave of
 # infections during March and April an outbreak of SARS-CoV-2 was confirmed in 33 vaccinated staff 
