@@ -289,11 +289,11 @@ L18F;D80A;D215G;L242del;A243del;K417N;E484K;N501Y;D614G;A701V
 # Neutralizing antibody titers of 18 samples (90%) decreased against this B.1.351 pseudotyped virus below an ID50 threshold of 40 (sera 
 # collected ~8mo post Jan 2020 first wave in China).
 # Hu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.22.427749v1
-# Average ~10-fold reduction in neutralization efficay in convalescent sera of 16 health workers infected in Spring 2020.
+# Average ~10-fold reduction in neutralization efficacy in convalescent sera of 16 health workers infected in Spring 2020.
 # Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
 K417N;E484K;N501Y;D614G
 
-# Average ~5-fold reduction in neutralization efficay in convalescent sera of 16 health workers infected in Spring 2020.
+# Average ~5-fold reduction in neutralization efficacy in convalescent sera of 16 health workers infected in Spring 2020.
 # Alenquer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.22.441007v1
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.3x reduction in 
 # IC50 serum dilution concentration for 6 convalescent sera.
