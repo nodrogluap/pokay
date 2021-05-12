@@ -3,6 +3,10 @@
 # infectious virus and no pathology in the lungs.
 # Initial infection with SARS-CoV-2 lineage A does not prevent heterologous reinfection with B.1.351, but prevents disease and onward transmission.  
 # Yinda et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.05.442780v1
+# 4 health care workers in the 20's and 30's with no underlying conditions and seropositivity or confirmed 2020 SARS-CoV-2 infections were
+# confirmed to have B.1.351 infection during a Februrary 2021 hospital outbreak in Luxembourg. Symptoms were mostly mild on first infection, and
+# milder on second infection.
+# Staub et al. (2021) https://doi.org/10.2807/1560-7917.es.2021.26.18.2100423
 D80A;D215G;K417N;A701V;N501Y;E484K
 
 # Reinfection with Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) B.1.1.7 variant in an immunocompromised 16yo female with end stage renal disease
@@ -14,7 +18,6 @@ D80A;D215G;K417N;A701V;N501Y;E484K
 # and obstructive sleep apnea, ischemic heart disease, with no history of immunosuppression. 
 # Harrington et al. (2021) https://doi.org/10.1093/cid/ciab014 
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
-
 
 # Partial sequencing of S gene reveals two cases of probable early 2021 B.1.1.7 lineage reinfection from non-B.1.1.7 original cases
 # in Lombardy, with 45 to 90 days between infections (less than the typical 90 day guideline for this call).
