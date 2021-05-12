@@ -1,3 +1,14 @@
+# In a cluster of B.1.617 infections related to travel from India to USA, one patient with mild symptoms
+# had received their second dose of Pfizer vaccine more than two weeks before the infection, suggesting vaccine escape.
+# Verghese et al. (2021) https://doi.org/10.1128/jcm.00741-21
+G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;H1101D
+
+# In a randomized phase 2a-b control trial of the Novavax (NVX-CoV2373) vaccine in South Africa, where B.1.351 virus dominates,
+# efficacy was 60.1% (95% CI, 19.9 to 80.1) in HIV-negative and initially SARS-CoV-2 seronegative participants using the 
+# primary endpoint of laboratory-confirmed symptomatic Covid-19 at 7 days or more after the second dose among participants. 
+# Shinde et al. (2021) https://doi.org/10.1056/nejmoa2103055
+L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
+
 # Using national surveillance data from Israel, using Pfizer vaccine and an estimated prevalence of the B.1.1.7 variant of 94.5% among SARS-CoV-2 infections:
 # Adjusted estimates of vaccine effectiveness 7+ days after second dose were 95·3% (95% CI 94.9–95.7); 
 # 91.5% against asymptomatic SARS-CoV-2 infection (90·7–92·2; 40.9 vs 1.8 per 100 000 person-days), 97·0% against symptomatic 
