@@ -126,7 +126,7 @@ D614G
 # 16/33 were B.1.617.2, with a range of other B lineage viruses including B.1.1.7 for the rest except one A lineage case. 
 # Importantly no severe cases were documented in this event.
 # Ferreira et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
-L452R;E484Q;P681R
+T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # Nine stored sera from Pfizer BNT162b2 vaccinees were tested against a range
 # of spike mutation bearing PV. E484Q had a ~5x drop in neutralization (vs ~10x for E484K). When
