@@ -9,4 +9,17 @@ D80A;D215G;K417N;A701V;N501Y;E484K
 # 94 days after initial infection with a B.1.2 lineage virus. Both lineages were the prevalent one at the time of 1st and 2nd infections respectively in Texas,
 # where the patient was located (suggesting exposure risk rather than lineage immune evasion).
 # Marquez et al. (2021) https://doi.org/10.1017/ice.2021.195
+# Second infection in December 2020 with B.1.1.7 after April 2020 initial infection with B.2 in a 78-year-old man with a history of Type 2 diabetes mellitus, 
+# diabetic nephropathy on hemodialysis, chronic obstructive pulmonary disease (COPD), mixed central 
+# and obstructive sleep apnea, ischemic heart disease, with no history of immunosuppression. 
+# Harrington et al. (2021) https://doi.org/10.1093/cid/ciab014 
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
+
+# Partial sequencing of S gene reveals two cases of probable early 2021 B.1.1.7 lineage reinfection from non-B.1.1.7 original cases
+# in Lombardy, with 45 to 90 days between infections (less than the typical 90 day guideline for this call).
+# Patients were 56 and 58yo, immunocompenent, with one a former smoker with obesity and dyslipidemia. One case required intubation during first infection, 
+# but presented with mild symptoms upon reinfection. The other case convalesced at home during the first episode, but required CPAP support 
+# in the subacute clinical unit upon reinfection.
+# Novazzi et al. (2021) https://doi.org/10.1002/jmv.27066
+N501Y;A570D
