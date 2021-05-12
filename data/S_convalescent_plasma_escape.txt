@@ -44,23 +44,22 @@ R21T;E154K;Q218H;L452R;E484Q;D614G;P681R;H1101D
 # Hoffman et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.04.442663
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
-# The most significant loss of neutralizing activity using 6 hyperimmune immunoglobulin preparations from
+# The most significant loss of neutralizing activity (PsVNA50 assay) using 6 hyperimmune immunoglobulin preparations from
 # convalescent plasma was seen against authentic B.1.351 lineage virus (9.2-fold). Neutralization against 10
-# convalescent plasma was poorer (~20x).
+# convalescent plasma was poorer (18.7x).
 # Tang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.19.436183v1
 L18F;D80A;D215G;L242del;A243del;L244del;N501Y;K417N;E484K;D614G 
 
-# Loss of neutralizing activity using 6 hyperimmune immunoglobulin preparations from
+# Loss of neutralizing activity (PsVNA50 assay) using 6 hyperimmune immunoglobulin preparations from
 # convalescent plasma was seen against P.1 (3.5-fold). Neutralization against 10
-# convalescent plasma was poorer.
+# convalescent plasma was slightly poorer (3.9-fold).
 # Tang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.19.436183v1
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
-# Loss of neutralizing activity using 6 hyperimmune immunoglobulin preparations from
+# Loss of neutralizing activity (PsVNA50 assay) using 6 hyperimmune immunoglobulin preparations from
 # convalescent plasma was minimal against B.1.249 (1.7-fold). Neutralization against 10
-# convalescent plasma was poorer.
+# convalescent plasma was somewhat poorer (3.1-fold).
 # Tang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.19.436183v1
-# (<2-fold).
 S13I;W152C;L452R
 
 # The only mutation in the B.1.351 lineage that appears to contribute to neutralization reduction (~1.7x across 10 convalescent sera from April 2020 infectees)
