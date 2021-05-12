@@ -11,7 +11,7 @@ W152L;E484K;D614G;G769V
 # Verghese et al. (2021) https://doi.org/10.1128/jcm.00741-21
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;H1101D
 
-# Case 62561 cluster in Singapore included a fully vaccinated nurse 2 months post-vaccine [likely Pfizer based on dates and supply], 
+# Case 62541 cluster in Singapore included a fully vaccinated nurse 2 months post-vaccine [likely Pfizer based on dates and supply], 
 # and a doctor of unknown vaccine status. This cluster was caused by a B.1.617.2 virus [via crossreference to 
 # https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/annex-a65c38244a9e142828ce500c88a5a5503.pdf].
 # Singapore MOH (2021) https://www.moh.gov.sg/news-highlights/details/3-new-cases-of-locally-transmitted-covid-19-infection-28apr2021-update
