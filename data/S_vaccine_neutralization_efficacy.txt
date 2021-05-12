@@ -11,6 +11,12 @@ W152L;E484K;D614G;G769V
 # Verghese et al. (2021) https://doi.org/10.1128/jcm.00741-21
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;H1101D
 
+# Case 62561 cluster in Singapore included a fully vaccinated nurse 2 months post-vaccine [likely Pfizer based on dates and supply], 
+# and a doctor of unknown vaccine status. This cluster was caused by a B.1.617.2 virus [via crossreference to 
+# https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/annex-a65c38244a9e142828ce500c88a5a5503.pdf].
+# Singapore MOH (2021) https://www.moh.gov.sg/news-highlights/details/3-new-cases-of-locally-transmitted-covid-19-infection-28apr2021-update
+T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
+
 # In a randomized phase 2a-b control trial of the Novavax (NVX-CoV2373) vaccine in South Africa, where B.1.351 virus dominates,
 # efficacy was 60.1% (95% CI, 19.9 to 80.1) in HIV-negative and initially SARS-CoV-2 seronegative participants using the 
 # primary endpoint of laboratory-confirmed symptomatic Covid-19 at 7 days or more after the second dose among participants. 
