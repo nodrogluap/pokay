@@ -1,5 +1,5 @@
 # In comparison of B.1.1.7 lineage (193 cases) vs. "wildtype" (125) in Berlin Jan 18 to March 29 2021, 
-# significant symptom changes are absent loss of 75 smell/taste (P=0.01), longer symptom duration (P=0.02). Mean age was 36 yo.
+# significant symptom changes are absent loss of smell/taste (P=0.01), longer symptom duration (P=0.02). Mean age was 36 yo.
 # van Loon et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.15.21255389v1
 # A higher proportion of cases infected with the B.1.1.7 variant were hypoxic on admission compared to other variants (70.0% vs 62.5%, p=0.029),
 # in London between March 13th 2020 and February 17th 2021 (400 B.1.1.7 cases out of 1470 total sequenced).
