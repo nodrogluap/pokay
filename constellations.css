@@ -32,6 +32,12 @@ img.genome_schematic {
   padding-bottom: 10px;
 }
 
+div.crossref {
+  text-align: center;
+  text-color: #F0A0A0;
+  background-color: #F0F0D0;
+}
+
 div.tip {
   background-color: #F0F0A0;
   text-color: #F0A0A0;
