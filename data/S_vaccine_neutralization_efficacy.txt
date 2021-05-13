@@ -51,7 +51,17 @@ T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 # efficacy was 60.1% (95% CI, 19.9 to 80.1) in HIV-negative and initially SARS-CoV-2 seronegative participants using the 
 # primary endpoint of laboratory-confirmed symptomatic Covid-19 at 7 days or more after the second dose among participants. 
 # Shinde et al. (2021) https://doi.org/10.1056/nejmoa2103055
+# B.1.351 pseudotyped VSV was tested for neutralization in a clonal HEK-293T ACE2 TMPRSS2 cell line optimized for highly efficient 
+# S-mediated infection. Only 1 out of 12 serum samples from a cohort of Argentinian recipients of the Gamaleya Sputnik V Ad26 / Ad5 vaccine 
+# showed effective neutralization (IC90) at full serum strength (average realtive decrease was 6.1x vs wild type).
+# Ikegame et al. (2021) https://dx.doi.org/10.21203%2Frs.3.rs-400230%2Fv1
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
+
+# E484K pseudotyped VSV was tested for neutralization in a clonal HEK-293T ACE2 TMPRSS2 cell line optimized for highly efficient 
+# S-mediated infection. A cohort of 12 Argentinian recipients of the Gamaleya Sputnik V Ad26 / Ad5 vaccine 
+# showed a mean 2.8x decrease in neutralization effiacacy.
+# Ikegame et al. (2021) https://dx.doi.org/10.21203%2Frs.3.rs-400230%2Fv1
+E484K
 
 # Using national surveillance data from Israel, using Pfizer vaccine and an estimated prevalence of the B.1.1.7 variant of 94.5% among SARS-CoV-2 infections:
 # Adjusted estimates of vaccine effectiveness 7+ days after second dose were 95·3% (95% CI 94.9–95.7); 
@@ -76,6 +86,10 @@ L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 # and asymptomatic infection in working-age adults. This cohort (8203 treatment, 15121 control) was vaccinated when the 
 # dominant variant in circulation was B.1.1.7 and shows effectiveness against this variant.
 # Hall et al. (2021) https://doi.org/10.1016/s0140-6736(21)00790-x
+# B.1.1.7 pseudotyped VSV was tested for neutralization in a clonal HEK-293T ACE2 TMPRSS2 cell line optimized for highly efficient 
+# S-mediated infection. A cohort of 12 Argentinian recipients of the Gamaleya Sputnik V Ad26 / Ad5 vaccine showed no statistically sognificant change
+# in neutralization effiacacy.
+# Ikegame et al. (2021) https://dx.doi.org/10.21203%2Frs.3.rs-400230%2Fv1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
