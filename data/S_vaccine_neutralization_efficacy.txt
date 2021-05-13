@@ -1,3 +1,7 @@
+# Most of the plasma from 55 Pfizer vaccinees developed high percentages of Wuhan-Hu-1 S-ACE2 blocking activity, peaking at day 28 (7 days post-boost). 
+# A strikingly consistent hierarchy of reduction in plasma antibody binding by variant S and RBD antigens was observed among study 
+# participants, with progressively decreased binding for B.1.1.7 (not significant), P.1 (significant) and B.1.351 (significant) compared to Wuhan-Hu-1 antigens.
+# Röltgen et al. (2021) https://dx.doi.org/10.1101%2F2021.04.05.21254952
 # The neutralization activities of two vaccines developed in China were tested against 501Y.V2 authentic virus: inactivated BBIBP-CorV (no 
 # significant change) and recombinant dimeric RBD vaccine ZF2001 (~1.6x reduction vs wildtype, p=0.04). Both vaccines largely 
 # preserved their neutralizing titres.
