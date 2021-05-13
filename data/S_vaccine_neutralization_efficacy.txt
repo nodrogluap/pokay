@@ -1,3 +1,21 @@
+# 51yo female with no severe COVID-19 risk factors tested positive 19 days after second doe of mRNA-1273 (Moderna) vaccine.
+# Presented with sore throat, congestion, and headache developed; the next day she lost her sense of smell. Symptoms resolved
+# over a one week period.
+# Serum obtained 4 days after symptom onset was tested for neutralization against wild-type 
+# virus, the E484K mutant, and the B.1.526 variant. It was equally effective against each. 
+# These data suggest that the antibody response recognized these variants but was nonetheless insufficient to prevent a 
+# breakthrough infection.
+# The virus detected matched neither B.1.1.7 nor B.1.526 VOC strains in wide circulation in New York at the time
+# of infection, though sahred some mutations.
+# Hacisuleyman et al. (2021) https://doi.org/10.1056/NEJMoa2105000
+T95I;Y144del;E484K;A570D;D614G;P681H;D796H
+
+# 65yo female with no severe Covid-19 risk factors tested positive 36 days after second dose of BNT162b2 (Pfizer) vaccine. 
+# Presented with fatigue, sinus congestion, and a headache developed; her symptoms plateaued and began to resolve six days later.
+# [Mising genome coverage in regions of Spike covering clinically relevant mutations K417T, L452R, E484K, A701V, D796H, N501Y]
+# Hacisuleyman et al. (2021) https://doi.org/10.1056/NEJMoa2105000
+T95I;G142F;Y144del;R190T;F220I;R237K;R246T;[S477P;S477H];[P681H,P681=]
+
 # When adjusted for community prevalence of B.1.427/B.1.429 at the time of infection, partially- and fully-vaccinated 
 # post-vaccine SARS-CoV-2 cases did NOT have statistically significantly elevated risk ratios for infection with this 
 # variant (RR 1.40, 95% CI 0.81-2.43 and RR 1.13, 95% CI 0.59-2.16, respectively). Only mRNA vaccinees were included in the study.  
