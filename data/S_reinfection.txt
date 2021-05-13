@@ -1,3 +1,8 @@
+# After a 128 day interval, a patient in Sao Paulo State, Brazil reinfected with P.1 (first episode likely predates P.1 emergence).
+# Both cases were fairly mild (difficulty breathing, tiredness, dizziness and fatigue).
+# Malta Romano et al. (2021) https://doi.org/10.1590/s1678-9946202163036
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
+
 # Hamsters re-infected with B.1.351 virus after seroversion from previous infection with a lineage A virus did not transmit 
 # virus to naive sentinels via direct contact transmission, in contrast to the non-seroconverted animals. They had little 
 # infectious virus and no pathology in the lungs.
