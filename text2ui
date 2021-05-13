@@ -451,9 +451,25 @@ for my $lineage_name (keys %lineage_mutations){
 </head>
 <body>
 <h1>Functional mutation literature for <a href="$front_rel_url">SARS-CoV-2</a> lineage <a href="https://cov-lineages.org/lineages/lineage_$lineage_short_name.html">$lineage_name</a></h1>
-<div id="accordion">
 END
 
+	# If we have a page for the parent lineage (same thing with less dot suffices), provide the link. Same for sub lineages
+	my @child_lineage_links;
+	while($lineage_short_name =~ s/\.\d+$//){
+		if(exists $lineage_mutations{$lineage_short_name}){
+			print LINEAGE_HTML "<div class='crossref'>Jump to ancestral lineage report: <a href='lineage-$lineage_short_name.html'>$lineage_short_name</a></div>\n";
+		}
+	}
+	for my $sublineage_name (sort keys %lineage_mutations){
+		if($sublineage_name ne $lineage_name and $sublineage_name =~ /^\Q$lineage_name\E\b/){
+			push @child_lineage_links, "<a href='lineage-$sublineage_name.html'>$sublineage_name</a>";
+		}
+	}
+	if(@child_lineage_links){
+		print LINEAGE_HTML "<div class='crossref'>Jump to sublineage report: ", join(" &mdash; ", @child_lineage_links), "</div>\n";
+	}
+
+	print LINEAGE_HTML "<div id='accordion'>\n";
 	# Collect all the constellation evidence that fits the mutations in this lineage
 	my %effect2gene2constellation2lineage_lit_refs;
 	for my $constellation (keys %constellations2categories){
@@ -462,9 +478,10 @@ END
 
 		next unless exists $lineage_mutations{$lineage_name}->{$gene};
 		my $lineage_mutations_ref = $lineage_mutations{$lineage_name}->{$gene};
+		my $lineage_optional_mutations_ref = $lineage_optional_mutations{$lineage_name}->{$gene};
 		my $missing_mutations = 0;
 		for my $mutation (split /;/, $mutations_spec){
-			if(not grep {$mutation eq $_} @$lineage_mutations_ref){
+			if(not grep {$mutation eq $_} (@$lineage_mutations_ref, @$lineage_optional_mutations_ref)){
 				$missing_mutations++;
 				last;
 			}
@@ -479,7 +496,6 @@ END
 				push @{$effect2gene2constellation2lineage_lit_refs{$short_effect_desc}->{$gene}->{$constellation}}, $lit_ref;
 			}
 		}
-		#TODO: deal with optional mutations
 	}
 
 	for my $short_effect_desc (sort keys %effect2gene2constellation2lineage_lit_refs){
