@@ -23,8 +23,36 @@ N501Y;D614G
 # Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
 N417N;N501Y;D614G
 
-# ~6x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
+# ~6x more efficient S2 domain cleavage compared to wild type, compared to 4x by D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
 # [N501Y+D614G does not show an increase in cleavage, therefore a synergistic effect of the trio is implied]
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+E484K;N501Y;D614G
+
+# No change in infectivity (24h) relative to D614G alone in Caco-2 cells, Vero or Calu-3.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+D614G
+
+# No change in infectivity (24h) relative to D614G alone in Caco-2 cells, Vero or Calu-3.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+V367F;D614G
+
+# No change in infectivity (24h) relative to D614G alone in Caco-2 cells, Vero or Calu-3.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+P384L;D614G
+
+# No change in infectivity (24h) relative to D614G alone in Caco-2 cells, Vero or Calu-3.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+R408I;D614G
+
+# More efficient infectivity (24h) compared to wild type, in Caco-2 cells ~9x, Vero ~8x, and Calu-3 ~8x. Compare to wild type at ~5x across cell types.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+N501Y;D614G
+
+# More efficient infectivity (24h) compared to wild type, in Caco-2 cells ~13x, Vero ~10x, and Calu-3 ~10x. Compare to wild type at ~5x across cell types.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+N417N;N501Y;D614G
+
+# More efficient infectivity (24h) compared to wild type, in Caco-2 cells ~11x, Vero ~10x, and Calu-3 ~11x. Compare to wild type at ~5x across cell types.
 # Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
 E484K;N501Y;D614G
 
