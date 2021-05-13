@@ -1,6 +1,6 @@
 # When adjusted for community prevalence of B.1.427/B.1.429 at the time of infection, partially- and fully-vaccinated 
 # post-vaccine SARS-CoV-2 cases did NOT have statistically significantly elevated risk ratios for infection with this 
-# variant (RR 1.40, 95% CI 0.81-2.43 and RR 1.13, 95% CI 0.59-2.16, respectively).
+# variant (RR 1.40, 95% CI 0.81-2.43 and RR 1.13, 95% CI 0.59-2.16, respectively). Only mRNA vaccinees were included in the study.  
 # Jacobson et al. (2021) https://doi.org/10.1101/2021.04.14.21255431
 L452R;E484Q;D614G
 
