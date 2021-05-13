@@ -47,6 +47,11 @@ L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 # Furthermore, vaccination with ChAdOx1 nCoV-19 results in a reduction in the duration of shedding and viral load, which may
 # translate into a material impact on transmission of disease.
 # Emary et al. (2021) http://dx.doi.org/10.2139/ssrn.3779160
+# A single dose of BNT162b2 (Pfizer) vaccine showed vaccine effectiveness of 70% (95% CI 55-85) 21 days after first dose 
+# and 85% (74-96) 7 days after two doses in the study population. Our findings show that the BNT162b2 vaccine can prevent both symptomatic
+# and asymptomatic infection in working-age adults. This cohort (8203 treatment, 15121 control) was vaccinated when the 
+# dominant variant in circulation was B.1.1.7 and shows effectiveness against this variant.
+# Hall et al. (2021) https://doi.org/10.1016/s0140-6736(21)00790-x
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
