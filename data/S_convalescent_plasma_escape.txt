@@ -194,7 +194,7 @@ L244F;H245del;R246del;S247del;Y248del
 # Virus evolution data in 9 immunocomprised patients with long active COVID-19 infections was gathered, showing sequence deletion hotspots.
 # This variant was present in 1 patient.
 # McCarthy et al. (2021) https://doi.org/10.1126/science.abf6950
-A242del;L243del
+L242del
 
 # A 1.8-fold drop in FRNT50 for B.1.351 was observed in 44 sera collected between 1 and 301 post-infection.
 # Bates et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.04.21254881v1
