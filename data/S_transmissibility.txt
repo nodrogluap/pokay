@@ -25,6 +25,9 @@ N440K
 # In general, we find a significant increase in the estimated reproduction number of 24% (95% CI 0% - 52%), or an absolute 
 # increase of 0.19 compared to other variants.
 # Lindstrøm et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.29.21254122v1
+# Based on ∼300,000 RT-PCR samples collected from December 6th 2020 to February 10th 2021 in Israel, 
+# the B.1.1.7 is 45% (95% CI:20-60%) more transmissible than the wild-type strain, and become dominant in Israel within 3.5 weeks.
+# Munitz et al. (2021) https://doi.org/10.1016/j.xcrm.2021.100264
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # The relative transmissibility of P.1 estimated at the national level (Italy) varied according to the assumed 
