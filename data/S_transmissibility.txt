@@ -28,6 +28,10 @@ N440K
 # Based on ∼300,000 RT-PCR samples collected from December 6th 2020 to February 10th 2021 in Israel, 
 # the B.1.1.7 is 45% (95% CI:20-60%) more transmissible than the wild-type strain, and become dominant in Israel within 3.5 weeks.
 # Munitz et al. (2021) https://doi.org/10.1016/j.xcrm.2021.100264
+# Based on 36920 COVID Symptom Study app users reported SARS-CoV-2 test positivity in late 2020, 
+# Rt of B.1.1.7 was 1.35x (95% CI 1.02-1.69) relative to pre-existing variants. However, Rt fell below 1 during regional and 
+# national lockdowns, even in regions with high proportions of infections with the B.1.1.7 variant.
+# Graham et al. (2021) https://doi.org/10.1016/s2468-2667(21)00055-4
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # The relative transmissibility of P.1 estimated at the national level (Italy) varied according to the assumed 
