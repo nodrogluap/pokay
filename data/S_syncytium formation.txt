@@ -1,0 +1,27 @@
+# Slight increase in Vero cell-cell membrane fusion assay under infection with VSV pseudotyped virus.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+D614G
+
+# Slight increase in Vero cell-cell membrane fusion assay under infection with VSV pseudotyped virus relative to wild type, no change relative to D614G.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+V367F;D614G
+
+# Slight increase in Vero cell-cell membrane fusion assay under infection with VSV pseudotyped virus relative to wild type, no change relative to D614G.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+P384L;D614G
+
+# Slight increase in Vero cell-cell membrane fusion assay under infection with VSV pseudotyped virus relative to wild type, no change relative to D614G.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+R408I;D614G
+
+# Slight increase in Vero cell-cell membrane fusion assay under infection with VSV pseudotyped virus relative to wild type, no change relative to D614G.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+N501Y;D614G
+
+# ~50% Vero cell-cell membrane fusion assay under infection with VSV pseudotyped virus relative to wild type, signficantly higher than D614G.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+N417N;N501Y;D614G
+
+# ~50% Vero cell-cell membrane fusion assay under infection with VSV pseudotyped virus relative to wild type, signficantly higher than D614G.
+# Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
+E484K;N501Y;D614G
