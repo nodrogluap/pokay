@@ -1,3 +1,8 @@
+# 27yo female nurse reinfected in December 2020 (B.1.177) after initial infection in March 2020 (B.3). Both cases were mild.
+# Second case also includes N:p.A220V
+# Brehm et al. (2021) https://dx.doi.org/10.3390%2Fv13040661
+A222V;D614G
+
 # After a 128 day interval, a patient in Sao Paulo State, Brazil reinfected with P.1 (first episode likely predates P.1 emergence).
 # Both cases were fairly mild (difficulty breathing, tiredness, dizziness and fatigue).
 # Malta Romano et al. (2021) https://doi.org/10.1590/s1678-9946202163036
