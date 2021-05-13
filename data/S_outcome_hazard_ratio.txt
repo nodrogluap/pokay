@@ -20,6 +20,14 @@
 # This corresponds to the absolute risk of death for a 55–69-year-old man increasing from 
 # 0.6% to 0.9% (95% confidence interval, 0.8–1.0%) within 28 days of a positive test in the community.
 # Davies et al. (2021) https://www.nature.com/articles/s41586-021-03426-1
+# 341 samples collected Nov 9 to Dec 20, 2020 were sequenced from two London (UK) hospitals. 
+# 198 (58%) of 341 had B.1.1.7 infection and 143 (42%) had non-B.1.1.7 infection. No evidence was found of an association 
+# between severe disease and death and lineage (B.1.1.7 vs non-B.1.1.7) in unadjusted analyses (prevalence ratio [PR] 0·97 
+# [95% CI 0·72-1·31]), or in analyses adjusted for hospital, sex, age, comorbidities, and ethnicity (adjusted PR 1·02 [0·76-1·38]).
+# Frampton et al. (2021) https://doi.org/10.1016/s1473-3099(21)00170-5
+# From Sept 28 to Dec 27, 2020, positive COVID-19 tests were reported by 36 920 COVID Symptom Study app users whose region was 
+# known and who reported as healthy on app sign-up. We found no changes in reported symptoms or disease duration associated with B.1.1.7. 
+# Graham et al. (2021) https://doi.org/10.1016/s2468-2667(21)00055-4
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # In the Southern Brazilian stats of Rio Grande do Sul, comparing pre-P.1 and post-P.1 waves: 
