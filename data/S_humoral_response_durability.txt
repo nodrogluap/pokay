@@ -3,4 +3,4 @@
 # ancestral strain and the D614G, B.1.1.7 and P.1 variants for at least 6 months (last of two samples taken) 
 # in patients previously hospitalized for COVID-19. A weaker protection was however observed for the B.1.351 variant.
 # Betton et al. (2020) https://doi.org/10.1093/cid/ciab308
-D80A;D215G;A242del;K417N;E484K;N501Y;D614G;A701V
+D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
