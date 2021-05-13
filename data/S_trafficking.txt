@@ -1,29 +1,29 @@
-# ~4x more efficient S2 domain cleavage compared to wild type.
+# ~4x more efficient S2 domain cleavage compared to wild type in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
 # Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
 D614G
 
-# ~4x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone.
+# ~4x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
 # Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
 V367F;D614G
 
-# ~4x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone.
+# ~4x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
 # Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
 P384L;D614G
 
-# ~4x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone.
+# ~4x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
 # Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
 R408I;D614G
 
-# ~4x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone.
+# ~4x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
 # Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
 N501Y;D614G
 
-# ~5x more efficient S2 domain cleavage compared to wild type, compared to 4x by D614G alone. 
+# ~5x more efficient S2 domain cleavage compared to wild type, compared to 4x by D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3). 
 # [N501Y+D614G does not show an increase in cleavage, therefore a synergistic effect of the trio is implied]
 # Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
 N417N;N501Y;D614G
 
-# ~6x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone.
+# ~6x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
 # [N501Y+D614G does not show an increase in cleavage, therefore a synergistic effect of the trio is implied]
 # Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
 E484K;N501Y;D614G
