@@ -68,6 +68,9 @@ T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 # S-mediated infection. Only 1 out of 12 serum samples from a cohort of Argentinian recipients of the Gamaleya Sputnik V Ad26 / Ad5 vaccine 
 # showed effective neutralization (IC90) at full serum strength (average realtive decrease was 6.1x vs wild type).
 # Ikegame et al. (2021) https://dx.doi.org/10.21203%2Frs.3.rs-400230%2Fv1
+# No significant difference in T-cell response to B.1.351 was observed (vs. ancestral) in blood drawn from 28 participants received the Pfizer-BioNTech vaccine 
+# and 2 received the Moderna vaccine.
+# Woldemeskel et al. (2021) https://doi.org/10.1172/jci149335
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # E484K pseudotyped VSV was tested for neutralization in a clonal HEK-293T ACE2 TMPRSS2 cell line optimized for highly efficient 
@@ -112,6 +115,9 @@ E484K
 # 2x reduction in neutralization by serum collected 2 to 3 weeks after the second dose from vaccinees who had received 
 # CoronaVac (pVNT50 against VSV pseudotyped as B.1.1.7). Convalescent plasma had similar titer against wild type as the CoronaVac vaccinee sera.
 # Wang et al. (2021) https://doi.org/10.1056/nejmc2103022
+# No significant difference in T-cell response to B.1.1.7 was observed (vs. ancestral) in blood drawn from 28 participants received the Pfizer-BioNTech vaccine 
+# and 2 received the Moderna vaccine. This is despite three mutations (Y144del, D614G, and P681H) overlapping T-cell epitope hotspots.
+# Woldemeskel et al. (2021) https://doi.org/10.1172/jci149335
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
