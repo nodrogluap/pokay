@@ -6,6 +6,10 @@
 # significant change) and recombinant dimeric RBD vaccine ZF2001 (~1.6x reduction vs wildtype, p=0.04). Both vaccines largely 
 # preserved their neutralizing titres.
 # Huang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.01.429069v1
+# In sera 1-2 weeks after BNT162b2 first dose, from six patients previously infected with B.1, antibody titer in a microneutralization assay 
+# was on average 1625 for B.1.351 virus.
+# This compares favorably (stronger) to most post-infection neutralization titer against all variants tested in the same sera (wild type, B.1.1.7, B.1.351, and P.1). 
+# Luftig et al. (2021) https://doi.org/10.1056/nejmc2104036
 D80A;L242del;R246I;K417N;E484K;N501Y;D614H;A701V
 
 # 51yo female with no severe COVID-19 risk factors tested positive 19 days after second dose of mRNA-1273 (Moderna) vaccine.
@@ -94,6 +98,10 @@ E484K
 # S-mediated infection. A cohort of 12 Argentinian recipients of the Gamaleya Sputnik V Ad26 / Ad5 vaccine showed no statistically sognificant change
 # in neutralization effiacacy.
 # Ikegame et al. (2021) https://dx.doi.org/10.21203%2Frs.3.rs-400230%2Fv1
+# In sera 1-2 weeks after BNT162b2 first dose, from six patients previously infected with B.1, antibody titer in a microneutralization assay 
+# was on average 8192 for B.1.351 virus.
+# This compares favorably (stronger) to post-infection neutralization titer against all variants tested in the same sera (wild type, B.1.1.7, B.1.351, and P.1). 
+# Luftig et al. (2021) https://doi.org/10.1056/nejmc2104036
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
@@ -105,6 +113,10 @@ N501Y
 # P.1 lineage titers were reduced 7.6-fold and 9-fold for the BNT162b2 Pfizer (sera collected 4-14 days post-booster) 
 # and ChAdOx1 nCoV-19 AstraZeneca (sera collected 14 or 28 days post-booster) vaccines respectively.
 # Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
+# In sera 1-2 weeks after BNT162b2 first dose, from six patients previously infected with B.1, antibody titer in a microneutralization assay 
+# was on average 2896 for P.1 virus.
+# This compares favorably (stronger) to post-infection neutralization titer against all variants tested in the same sera (wild type, B.1.1.7, B.1.351, and P.1). 
+# Luftig et al. (2021) https://doi.org/10.1056/nejmc2104036
 L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # In a multicenter, double-blind, randomized, controlled trial to assess the safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222)
