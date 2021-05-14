@@ -1,0 +1,6 @@
+# No differences in the stability of B.1.1.7 observed in the absence of simulated sunlight at either 20°C or 40°C (with a mean time for 
+# a 90% loss of viral infectivity across all dark conditions of 6.2 hours). However, a small but statistically 
+# significant difference in the stability was observed in simulated sunlight at 20°C and 20% relative humidity, with B.1.1.7 restoring 
+# wild type 90% loss time of 11 minutes vs. 7 and 8 minutes for B.1.319 (D614G) and B.28 (V367F) early 2020 viruses respectively. 
+# Schuit et al. (2021) https://doi.org/10.1093/infdis/jiab171
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
