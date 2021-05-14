@@ -10,6 +10,11 @@
 # was on average 1625 for B.1.351 virus.
 # This compares favorably (stronger) to most post-infection neutralization titer against all variants tested in the same sera (wild type, B.1.1.7, B.1.351, and P.1). 
 # Luftig et al. (2021) https://doi.org/10.1056/nejmc2104036
+# 2.5x reduction in neutralization by serum collected 2 to 3 weeks after the second dose from vaccinees who had received 
+# BBIBP-CorV (pVNT50 against VSV pseudotyped as B.1.351). Convalescent plasma had similar titer against wild type as the BBIBP-CorV vaccinee sera.
+# >3x reduction in neutralization by serum collected 2 to 3 weeks after the second dose from vaccinees who had received 
+# CoronaVac (pVNT50 against VSV pseudotyped as B.1.351). Convalescent plasma had similar titer against wild type as the CoronaVac vaccinee sera.
+# Wang et al. (2021) https://doi.org/10.1056/nejmc2103022
 D80A;L242del;R246I;K417N;E484K;N501Y;D614H;A701V
 
 # 51yo female with no severe COVID-19 risk factors tested positive 19 days after second dose of mRNA-1273 (Moderna) vaccine.
@@ -102,6 +107,11 @@ E484K
 # was on average 8192 for B.1.351 virus.
 # This compares favorably (stronger) to post-infection neutralization titer against all variants tested in the same sera (wild type, B.1.1.7, B.1.351, and P.1). 
 # Luftig et al. (2021) https://doi.org/10.1056/nejmc2104036
+# 1.4x improvement in neutralization by serum collected 2 to 3 weeks after the second dose from vaccinees who had received 
+# BBIBP-CorV (pVNT50 against VSV pseudotyped as B.1.1.7). Convalescent plasma had similar titer against wild type as the BBIBP-CorV vaccinee sera.
+# 2x reduction in neutralization by serum collected 2 to 3 weeks after the second dose from vaccinees who had received 
+# CoronaVac (pVNT50 against VSV pseudotyped as B.1.1.7). Convalescent plasma had similar titer against wild type as the CoronaVac vaccinee sera.
+# Wang et al. (2021) https://doi.org/10.1056/nejmc2103022
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
