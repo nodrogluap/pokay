@@ -88,7 +88,7 @@ E484K
 # Haas et al. (2021) https://dx.doi.org/10.1016%2FS0140-6736(21)00947-8
 # 2.1x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
 # at a dose of 100 µg (18-55 years; day 1 (n=15) and day 14 (n-14) post-2nd dose) against a B.1.1.7 variant (USA/CA_CDC_5574/2020 
-# [PG: USA/CA-SEARCH-5574/2020?]) relative to
+# [USA/CA-SEARCH-5574/2020?]) relative to
 # contemporary circulating D614G variant (USA/GA-EHC-083E/2020) using a live-virus Focus Reduction Neutralization Test (FRNT) assay. 
 # Edara et al. (2021) https://www.medrxiv.org/content/10.1101/2021.02.02.21250799v1
 # Virus neutralisation activity (using a live SARS-CoV-2 microneutralisation assay (ND50)) by vaccine induced antibodies was 9-fold lower 
@@ -260,7 +260,7 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # In 15 Pzifer non-senior vaccinee sera collected 3-4 weeks post-booster [using Table S1, not the text that says 2-3 weeks], neutralization was reduced ~3x (compared to ~11x for B.1.351).
-# [PG: note that the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
+# [the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
 # therefore the results should be interpreted carefully as transferable to B.1.617 generally]
 # Hoffman et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.04.442663
 R21T;E154K;Q218H;L452R;E484Q;D614G;P681R;H1101D
@@ -294,7 +294,7 @@ L18F;L452R;N501Y;A653V;H655Y;D796Y;G1219V
 # The study demonstrated 1.92 and 1.09 fold reductions (ELISA) in the neutralizing titer against B.1.1.28.2 (P2)
 # variant (n=2 authentic virus) in comparison with prototype D614G variant with 42 sera of BBV152 (a.k.a. Covaxin) vaccine recipients 
 # 2mo post-booster and 19 natural infections respectively.
-# PG: exact P.2 sequences were not given, using the common defining SNPs
+# [exact P.2 sequences were not given, using the common defining SNPs]
 # Sapkal et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.30.441559v1
 E484K;F565L;D614G;V1176F
 
@@ -348,7 +348,7 @@ L5F;T95I;D253G;S477N;D614G;A701V
 L5F;T95I;D253G;E484K;D614G;A701V
 
 # No significant change in virus neutralzation by 18 Pfizer two dose vaccinee sera compared to B.1.1.7.
-# PG: results without including the used mutation A27S seem generalizable as this is not a lineage defining mutation.
+# [results without including the used mutation A27S likely generalizable, as this is not a lineage defining mutation]
 # Zuckerman et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.25.21253908v1
 D614G;P681H
 
@@ -368,7 +368,7 @@ S13I;W152C;L452R
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
 # Lineage B.1.1.7 spike–pseudotyped VSV was tested for neutralization vs Wuhan reference genome pseudotype in 40 sera collected
 # 7 or 21 days post-booster dose. Statistically significant change (22%) in neutralization was observed among the 26 sera from those <=55yo, 
-# but not in the 14 sera from those >55yo. A ~20% change is not considered immunologically significant historically in influenza antiboduy studies. 
+# but not in the 14 sera from those >55yo. A ~20% change is not considered immunologically significant historically in influenza antibody studies. 
 # Muik et al. (2021) https://science.sciencemag.org/content/371/6534/1152
 # Vaccine elicited antibodies neutralized virus with the B.1.1.7 spike protein with titers similar to D614G virus. Serum specimens 
 # from individuals vaccinated with the BNT162b2 mRNA vaccine neutralized D614G virus with titers that were on average 7-fold greater than convalescent sera.
@@ -397,7 +397,7 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
 # Neutralization assays of B.1.1.7 virus showed a reduction of 2.5-fold (14 days post 2nd dose AstraZeneca, n=15), 2.1-fold (28 days post 2nd dose AstraZeneca, n=10), 
 # and 3.3-fold (7-17 days post 2nd dose Pfizer-BioNTech, n=25).
-# PG: Note that D1119H was included in the original paper, I am assuming that's a typo and it should be D1118H
+# [D1119H was included in the original paper, assumed typographical error and changed to D1118H]
 # Supasa et al. (2021) https://doi.org/10.1016/j.cell.2021.02.033
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
@@ -606,7 +606,7 @@ K417N;E484K;N501Y
 D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of vaccine was significantly lower against B.1.351 (12.4x in twelve Moderna-recipient sera; 10.3x in ten Pfizer-recipient sera).
-# PG: this is a larger list of B.1.351 than modeled by Wang et al. (2021) by including L18F and R246I, and is less effective at neutralizing.
+# [this is a larger list of B.1.351 than modeled by Wang et al. (2021) by including L18F and R246I, less effective at neutralizing]
 # Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
 L18F,D80A,D215G,L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
@@ -621,7 +621,7 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # The neutralizing activity of vaccine was slightly to significantly lower against this variant combination in sera from all 24 patients with 
 # the BNT162b2 mRNA vaccine. (Fig. 4)
-# PG: This is in stark contrast to this combination plus K417N, which had no effect (P<0.0001 vs. P=0.8774).
+# [In stark contrast to this combination plus K417N, which had no effect (P<0.0001 vs. P=0.8774)]
 # Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w
 # In 20 sera from BNT162b2 mRNA vaccine inoculated participants, 6 displayed mild (2x) reductions in neutralization.
 # This variant combination showed the highest reduction, but the magnitude of the differences was small 
