@@ -1,3 +1,11 @@
+# A 42yo male was reinfected with B.1.36 lineage virus 128 days after infection with genetically distinct B.1.36 virus, with negative PCR tests in between.
+# In the first instance patient presented with cough, headache, severe diarrhea. In the second instance symptoms were more severe:
+# body pain, shortness of breath, headache and anosmia. Anti-SARS-CoV-2 IgG and IgM tests were negative after both episodes. Non-seroconversion
+# may be associated with risk of re-infection.
+# [I210del is a homoplasy that has appeared in several disparate parts of the global phylogenetic tree, including A and B lineages, primarily in LMICs]
+# Salehi-Vaziri et al. (2021) https://doi.org/10.1016/j.virusres.2021.198421
+I210del;D614G
+
 # 36920 COVID Symptom Study app users reported SARS-CoV-2 test positivity in late 2020. Possible reinfections were 
 # identified in 249 (0.7% [95% CI 0.6-0.8]) of 36509 app users who reported a positive swab test before Oct 1, 2020, 
 # but there was no evidence that the frequency of reinfections was higher for the B.1.1.7 variant than for pre-existing variants.
