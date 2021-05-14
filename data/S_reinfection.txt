@@ -1,5 +1,6 @@
 # A 47yo Indian male was reinfected with B.1.36 lineage virus in September 2020 after infection with genetically distinct B.1.36 virus in 
-# July, with negative PCR tests in between. The second case additionally contained stopgain ORF3a:E261*
+# July, with negative PCR tests in between. While the forst episode was asymptomatic, the second included fever, cough, and malaise. 
+# The second case additionally contained stopgain ORF3a:E261*
 # Rani et al. (2021) https://doi.org/10.1002/jmv.26997
 N440K;D614G
 
