@@ -147,7 +147,7 @@ D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 # In 13 plasma collected ~1mo after B.1.1.7 infection (nursing home in Ticino, Switzerland), neutralization 
 # reduced to undetectable levels in many plasma for P.1 pseudotyped virus, as well as WT and other VOCs. 
 # [paper does not detail the P.1 variants used, using the most popular as a stand in]
-# McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1.full.pdf
+# McCallum et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.31.437925v1
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
 # VSV pseudotype B.1.351 showed 7.86-fold decrease in NT50 vs wild type in sera from 9 ICU patients undergoing treatment in Germany (pre-variant infections).
@@ -167,8 +167,11 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 # were 2.9-fold lower (geometric mean) than those for the Victoria strain (p < 0.0001).
 # Sera from 13 subjects post-B.1.1.7 infection showed no significant change in neutralization against Victoria (~wild type),
 # suggesting that B.1.1.7 infection also protects against ancestral virus.
-# PG: Note that D1119H was included in the original paper, I am assuming that's a typo and it should be D1118H
+# [Note that D1119H was included in the original paper, assuming typographical error and correcting to D1118H]
 # Supasa et al. (2021) https://doi.org/10.1016/j.cell.2021.02.033
+# NTD-specific nAbs showed a substantial (3-450x) decrease in neutralization potency against the recently reported highly 
+# transmissible B.1.1.7 variant of concern, whereas RBD-specific nAbs were either unaffected or showed lower decreases in potency.
+# Graham et al. (2021) https://dx.doi.org/10.1016%2Fj.immuni.2021.03.023
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Virus evolution data in 9 immunocomprised patients with long active COVID-19 infections was gathered, showing sequence deletion hotspots.
