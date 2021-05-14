@@ -162,6 +162,10 @@ E484K;K417N
 # Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
 N439K;Y453F
 
+# Casirivimab lost >50x binding against this mutation.
+# Hoffman et al. (2021) https://dx.doi.org/10.1016%2Fj.celrep.2021.109017
+Y453F
+
 # Bamlanivimab (LY-CoV555) lost ~10x binding against this double mutation.
 # Tixagevimab lost ~16x binding against this double mutation.
 # Engelhart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.27.440939v1
