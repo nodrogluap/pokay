@@ -1,3 +1,9 @@
+# VSV pseudotyped with Y453F reduced inhibition by most of the 13 potent convalescent serum/plasma samples tested, albeit with variable efficiency 
+# (median increase of serum/plasma titer required for 50% neutralization [NT50] = 1.62x, range = 1.02x to 3.43x), indicating that this 
+# RBD mutation may compromise SARS-CoV-2 control by preexisting neutralizing antibody responses.
+# Hoffman et al. (2021) https://dx.doi.org/10.1016%2Fj.celrep.2021.109017
+Y453F
+
 # In 34 plasma collected 11-45 days post symptom onset, before B.1.1.7's emergence, neutralization of P.1 decreased 3.1x (comparable to B.1.1.7 at 2.9x).
 # When using plasma from individuals infected with B.1.1.7, only modest (1.8-fold, p=0.0039) reductions in neutralization comparing 
 # P.1 with Victoria (~wild type) were observed.
