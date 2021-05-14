@@ -1,3 +1,5 @@
+
+
 # The B.1.525 appears to have poor transmissibility when in competition with B.1.1.7 and other cirdulting strains in Denmark (early 2021).
 # Albertsen et al. (2021) https://www.covid19genomics.dk/2021-05-08_data-overview.html#b1525
 Q52R,E484K,Q677H,F888L
@@ -43,6 +45,11 @@ L18F;T20N;P26S;D138Y;R190S;E484K;N501Y;D614G;H655Y
 
 # Exhibits an estimated 18.6-24% increase in transmissibility relative to wild-type circulating strains. a.k.a. 20C/L452R or B.1.427/B.1.429.
 # Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
+# Lineages bearing these spike mutations comprised 54.4% of the total sequences from January, compared to 15.7% in November. Household 
+# contacts exposed to the "California" or "West Coast" variants (B.1.427 and B.1.429) were at higher risk of infection compared 
+# to household contacts exposed to lineages lacking these variants (0.36 vs 0.29, RR=1.28; 95% CI:1.00-1.64).
+# The reproductive number was estimated to be modestly higher than other lineages spreading in California during the second half of 2020.
+# Peng et al. (2021) https://doi.org/10.1093/cid/ciab283
 S13I;W152C;L452R
 
 # Assuming complete cross-protection, we estimate 501Y.V2/B1.351 was 1.50 (95% CrI: 1.20-2.13)
