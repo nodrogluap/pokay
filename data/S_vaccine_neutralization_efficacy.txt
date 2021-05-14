@@ -118,6 +118,10 @@ E484K
 # No significant difference in T-cell response to B.1.1.7 was observed (vs. ancestral) in blood drawn from 28 participants received the Pfizer-BioNTech vaccine 
 # and 2 received the Moderna vaccine. This is despite three mutations (Y144del, D614G, and P681H) overlapping T-cell epitope hotspots.
 # Woldemeskel et al. (2021) https://doi.org/10.1172/jci149335
+# The NAb titers (PRNT50) of sera collected from 38 vaccine recipients four-weeks after the second dose of
+# inactivated whole-virion SARS-CoV-2 BBV152/COVAXIN vaccine [which contains D614G] were not signioficantly 
+# different between B.1.1.7 virus and ancestral D614G virus.
+# Sapkal et al. (2021) https://dx.doi.org/10.1093%2Fjtm%2Ftaab051
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
