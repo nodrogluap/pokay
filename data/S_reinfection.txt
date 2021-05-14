@@ -1,7 +1,12 @@
-# A 42yo male was reinfected with B.1.36 lineage virus 128 days after infection with genetically distinct B.1.36 virus, with negative PCR tests in between.
+# A 47yo Indian male was reinfected with B.1.36 lineage virus in September 2020 after infection with genetically distinct B.1.36 virus in 
+# July, with negative PCR tests in between. The second case additionally contained stopgain ORF3a:E261*
+# Rani et al. (2021) https://doi.org/10.1002/jmv.26997
+N440K;D614G
+
+# A 42yo Iranian male was reinfected with B.1.36 lineage virus 128 days after infection with genetically distinct B.1.36 virus, with negative PCR tests in between.
 # In the first instance patient presented with cough, headache, severe diarrhea. In the second instance symptoms were more severe:
-# body pain, shortness of breath, headache and anosmia. Anti-SARS-CoV-2 IgG and IgM tests were negative after both episodes. Non-seroconversion
-# may be associated with risk of re-infection.
+# body pain, shortness of breath, headache and anosmia. Anti-SARS-CoV-2 IgG and IgM tests were negative after both episodes. [Non-seroconversion
+# may be associated with elevated risk of re-infection]
 # [I210del is a homoplasy that has appeared in several disparate parts of the global phylogenetic tree, including A and B lineages, primarily in LMICs]
 # Salehi-Vaziri et al. (2021) https://doi.org/10.1016/j.virusres.2021.198421
 I210del;D614G
