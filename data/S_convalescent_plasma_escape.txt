@@ -1,3 +1,16 @@
+# Using convalescent sera from 15 early pandemic patients (Seattle Flu Study), mean 220 days post symptom onset (IQR 125-269, and three asymptomatic cases)
+# with 27% WHO disease severity scale 3, one third (5/15) of sera neutralized this B.1.351 pseudotype and only three had ID50 titers above 100.
+# Only two of the 15 sera achieved 80% neutralization.
+# Stamatatos et al. (2021) https://doi.org/10.1126/science.abg9175
+D80A;D215G;K417N;E484K;N501Y;A701V;D614G
+
+# Using convalescent sera from 15 early pandemic patients (Seattle Flu Study), mean 220 days post symptom onset (IQR 125-269, and three asymptomatic cases)
+# with 27% WHO disease severity scale 3, 7 of 15 neutralized this B.1.351 pseudotype that includes the L242del, and only one had titers above 100. 
+# Only one of the 15 sera achieved 80% neutralization.
+# [compare to 5 and 1 for pseudotype without the deletion]
+# Stamatatos et al. (2021) https://doi.org/10.1126/science.abg9175
+D80A;D215G;L242del;K417N;E484K;N501Y;D614G
+
 # VSV pseudotyped with Y453F reduced inhibition by most of the 13 potent convalescent serum/plasma samples tested, albeit with variable efficiency 
 # (median increase of serum/plasma titer required for 50% neutralization [NT50] = 1.62x, range = 1.02x to 3.43x), indicating that this 
 # RBD mutation may compromise SARS-CoV-2 control by preexisting neutralizing antibody responses.
