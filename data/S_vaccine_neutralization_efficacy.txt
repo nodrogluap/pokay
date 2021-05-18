@@ -119,9 +119,11 @@ E484K
 # and 2 received the Moderna vaccine. This is despite three mutations (Y144del, D614G, and P681H) overlapping T-cell epitope hotspots.
 # Woldemeskel et al. (2021) https://doi.org/10.1172/jci149335
 # The NAb titers (PRNT50) of sera collected from 38 vaccine recipients four-weeks after the second dose of
-# inactivated whole-virion SARS-CoV-2 BBV152/COVAXIN vaccine [which contains D614G] were not signioficantly 
+# inactivated whole-virion SARS-CoV-2 BBV152/COVAXIN vaccine [which contains D614G] were not significantly 
 # different between B.1.1.7 virus and ancestral D614G virus.
 # Sapkal et al. (2021) https://dx.doi.org/10.1093%2Fjtm%2Ftaab051
+# TODO
+# Tarke et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.27.433180v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
@@ -257,9 +259,14 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # than the two other viruses (~10x vs D614G) through week 6, the last timepoint measured. Three vaccinees never showed detectable neutralization
 # to B.1.351 even after second dose.
 # Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+# Contrary to how this paper has been cited, Voysey et al. do NOT show evidence of decreased effectiveness of ChAdOx1 (AstraZeneca) against 
+# the South African B.1.351 lineage. Insufficient numbers reaching the primary study endpoint were available in that arm of the vaccine study
+# to report any statistics from the South African participants. Additionally, the study perios of the paper ended in November 2020, while
+# time to most recent common ancestor estimate for B..351 is December 2020 (per https://dx.doi.org/10.3390%2Fpathogens10030302).
+# Voysey et al. (2021) https://doi.org/10.1016/S0140-6736(20)32661-1
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
-# In 15 Pzifer non-senior vaccinee sera collected 3-4 weeks post-booster [using Table S1, not the text that says 2-3 weeks], neutralization was reduced ~3x (compared to ~11x for B.1.351).
+# In 15 Pfizer non-senior vaccinee sera collected 3-4 weeks post-booster [using Table S1, not the text that says 2-3 weeks], neutralization was reduced ~3x (compared to ~11x for B.1.351).
 # [the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
 # therefore the results should be interpreted carefully as transferable to B.1.617 generally]
 # Hoffman et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.04.442663
