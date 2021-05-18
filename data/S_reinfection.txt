@@ -1,3 +1,8 @@
+# 11 cases of re-infection with the "Marseille-4" variant found within 1028 positive tests, where all of the earlier infections were from different strains.
+# This lineage is also characterized by N:p.M234I;A376T
+# Fournier et al. (2021) https://doi.org/10.1016/j.ijid.2021.03.068
+S477N;D614G
+
 # A 47yo Indian male was reinfected with B.1.36 lineage virus in September 2020 after infection with genetically distinct B.1.36 virus in 
 # July, with negative PCR tests in between. While the forst episode was asymptomatic, the second included fever, cough, and malaise. 
 # The second case additionally contained stopgain ORF3a:E261*
