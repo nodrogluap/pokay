@@ -61,9 +61,14 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G
 # RBD, NTD, and S2 and deletions in the NTD (amino acids 242–244), was neutralized with a 5.02-fold reduced titer
 # Solfrosi et al. (2021) https://doi.org/10.1084/jem.20202756
 # During an outbreak of SARS-CoV-2 501Y.V2 in a nursing home, all non-vaccinated residents (5/5) versus 
-# half of those vaccinated with BNT162b2 (13/26) were infected. Two of 13 vaccinated versus 4 of 5 
+# half of those fully vaccinated 2-5 weeks prior with BNT162b2 (13/26) were infected. Two of 13 vaccinated versus 4 of 5 
 # non-vaccinated residents presented severe disease. BNT162b2 did not prevent the outbreak, but reduced 
-# transmission and disease severity.
+# transmission and disease severity. Among the 13 fully vaccinated residents
+# who were infected, 2 (15.4%) presented with an asymptomatic disease, 9 (69.2%) developed mild to
+# moderate symptoms, and 2 (15.4%) progressed to severe disease with fatal evolution secondary to
+# acute respiratory distress syndrome (ARDS). There was no relationship between anti-S antibody levels at diagnosis and disease severity.
+# Overall, the proportion of residents with severe disease in the non-vaccinated group (4/5) 
+# was higher than that in the vaccinated group (2/13). Only 1 vaccinated staff, but 10 unvaccinated were infected in the outbreak (no severe disease).
 # Bailly et al. (2021) https://doi.org/10.1093/cid/ciab446
 D80A;L242del;R246I;K417N;E484K;N501Y;D614H;A701V
 
