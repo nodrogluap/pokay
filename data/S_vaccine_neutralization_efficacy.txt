@@ -1,3 +1,23 @@
+# Pseudotyped viruses for B.1.617 was 4-fold resistant to neutralization by 6 BNT162b2 vaccine sera 28 days post-booster compared to wild type - a finding that
+# was similar to that of the 3.4-fold resistance of the South Africa B.1.351 variant using the same assay.
+# Neutralization by 3 Moderna vaccine sera 28 days post-booster was 5-fold resistant (vs. 2.2-fold for B.1.351).
+# The resistance of B.1.617 was caused by the L452R and E484Q mutation, based on results from viruses pseudotyped for individual variants within B.1.617.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
+L452R;E484Q;D614G
+
+# Pseudotyped viruses for B.1.618 was 2.7-fold resistant to neutralization by 6 BNT162b2 vaccine sera 28 days post-booster compared to wild type - a finding that
+# was similar to that of the 3.4-fold resistance of the South Africa B.1.351 variant using the same assay.
+# Neutralization by 3 Moderna vaccine sera 28 days post-booster was 3-fold resistant (vs. 2.2-fold for B.1.351).
+# The resistance of B.1.618 was caused by the E484K mutation, based on results from viruses pseudotyped for individual variants within B.1.618.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
+E484K;D614G
+
+# Pseudotyped viruses for B.1.351 was 3.4-fold resistant to neutralization by 6 BNT162b2 vaccine sera 28 days post-booster compared to wild type.
+# Neutralization by 3 Moderna vaccine sera 28 days post-booster was 2.2-fold resistant.
+# [Exact list of B.1.351 mutations used in these assays was not included in the preprint]
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
+D80A;D215G;L242del;K417N;E484K;N501Y;D614G
+
 # In sera collected from 15 early pandemic patients (Seattle Flu Study), mean 16 days post first dose with either Pfizer/BioNTech or Moderna vaccines, 
 # the median ID50 titers were ~3-fold lower against this B.1.351 pseudotyped virus relative to wild type. A single asymptomatic patient, who had no
 # detectable RBD-specific IgG memory before vaccination, also did not elicit nAbs against the B.1.351 variant. [compare to ~10 fold with L242del]
