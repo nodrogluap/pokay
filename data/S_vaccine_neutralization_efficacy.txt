@@ -128,7 +128,10 @@ E484K
 # inactivated whole-virion SARS-CoV-2 BBV152/COVAXIN vaccine [which contains D614G] were not significantly 
 # different between B.1.1.7 virus and ancestral D614G virus.
 # Sapkal et al. (2021) https://dx.doi.org/10.1093%2Fjtm%2Ftaab051
-# TODO
+# PBMCs of Pfizer/BioNTech BNT162b2 (n=8) 12-15 days post booster and Moderna mRNA-1273 COVID-19 vaccines (n=11) 13-30 days post-booster 
+# were stimulated with the Spike 15-mer peptide pools (w/ 10 residue overlaps), and showed no significant CD4+ cell count effect for B.1.1.7, 
+# and a slight increase in CD8+ percentage (p=0.0314) by Activation Induced Marker (AIM) assay (cellular immunity measurement). 
+# No signficant change in IF-gamma or IL-5 spot forming cell counts were observed.
 # Tarke et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.27.433180v1
 # A single dose of BNT162b2 vaccine demonstrated vaccine effectiveness [symptomatic or asymptomatic in cohort opf routinely NAAT-monitored UK HCWs] 
 # of 72% (95% CI 58-86) 21 days after first dose and 86% (95% CI 76-97) seven days after two doses in the antibody negative cohort. 
@@ -177,6 +180,11 @@ K417N;E484K;N501Y;D614G
 # RBD variant combination's neutralization by a placebo control 
 # group of 6 naturally infected patients showed a slightly higher 4.6x drop (though with D614G starting at a 1.7x higher titre than vaccinee sera).
 # Madhi et al. (2021) https://doi.org/10.1056/NEJMoa2102214
+# PBMCs of Pfizer/BioNTech BNT162b2 (n=8) 12-15 days post booster and Moderna mRNA-1273 COVID-19 vaccines (n=11) 13-30 days post-booster 
+# were stimulated with the Spike 15-mer peptide pools (w/ 10 residue overlaps), and showed for B.1.351 a CD4+ cell count decrease (29%, p=0.00063)  
+# as well as CD8+ (33%, p=0.0016) by Activation Induced Marker (AIM) assay (cellular immunity measurement). 
+# No signficant change in IF-gamma or IL-5 spot forming cell counts were observed.
+# Tarke et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.27.433180v1
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Human sera from 5 two-dose Pfizer vaccinated individuals (47-68 days post 1st-dose) neutralized this variant 3.4x less relative to reference 
@@ -423,6 +431,11 @@ D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 # VSV pseudotype P.1 showed 5.12-fold reduction in neutralization efficiency vs wild type in 15 Pfizer BNT162b2 vaccinee sera 13-15 days post second dose.
 # Cell fusion proficiency was slight impaired.
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036
+# PBMCs of Pfizer/BioNTech BNT162b2 (n=8) 12-15 days post booster and Moderna mRNA-1273 COVID-19 vaccines (n=11) 13-30 days post-booster 
+# were stimulated with the Spike 15-mer peptide pools (w/ 10 residue overlaps), and showed no significant CD4+ or CD8+ cell count effect for P.1
+# by Activation Induced Marker (AIM) assay (cellular immunity measurement). No signficant change in IF-gamma or IL-5 spot 
+# forming cell counts were observed.
+# Tarke et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.27.433180v1
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
 # Neutralization assays of B.1.1.7 virus showed a reduction of 2.5-fold (14 days post 2nd dose AstraZeneca, n=15), 2.1-fold (28 days post 2nd dose AstraZeneca, n=10), 
@@ -611,7 +624,14 @@ G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
 
 # 6 of 11 (55%) vaccine recipients (Moderna or Pfizer), showed 2x reduction in neutralization to a B.1.429 lineage virus.
 # Deng et al. (2021) https://www.medrxiv.org/content/10.1101/2021.03.07.21252647v1
-S13I;W152C;L452R
+S13I;W152C;L452R;D614G
+
+# PBMCs of Pfizer/BioNTech BNT162b2 (n=8) 12-15 days post booster and Moderna mRNA-1273 COVID-19 vaccines (n=11) 13-30 days post-booster 
+# were stimulated with the Spike 15-mer peptide pools (w/ 10 residue overlaps), and showed no significant CD4+ cell count effect for CAL.20C (B.1.429), 
+# and a slight decrease in CD8+ percentage (p=0.0201) by Activation Induced Marker (AIM) assay (cellular immunity measurement). 
+# No signficant change in IF-gamma or IL-5 spot forming cell counts were observed.
+# Tarke et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.27.433180v1
+S13I;W152C;L452R;D614G;L938F;K1191N
 
 # In a cohort of 20 patients 8+ weeks after second vaccine dose of Moderna (mRNA-1273) or Pfizer-BioNTech (BNT162b2) vaccines, 
 # ELISA tests show 10x reduced efficacy of a majority of isolated antibodies, but only a modest decrease for vaccine plasma overall.
