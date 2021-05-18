@@ -31,5 +31,6 @@ N501Y
 # were stimulated with the 15-mer peptide pools (w/ 10 residue overlaps) from the wholle viral proteome, 
 # showing no significant CD4+ cell count effect for P.1, 
 # and a slight increase in CD8+ percentage (p=0.0195) by Activation Induced Marker (AIM) assay (cellular immunity measurement). 
+# [in the text, this increase is not noted as signficant, even though p=0.05 is used elsewhere in the text as a signficance threshold]
 # Tarke et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.27.433180v1
 L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
