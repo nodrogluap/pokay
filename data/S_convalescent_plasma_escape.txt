@@ -1,12 +1,14 @@
 # Pseudotyped viruses for B.1.617 was 2.3-fold resistant to neutralization by convalescent sera compared to wild type - a finding that
 # was similar to that of the 3-fold resistance of the South Africa B.1.351 variant using the same assay.
 # The resistance of B.1.617 was caused by the L452R and E484Q mutation, based on results from viruses pseudotyped for individual variants within B.1.617.
+# [details on the convalescent patient sera collection are not abundantly clear in the preprint]
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
 L452R;E484Q;D614G
 
 # Pseudotyped viruses for B.1.618 was 2.5-fold resistant to neutralization by convalescent sera compared to wild type - a finding that
 # was similar to that of the 3-fold resistance of the South Africa B.1.351 variant using the same assay.
 # The resistance of B.1.618 was caused by the E484K mutation, based on results from viruses pseudotyped for individual variants within B.1.618.
+# [details on the convalescent patient sera collection are not abundantly clear in the preprint]
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
 E484K;D614G
 
