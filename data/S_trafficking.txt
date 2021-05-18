@@ -93,8 +93,8 @@ N501Y;D614G
 E484Q
 
 # This variant alone shows a ~5x decrease in cell entry efficiency (RLU measurement in 293T cells) compared to D614G.
-# [PG: listed as L454R in Figure, but L452R in text, also text 
-# suggests not statistucally signbificant, but error bars say otherwise in Figure 4]
+# [listed as L454R in Figure, but L452R in text, also text 
+# suggests not statistucally significant, but error bars say otherwise in Figure 4]
 # Ferriera et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
 L452R
 
@@ -118,7 +118,7 @@ D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # In two of eight cell lines tested (Caco-2 intenstinal and Calu-3 lung), a modest increase in cell entry was observed. This
 # increase was not observed in a Calu-3 cell line with overexpressed ACE2.
-# [PG: note that the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
+# [the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
 # therefore the results should be interpreted carefully as transferable to B.1.617 generally]
 # Hoffman et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.04.442663
 R21T;E154K;Q218H;L452R;E484Q;D614G;P681R;H1101D
@@ -136,10 +136,10 @@ Y144del
 # Lentiviral pseudotyped with this individual mutation from B.1.1.7
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing slightly increased infection rate amongst the cells. 
-# PG: in what is essentially a replicate experiment in the same paper, because 
+# [in what is essentially a replicate experiment in the same paper, because 
 # each B.1.351 lineage variant was independetly evaluated and N501 is in both lineages, 
 # a significant decrease was observed, therefore the error bars described in this paper
-# should be interpreted carefully.
+# should be interpreted carefully]
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
 N501Y
 
@@ -378,7 +378,7 @@ P681H
 # This mutation in the first base of the furin clevage site maintains the RXXR recognition motif, and is presumed to enhance
 # cleavage based on the removal of a proline-directed phosphotase recognition site at S680. In a homologuous site in Infectious 
 # Bronchitis Virus (IBV, Gammacoronaviruses), abolition of S680 phosphorylation improves furin cleavage 
-# (and presumably cell entry). [PG: Inference from similar positively charged substitution P681H actually described in the work]
+# (and presumably cell entry). [Inference from similar positively charged substitution P681H actually described in the work]
 # Maaroufi (2021) https://www.researchgate.net/publication/348943694_The_mutation_P681H_in_the_B117_variant_of_SARS-CoV-2_probably_enhances_viral_entry_and_replication
 P681R
 
