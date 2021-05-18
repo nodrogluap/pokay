@@ -1,4 +1,13 @@
+# Normalized for particle number, on ACE2.293T cells
+# showed that the B.1.617 spike protein was >2-fold increase in
+# infectivity relative to D614G wild type.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
+L452R;E484Q;P681R;D614G
 
+# Normalized for particle number, on ACE2.293T cells
+# showed that the B.1.618 spike protein was about as infective as D614G wild type.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
+Y145del;H146del;E484K;D614G
 
 # The B.1.525 appears to have poor transmissibility when in competition with B.1.1.7 and other cirdulting strains in Denmark (early 2021).
 # Albertsen et al. (2021) https://www.covid19genomics.dk/2021-05-08_data-overview.html#b1525
