@@ -1,3 +1,9 @@
+# Compared to the clade 20A strains that predominated during phase 1 between March and May 2020, the Marseille-4 variant (characterized 
+# by this mutation plus N:p.M234I;A376T) was associated with a lower frequency of cough, rhinitis, and olfactory and gustatory disorders. 
+# By contrast, hypoxemia was more frequent in patients infected with the Marseille-4 variant.
+# Fournier et al. (2021) https://doi.org/10.1016/j.ijid.2021.03.068
+S477N;D614G
+
 # In comparison of B.1.1.7 lineage (193 cases) vs. "wildtype" (125) in Berlin Jan 18 to March 29 2021, 
 # significant symptom changes are absent loss of smell/taste (P=0.01), longer symptom duration (P=0.02). Mean age was 36 yo.
 # van Loon et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.15.21255389v1
