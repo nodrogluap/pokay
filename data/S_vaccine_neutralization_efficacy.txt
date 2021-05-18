@@ -1,3 +1,19 @@
+# In sera collected from 15 early pandemic patients (Seattle Flu Study), mean 16 days post first dose with either Pfizer/BioNTech or Moderna vaccines, 
+# the median ID50 titers were ~3-fold lower against this B.1.351 pseudotyped virus relative to wild type. A single asymptomatic patient, who had no
+# detectable RBD-specific IgG memory before vaccination, also did not elicit nAbs against the B.1.351 variant. [compare to ~10 fold with L242del]
+# ID50 titres in non-infected mRNA vaccines more than two weeks post-booster were signficiant, but >100x weaker than in previously infected 
+# patients after first dose.
+# Stamatatos et al. (2021) https://doi.org/10.1126/science.abg9175
+D80A;D215G;K417N;E484K;N501Y;A701V;D614G
+
+# In sera collected from 15 early pandemic patients (Seattle Flu Study), mean 16 days post first dose with either Pfizer/BioNTech or Moderna vaccines, 
+# the median ID50 titers were ~10-fold lower against this B.1.351 pseudotyped virus relative to wild type. A single asymptomatic patient, who had no
+# detectable RBD-specific IgG memory before vaccination, also did not elicit nAbs against the B.1.351 variant. [compare to ~3 fold without the deletion]
+# ID50 titres in non-infected mRNA vaccines more than two weeks post-booster were significant, but ~500x weaker than in previously infected patients 
+# after first dose.
+# Stamatatos et al. (2021) https://doi.org/10.1126/science.abg9175
+D80A;D215G;L242del;K417N;E484K;N501Y;D614G
+
 # Most of the plasma from 55 Pfizer vaccinees developed high percentages of Wuhan-Hu-1 S-ACE2 blocking activity, peaking at day 28 (7 days post-boost). 
 # A strikingly consistent hierarchy of reduction in plasma antibody binding by variant S and RBD antigens was observed among study 
 # participants, with progressively decreased binding for B.1.1.7 (not significant), P.1 (significant) and B.1.351 (significant) compared to Wuhan-Hu-1 antigens.
