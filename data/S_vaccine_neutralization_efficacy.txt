@@ -57,7 +57,16 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G
 # of the study during the same period (with low B.1.351 prevalence). Of the 66.9% of SA severe infections that have been sequenced as of this report, 94.5%
 # are B.1.351.
 # Janssen Biotech (2021) https://www.fda.gov/media/146217/download
+# The dominant circulating B.1.351 spike variant originating in RSA, which harbors E484K and additional substitutions in the 
+# RBD, NTD, and S2 and deletions in the NTD (amino acids 242–244), was neutralized with a 5.02-fold reduced titer
+# # Solfrosi et al. (2021) https://doi.org/10.1084/jem.20202756
 D80A;L242del;R246I;K417N;E484K;N501Y;D614H;A701V
+
+# Neutralizing antibody titers of non-human primate sera after one or two doses of Ad26.COV2.S (Jannsen vaccine) 
+# against the variants containing the E484K substitution in the RBD were present but reduced 
+# (fold reduction between 3.35–7.78, 95% confidence interval all above twofold difference, one-sample t test). 
+# Solfrosi et al. (2021) https://doi.org/10.1084/jem.20202756
+E484K
 
 # 51yo female with no severe COVID-19 risk factors tested positive 19 days after second dose of mRNA-1273 (Moderna) vaccine.
 # Presented with sore throat, congestion, and headache developed; the next day she lost her sense of smell. Symptoms resolved
