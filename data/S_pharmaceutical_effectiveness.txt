@@ -1,3 +1,16 @@
+# This Spike pseudotype for Day 146 virus from a chronically infected patient was completely resistent to REGN10933.
+# The variant had a 4-fold decrease in REGN10987 neutralization sensitivity (2nd component of the Regeneron mAb cocktail).
+# Clark et al. (2021) https://dx.doi.org/10.1016%2Fj.cell.2021.03.027
+N440D;Y489H;Q493K;N501Y
+
+# Leads to a 14-fold reduction in neutralization efficiency for REGN10933.
+# Clark et al. (2021) https://dx.doi.org/10.1016%2Fj.cell.2021.03.027
+Q493K
+
+# This Spike pseudotype for Day 152 virus from a chronically infected patient was completely resistent to REGN10933.
+# Clark et al. (2021) https://dx.doi.org/10.1016%2Fj.cell.2021.03.027
+E484A;F486I;Y489H;N501Y
+
 # P.1 virus neutralization (as tested using biolayer interferometry) of both Lilly antibodies was severely impacted, 
 # with Lilly mAb combination LY-CoV16 and LY-CoV555 
 # (due to mutations at 416 and 484 respectively) shows almost complete loss of neutralization of P.1. 
