@@ -18,7 +18,8 @@
 # Study 3001 on Ad26.COV2.S (Jannsen vaccine) conducted September 21, 2020 through January 22, 2021 overlaps the emergence and dominance 
 # of the B.1.351 lineage of SARS-CoV-2 in South Africa. The SA arms of the Phase 3 double blind study showed severe/critical disease VE of 73.1% 
 # (95% CI: 40.0-89.4), and moderate to severe/critical disease VE of 52.0% (95% CI: 30.3-67.4). Compare to 78.0% and 74.4% for North American arm
-# of the study during the same period (with low B.1.351 prevalence).
+# of the study during the same period (with low B.1.351 prevalence). Of the 66.9% of SA severe infections that have been sequenced as of this report, 94.5%
+# are B.1.351.
 # Janssen Biotech (2021) https://www.fda.gov/media/146217/download
 D80A;L242del;R246I;K417N;E484K;N501Y;D614H;A701V
 
@@ -155,11 +156,6 @@ N501Y
 # was on average 2896 for P.1 virus.
 # This compares favorably (stronger) to post-infection neutralization titer against all variants tested in the same sera (wild type, B.1.1.7, B.1.351, and P.1). 
 # Luftig et al. (2021) https://doi.org/10.1056/nejmc2104036
-# Study 3001 on Ad26.COV2.S (Jannsen vaccine) conducted September 21, 2020 through January 22, 2021 overlaps the emergence and dominance 
-# of the P.1 lineage of SARS-CoV-2 in Brazil. The Brazilian arm of the Phase 3 double blind study showed severe/critical disease VE of 81.9% 
-# (95% CI: 17.0-98.1), and moderate to severe/critical disease VE of 66.2% (95% CI: 51.0-77.1). Compare to 78.0% and 74.4% for North American arm
-# of the study during the same period (with low B.1.351 prevalence).
-# Janssen Biotech (2021) https://www.fda.gov/media/146217/download
 L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # In a multicenter, double-blind, randomized, controlled trial to assess the safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222)
@@ -324,6 +320,12 @@ L18F;L452R;N501Y;A653V;H655Y;D796Y;G1219V
 # 2mo post-booster and 19 natural infections respectively.
 # [exact P.2 sequences were not given, using the common defining SNPs]
 # Sapkal et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.30.441559v1
+# Study 3001 on Ad26.COV2.S (Jannsen vaccine) conducted September 21, 2020 through January 22, 2021 overlaps the emergence and dominance 
+# of the P.1 & P.2 lineages of SARS-CoV-2 in Brazil. The Brazilian arm of the Phase 3 double blind study showed severe/critical disease VE of 81.9% 
+# (95% CI: 17.0-98.1), and moderate to severe/critical disease VE of 66.2% (95% CI: 51.0-77.1). Compare to 78.0% and 74.4% for North American arm
+# of the study during the same period (with low B.1.351 prevalence). Of the 69.3% of mostly severe infections sequenced as of this report, 69.4% were
+# of P.2 lineage [defining lineage SNPs reported here].
+# Janssen Biotech (2021) https://www.fda.gov/media/146217/download
 E484K;F565L;D614G;V1176F
 
 # Neutralizing antibody titers increased in previously infected vaccinees relative to uninfected vaccinees 
