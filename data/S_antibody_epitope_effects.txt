@@ -21,6 +21,18 @@ R21T;E154K;Q218H;L452R;E484Q;D614G;P681R;H1101D
 # Hoffman et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.04.442663
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
+# Anti-NTD CV1 mAb isolated from an early pandemic case was unable to neutralize either partial B.1.351 variant pseudovirus used (A701V or L242del).
+# The neutralization potency of mAb CV30, which contacts K417 and N501 but not E484, was ~10-fold weaker toward both B.1.351 variants.
+# The neutralization potency of anti-RBD mAb CV3-1 was 3-4-fold less potent against the B.1.351 variants, while anti-RBD mAb CV2-75 was modestly less effective.
+# Stamatatos et al. (2021) https://doi.org/10.1126/science.abg9175
+D80A;D215G;L242del;K417N;E484K;N501Y
+
+# Anti-NTD CV1 mAb isolated from an early pandemic case was unable to neutralize either partial B.1.351 variant pseudovirus used (A701V or L242del).
+# The neutralization potency of mAb CV30, which contacts K417 and N501 but not E484, was ~10-fold weaker toward both B.1.351 variants.
+# The neutralization potency of anti-RBD mAb CV3-1 was 3-4-fold less potent against the B.1.351 variants, while anti-RBD mAb CV2-75 was modestly less effective.
+# Stamatatos et al. (2021) https://doi.org/10.1126/science.abg9175
+D80A;D215G;K417N;E484K;N501Y;A701V
+
 # >90% drop in antibody binding (ELISA) by this variant against mAbs VH-Fc and IgG1 ab1.
 # Sun et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.22.436481v1
 E406W
