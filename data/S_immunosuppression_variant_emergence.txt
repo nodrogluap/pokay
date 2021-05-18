@@ -39,12 +39,12 @@ Q183H
 # Choi et al. (2020) https://www.nejm.org/doi/full/10.1056/NEJMc2031364
 N501Y
 
-# Combination of RBD mutations appeared (day 75) and persisted in chronic (152 day) SARS-CoV-2 infection of immunoicompromised patient with severe antiphospholipid syndrome
+# Combination of RBD mutations appeared (day 75) and persisted in chronic (152 day) SARS-CoV-2 infection of immunocompromised patient with severe antiphospholipid syndrome
 # complicated by diffuse alveolar hemorrhage, who was receiving anticoagulation therapy, glucocorticoids, cyclophosphamide, and intermittent rituximab and eculizumab. 
 # Choi et al. (2020) https://www.nejm.org/doi/full/10.1056/NEJMc2031364
 T478K,S494P
 
-# Appeared (day 75) and persisted in chronic (152 day) SARS-CoV-2 infection of immunoicompromised patient with severe antiphospholipid syndrome
+# Appeared (day 75) and persisted in chronic (152 day) SARS-CoV-2 infection of immunocompromised patient with severe antiphospholipid syndrome
 # Appeared at same time as T478K,S494P but listed separately due to distance and different domains affected in the Spike (i.e. putatively an independent
 # mutation from a functional standpoint since the former are from S1, the latter from S2).
 # Choi et al. (2020) https://www.nejm.org/doi/full/10.1056/NEJMc2031364
@@ -54,8 +54,12 @@ I870V
 # Choi et al. (2020) https://dx.doi.org/10.1056/NEJMc2031364
 Q493K
 
-# Choi et al. (2020) https://dx.doi.org/10.1056/NEJMc2031364
-T478K,S494P,I870V
+# Based on structural modelling, this change detected on day 128 sequencing in a chronically infected patient 
+# would alter an extensive network of polar interactions with antibody residue R94VH, 
+# a germline antibody residue that is conserved in all of the potent VH3-53/3-66-derived antibodies isolated from a convalescent donor
+# 5 weeks after infection.
+# Clark et al. (2021) https://dx.doi.org/10.1016%2Fj.cell.2021.03.027
+Y489H
 
 # The delH69/V70 enhances viral infectivity, indicating its effect on virus fitness is independent to the N501Y RBM change [with which it is found in lineage B.1.1.7]
 # Possibly arisen as a result of the virus evolving from immune selection pressure in infected individuals and possibly only one chronic infection in the case of lineage B.1.1.7.
