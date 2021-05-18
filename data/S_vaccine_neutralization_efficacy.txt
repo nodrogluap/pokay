@@ -127,7 +127,12 @@ E484K
 # A single dose of BNT162b2 vaccine demonstrated vaccine effectiveness [symptomatic or asymptomatic in cohort opf routinely NAAT-monitored UK HCWs] 
 # of 72% (95% CI 58-86) 21 days after first dose and 86% (95% CI 76-97) seven days after two doses in the antibody negative cohort. 
 # This cohort was vaccinated when the dominant variant in circulation was B.1.1.7 and demonstrates effectiveness against this variant.
-# Hall et al. (2021) 
+# Hall et al. (2021)
+# Between December 19, 2020 and Jan 24, 2021, 7214 of 9109 eligible HCWs at Sheba Medical Center in Israel had received one or more doses of 
+# BNT162b2 (Pfizer) vaccine. Adjusted rate reduction in SARS-CoV-2 NAAT positivity infection compared with unvaccinated workers 1-14 days 
+# after 1st dose was 30% (95% CI: 2-50), and 75% (95% CI: 72-84) after 15-28 days. Adjusted rate reduction in symptomatic COVID-19 compared with 
+# unvaccinated workers 1-14 days after 1st dose was 47% (95% CI: 17-66), and 85% (95% CI: 71-92) after 15-28 days.
+# Amit et al. (2021)
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
