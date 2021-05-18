@@ -1,0 +1,8 @@
+# Relative to Germany/BavPat1/2020 (early B lineage), 8 to 122-fold IFN-I response resistance was observed (as measured by 17 IFNs) 
+# for emerging SARS-CoV-2 variants. 
+# The B.1.1.7 strain exhibiting the highest IFN-I resistance at 122-fold (compare to 8x for B.1.351, 17x for B.1). The level of B.1.1.7 interferon 
+# resistance was more striking when compared to USA-WA1/2020 (322-fold). 
+# [changes noted as 112x in figure, 122x in text. Addition of A1305V from UK B.1.1.7 replicate has minimal effect. Replication 
+# effects and IFN resistence cannot be readily distinguished in the assays used. Effect of lineage mutations in other genes may be important as well/instead]
+# Guo et al. (2021) https://dx.doi.org/10.1101%2F2021.03.20.436257
+T183I;A454V;I1412T
