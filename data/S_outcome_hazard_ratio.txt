@@ -28,6 +28,11 @@
 # From Sept 28 to Dec 27, 2020, positive COVID-19 tests were reported by 36 920 COVID Symptom Study app users whose region was 
 # known and who reported as healthy on app sign-up. We found no changes in reported symptoms or disease duration associated with B.1.1.7. 
 # Graham et al. (2021) https://doi.org/10.1016/s2468-2667(21)00055-4
+# The mortality hazard ratio associated with infection with [B.1.1.7] compared with infection with previously circulating variants was 
+# 1.64 (95% confidence interval 1.32 to 2.04) in patients who tested positive for covid-19 in the community (54906 matched pairs of 
+# participants who tested positive for SARS-CoV-2 in pillar 2 between 1 October 2020 and 29 January 2021). In this comparatively low risk 
+# group, this represents an increase in deaths from 2.5 to 4.1 per 1000 detected cases.
+# Challen et al. (2021) https://doi.org/10.1136/bmj.n579
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # In the Southern Brazilian stats of Rio Grande do Sul, comparing pre-P.1 and post-P.1 waves: 
