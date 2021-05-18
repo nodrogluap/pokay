@@ -1,3 +1,8 @@
+# Quantification of the band intensities showed that the P681R mutation, which lies near the proteolytic processing site, 
+# caused a small increase in proteolytic processing as measured by a 2-fold decrease in the ratio of S/S2.
+# Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
+P681R;D614G
+
 # ~4x more efficient S2 domain cleavage compared to wild type in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
 # Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
 D614G
