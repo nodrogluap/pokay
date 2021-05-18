@@ -1,3 +1,14 @@
+# Pseudotype for Day 146 virus from a chronically infected patient: resistant to neutralization by mAb C1A-B12, and 
+# was still resistant to the affinity enhanced antibodies derived from it (i.e. no affinity maturation effect on neutralization).
+# Clark et al. (2021) https://dx.doi.org/10.1016%2Fj.cell.2021.03.027
+N440D;Y489H;Q493K;N501Y
+
+# Pseudotype for Day 152 virus from a chronically infected patient: although mAb C1A-B12 had no activity against this pseudotype, 
+# all three affinity optimized versions were active; the antibody containing the most mutations, 
+# C1A-B12.3, was the most potent (IC50 <0.5 μg/mL).
+# Clark et al. (2021) https://dx.doi.org/10.1016%2Fj.cell.2021.03.027
+E484A;F486I;Y489H;N501Y
+
 # The neutralization titer of NTD-binding mAb159 was 133-fold reduced on P.1 compared to Victoria (~wild type), with only 64% neutralization at 10 μg/mL. 
 # Residues 20, 18, and 138 form a cluster underlying the 245–259 loop, which inserts into a groove between the light and heavy chains of Fab 159. In addition,
 # the N-terminal residues preceding residue 18 interact with the antibody and may be perturbed. 
