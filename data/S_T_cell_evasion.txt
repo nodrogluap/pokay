@@ -26,3 +26,10 @@ E484K
 # Furthermore, the T cell response to the spike N501Y mutation common to all three of the current VOC was ablated.
 # Reynolds et al. (2021) https://science.sciencemag.org/content/early/2021/04/29/science.abh1282
 N501Y
+
+# PBMCs of 11 mild COVID-19 patients collected 38-80 days after symptom onset
+# were stimulated with the 15-mer peptide pools (w/ 10 residue overlaps) from the wholle viral proteome, 
+# showing no significant CD4+ cell count effect for P.1, 
+# and a slight increase in CD8+ percentage (p=0.0195) by Activation Induced Marker (AIM) assay (cellular immunity measurement). 
+# Tarke et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.27.433180v1
+L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
