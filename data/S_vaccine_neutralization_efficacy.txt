@@ -131,7 +131,9 @@ E484K
 # Between December 19, 2020 and Jan 24, 2021, 7214 of 9109 eligible HCWs at Sheba Medical Center in Israel had received one or more doses of 
 # BNT162b2 (Pfizer) vaccine. Adjusted rate reduction in SARS-CoV-2 NAAT positivity infection compared with unvaccinated workers 1-14 days 
 # after 1st dose was 30% (95% CI: 2-50), and 75% (95% CI: 72-84) after 15-28 days. Adjusted rate reduction in symptomatic COVID-19 compared with 
-# unvaccinated workers 1-14 days after 1st dose was 47% (95% CI: 17-66), and 85% (95% CI: 71-92) after 15-28 days.
+# unvaccinated workers 1-14 days after 1st dose was 47% (95% CI: 17-66), and 85% (95% CI: 71-92) after 15-28 days. OF NOTE: though often cited
+# as an indicator of VE for B.1.1.7, during this time period in Israel, the prevalence of the B.1.1.7 variant increased from ~20% to 50% of cases, 
+# therefore these VE numbers represent a mix of B.1.1.7 and other lineage effects.
 # Amit et al. (2021)
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
