@@ -206,6 +206,12 @@ E484K
 # admission—it is too early to assess the effect on mortality. The B.1.1.7 variant now dominates in the UK and these results will largely 
 # reflect vaccine effectiveness against this variant.
 # Lopez Bernal et al. (2021) https://pubmed.ncbi.nlm.nih.gov/33985964/
+# SARS-CoV-2 infection was confirmed in three HCWs working a single shift; all presented with mild symptoms of COVID-19. The two physicians 
+# were fully vaccinated with BNT162b2 vaccine, with the second dose administered 1 month before symptom onset. Both had high titres of IgG 
+# anti-spike antibodies at the time of diagnosis. WGS confirmed that all virus strains were VOC 202012/01-lineage B.1.1.7, suggesting a 
+# common source of exposure. Epidemiological investigation revealed that the suspected source was a SARS-CoV-2-positive patient who 
+# required endotracheal intubation due to severe COVID-19. All procedures were carried out using a full suite of personal protective equipment (PPE).
+# Loconsole et al. (2021) https://doi.org/10.1016/j.cmi.2021.05.007
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
