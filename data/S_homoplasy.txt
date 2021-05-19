@@ -16,3 +16,8 @@ N439K
 # (same origin as UK), and South Africa (independent origin).
 # Flores-Alanis et al. (2021) https://www.mdpi.com/2076-0817/10/2/184/htm
 N501Y
+
+# Mutation with a population frequency of 30% in a Mexican dataset, primarily of lineage 20B, but also present
+# in a substantial number of 20A lineage sequences, suggesting convergent evolution.
+# Barona-Gomez et al. (2021) https://www.medrxiv.org/content/10.1101/2021.05.18.21256128v1
+S194L
