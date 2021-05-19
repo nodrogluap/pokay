@@ -776,5 +776,9 @@ H69del;V70del;Y144del;Y145del;N501Y;A570D;D614G;P681H
 # 2.0x reduction in neutralization with Moderna vaccinated patient sera after 57 days (2nd dose).
 # 2.1x reduction in neutralization with Novavax Phase 1 post-vaccination sera.
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
+# NVX-CoV2373 [Novavax] vaccine in phase 3 trial was 89.7% (95% CI, 80.2-94.6) effective in preventing COVID-19, with no hospitalizations or 
+# deaths reported. There were five cases of severe Covid-19, all in the placebo group. Post hoc analysis revealed efficacies of 
+# 96.4% (73.8-99.5) and 86.3% (71.3-93.5) against the prototype strain and B.1.1.7 variant, respectively. 
+# Heath et al. (2021) https://www.medrxiv.org/content/10.1101/2021.05.13.21256639v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
