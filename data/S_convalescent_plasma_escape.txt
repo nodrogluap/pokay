@@ -129,6 +129,16 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 # Tang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.19.436183v1
 S13I;W152C;L452R
 
+# As measured by surface plasmon resonance, RBD with the E484K mutation alone showed a mean 19.1x decrease in binding affinity for 
+# six batches of hyperimmune immunoglobulin (hCoV-2IG) preparations generated from SARS-CoV-2 convalescent plasma.
+# Tang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.19.436183v1
+E484K
+
+# As measured by surface plasmon resonance, RBD with the N501Y mutation alone showed a mean 2.1x decrease in binding affinity for 
+# six batches of hyperimmune immunoglobulin (hCoV-2IG) preparations generated from SARS-CoV-2 convalescent plasma.
+# Tang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.19.436183v1
+N501Y
+
 # The only mutation in the B.1.351 lineage that appears to contribute to neutralization reduction (~1.7x across 10 convalescent sera from April 2020 infectees)
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.05.430003v1
 E484K
