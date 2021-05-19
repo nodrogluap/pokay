@@ -1,3 +1,35 @@
+# The N501Y mutation had the biggest effect on ACE2 affinity of any VOC mutation tested, increasing the
+# affinity ~10 fold to KD ~7 nM, by increasing the k(on) ~1.8 fold and decreasing the k(off) by ~ 7
+# fold as measured by surface plasmon resonance. 
+# Barton et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.18.444646v1
+N501Y
+
+# In the case of VOC B.1.1.7+E484K, the addition of the E484K mutation to N501Y further increased the affinity, to
+# ~15 fold higher than WT RBD (KD ~5 nM), by further increasing the k(on) as measured by surface plasmon resonance. Because the higher
+# k(on) could result in mass transfer limiting binding, we confirmed that the kinetic
+# measurement for this variant was not substantially affected by varying levels of
+# immobilization.
+# Barton et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.18.444646v1
+E484K;N501Y
+
+# The K417T mutation decreased the affinity ~2 fold, mainly by decreasing the k(on) but also by increasing the k(off) as measured by surface plasmon resonance.
+# Barton et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.18.444646v1
+K417T
+
+# The K417N mutation decreased the affinity ~4 fold, mainly by decreasing the k(on) but also by increasing the k(off) as measured by surface plasmon resonance.
+# Barton et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.18.444646v1
+K417N
+
+# The affinity of the B.1.351 RBD variants for ACE2 increased by 3.7 fold as measured by surface plasmon resonance relative to wild 
+# type RBD by increasing the k(on) and decreasing the k(off) rate constants. 
+# Barton et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.18.444646v1
+K417N;E484K;N501Y
+
+# The affinity of the P.1 RBD variants for ACE2 increased by 5.3 fold as measured by surface plasmon resonance relative to wild 
+# type RBD by increasing the k(on) and decreasing the k(off) rate constants. 
+# Barton et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.18.444646v1
+K417T;E484K;N501Y
+
 # The KD for the pseudotyped P.1-ACE2 interaction is 4.8 nM, showing that binding to P.1 is essentially indistinguishable from B.1.351 (4.0 nM),
 # which binds with ~19x greater affinity that wild type.
 # Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055
