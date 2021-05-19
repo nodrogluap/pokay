@@ -1,0 +1,7 @@
+# This mutation's measured interaction affinity with ACE2:p.S19P (0.03% minor allele frequency, 
+# found almost exclusively in African/African-Americans in the GnomAD database)
+# was significantly lower than the predicted value, 
+# indicating that these mutations were not independent. This is consistent with the fact that the ACE2 residue S19 
+# is adjacent to RBD residue S477 in the contact interface. 
+# Barton et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.18.444646v1
+S477N
