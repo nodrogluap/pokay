@@ -199,6 +199,13 @@ E484K
 # as an indicator of VE for B.1.1.7, during this time period in Israel, the prevalence of the B.1.1.7 variant increased from ~20% to 50% of 
 # cases (covariants.org), therefore these VE numbers likely represent a mix of B.1.1.7 and other lineage effects.]
 # Amit et al. (2021) https://dx.doi.org/10.1016%2FS0140-6736(21)00448-7
+# We found that a single dose of the BNT162b2 vaccine is about 60-70% effective at preventing symptomatic disease in adults aged 70 years 
+# and older in England and that two doses are about 85-90% effective. Those who were vaccinated and went on to have symptoms had a 44% 
+# lower risk of being admitted hospital and a 51% lower risk of death compared with people who were unvaccinated. We also found that a single dose 
+# of the ChAdOx1-S vaccine was about 60-75% effective against symptomatic disease and provided an additional protective effect against hospital 
+# admission—it is too early to assess the effect on mortality. The B.1.1.7 variant now dominates in the UK and these results will largely 
+# reflect vaccine effectiveness against this variant.
+# Lopez Bernal et al. (2021) https://pubmed.ncbi.nlm.nih.gov/33985964/
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
