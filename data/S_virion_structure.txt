@@ -1,3 +1,13 @@
+# This mutation combination stabilize the RBD-ACE2 binding interface, leading to a 3.8–5.3°C melting temperature increase relative to wild type. 
+# [Relevant for thermostable vaccine antigen design]
+# Ellis et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.15.444222v1
+F392W;Y365F
+
+# This mutation stabilizes the RBD-ACE2 binding interface, leading to a 1.9–2.4°C melting temperature increase relative to wild type.
+# [Relevant for thermostable vaccine antigen design]
+# Ellis et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.15.444222v1
+F392W
+
 # The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation, 
 # due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
 # by improved proteolytic processing.
