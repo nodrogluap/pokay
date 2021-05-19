@@ -16,6 +16,11 @@ E484K;D614G
 # Neutralization by 3 Moderna vaccine sera 28 days post-booster was 2.2-fold resistant.
 # [Exact list of B.1.351 mutations used in these assays was not included in the preprint]
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
+# Detectable antibodies against B.1.351 at various time points using pseudotyped lentivirus neutralization in Moderna vaccinee cohort: Day 29 8%, Day 43 100%, Day 119 71%, Day 209 54%.
+# Detectable antibodies against B.1.351 at various time points using live virus FRNT neutralization in Moderna vaccinee cohort: Day 29 8%, Day 43 100%, Day 119 79%, Day 209 58%.
+# Detectable antibodies against B.1.351 at various time points using ACE2 blocking assay in Moderna vaccinee cohort: Day 29 63%, Day 43 100%, Day 119 71%, Day 209 79%.
+# Decreased neutralization on some assays was seen especially in those vaccinees tested that were 71+.
+# Pegu et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.13.444010v1
 D80A;D215G;L242del;K417N;E484K;N501Y;D614G
 
 # In sera collected from 15 early pandemic patients (Seattle Flu Study), mean 16 days post first dose with either Pfizer/BioNTech or Moderna vaccines, 
@@ -212,6 +217,10 @@ E484K
 # common source of exposure. Epidemiological investigation revealed that the suspected source was a SARS-CoV-2-positive patient who 
 # required endotracheal intubation due to severe COVID-19. All procedures were carried out using a full suite of personal protective equipment (PPE).
 # Loconsole et al. (2021) https://doi.org/10.1016/j.cmi.2021.05.007
+# Detectable antibodies against B.1.1.7 at various time points using pseudotyped lentivirus neutralization in Moderna vaccinee cohort: Day 29 33%, Day 43 100%, Day 119 100%, Day 209 96%.
+# Detectable antibodies against B.1.1.7 at various time points using live virus FRNT neutralization in Moderna vaccinee cohort: Day 29 54%, Day 43 100%, Day 119 100%, Day 209 88%.
+# Detectable antibodies against B.1.1.7 at various time points using ACE2 blocking assay in Moderna vaccinee cohort: Day 29 83%, Days 43,119,209 100%.
+# Pegu et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.13.444010v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
@@ -227,6 +236,8 @@ N501Y
 # was on average 2896 for P.1 virus.
 # This compares favorably (stronger) to post-infection neutralization titer against all variants tested in the same sera (wild type, B.1.1.7, B.1.351, and P.1). 
 # Luftig et al. (2021) https://doi.org/10.1056/nejmc2104036
+# Detectable antibodies against P.1 at various time points using pseudovirus neutralization in Moderna vaccinee cohort: Day 43 100%, Day 209 85%.
+# Pegu et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.13.444010v1
 L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # In a multicenter, double-blind, randomized, controlled trial to assess the safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222)
@@ -446,11 +457,14 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed no significant change in IC50 serum dilution concentration
 # for sera from BNT162b2 (Pzifer) or mRNA1273 (Moderna) vacinees collected 28 days following booster dose.
 # Zhou et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436620v1
+
 L5F;T95I;D253G;S477N;D614G;A701V
 
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.6x reduction in both
 # IC50 serum dilution concentration for sera from 5 BNT162b2 (Pzifer) or 3 mRNA1273 (Moderna) vacinees collected 28 days following booster dose.
 # Zhou et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436620v1
+# Detectable antibodies against B.1.526+E484K at various time points using pseudotyped lentivirus neutralization in Moderna vaccinee cohort: Day 43 100%, Day 209 88%.
+# Pegu et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.13.444010v1
 L5F;T95I;D253G;E484K;D614G;A701V
 
 # No significant change in virus neutralzation by 18 Pfizer two dose vaccinee sera compared to B.1.1.7.
@@ -532,6 +546,8 @@ H69del;V70del;Y453F;D614G;I692V;M1229I
 # Pseudotyped B.1.1.429 virus has reduced neutralization activity vs wild type: 2.0x (30 sera Pfizer median 9 
 # days post 2nd dose, 35 sera Moderna median 18 days post 2nd dose). This was NOT significant by ANOVA.
 # Garcia-Beltran et al. (2021) https://doi.org/10.1016/j.cell.2021.03.013
+# Detectable antibodies against B.1.1.7 in all samples at Day 43 and Day 209 using pseudotyped lentivirus neutralization in Moderna vaccinee cohort.
+# Pegu et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.13.444010v1
 S13I;W152C;L452R;D614G
 
 # Pseudotyped P.2 virus has reduced neutralization activity vs wild type: 5.8x (30 sera Pfizer median 9 days post 2nd dose) 
