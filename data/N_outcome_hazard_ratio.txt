@@ -1,0 +1,4 @@
+# In March 2021 this variant had an allele frequency of 47.62 and 7.25% in deceased patients, compared to 35.16 and 3.20% of the same
+# variant in recovered patients, from the Gujarat and global datasets.
+# Joshi et al. (2021) https://doi.org/10.3389/fgene.2021.586569
+S194L
