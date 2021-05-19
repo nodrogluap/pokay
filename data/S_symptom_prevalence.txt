@@ -1,3 +1,9 @@
+# Mutation in the Nucleocapsid region showing a significant
+# higher (ANOVA; F = 20.5; p = 0.003) proportion of the allele in symptomatic patients,
+# with a population frequency of 30% in a Mexican dataset.
+# Barona-Gomez et al. (2021) https://www.medrxiv.org/content/10.1101/2021.05.18.21256128v1
+S194L
+
 # Compared to the clade 20A strains that predominated during phase 1 between March and May 2020, the Marseille-4 variant (characterized 
 # by this mutation plus N:p.M234I;A376T) was associated with a lower frequency of cough, rhinitis, and olfactory and gustatory disorders. 
 # By contrast, hypoxemia was more frequent in patients infected with the Marseille-4 variant.
