@@ -19,3 +19,15 @@ g.C29353U
 # in a substantial number of 20A lineage sequences, suggesting convergent evolution.
 # Barona-Gomez et al. (2021) https://www.medrxiv.org/content/10.1101/2021.05.18.21256128v1
 S194L
+
+# In experimental models of SARA_CoV-2 mutational evolution (without immune pressure), this mutation appears convergent. 
+# Borges et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.19.444774v1
+P13L
+
+# In experimental models of SARA_CoV-2 mutational evolution (without immune pressure), this mutation appears convergent. 
+# Borges et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.19.444774v1
+T379I
+
+# In experimental models of SARA_CoV-2 mutational evolution (without immune pressure), this mutation appears convergent. 
+# Borges et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.19.444774v1
+Q418*
