@@ -105,12 +105,6 @@ T95I;Y144del;E484K;A570D;D614G;P681H;D796H
 # Hacisuleyman et al. (2021) https://doi.org/10.1056/NEJMoa2105000
 T95I;G142F;Y144del;R190T;F220I;R237K;R246T;[S477P;S477H];[P681H,P681=]
 
-# When adjusted for community prevalence of B.1.427/B.1.429 at the time of infection, partially- and fully-vaccinated 
-# post-vaccine SARS-CoV-2 cases did NOT have statistically significantly elevated risk ratios for infection with this 
-# variant (RR 1.40, 95% CI 0.81-2.43 and RR 1.13, 95% CI 0.59-2.16, respectively). Only mRNA vaccinees were included in the study.  
-# Jacobson et al. (2021) https://doi.org/10.1101/2021.04.14.21255431
-L452R;E484Q;D614G
-
 # The estimated vaccine effectiveness against R.1 strain SARS-CoV-2 infection among residents in a Kentucky skilled nursing facility was 
 # 66.2% (95% CI = 40.5%–80.8%) and among health care workers was 75.9% (95% CI = 32.5%–91.4%) in the cohort of only those 
 # 14d+ post-vaccination Pfizer booster dose. VE against symptomatic COVID-19 was 86.5% (95% CI = 65.6%–94.7%) among residents 
