@@ -17,20 +17,20 @@ N439K
 # Flores-Alanis et al. (2021) https://www.mdpi.com/2076-0817/10/2/184/htm
 N501Y
 
-# In experimental models of SARA_CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears 
+# In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears 
 # convergent, especially on a D614 wildtype background. 
 # Borges et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.19.444774v1
 H66R
 
-# In experimental models of SARA_CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears 
+# In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears 
 # convergent, especially ona D614 wildtype background. 
 # Borges et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.19.444774v1
 N74K
 
-# In experimental models of SARA_CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears convergent. 
+# In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears convergent. 
 # Borges et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.19.444774v1
 D215G
 
-# In experimental models of SARA_CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears convergent. 
+# In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears convergent. 
 # Borges et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.19.444774v1
 H655Y
