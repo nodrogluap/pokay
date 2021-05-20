@@ -7,7 +7,8 @@ C.37	S:p.G75V;S:p.T76I;S:p.L452Q;S:p.F490S;S:p.D614G;S:p.T859N
 B.1.1.318	S:p.T95I;S:p.Y144del;S:p.E484K;S:p.D614G;S:p.P681H;S:p.D796H
 # CDC & WHO VOCs/VUIs below
 # This is not a full list of mutations for B.1.1.7, notably the ORF8 variants after the new stop are excluded as probably non-functional
-B.1.1.7	NSP6:p.S106del;NSP6:p.G107del;NSP6:p.F108del;S:p.H69del;S:p.V70del;S:p.Y144del;S:p.N501Y;S:p.A570D;S:p.D614G;S:p.P681H;S:p.T716I;S:p.S982A;S:p.D1118H;ORF8:p.Q27*;N:p.D3L;N:235F	S:p.E484K;S:p.S494P;S:p.K1191N
+B.1.1.7	NSP6:p.S106del;NSP6:p.G107del;NSP6:p.F108del;S:p.H69del;S:p.V70del;S:p.Y144del;S:p.N501Y;S:p.A570D;S:p.D614G;S:p.P681H;S:p.T716I;S:p.S982A;S:p.D1118H;ORF8:p.Q27*;N:p.D3L;N:235F	S:p.S494P;S:p.K1191N
+B.1.1.7	NSP6:p.S106del;NSP6:p.G107del;NSP6:p.F108del;S:p.H69del;S:p.V70del;S:p.Y144del;S:p.E484K;S:p.N501Y;S:p.A570D;S:p.D614G;S:p.P681H;S:p.T716I;S:p.S982A;S:p.D1118H;ORF8:p.Q27*;N:p.D3L;N:235F	S:p.S494P;S:p.K1191N
 P.1	S:p.L18F;S:p.T20N;S:p.P26S;S:p.D138Y;S:p.R190S;S:p.K417T;S:p.E484K;S:p.N501Y;S:p.D614G;S:p.H655Y;S:p.T1027I
 # Depending on how the alignment is done, the exact change due to the three base deletion can be 241-243 or 242-244, so we are including only the one that always pops up
 B.1.351	S:p.D80A;S:p.D215G;S:p.L242del;S:p.A243del;S:.pL244del;S:p.K417N;S:p.E484K;S:p.N501Y;S:p.D614G;S:p.A701V  S:p.R246I
