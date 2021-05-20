@@ -3,3 +3,7 @@
 # phylogenetic clades, most cases cluster in two recent clades, suggesting a likely selective advantage in certain haplotype backgrounds.
 # Shen et al. (2021) https://doi.org/10.1080/22221751.2021.1922097
 I82T
+
+# In experimental models of SARA_CoV-2 mutational evolution (without immune pressure), this mutation appears convergent. 
+# Borges et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.19.444774v1
+H125Y
