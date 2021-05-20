@@ -79,7 +79,7 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G
 # Overall, the proportion of residents with severe disease in the non-vaccinated group (4/5) 
 # was higher than that in the vaccinated group (2/13). Only 1 vaccinated staff, but 10 unvaccinated were infected in the outbreak (no severe disease).
 # Bailly et al. (2021) https://doi.org/10.1093/cid/ciab446
-D80A;L242del;R246I;K417N;E484K;N501Y;D614H;A701V
+D80A;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Neutralizing antibody titers of non-human primate sera after one or two doses of Ad26.COV2.S (Jannsen vaccine) 
 # against the variants containing the E484K substitution in the RBD were present but reduced 
@@ -455,7 +455,6 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed no significant change in IC50 serum dilution concentration
 # for sera from BNT162b2 (Pzifer) or mRNA1273 (Moderna) vacinees collected 28 days following booster dose.
 # Zhou et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436620v1
-
 L5F;T95I;D253G;S477N;D614G;A701V
 
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.6x reduction in both
