@@ -70,10 +70,15 @@ L18F;T20N;P26S;D138Y;R190S;E484K;N501Y;D614G;H655Y
 # Peng et al. (2021) https://doi.org/10.1093/cid/ciab283
 S13I;W152C;L452R
 
-# Assuming complete cross-protection, we estimate 501Y.V2/B1.351 was 1.50 (95% CrI: 1.20-2.13)
+# Assuming complete cross-protection, we estimate 501Y.V2/B.1.351 was 1.50 (95% CrI: 1.20-2.13)
 # times as transmissible than previously circulating variants. Assuming instead that 501Y.V2 is
 # identically transmissible, the new variant evades 21% (95% CrI: 11-36%) of previously
 # acquired immunity. Reality may lie between these extremes, with an intermediate increase in
 # transmissibility and mildly imperfect cross-protection from past exposure. 
 # Pearson et al. (2021) https://cmmid.github.io/topics/covid19/reports/sa-novel-variant/2021_01_11_Transmissibility_and_severity_of_501Y_V2_in_SA.pdf
+# 36,590 variant-specific RT-PCR tests were performed on samples collected between April 12 and May 7, 2021 
+# in France to compare variant spread. Compared to January to March 2021, B.1.351 variant had a significant 
+# transmission advantage over B.1.1.7 in some regions (15.1 to 16.1% in Île-de-France and 16.1 to 18.8% in Hauts-de-France).
+# This shift in transmission advantage is consistent with the immune evasion abilities of B.1.351 and the high levels of immunization in these regions.
+# Roquebert et al. (2021) https://www.medrxiv.org/content/10.1101/2021.05.12.21257130v1
 K417N;E484K;N501Y;D614G
