@@ -403,8 +403,6 @@ F486Y
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb SARS2-32.
 # Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
-# Greater than 10-fold rediuction of binding effeiency vs wild type for mAb LY-CoV555.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
 F490S
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb SARS2-01.
