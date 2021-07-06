@@ -7,12 +7,12 @@ D483Y
 # Confers significant (5x) resistance in vitro to remdesivir [coordinates mapped from reported V553L in murine hepatitis virus model experiment to SARS-CoV-2].
 # Agostini et al. (2018) http://dx.doi.org/10.1128/mBio.00221-18
 # V556L mutation (incorrectly listed as V557L in the paper) is implicated in low-level resistance to Remdesivir.
-# Tchesnokov et al. (2020) https://www.jbc.org/content/early/2020/09/23/jbc.AC120.015720.short
+# Tchesnokov et al. (2020) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7681019/
 V556L 
 
 # S861G mutation (incorrectly listed as S861G in the paper) in RdRp eliminates chain-termination by Remdesivir, 
 # which confirms the existence of a steric clash between that residue and the incorporated RDV-TP
-# Tchesnokov et al. (2020) https://www.jbc.org/content/early/2020/09/23/jbc.AC120.015720.short
+# Tchesnokov et al. (2020) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7681019/
 S860G
 
 # Confers resistance (2.4x) in vitro to remdesivir [coordinates mapped from reported F476L in murine hepatitis virus model experiment to SARS-CoV-2].
