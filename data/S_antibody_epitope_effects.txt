@@ -222,7 +222,7 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # B.1.351 pseudotyped virus model impairs neutralization by N-terminal-domain-directed mAb 5-7.
 # PG: Live virus data for the same mAbs is similar, but 1-20 becomes severally impaired, REGN10933 activity is ablated, and Brii-196 becomes impaired.
 # Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
-L18F,D80A,D215G,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
+L18F;D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # B.1.1.7 pseudotyped virus model impairs binding by RBD-directed mAb 910-30.
 # B.1.1.7 pseudotyped virus model abolishes N-terminal-domain-directed mAbs 5-24, 4-8, and 4A8.
@@ -354,7 +354,7 @@ H69del;V70del;Y144del;Y145del;N501Y;A570D;D614G;P681H
 # B.1.1.351 variant constellation ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
 # B.1.1.351 variant constellation ablates Class 3 N-terminal domain targeting antibodies COV2-2489 and COV2-2676 (the only two tested). 
 # Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
-D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
+D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # 5 antibodies tested were less potent against K417N by ten-fold or more (class 1 mAbs)
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
