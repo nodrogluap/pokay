@@ -27,13 +27,14 @@ open(JSON_OUT, ">$json_outfile")
 # {name => {gene => [mutations]}}
 my %lineage_mutations;
 my %lineage_optional_mutations;
+my %lineage_nickname;
 open(TAB_FILE, $vocs_tab_file)
   or die "Cannot open $vocs_tab_file for reading: $!\n";
 while(<TAB_FILE>){
 	next if /^\s*#/; # comment lines
 	chomp;
 	my @fields = split /\t/, $_;
-	if(@fields > 3){
+	if(@fields > 4){
 		warn "Skipping line $. of $vocs_tab_file because it has more tab delimited fields (", scalar(@fields), ") than expected (2 or 3)\n";
 		next;
 	}
@@ -50,6 +51,10 @@ while(<TAB_FILE>){
                 $lineage_optional_mutations{$lineage_name}->{$gene} //= [];
                 push @{$lineage_optional_mutations{$lineage_name}->{$gene}}, $mutation;
         }
+	# Last column is nick names for the lineage, like Alpha
+	if($#fields == 3){
+		$lineage_nickname{$lineage_name} = $fields[3];
+	}
 
 }
 close(TAB_FILE);
@@ -284,7 +289,9 @@ END
 
 my @lineage_names_html;
 for my $lineage_name (sort keys %lineage_mutations){
-	push @lineage_names_html, "<a href=\"lineage-$lineage_name.html\">$lineage_name</a>";
+	push @lineage_names_html, "<a href=\"lineage-$lineage_name.html\">$lineage_name". 
+             (exists $lineage_nickname{$lineage_name} ? " (".$lineage_nickname{$lineage_name}.")" : ""). 
+             "</a>";
 }
 print FRONT_HTML join(" &mdash;\n", @lineage_names_html);
 
