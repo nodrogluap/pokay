@@ -335,12 +335,12 @@ T478I
 # Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
 # Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
 # Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
-K417N,E484K,N501Y
+K417N;E484K;N501Y
 
 # Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
 # Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
-E484K,N501Y
+E484K;N501Y
 
 # B.1.1.248 variant constellation ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07.
 # B.1.1.248 variant constellation ablates Class 3 N-terminal domain targeting antibody COV2-2676.
@@ -418,11 +418,11 @@ P499L
 # While S477N itself is highly resistent to a broad range of monoclonal antibodies, combined with S514F high neutralization
 # is restricted to only three antibodies in a broad screen.
 # Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
-S477N,S514F
+S477N;S514F
 
 # The combination has only a mild effect of making neutralizing mAbs less effective vs. T345A alone.
 # Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
-T345A,L517R
+T345A;L517R
 
 # Ablates binding of Spike N terminal domain targeting monoclonal antibody 4A8, by disruption of N5-loop/supersite loop, may work synergistically with 
 # 501Y.V2 ("South African") lineage background variant R246I to disrupt paratope binding. [PG: del extent simplified to accomodate minor position realignments]
@@ -683,9 +683,9 @@ S686V
 # Reduction in neutralization by mAbs COVA1-18 (~4x), COVA2-15 (~9x).
 # PG: these effects are laregly missing in the deletion-alone data
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
-H69del,V70del,N501Y
+H69del;V70del;N501Y
 
 # Reduces neutralization by structurally unmapped mAb COVA1-21 (cluster XI).
 # Rees-Spear et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426849v1
-H69del,V70del
+H69del;V70del
 
