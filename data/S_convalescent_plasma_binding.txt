@@ -65,7 +65,7 @@ D614G;K417N
 # Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
 D614G;E484K
 
-# 1.65x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
+# 1.11x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
 # Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
 D614G;A701V
 
