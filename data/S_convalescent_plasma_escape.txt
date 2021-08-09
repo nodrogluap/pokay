@@ -1,3 +1,169 @@
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+S12P
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+Q14H
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+C15G
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+P25L
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+V47M
+
+# Mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset, but also
+# in cell culture without plasma, therefore likely a replication cycle fitness rather than polyclonal iummnuity escape variant.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+W64R
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+F140S
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+G142E
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+V143G
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+Y145C
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+K147N
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+K147E
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+E154K
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+A243D
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+L244P
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+S247P
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+S254Y
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+Y248H
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+W258R
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+A260V
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+A260T
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+K378R
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+K444T
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+V445E
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+V445M
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+G446R
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+N450D
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+E484K
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+Q493R
+
+# Mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset, but also
+# in cell culture without plasma, therefore likely a replication cycle fitness rather than polyclonal iummnuity escape variant.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+T604I
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+A623T
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+P681S
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+F792H
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+N801D
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+S813I
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+I931M
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+Q1010R
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+V1061M
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+D1118G
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+V1128A
+
+# Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+P1162S
+
 # Mutation from chronically infected patient predicted to introduce clash with potent mAbs C1A-VH3-53, 
 # and verified by pseudovirus assay against the weaker mAbs in this family.
 # The mutation conferred decreased sensitivity to mAb B38 but had no effect on neutralization by mAb CC12.
