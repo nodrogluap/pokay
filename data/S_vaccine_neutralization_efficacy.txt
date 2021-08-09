@@ -7,6 +7,8 @@ D80Y;Y144del;I210del;D215G;S247del;Y248del;W258L;R346K;T478R;E484K;H655Y;P681H;Q
 # Neutralization by 3 Moderna vaccine sera 28 days post-booster was 5-fold resistant (vs. 2.2-fold for B.1.351).
 # The resistance of B.1.617 was caused by the L452R and E484Q mutation, based on results from viruses pseudotyped for individual variants within B.1.617.
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
+# 1.4x reduction in neutralization (ID50) in sera 3 weeks after one dose of Pfizer/BioNTech BNT162b2 (up to 5 naive and post infection vaccinees)
+# Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
 L452R;E484Q;D614G
 
 # Neutralization efficiency (ID50) against B.1.617.1-v1 ("Kappa") reduced 3.4x relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster.
@@ -19,6 +21,9 @@ G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;H1101D
 
 # Inferring from two B.1.617.1 variants tested, estimate baseline 3.3x reduction in ID50 relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster.
 # Choi et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.28.449914v1
+# 1.5x reduction in neutralization (ID50) in sera 3 weeks after one dose of Pfizer/BioNTech BNT162b2 (up to 5 naive and post infection vaccinees)
+# [exact set of variants used is not listed in the manuscript]
+# Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
 
 # Neutralization efficiency (ID50) against B.1.617.1-v1 ("Kappa") reduced 3.3x relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster.
@@ -155,6 +160,9 @@ G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;H1101D
 # and a doctor of unknown vaccine status. This cluster was caused by a B.1.617.2 virus [via crossreference to 
 # https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/annex-a65c38244a9e142828ce500c88a5a5503.pdf].
 # Singapore MOH (2021) https://www.moh.gov.sg/news-highlights/details/3-new-cases-of-locally-transmitted-covid-19-infection-28apr2021-update
+# 2.3x reduction in neutralization (ID50) in sera 3 weeks after one dose of Pfizer/BioNTech BNT162b2 (up to 5 naive and post infection vaccinees)
+# [exact set of variants used is not listed in the manuscript]
+# Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # In a randomized phase 2a-b control trial of the Novavax (NVX-CoV2373) vaccine in South Africa, where B.1.351 virus dominates,
@@ -256,6 +264,8 @@ E484K
 # Pegu et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.13.444010v1
 # Neutralization efficiency (ID50) against B.1.1.7 reduced 1.2x relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster.
 # Choi et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.28.449914v1
+# 1.5x reduction in neutralization (ID50) in sera 3 weeks after one dose of Pfizer/BioNTech BNT162b2 (up to 5 naive and post infection vaccinees)
+# Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
@@ -503,6 +513,8 @@ L5F;T95I;D253G;S477N;D614G;A701V
 # Zhou et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436620v1
 # Detectable antibodies against B.1.526+E484K at various time points using pseudotyped lentivirus neutralization in Moderna vaccinee cohort: Day 43 100%, Day 209 88%.
 # Pegu et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.13.444010v1
+# 2.3x reduction in neutralization (ID50) in sera 3 weeks after one dose of Pfizer/BioNTech BNT162b2 (up to 5 naive and post infection vaccinees)
+# Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
 L5F;T95I;D253G;E484K;D614G;A701V
 
 # No significant change in virus neutralzation by 18 Pfizer two dose vaccinee sera compared to B.1.1.7.
@@ -558,6 +570,8 @@ D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 # Tarke et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.27.433180v1
 # Neutralization efficiency (ID50) against P.1 reduced 3.2x relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster.
 # Choi et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.28.449914v1
+# 1.15x *increase* in neutralization (ID50) in sera 3 weeks after one dose of Pfizer/BioNTech BNT162b2 (up to 5 naive and post infection vaccinees)
+# Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
 # Neutralization assays of B.1.1.7 virus showed a reduction of 2.5-fold (14 days post 2nd dose AstraZeneca, n=15), 2.1-fold (28 days post 2nd dose AstraZeneca, n=10), 
@@ -789,6 +803,8 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 # Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
 # Neutralization efficiency (ID50) against B.1.1.351-v1 reduced 6.9x relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster.
 # Choi et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.28.449914v1
+# 3.2x reduction in neutralization (ID50) in sera 3 weeks after one dose of Pfizer/BioNTech BNT162b2 (up to 5 naive and post infection vaccinees)
+# Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
 L18F,D80A,D215G,L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of vaccine was significantly lower against B.1.351 in sera from all 24 patients with the BNT162b2 mRNA vaccine. (Fig. 4)
