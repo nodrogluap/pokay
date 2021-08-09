@@ -18,7 +18,7 @@ R203M
 # Syed et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455082v1
 S202R
 
-# Northern blot analysis of novel mutant virus-like-particles (VLPs) shows  increase in RNA content with this mutation, suggesting that it
+# Northern blot analysis of novel mutant virus-like-particles (VLPs) shows increase in RNA content with this mutation, suggesting that it
 # improves virus particle production (requisite RNA packaging signal binding site in nsp15/15 boundary is included in the VLP).
 # Syed et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455082v1
 P199L
