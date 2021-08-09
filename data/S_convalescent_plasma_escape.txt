@@ -1,3 +1,23 @@
+# Artificially constructed HIV-1 pseudovirus with set of mutations drawn from plasma passage escape experiments
+# shows ablated neutralization efficacy (NT50 ~ 0) in two of 21 convalescents plasma collected mean 1.5 post symptom onset.
+# Greater than 4-fold reduction was observed in most of the other plasma. 14 vaccinee plasma showed a slightly lower
+# reduction in efficacy, albeit from a higher average starting point titre than convalescents.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+V47M;G142E;K378R;V445E;N450D;E484K;Q493R;T604I;F759S;P792H;I931M;V1061M;P1162S
+
+# Artificially constructed HIV-1 pseudovirus with set of mutations drawn from plasma passage escape experiments
+# shows ablated neutralization efficacy (NT50 ~ 0) in two of 21 convalescents plasma collected mean 1.5 post symptom onset.
+# Greater than 4-fold reduction was observed in most of the other plasma. 14 vaccinee plasma showed a slightly lower
+# reduction in efficacy, albeit from a higher average starting point titre than convalescents.
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+S12P;F104S;Y144C;L244P;W258R;K378R;N440K;V445E;G446R;N450D;E484K;P792H;N801D
+
+# Artificially constructed HIV-1 pseudovirus with set of mutations drawn from plasma passage escape experiments
+# and mutations from variants of concern completely ablates neutralization in 19 of 21 convalescents plasma collected mean 1.5 post symptom onset.
+# [actual Y145del from manuscript substituted with more common Y144del description]
+# Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
+L18F;V47M;H69del;V70del;D80A;Y144del;D215G;L242del;A243del;L244del;W258R;R346S;K417N;N440K;V445E;L455R;A475V;E484K;N501Y;D614G;A701V;P792H;N801D
+
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
 # Schmidt et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.06.455491v1
 S12P
