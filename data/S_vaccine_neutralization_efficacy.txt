@@ -1,3 +1,15 @@
+# Relative to B.1, Kappa (B.1.617.1) shows mean 1.97x decrease in neutralization efficiency by 18 vaccinee sera (BNT162b2 and mRNA1273).
+# Wilhelm et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.09.21261704v1
+G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
+
+# Relative to B.1, Delta (B.1.617.2) shows mean 2.1x decrease in neutralization efficiency by 18 vaccinee sera (BNT162b2 and mRNA1273).
+# Wilhelm et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.09.21261704v1
+T19R;T95I;G142D;F157del;R158del;A222V;L452R;T478K;D614G;P681R;D950N
+
+# Relative to B.1, Epsilon (B.1.417/429) shows 1.74x-2.35x decrease in neutralization efficiency by 18 vaccinee sera (BNT162b2 and mRNA1273).
+# Wilhelm et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.09.21261704v1
+D614G;L452R
+
 # Neutralization efficiency (ID50) against A.VOI.V2 (first identified in Angola) reduced 8.0x relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster. 
 # Choi et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.28.449914v1
 D80Y;Y144del;I210del;D215G;S247del;Y248del;W258L;R346K;T478R;E484K;H655Y;P681H;Q957H 
