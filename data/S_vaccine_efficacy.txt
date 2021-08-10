@@ -1,0 +1,15 @@
+# In Minnesota in July 2020 (when Delta variant prevalence was >70%), the effectiveness against infection for mRNA-1273 was estimated at 76% 
+# (95% CI: 58-87%) using age, sex, race, PCR testing and vaccination date matched cohorts of unvaccinated, Pfizer and Moderna vaccinees. 
+# An even more pronounced reduction in effectiveness was observed for BNT162b2 of 42% (95% CI: 13-62%). 
+# mRNA-1273 conferred a two-fold risk reduction against breakthrough infection compared to BNT162b2 (IRR = 0.50, 95% CI: 0.39-0.64).
+# In Florida, which is currently experiencing its largest COVID-19 surge to date, the risk of infection in July after full vaccination 
+# with mRNA-1273 was about 60% lower than after full vaccination with BNT162b2 (IRR: 0.39, 95% CI: 0.24-0.62). 
+# [variant list included is ancestral Delta, as this was an observational study no variant list was given] 
+# Puranik et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v1
+T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
+
+# In Minnesota in early 2021 when Alpha was prevalent, vaccine efficacy was estimated as: mRNA-1273 86% (95%CI: 81-90.6%) and BNT162b2: 76% (95%CI: 69-81%)
+# using age, sex, race, PCR testing and vaccination date matched cohorts of unvaccinated, Pfizer and Moderna vaccinees. 
+# [variant list included is ancestral Alpha, as this was an observational study no variant list was given] 
+# Puranik et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v1
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
