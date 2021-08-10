@@ -1,3 +1,15 @@
+# Relative to B.1, Kappa (B.1.617.1) shows 5.71x decrease in neutralization efficiency by convalescent plasma [no cohort details provided]
+# Wilhelm et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.09.21261704v1
+G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
+
+# Relative to B.1, Delta (B.1.617.2) shows 3.64x decrease in neutralization efficiency by convalescent plasma [no cohort details provided]
+# Wilhelm et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.09.21261704v1
+T19R;T95I;G142D;F157del;R158del;A222V;L452R;T478K;D614G;P681R;D950N
+
+# Relative to B.1, Epsilon (B.1.417/429) shows 1.74x-2.35x decrease in neutralization efficiency by convalescent plasma [no cohort details provided]
+# Wilhelm et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.09.21261704v1
+D614G;L452R
+
 # Artificially constructed HIV-1 pseudovirus with set of mutations drawn from plasma passage escape experiments
 # shows ablated neutralization efficacy (NT50 ~ 0) in two of 21 convalescents plasma collected mean 1.5 post symptom onset.
 # Greater than 4-fold reduction was observed in most of the other plasma. 14 vaccinee plasma showed a slightly lower
