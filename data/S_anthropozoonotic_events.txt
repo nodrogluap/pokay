@@ -1,3 +1,16 @@
+# Six minks were intranasally infected with WA1 isolate, all developed this mutation during infection.
+# Esclera et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455290v1
+H655Y
+
+# Six minks were intranasally infected with WA1 isolate, three developed this furin clevage site mutation during infection,
+# But cleavage site loss during subsequent Vero cell culture is a known phenomenon, therefore this may be artifactual.
+# Esclera et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455290v1
+R682W
+
+# Six minks were intranasally infected with WA1 isolate, three developed this mutation during infection.
+# Esclera et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455290v1
+T259K
+
 # First documented cases of domestic cat and dog infections with the B.1.1.7 strain.
 # Hamer et al. (2021) https://doi.org/10.1111/tbed.14122
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
