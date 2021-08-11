@@ -1,3 +1,9 @@
+# B.1.526 (Iota) substantially increased IFR in older adults: by 46% (95% CI: 7.4 – 84%) among 45-64 year-olds, 
+# 82% (95% CI: 20 – 140%) among 65-74 year-olds, and 62% (95% CI: 45 – 80%) among 75+ during Nov 2020 – Apr 2021, 
+# compared to baseline IFR estimated for preexisting variants. [minimum clade defining mutations listed]
+# Yang et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.04.21261596v1
+T95I;D253G;D614G
+
 # Using primarily S-defining mutations for lineage B.1.1.7, most models of hospitalization and fatality risk ratios from
 # consortium members show elevated ratios (~1.3-1.7x).
 # NERVTAG Consortium (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/961042/S1095_NERVTAG_update_note_on_B.1.1.7_severity_20210211.pdf
