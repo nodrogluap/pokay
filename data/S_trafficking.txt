@@ -1,3 +1,29 @@
+# ~4.5x cleavage of S2 relative to WA1 (D614G) wildtype by Delta (B.1.617.2) variant as measured by mass spectrometry of Vero-TMPRSS culture
+# (compare to ~3.5x for closely related Kappa B.1.617.1 also with P681R at the cleavage site). 
+# Esclera et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455290v1
+T19R;G142D;E154K;E156del;F157del;L452R;P681R;D614G;A771S;D950N
+
+# ~3.5x cleavage of S2 relative to WA1 (D614G) wildtype by Kappa (B.1.617.1) variant as measured by mass spectrometry of Vero-TMPRSS culture
+# (compare to ~4.5x for closely related Delta B.1.617.2 also with P681R at the cleavage site). 
+# Esclera et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455290v1
+G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
+
+# ~2.5x cleavage of S2 relative to WA1 (D614G) wildtype by Alpha variant variant as measured by mass spectrometry of Vero-TMPRSS culture.
+# Esclera et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455290v1
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
+# ~6x cleavage of S2 relative to WA1 (D614G) wildtype by Beta variant as measured by mass spectrometry of Vero-TMPRSS culture 
+# [no mutations directly at furin cleavage site, but A701V is downstream] Compare to 4.5x or less for variants of concern with 
+# direct furin clevage site mutations.
+# Esclera et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455290v1
+D80A;D215G;L242del;A243del;R246I;K417N;E484K;N501Y;D614G;A701V
+
+# ~6x cleavage of S2 relative to WA1 (D614G) wildtype by Gamma variant as measured by mass spectrometry of Vero-TMPRSS culture 
+# [no mutations directly at furin cleavage site, but H655Y is upstream] Compare to 4.5x or less for variants of concern with 
+# direct furin clevage site mutations.
+# Esclera et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455290v1
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
+
 # Quantification of the band intensities showed that the P681R mutation, which lies near the proteolytic processing site, 
 # caused a small increase in proteolytic processing as measured by a 2-fold decrease in the ratio of S/S2.
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
