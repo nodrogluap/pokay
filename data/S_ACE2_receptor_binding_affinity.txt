@@ -162,12 +162,12 @@ L452R;E484Q;D614G
 # in binding (KD) relative to D614G, but described as "not significant". [exact variant list not provided in manuscript, is inferred and 
 # represents minimal set agreed upon commonly]
 # Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
-B.1.617.1	G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
+G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant combination (representing lineage B.1.617.2 aka Delta) showed a 2.34x increase 
 # in binding (KD) relative to D614G. [exact variant list not provided in manuscript, is inferred and represents minimal set agreed upon commonly]
 # Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
-B.1.617.2	T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
+T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # In the case of VOC B.1.1.7+E484K, the addition of the E484K mutation to N501Y further increased the affinity, to
 # ~15 fold higher than WT RBD (KD ~5 nM), by further increasing the k(on) as measured by surface plasmon resonance. Because the higher
@@ -502,8 +502,8 @@ K458D
 
 # Selected with increasing proportion during in vitro evolution of Spike against ACE2 receptor
 # Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
-#Experimentally, ACE2 binding affinity increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+# Experimentally, ACE2 binding affinity increased 0.09 fold
+# Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 N460K
 
 # Y501 makes a pi interaction with Y41 and places R498 to make a hydrogen
