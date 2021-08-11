@@ -30,3 +30,5 @@ B.1.620	S:p.P26S;S:p.H69del;S:p.V70del;S:p.V126A;S:p.Y144del;S:p.L242del;S:p.H24
 B.1.621	ORF8:p.T11K;ORF8:p.P38S;ORF8:p.S67F;S:p.T95I;S:p.Y144T;S:p.R346K;S:p.E484K;S:p.N501Y;S:p.P681H
 # Not an official VOI/VOC yet, but preliminary data from Moderna shows immune escape greater than or equal to Beta (B.1.351). Ref desc is https://www.medrxiv.org/content/10.1101/2021.03.30.21254323v1
 A.VOI.V2	nsp2:E272G;nsp2:A360V;PLpro:P395L;PLpro:D821E;PLpro:T1465I;PLpro:N1552K;nsp6:M86I;nsp6:A268V;RdRp:T739I;Hel:V256F;Hel:F499L;ExoN:V290F;EndoU:V139F;S:p.D80Y;S:Y144del;S:I210del;S:D215G;S:S247del;S:Y248del;S:W258L;S:R346K;S:T478R;S:E484K;S:H655Y;S:P681H;S:Q957H;M:I82T;ORF8:L84S;ORF8:E92K;N:M234I
+# New VUI by PHE UK as of August reporting, ORF3a mutation combination is actually a frameshift, needs annotation reworking
+B.1.621 PLpro:p.T237A;PLpro:p.T720I;nsp6:p.Q160R;RdRp:p.P323L;Hel:p.P419S;ORF3a:p.Q57H;ORF3a:N257del;ORF8:p.T11K;ORF8:p.P38S;ORF8:p.S67F;S:p.T95I;S:p.Y144T;S:p.R346K;S:p.E484K;S:p.N501Y;S:p.P681H
