@@ -1,3 +1,8 @@
+# Sera from vaccinees [ChAdOx1 and BNT162b2 primarily used in UK] shows decreased ability to neutralize B.1.621 compared to
+# first wave virus and Alpha, with a magnitude of change similar to Beta.
+# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf
+T95I;Y144T;R346K;E484K;N501Y;P681H
+
 # In an Ontario long term care facility, cumulatively, weaker BNT162b2 vaccine stimulation, age/comorbidities, produced a ∼130-fold reduction 
 # in apparent neutralization titers in mean 88yo LTCH residents against Beta (B.1.351), relative to staff vaccinees against D614G wild type. 
 # 37.9% of 116 two-dose-mRNA-vaccinated residents had undetectable neutralizing antibodies to B.1.351. mRNA-1273 vaccinee sera displayed
