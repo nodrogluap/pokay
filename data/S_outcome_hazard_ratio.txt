@@ -1,3 +1,8 @@
+# Compared to Alpha (B.1.1.7) variant, odds of progressing to severe disease were 1.24-fold (95% CI: 1.11-1.39) higher for Beta. 
+# Odds of progressing to critical disease were 1.49-fold (95% CI: 1.13-1.97) higher. Odds of COVID-19 death were 1.57-fold (95% CI: 1.03-2.43) higher.
+# Abu-Raddad et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.02.21261465v1
+D80A;D215G;A243del;R246I;K417N;E484K;N501Y;D614G;A701V
+
 # B.1.526 (Iota) substantially increased IFR in older adults: by 46% (95% CI: 7.4 – 84%) among 45-64 year-olds, 
 # 82% (95% CI: 20 – 140%) among 65-74 year-olds, and 62% (95% CI: 45 – 80%) among 75+ during Nov 2020 – Apr 2021, 
 # compared to baseline IFR estimated for preexisting variants. [minimum clade defining mutations listed]
