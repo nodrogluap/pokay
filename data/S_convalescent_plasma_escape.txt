@@ -1,3 +1,17 @@
+# Sera from individuals who have been infected with Delta does not have strong
+# neutralising activity against B.1.621
+# Sera from individuals who have been vaccinated and have had subsequent
+# recent Delta infection have a high level of neutralising activity against B.1.621.
+# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf
+T95I;Y144T;R346K;E484K;N501Y;P681H
+
+# Sera from individuals who have been infected with Delta does not have strong
+# neutralising activity against Beta.
+# Sera from individuals who have been vaccinated and have had subsequent
+# recent Delta infection have a high level of neutralising activity against Beta.
+# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf
+L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
+
 # Relative to B.1, Kappa (B.1.617.1) shows 5.71x decrease in neutralization efficiency by convalescent plasma [no cohort details provided]
 # Wilhelm et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.09.21261704v1
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
