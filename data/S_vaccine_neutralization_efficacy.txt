@@ -3,6 +3,34 @@
 # PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf
 T95I;Y144T;R346K;E484K;N501Y;P681H
 
+# Mean 7.6x reduction of NT50 value B.1.621 (Mu) relative to wild type in 8 sera from adult BNT162b2 vaccinees (28-47yo) collected ~1m post booster. [This is a greater reduction than Beta @ 6.3x]
+# Uriu et al. (2021) https://doi.org/10.1101/2021.09.06.459005
+T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H;D950N
+
+# Mean 1.7x reduction of NT50 value for C.37 (Lambda) relative to wild type in 8 sera from adult BNT162b2 vaccinees (28-47yo) collected ~1m post booster.
+# Uriu et al. (2021) https://doi.org/10.1101/2021.09.06.459005
+G75V;T76I;R246_D253delinsN;L452Q;F490S;D614G;T859N
+
+# Mean 2.3x reduction of NT50 value B.1.427 (Epsilon) relative to wild type in 8 sera from adult BNT162b2 vaccinees (28-47yo) collected ~1m post booster.
+# Uriu et al. (2021) https://doi.org/10.1101/2021.09.06.459005
+S13I;W152C;L452R;D614G
+
+# Mean 2.6x reduction of NT50 value B.1.617.2 (Delta) relative to wild type in 8 sera from adult BNT162b2 vaccinees (28-47yo) collected ~1m post booster.
+# Uriu et al. (2021) https://doi.org/10.1101/2021.09.06.459005
+T19R;G142D;S:p.E156del;S:p.F157del;S:p.R158G;L452R;T478K;D614G;P681R;D950N
+
+# Mean 3.0x reduction of NT50 value P.1 (Gamma) relative to wild type in 8 sera from adult BNT162b2 vaccinees (28-47yo) collected ~1m post booster.
+# Uriu et al. (2021) https://doi.org/10.1101/2021.09.06.459005
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
+
+# Mean 6.3x reduction of NT50 value B.1.351 (Beta) relative to wild type in 8 sera from adult BNT162b2 vaccinees (28-47yo) collected ~1m post booster.
+# Uriu et al. (2021) https://doi.org/10.1101/2021.09.06.459005
+L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
+
+# Mean 1.7x reduction of NT50 value B.1.1.7 (Alpha) relative to wild type in 8 sera from adult BNT162b2 vaccinees (28-47yo) collected ~1m post booster.
+# Uriu et al. (2021) https://doi.org/10.1101/2021.09.06.459005
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
 # In an Ontario long term care facility, cumulatively, weaker BNT162b2 vaccine stimulation, age/comorbidities, produced a ∼130-fold reduction 
 # in apparent neutralization titers in mean 88yo LTCH residents against Beta (B.1.351), relative to staff vaccinees against D614G wild type. 
 # 37.9% of 116 two-dose-mRNA-vaccinated residents had undetectable neutralizing antibodies to B.1.351. mRNA-1273 vaccinee sera displayed
