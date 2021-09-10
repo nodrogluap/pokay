@@ -3,7 +3,7 @@ A.27	S:p.L18F;S:p.L452R;S:p.N501Y;S:p.A653V;S:p.H655Y;S:p.D796Y;S:p.G1219V
 A.28+E484K	S:p.H69del;S:p.V70del;S:p.E484K;S:p.N501T;S:p.H655Y
 C.16	S:p.L452R;S:p.D614G
 AT.1	S:p.P9L;S:p.C136Y;S:p.N137del;S:p.D138del;S:p.P139del;S:p.F140del;S:p.L141del;S:p.G142del;S:p.V143del;S:p.Y144del;S:p.Y145del;S:p.H245P;S:p.E484K;S:p.D614G;S:p.E780K;ORF3a:p.L95M;M:p.L16I;N:p.R203K;N:p.G204R
-C.37	S:p.G75V;S:p.T76I;S:p.L452Q;S:p.F490S;S:p.D614G;S:p.T859N		Lambda
+C.37	S:p.G75V;S:p.T76I;S:p.L452Q;S:p.F490S;S:p.D614G;S:p.T859N	R246_D253delinsN	Lambda
 B.1.1.318	S:p.T95I;S:p.Y144del;S:p.E484K;S:p.D614G;S:p.P681H;S:p.D796H
 # CDC & WHO VOCs/VUIs below
 # This is not a full list of mutations for B.1.1.7, notably the ORF8 variants after the new stop are excluded as probably non-functional
