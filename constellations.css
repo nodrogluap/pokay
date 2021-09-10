@@ -48,6 +48,16 @@ div.tip {
   padding-left: 20px;
 }
 
+div.acknowledgement {
+  text-color: #000000;
+  text-align: center;
+  font-style: italic;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
 
 ul.lit_list{
   list-style-type: square;
