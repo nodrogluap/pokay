@@ -230,6 +230,7 @@ for my $constellation_key (keys %constellation2html){
 DATA
   print HTML @{$constellation2html{$constellation_key}};
   print HTML <<DATA;
+<div class="acknowledgement">Automatically generated using text2ui script and data from <a href="https://github.com/nodrogluap/pokay">Pokay</a></div>
 </body>
 </html>
 DATA
@@ -347,6 +348,7 @@ END
 
     print GENE_CAT_HTML <<END;
 </ul>
+<div class="acknowledgement">Automatically generated using text2ui script and data from <a href="https://github.com/nodrogluap/pokay">Pokay</a></div>
 </body>
 </html>
 END
@@ -365,7 +367,7 @@ END
   if($total_num_constellations_this_gene == 0){
     print GENE_HTML "<div class=\"tip\">Sorry, there are currently no functionally characterized mutations in the literature for this gene</div>\n";
   }
-  print GENE_HTML "</body></html>\n";
+  print GENE_HTML "<div class=\"acknowledgement\">Automatically generated using text2ui script and data from <a href=\"https://github.com/nodrogluap/pokay\">Pokay</a></div></body></html>\n";
   close(GENE_HTML);
 }
 
@@ -405,6 +407,7 @@ END
 
    print CAT_GENE_HTML <<END;
 </ul>
+<div class="acknowledgement">Automatically generated using text2ui script and data from <a href="https://github.com/nodrogluap/pokay">Pokay</a></div>
 </body>
 </html>
 END
@@ -423,6 +426,7 @@ print FRONT_HTML <<END;
 </div></td></tr></tbody></table>
 
 <div class="footer">
+<div class="acknowledgement">Automatically generated using text2ui script and data from <a href="https://github.com/nodrogluap/pokay">Pokay</a></div>
 This site is maintained by Paul Gordon &lt;gordonp\@ucalgary.ca&gt;. Added references are welcome by submitting data directory pull requests on <a href="https://github.com/nodrogluap/pokay/tree/master/data">GitHub</a>. Updated $date.
 </div>
 </body>
@@ -534,7 +538,7 @@ END
 
 		print LINEAGE_HTML "</div>\n";
 	}
-	print LINEAGE_HTML "</div></body>\n</html>\n";
+	print LINEAGE_HTML "</div><div class=\"acknowledgement\">Automatically generated using text2ui script and data from <a href=\"https://github.com/nodrogluap/pokay\">Pokay</a></div></body>\n</html>\n";
 	close(LINEAGE_HTML);
 }
 
