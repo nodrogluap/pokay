@@ -1,11 +1,15 @@
-# Modelling the Delta variant in primary human airway epithelial cultures, S1 to full length Spike ratio 
+# Modelling the Delta variant in primary human airway epithelial (HAE) cultures, S1 to full length Spike ratio 
 # (measuring Spike furin cleavage processivity) increased 11x relative to wild type (15.3 vs 1.4). [del ~157 truncated due to ambiguity]
+# Furthermore the RNA ratio of Delta versus Alpha-spike/Delta-backbone continuously increased from 2.8 on day 1 
+# to 9.8 on day 5 post infection in a coinfection model in HAEs, suggesting the spike gene drives the improved replication of Delta variant.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.12.456173v3
 T19R;G142D;E156G;F157del;L452R;T478K;D614G;P681R;D950N
 
-# Modelling the Alpha variant in primary human airway epithelial cultures, S1 to full length Spike ratio 
+# Modelling the Alpha variant in primary human airway epithelial (HAE) cultures, S1 to full length Spike ratio 
 # (measuring Spike furin cleavage processivity) increase 3.9x relative to wild type (5.4 vs 1.4). This
-# is les efficient than Delta (11x vs wildtype using a P681R mutation instead). [del ~144 changed due to ambiguity]
+# is less efficient than Delta (11x vs wildtype using a P681R mutation instead). [del ~144 changed due to ambiguity]
+# Furthermore the RNA ratio of Delta versus Alpha-spike/Delta-backbone continuously increased from 2.8 on day 1 
+# to 9.8 on day 5 post infection in a co-infection model in HAEs, suggesting the spike gene drives the improved replication of Delta variant.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.12.456173v3
 HV69del;70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H 
 
