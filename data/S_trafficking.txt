@@ -13,6 +13,16 @@ T19R;G142D;E156G;F157del;L452R;T478K;D614G;P681R;D950N
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.12.456173v3
 HV69del;70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H 
 
+# This mutation alone accounts for most of the increased infectivity of the Alpha variant, as determined by modelling the infectivity
+# of each Spike mutation independently in a competitive infection model of hamsters, and Vero E6 (NHP) and Calu-3 (human) cell lines.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.08.434499v1
+N501Y
+
+# In the absence of N501Y, this Alpha lineage change in the furin clevage site did NOT show significant increase in infectivity relative to wild type, 
+# as determined by modelling the infectivity of each Spike mutation independently in a competitive infection model of hamsters.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.08.434499v1
+P681H
+
 # In primary human airway epithelial cultures, S1 to full length Spike ratio (measuring Spike furin cleavage 
 # processivity) increase 1.9x relative to wild type (2.7 vs 1.4). 
 # This is the Delta variant with the P681R furin cleavage site mutation absent. [del ~157 truncated due to ambiguity]
