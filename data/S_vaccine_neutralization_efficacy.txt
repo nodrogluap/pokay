@@ -1,7 +1,12 @@
+# Using live B.1.621 virus and a cytopathic effect-based assay, sera from 37 Pfizer/BioNTech BNT162b2 vaccinees collected 10-20 days post-booster
+# showed significantly lower (95) but still "robust" neutralization than against ancestral B.1 virus (107).
+# Messali et al. (2021) https://doi.org/10.1002/jmv.27247
+T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H;D950N
+
 # Sera from vaccinees [ChAdOx1 and BNT162b2 primarily used in UK] shows decreased ability to neutralize B.1.621 compared to
 # first wave virus and Alpha, with a magnitude of change similar to Beta.
 # PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf
-T95I;Y144delinsTSN;R346K;E484K;D614G;N501Y;P681H
+T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H
 
 # Mean 7.6x reduction of NT50 value B.1.621 (Mu) relative to wild type in 8 sera from adult BNT162b2 vaccinees (28-47yo) collected ~1m post booster. [This is a greater reduction than Beta @ 6.3x]
 # Uriu et al. (2021) https://doi.org/10.1101/2021.09.06.459005

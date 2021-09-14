@@ -1,3 +1,34 @@
+# Modelling the Delta variant in primary human airway epithelial (HAE) cultures, S1 to full length Spike ratio 
+# (measuring Spike furin cleavage processivity) increased 11x relative to wild type (15.3 vs 1.4). [del ~157 truncated due to ambiguity]
+# Furthermore the RNA ratio of Delta versus Alpha-spike/Delta-backbone continuously increased from 2.8 on day 1 
+# to 9.8 on day 5 post infection in a coinfection model in HAEs, suggesting the spike gene drives the improved replication of Delta variant.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.12.456173v3
+T19R;G142D;E156G;F157del;L452R;T478K;D614G;P681R;D950N
+
+# Modelling the Alpha variant in primary human airway epithelial (HAE) cultures, S1 to full length Spike ratio 
+# (measuring Spike furin cleavage processivity) increase 3.9x relative to wild type (5.4 vs 1.4). This
+# is less efficient than Delta (11x vs wildtype using a P681R mutation instead). [del ~144 changed due to ambiguity]
+# Furthermore the RNA ratio of Delta versus Alpha-spike/Delta-backbone continuously increased from 2.8 on day 1 
+# to 9.8 on day 5 post infection in a co-infection model in HAEs, suggesting the spike gene drives the improved replication of Delta variant.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.12.456173v3
+HV69del;70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H 
+
+# This mutation alone accounts for most of the increased infectivity of the Alpha variant, as determined by modelling the infectivity
+# of each Spike mutation independently in a competitive infection model of hamsters, and Vero E6 (NHP) and Calu-3 (human) cell lines.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.08.434499v1
+N501Y
+
+# In the absence of N501Y, this Alpha lineage change in the furin clevage site did NOT show significant increase in infectivity relative to wild type, 
+# as determined by modelling the infectivity of each Spike mutation independently in a competitive infection model of hamsters.
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.08.434499v1
+P681H
+
+# In primary human airway epithelial cultures, S1 to full length Spike ratio (measuring Spike furin cleavage 
+# processivity) increase 1.9x relative to wild type (2.7 vs 1.4). 
+# This is the Delta variant with the P681R furin cleavage site mutation absent. [del ~157 truncated due to ambiguity]
+# Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.12.456173v3
+T19R;G142D;E156G;F157del;L452R;T478K;D614G;D950N
+
 # ~4.5x cleavage of S2 relative to WA1 (D614G) wildtype by Delta (B.1.617.2) variant as measured by mass spectrometry of Vero-TMPRSS culture
 # (compare to ~3.5x for closely related Kappa B.1.617.1 also with P681R at the cleavage site). 
 # Esclera et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455290v1
@@ -24,7 +55,7 @@ D80A;D215G;L242del;A243del;R246I;K417N;E484K;N501Y;D614G;A701V
 # Esclera et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455290v1
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
 
-# Quantification of the band intensities showed that the P681R mutation, which lies near the proteolytic processing site, 
+# Quantification of the band intensities showed that the P681R mutation, which lies near the proteLiuolytic processing site, 
 # caused a small increase in proteolytic processing as measured by a 2-fold decrease in the ratio of S/S2.
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
 P681R;D614G
@@ -52,7 +83,7 @@ N501Y;D614G
 # ~5x more efficient S2 domain cleavage compared to wild type, compared to 4x by D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3). 
 # [N501Y+D614G does not show an increase in cleavage, therefore a synergistic effect of the trio is implied]
 # Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
-N417N;N501Y;D614G
+K417N;N501Y;D614G
 
 # ~6x more efficient S2 domain cleavage compared to wild type, compared to 4x by D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
 # [N501Y+D614G does not show an increase in cleavage, therefore a synergistic effect of the trio is implied]
