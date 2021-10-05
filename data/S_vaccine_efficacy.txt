@@ -1,3 +1,9 @@
+# In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 2027 test-positive cases were Delta.
+# Two dose vaccine efficacy against Delta decreased from 94.1% (90.5-96.3%) 14-60 days after vaccination to 80.0% 
+# (70.2-86.6%) 151-180 days after vaccination. Waning was less pronounced for non-Delta variants. VE against Delta 
+# was lower among individuals aged ≥65 years (75.2% [59.6-84.8%]) than those aged 18-64 years (87.9% [85.5-89.9%]). 
+# VE against Delta hospitalization was 97.6% (92.8-99.2%). One-dose VE was 77.0% (60.7-86.5%) against Delta infection.
+# Bruxvoort et al. (2021) https://www.medrxiv.org/content/10.1101/2021.09.29.21264199v1
 # In Minnesota in July 2020 (when Delta variant prevalence was >70%), the effectiveness against infection for mRNA-1273 was estimated at 76% 
 # (95% CI: 58-87%) using age, sex, race, PCR testing and vaccination date matched cohorts of unvaccinated, Pfizer and Moderna vaccinees. 
 # An even more pronounced reduction in effectiveness was observed for BNT162b2 of 42% (95% CI: 13-62%). 
@@ -8,8 +14,31 @@
 # Puranik et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v1
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
+# In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 1422 test-positive were Alpha.
+# Two dose vaccine efficacy against Alpha was 98.4% [96.9-99.1%], one dose VE was 90.1% (82.9-94.2%).
+# Bruxvoort et al. (2021) https://www.medrxiv.org/content/10.1101/2021.09.29.21264199v1
 # In Minnesota in early 2021 when Alpha was prevalent, vaccine efficacy was estimated as: mRNA-1273 86% (95%CI: 81-90.6%) and BNT162b2: 76% (95%CI: 69-81%)
 # using age, sex, race, PCR testing and vaccination date matched cohorts of unvaccinated, Pfizer and Moderna vaccinees. 
 # [variant list included is ancestral Alpha, as this was an observational study no variant list was given] 
 # Puranik et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
+# In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 69 test-positive were Mu.
+# Two dose vaccine efficacy against Mu was 90.4% (73.9-96.5%), one dose VE was 45.8% (0.0-88.9%).
+# Bruxvoort et al. (2021) https://www.medrxiv.org/content/10.1101/2021.09.29.21264199v1
+T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H
+
+# In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 114 test-positive were Iota.
+# Two dose vaccine efficacy against Iota was 95.7 (81.7-99.0%), one dose VE was 88.8 (0.7-98.7)%.
+# Bruxvoort et al. (2021) https://www.medrxiv.org/content/10.1101/2021.09.29.21264199v1
+L5F;S477N;E484K;A701V
+
+# In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 349 test-positive were Gamma.
+# Two dose vaccine efficacy against Gamma was 95.5 (90.9-97.8%), one dose VE was 74.2 (43.8-88.1%).
+# Bruxvoort et al. (2021) https://www.medrxiv.org/content/10.1101/2021.09.29.21264199v1
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
+
+# In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 583 test-positive were Epsilon.
+# Two dose vaccine efficacy against Epsilon was 97.6 (90.2-99.4%), one dose VE was 76.3 (48.1-89.1%).
+# Bruxvoort et al. (2021) https://www.medrxiv.org/content/10.1101/2021.09.29.21264199v1
+S:p.L452R;S:p.D614G
