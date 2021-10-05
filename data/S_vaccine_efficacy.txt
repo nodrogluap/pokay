@@ -50,6 +50,11 @@
 # 130 were unvaccinated and 4 received a non-mRNA. Despite significantly older age in the vaccine breakthrough group, the odds of 
 # severe COVID-19 requiring oxygen supplementation was significantly lower following vaccination (adjusted odds ratio 0.07 95%CI: 0.015-0.335, p=0.001).
 # Chia et al. (2021) https://www.medrxiv.org/content/10.1101/2021.07.28.21261295v1
+# The incidence rate of Covid-19 during the Delta-dominant period (Jul-Aug 2021) was lower for late vaccinated (49.0/1000 person-years) [formerly placebo] 
+# versus early vaccinated (77.1/1000 person-years) participants in the Moderna mRNA-1273 Phase 3 trials, representing a 36.4% VE reduction (95% CI 17.1%-51.5%).
+# There were fewer severe Covid-19 cases in the late group (6; 6.2/1000 person-years) than early (13; 3.3/1000 person-years), representing a 46.0% 
+# reduction (95% CI −52.4%-83.2%). Three Covid-19 related hospitalizations occurred with two resulting deaths in the early group.
+# Baden et al. (2021) https://doi.org/10.1101/2021.09.17.21263624
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 1422 test-positive were Alpha.
