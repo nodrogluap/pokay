@@ -36,6 +36,20 @@
 # but was similar to Alpha for ChAdOx1 (67% vs. 64%). Full vaccination with BNT162b2 increased protection against Delta (87%) to levels comparable to 
 # Alpha (89%) and Beta/Gamma (84%). Delta-positive cases were biased towards young male residents of the Peel region.
 # Nasreen et al. (2021) https://www.medrxiv.org/content/10.1101/2021.06.28.21259420v2
+# Using a matched test-negative, case- control study design in Qatar, BNT162b2 effectiveness against any Delta infection, symptomatic or asymptomatic, 
+# was 64.2% (95% CI: 38.1-80.1%) ≥14 days after the first dose and before the second dose, but was only 53.5% (95% CI: 43.9-61.4%) ≥14 days after the 
+# second dose, in a population in which a large proportion of fully vaccinated persons received their second dose several months earlier. 
+# Corresponding effectiveness measures for mRNA-1273 were 79.0% (95% CI: 58.9-90.1%) and 84.8% (95% CI: 75.9-90.8%), respectively. Effectiveness against any
+# severe, critical, or fatal COVID-19 disease due to Delta was 89.7% (95% CI: 61.0-98.1%) for BNT162b2 and 100.0% (95% CI: 41.2-100.0%) for 
+# mRNA-1273, ≥14 days after the second dose.
+# The lower VE in Qatar relative to those reported in some other jurisdictions such as the UK and Canada (75%+) may reflect waning of vaccine protection for 
+# those who received their second dose by end of 2020 or early 2021. Risk perception and behaviour amongst vaccinated individuals opver time may also 
+# play a role.
+# Tang et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.11.21261885v1
+# Of 218 individuals with B.1.617.2 infection in Singapore, 84 had received a mRNA vaccine of which 71 were fully vaccinated, 
+# 130 were unvaccinated and 4 received a non-mRNA. Despite significantly older age in the vaccine breakthrough group, the odds of 
+# severe COVID-19 requiring oxygen supplementation was significantly lower following vaccination (adjusted odds ratio 0.07 95%CI: 0.015-0.335, p=0.001).
+# Chia et al. (2021) https://www.medrxiv.org/content/10.1101/2021.07.28.21261295v1
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 1422 test-positive were Alpha.
