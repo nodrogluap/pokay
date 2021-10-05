@@ -41,4 +41,15 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 583 test-positive were Epsilon.
 # Two dose vaccine efficacy against Epsilon was 97.6 (90.2-99.4%), one dose VE was 76.3 (48.1-89.1%).
 # Bruxvoort et al. (2021) https://www.medrxiv.org/content/10.1101/2021.09.29.21264199v1
-S:p.L452R;S:p.D614G
+L452R;D614G
+
+# In this Canadian test-negative study of 324033 individuals, two doses of either mRNA vaccine (BNT162b2 (Pfizer-BioNTech) or mRNA-1273 (Moderna)) 
+# was not associated with appreciable vaccine escape by lineage Alpha [defined here as N501Y positive, but E484K negative].
+# Chung et al. (2021) https://doi.org/10.1136/bmj.n1943
+N501Y
+
+# In this Canadian test-negative study of 324033 individuals, two doses of either mRNA vaccine (BNT162b2 (Pfizer-BioNTech) or mRNA-1273 (Moderna)) 
+# was not associated with appreciable vaccine escape due to E484K [given Dec 2020-Apr 2021 time frame of the study, this is assumed to entail both 
+# Beta and Gamma lineages].
+# Chung et al. (2021) https://doi.org/10.1136/bmj.n1943
+E484K
