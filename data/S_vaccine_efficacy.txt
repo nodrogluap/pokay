@@ -12,6 +12,11 @@
 # with mRNA-1273 was about 60% lower than after full vaccination with BNT162b2 (IRR: 0.39, 95% CI: 0.24-0.62). 
 # [variant list included is ancestral Delta, as this was an observational study no variant list was given] 
 # Puranik et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v1
+# Effectiveness after one dose of vaccine (BNT162b2 or ChAdOx1 nCoV-19) with the delta variant was
+# (30.7%; 95% confidence interval [CI], 25.2 to 35.7); the results were similar for both vaccines. 
+# With the BNT162b2 vaccine, the effectiveness of two doses was 88.0% (95% CI, 85.3 to 90.1) among those with the delta variant. 
+# With the ChAdOx1 nCoV-19 vaccine, the effectiveness of two doses was 67.0% (95% CI, 61.3 to 71.8) among those with the delta variant.
+# Lopez Bernal et al. (2021) http://doi.org/10.1056/NEJMoa2108891
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 1422 test-positive were Alpha.
@@ -21,6 +26,11 @@ T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 # using age, sex, race, PCR testing and vaccination date matched cohorts of unvaccinated, Pfizer and Moderna vaccinees. 
 # [variant list included is ancestral Alpha, as this was an observational study no variant list was given] 
 # Puranik et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.06.21261707v1
+# Effectiveness after one dose of vaccine (BNT162b2 or ChAdOx1 nCoV-19) with the delta variant was
+# (48.7%; 95% confidence interval [CI], 45.5 to 51.7); the results were similar for both vaccines. 
+# With the BNT162b2 vaccine, the effectiveness of two doses was 93.7% (95% CI, 91.6 to 95.3) among those with the alpha variant. 
+# With the ChAdOx1 nCoV-19 vaccine, the effectiveness of two doses was 74.5% (95% CI, 68.4 to 79.4) among those with the alpha variant.
+# Lopez Bernal et al. (2021) http://doi.org/10.1056/NEJMoa2108891
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 69 test-positive were Mu.
