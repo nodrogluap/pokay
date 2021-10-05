@@ -26,7 +26,7 @@
 # poor precision in estimates due to limited number of weeks of observation and few infections among participants. As with all observational VE 
 # studies, unmeasured and residual confounding might be present.
 # Fowlkes et al. (2021) https://doi.org/10.15585/mmwr.mm7034e4
-# 136,160 reports from 14,997 nursign care facilities were broken into pre-Delta (Mar 1-May 9, 2021), intermediate (May 10-Jun 20, 2021) 
+# 136,160 reports from 14,997 nursing care facilities were broken into pre-Delta (Mar 1-May 9, 2021), intermediate (May 10-Jun 20, 2021) 
 # and Delta (Jun 21-Aug 1, 2021).
 # Two doses of mRNA vaccines were 74.7% effective against infection among nursing home residents early in the vaccination program 
 # (March–May 2021). During June–July 2021, when B.1.617.2 (Delta) variant circulation predominated, effectiveness declined significantly to 53.1%.
