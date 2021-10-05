@@ -17,6 +17,15 @@
 # With the BNT162b2 vaccine, the effectiveness of two doses was 88.0% (95% CI, 85.3 to 90.1) among those with the delta variant. 
 # With the ChAdOx1 nCoV-19 vaccine, the effectiveness of two doses was 67.0% (95% CI, 61.3 to 71.8) among those with the delta variant.
 # Lopez Bernal et al. (2021) http://doi.org/10.1056/NEJMoa2108891
+# During December 14, 2020–August 14, 2021, frontline worker without previous documented SARS-CoV-2 infection were monitored regularly. 
+# Of 4,217 participants, 3,483 (83%) were vaccinated; 2,278 (65%) received Pfizer-BioNTech, 1,138 (33%) Moderna, and 67 (2%) Janssen 
+# (Johnson & Johnson) COVID-19 vaccines.
+# Adjusted VE during this Delta predominant period was 66% (95% CI = 26%–84%) compared with 91% (95% CI = 81%–96%) during the 
+# months preceding Delta predominance.
+# This trend should be interpreted with caution because VE might also be declining as time since vaccination increases and because of 
+# poor precision in estimates due to limited number of weeks of observation and few infections among participants. As with all observational VE 
+# studies, unmeasured and residual confounding might be present.
+# Fowlkes et al. (2021) https://doi.org/10.15585/mmwr.mm7034e4
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 1422 test-positive were Alpha.
