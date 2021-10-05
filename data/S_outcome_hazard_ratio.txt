@@ -2,12 +2,12 @@
 # 235% (95% CI 160%–331%) for ICU admission and 133% (95% CI 54%–231%) for death.
 # Fisman and Tuite (2021) https://doi.org/10.1503/cmaj.211248
 # In the UK, of 43338 COVID-19-positive patients, 8682 had the Delta variant (median age 31 years [IQR 17–43]) and 196 were admitted to hospital within 14 
-# days after the specimen was taken (adjusted hazard ratio [HR] 2·26 [95% CI 1·32–3·89] relative to Alpha cases). Being admitted to hospital or attending
-# emergency care within 14 days for Delta cases had an adjusted HR 1·45 [95% CI 1·08–1·95] relative to Alpha. Most patients were unvaccinated (32 078 [74·0%]
-# across both groups). The HRs for vaccinated patients were simi;lar: 1·94 [95% CI 0·47–8·05] for hospitalization and 1·58 [0·69–3·61]) for hospital admission or 
+# days after the specimen was taken (adjusted hazard ratio [HR] 2.26 [95% CI 1.32–3.89] relative to Alpha cases). Being admitted to hospital or attending
+# emergency care within 14 days for Delta cases had an adjusted HR 1.45 [95% CI 1.08–1.95] relative to Alpha. Most patients were unvaccinated (32 078 [74·0%]
+# across both groups). The HRs for vaccinated patients were similar: 1.94 [95% CI 0.47–8.05] for hospitalization and 1.58 [0.69–3.61]) for hospital admission or 
 # emergency care attendance.
 # Twohig et al. (2021) https://doi.org/10.1016/S1473-3099(21)00475-8
-# In Denmark, for the period Jan 1 to Jun 27, 2021, Delta variant was associated with increased an risk ratio of 2.83 [95% CI 2·02–3·98] for hospitalization.
+# In Denmark, for the period Jan 1 to Jun 27, 2021, Delta variant was associated with increased an risk ratio of 2.83 [95% CI 2.02–3.98] for hospitalization.
 # Bager et al. (2021) https://doi.org/10.1016/S1473-3099(21)00580-6
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
