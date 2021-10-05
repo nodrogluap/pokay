@@ -30,7 +30,12 @@
 # and Delta (Jun 21-Aug 1, 2021).
 # Two doses of mRNA vaccines were 74.7% effective against infection among nursing home residents early in the vaccination program 
 # (March–May 2021). During June–July 2021, when B.1.617.2 (Delta) variant circulation predominated, effectiveness declined significantly to 53.1%.
-# Nanduri et al. (2021) http://dx.doi.org/10.15585/mmwr.mm7034e3 
+# Nanduri et al. (2021) http://dx.doi.org/10.15585/mmwr.mm7034e3
+# Using a test-negative design using Ontario data between Dec 14, 2020 and May 30, 2021, 421,073 symptomatic community-dwelling individuals were tested.
+# Against Delta, vaccine effectiveness after partial vaccination tended to be lower compared to Alpha for mRNA-1273 (72% vs. 83%) and BNT162b2 (56% vs. 66%), 
+# but was similar to Alpha for ChAdOx1 (67% vs. 64%). Full vaccination with BNT162b2 increased protection against Delta (87%) to levels comparable to 
+# Alpha (89%) and Beta/Gamma (84%). Delta-positive cases were biased towards young male residents of the Peel region.
+# Nasreen et al. (2021) https://www.medrxiv.org/content/10.1101/2021.06.28.21259420v2
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 1422 test-positive were Alpha.
@@ -45,7 +50,16 @@ T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 # With the BNT162b2 vaccine, the effectiveness of two doses was 93.7% (95% CI, 91.6 to 95.3) among those with the alpha variant. 
 # With the ChAdOx1 nCoV-19 vaccine, the effectiveness of two doses was 74.5% (95% CI, 68.4 to 79.4) among those with the alpha variant.
 # Lopez Bernal et al. (2021) http://doi.org/10.1056/NEJMoa2108891
+# Using a test-negative design using Ontario data between Dec 14, 2020 and May 30, 2021, 421,073 symptomatic community-dwelling individuals were tested.
+# Against symptomatic infection caused by Alpha, vaccine effectiveness with partial vaccination (≥14 days after dose 1) was higher for mRNA-1273 (83%) than
+# BNT162b2 (66%) and ChAdOx1 (64%), and full vaccination (≥7 days after dose 2) increased vaccine effectiveness for BNT162b2 (89%) and mRNA-1273 (92%). 
+# Nasreen et al. (2021) https://www.medrxiv.org/content/10.1101/2021.06.28.21259420v2
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
+# Protection against symptomatic infection caused by Beta/Gamma (assumed by combined presence of N501Y and E484K) was also higher with partial 
+# vaccination for mRNA-1273 (77%) than BNT162b2 (60%) and ChAdOx1 (48%), and full vaccination increased effectiveness for BNT162b2 (84%).
+# Nasreen et al. (2021) https://www.medrxiv.org/content/10.1101/2021.06.28.21259420v2
+E484K;N501Y
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 69 test-positive were Mu.
 # Two dose vaccine efficacy against Mu was 90.4% (73.9-96.5%), one dose VE was 45.8% (0.0-88.9%).
