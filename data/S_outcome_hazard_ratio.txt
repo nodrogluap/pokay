@@ -1,3 +1,8 @@
+# In Ontario between Feb 7 and Jun 27, 2021, increased risk with the Delta variant was 108% (95% CI 78%–140%) for hospitalization, 
+# 235% (95% CI 160%–331%) for ICU admission and 133% (95% CI 54%–231%) for death.
+# Fisman and Tuite (2021) https://doi.org/10.1503/cmaj.211248
+T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
+
 # Compared to Alpha (B.1.1.7) variant, odds of progressing to severe disease were 1.24-fold (95% CI: 1.11-1.39) higher for Beta. 
 # Odds of progressing to critical disease were 1.49-fold (95% CI: 1.13-1.97) higher. Odds of COVID-19 death were 1.57-fold (95% CI: 1.03-2.43) higher.
 # Abu-Raddad et al. (2021) https://www.medrxiv.org/content/10.1101/2021.08.02.21261465v1
