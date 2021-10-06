@@ -1,3 +1,23 @@
+# Using ACE2-GFP+Spike-RFP fluorescence assay, this NTD+RBD mutation combination from B.1.617.3 did not affect syncytium formation.
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+E156_R158delinsG;D614G
+
+# Using ACE2-GFP+Spike-RFP fluorescence assay, this NTD+RBD mutation combination from B.1.617.3 increased syncytium formation ~2x.
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+E156_R158delinsG;L452R;D614G
+
+# Using ACE2-GFP+Spike-RFP fluorescence assay, this NTD+RBD mutation combination from B.1.617.3 did not affect syncytium formation.
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+E156_R158delinsG;E484Q;D614G
+
+# Using ACE2-GFP+Spike-RFP fluorescence assay, this NTD+RBD mutation combination from B.1.617.3 increased syncytium formation ~2.5x.
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+E156_R158delinsG;L452R;E484Q;D614G
+
+# # Using ACE2-GFP+Spike-RFP fluorescence assay, this lineage defining mutation combination from B.1.617.3 increased syncytium formation ~2.3x.
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+T19R;T95I;E156_R158delinsG;L452R;E484Q;D614G
+
 # Slight increase in Vero cell-cell membrane fusion assay under infection with VSV pseudotyped virus.
 # Kim et al. (2021) https://dx.doi.org/10.3390%2Fv13040633
 D614G

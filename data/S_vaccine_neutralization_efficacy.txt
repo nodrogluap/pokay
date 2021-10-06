@@ -1,3 +1,31 @@
+# Using a pseudovirus assay and 6 ChAdOx1 vaccinee sera, this RBD mutation conferred a 2.36x drop in neutralization (NT50).
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+L452R;D614G
+
+# Using a pseudovirus assay and 6 ChAdOx1 vaccinee sera, this NTD mutation conferred a 4.85x drop in neutralization (NT50).
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+E156_R158delinsG;D614G
+
+# Using a pseudovirus assay and 6 ChAdOx1 vaccinee sera, this NTD+RBD mutation combination from B.1.617.3 conferred a 
+# 7.42x drop in neutralization (NT50) [mostly from 3 of the sera].
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+E156_R158delinsG;L452R;D614G
+
+# Using a pseudovirus assay and 6 ChAdOx1 vaccinee sera, this NTD+RBD mutation combination from B.1.617.3 conferred a 
+# 1.34x drop in neutralization (NT50) [mostly from a single serum].
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+E156_R158delinsG;E484Q;D614G
+
+# Using a pseudovirus assay and 6 ChAdOx1 vaccinee sera, this NTD+RBD mutation combination from B.1.617.3 conferred a ~3x drop in neutralization (NT50) 
+# [working with the delins, less than just L452R but more than just E484Q].
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+E156_R158delinsG;L452R;E484Q;D614G
+
+# Using a pseudovirus assay and 6 ChAdOx1 vaccinee sera, this lineage defining mutation combination from B.1.617.3 conferred a ~11.8x drop in neutralization (NT50)
+# [suggesting role for T19R and T95I in half the sera].
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+T19R;T95I;E156_R158delinsG;L452R;E484Q;D614G
+
 # Using live B.1.621 virus and a cytopathic effect-based assay, sera from 37 Pfizer/BioNTech BNT162b2 vaccinees collected 10-20 days post-booster
 # showed significantly lower (95) but still "robust" neutralization than against ancestral B.1 virus (107).
 # Messali et al. (2021) https://doi.org/10.1002/jmv.27247

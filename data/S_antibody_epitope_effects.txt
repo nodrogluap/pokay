@@ -1,3 +1,10 @@
+# Multiple individuals in two related households were infected with a newly acquired E484K mutation within the B.1.311 lineage. 
+# The timing and patterns of subsequent spread were consistent 
+# with de novo emergence of this E484K variant in the initially affected individual who had been treated with bamlanivimab monotherapy. 
+# The subsequent transmission to close contacts occurred several days after the resolution of symptoms and the end of this patient's quarantine period.
+# Sabin et al. (2021) https://www.medrxiv.org/content/10.1101/2021.10.02.21264415v1
+E484K
+
 # Pseudotype for Day 146 virus from a chronically infected patient: resistant to neutralization by mAb C1A-B12, and 
 # was still resistant to the affinity enhanced antibodies derived from it (i.e. no affinity maturation effect on neutralization).
 # Clark et al. (2021) https://dx.doi.org/10.1016%2Fj.cell.2021.03.027
