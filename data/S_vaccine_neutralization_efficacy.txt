@@ -1,3 +1,11 @@
+# Using a pseudovirus assay and 6 ChAdOx1 vaccinee sera, this RBD mutation conferred a 2.36x drop in neutralization (NT50).
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+L452R;D614G
+
+# Using a pseudovirus assay and 6 ChAdOx1 vaccinee sera, this NTD mutation conferred a 4.85x drop in neutralization (NT50).
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+E156_R158delinsG;D614G
+
 # Using a pseudovirus assay and 6 ChAdOx1 vaccinee sera, this NTD+RBD mutation combination from B.1.617.3 conferred a 
 # 7.42x drop in neutralization (NT50) [mostly from 3 of the sera].
 # Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
