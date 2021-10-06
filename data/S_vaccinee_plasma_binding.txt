@@ -193,7 +193,7 @@ L452R;E484Q;D614G
 # [exact variant list not provided in manuscript, is inferred and 
 # represents minimal set agreed upon commonly]
 # Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
-B.1.617.1	G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
+G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
 
 # This variant combination (representing lineage B.1.617.2 aka Delta) showed a 1.64x decrease in Spike binding (relative to D614G alone) 
 # by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects.  
@@ -201,4 +201,4 @@ B.1.617.1	G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
 # [exact variant list not provided in manuscript, is inferred and 
 # represents minimal set agreed upon commonly]
 # Gong et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.04.455140v1
-B.1.617.2	T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
+T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N

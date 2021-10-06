@@ -75,7 +75,7 @@ while(my $txt_file = readdir(TXT_INDIR)){
   my @lit_references;
   my $lit_link_evidence_summary;
   while(<TXT_FILE>){
-    if(/^[A-Z]+\d+(?:[A-Z]+|del)/){
+    if(/^[A-Z]+\d+(?:[A-Z]+|del|_[A-Z]\d+)/){
       tr/ //d; # remove any errant whitespace
       chomp $_;
       # Sort the constellation key atoms so the naming is consistent even if the file encoding of the combos was not
