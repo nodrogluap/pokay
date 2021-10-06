@@ -10,13 +10,35 @@ L452R;E484Q;P681R;D614G
 Y145del;H146del;E484K;D614G
 
 # Increased infectivity of the B.1.617 spike was attributed to L452R, which itself caused a 3.5-fold increase in infectivity relative to D614G wild type. 
-# [In combination with E484Q caused a lower 3-fold increase]
+# [In combination with E484Q caused a somewhat less 3-fold increase]
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
+# The L452R mutation increased the infectivity more than two-fold in these conditions.
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
 L452R;D614G
 
 # The combination caused a 3-fold increase in infectivity relative to D614G wild type. [compare to 3.5x for L452R alone]
 # Tada et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.14.444076v1
 L452R;E484Q;D614G
+
+# Using a pseudovirus assay, RBD-specific mutation E484Q did not significantly confer infectivity advantage to the spike particles.
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+E484Q;D614G
+
+# Using a pseudovirus assay, this NTD mutation from B.1.617.3 did not confer an infectivity advantage to the spike particles.
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+T19R;D614G
+
+# Using a pseudovirus assay, this NTD mutation from B.1.617.3 did not confer an infectivity advantage to the spike particles.
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+T95I;D614G
+
+# Using a pseudovirus assay, this NTD mutation combination from B.1.617.3 did not confer an infectivity advantage to the spike particles.
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+T19R;T95I;D614G
+
+# Using a pseudovirus assay, this NTD mutation combination from B.1.617.3 conferred a nerly two-fold infectivity advantage to the spike particles.
+# Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
+E156_R158delinsG;D614G
 
 # The B.1.525 appears to have poor transmissibility when in competition with B.1.1.7 and other circulating strains in Denmark (early 2021).
 # Albertsen et al. (2021) https://www.covid19genomics.dk/2021-05-08_data-overview.html#b1525
