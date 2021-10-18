@@ -1,3 +1,8 @@
+# Three healthcare workers (29-50yo) had confirmed P.1 [Gamma] re-infection in the Amazonas region of Brazil 3-9 months after initial 
+# infection from viruses with distinct lineage from P.1, but mild symptoms upon re-infection and evidence for infectiousness during re-infection.
+# Naveca et al. (2021) https://www.researchsquare.com/article/rs-318392/v1
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;p.T1027I
+
 # 11 cases of re-infection with the "Marseille-4" variant found within 1028 positive tests, where all of the earlier infections were from different strains.
 # This lineage is also characterized by N:p.M234I;A376T
 # Fournier et al. (2021) https://doi.org/10.1016/j.ijid.2021.03.068
