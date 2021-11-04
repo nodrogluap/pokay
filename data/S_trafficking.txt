@@ -156,7 +156,7 @@ E484Q
 
 # This variant alone shows a ~5x decrease in cell entry efficiency (RLU measurement in 293T cells) compared to D614G.
 # [listed as L454R in Figure, but L452R in text, also text 
-# suggests not statistucally significant, but error bars say otherwise in Figure 4]
+# suggests not statistically significant, but error bars say otherwise in Figure 4]
 # Ferriera et al (2021) https://www.biorxiv.org/content/10.1101/2021.05.08.443253v1
 L452R
 
