@@ -1,3 +1,8 @@
+# On December 7, 2021 the estimate of Omicron effective reproduction rate (Rt) is 3.12 [presumably R0 is higher], 
+# compared to 1.12 for the dominant Delta VOC at that time. [shorthand of variant list shraed by all contemporary BA lineage used here]
+# Science Table (2021) https://web.archive.org/web/20211211220518/https://covid19-sciencetable.ca/ontario-dashboard/
+S373P;E484A
+
 # Normalized for particle number, on ACE2.293T cells
 # showed that the B.1.617 spike protein was >2-fold increase in
 # infectivity relative to D614G wild type.
