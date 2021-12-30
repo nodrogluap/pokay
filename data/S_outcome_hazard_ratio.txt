@@ -1,3 +1,9 @@
+# In Ontario, using a retrospective matched case (age, gender and onset date) study of 6,312 Omicron cases vs 8,875 Delta, 
+# the adjusted risk of hospitalization or death was 54% lower (HR=0.46, 95%CI: 0.27, 0.77) among Omicron cases, after adjusting for
+# vaccination statis and time since 2nd shot. The ratio for >60yo was 0.55 (95%CI: 0.28-1.06), and <60yo was 0.30 (95%CI: 0.16-0.57).
+# Ulloa et al. (2021) https://www.medrxiv.org/content/10.1101/2021.12.24.21268382v1.full
+H69del;K417N;E484A
+
 # In Ontario between Feb 7 and Jun 27, 2021, increased risk with the Delta variant was 108% (95% CI 78%–140%) for hospitalization, 
 # 235% (95% CI 160%–331%) for ICU admission and 133% (95% CI 54%–231%) for death.
 # Fisman and Tuite (2021) https://doi.org/10.1503/cmaj.211248
