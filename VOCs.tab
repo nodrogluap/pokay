@@ -3,38 +3,42 @@ A.27	S:p.L18F;S:p.L452R;S:p.N501Y;S:p.A653V;S:p.H655Y;S:p.D796Y;S:p.G1219V
 A.28+E484K	S:p.H69del;S:p.V70del;S:p.E484K;S:p.N501T;S:p.H655Y
 C.16	S:p.L452R;S:p.D614G
 AT.1	S:p.P9L;S:p.C136Y;S:p.N137del;S:p.D138del;S:p.P139del;S:p.F140del;S:p.L141del;S:p.G142del;S:p.V143del;S:p.Y144del;S:p.Y145del;S:p.H245P;S:p.E484K;S:p.D614G;S:p.E780K;ORF3a:p.L95M;M:p.L16I;N:p.R203K;N:p.G204R
-C.37	S:p.G75V;S:p.T76I;S:p.L452Q;S:p.F490S;S:p.D614G;S:p.T859N	S:p.R246_D253delinsN	Lambda
+C.37	S:p.G75V;S:p.T76I;S:p.L452Q;S:p.F490S;S:p.D614G;S:p.T859N	S:p.R246_D253delinsN	Lambda	MW850639
 B.1.1.318	S:p.T95I;S:p.Y144del;S:p.E484K;S:p.D614G;S:p.P681H;S:p.D796H
 # CDC & WHO VOCs/VUIs below
 # This is not a full list of mutations for B.1.1.7, notably the ORF8 variants after the new stop are excluded as probably non-functional
-B.1.1.7	nsp6:p.S106del;nsp6:p.G107del;nsp6:p.F108del;S:p.H69del;S:p.V70del;S:p.Y144del;S:p.N501Y;S:p.A570D;S:p.D614G;S:p.P681H;S:p.T716I;S:p.S982A;S:p.D1118H;ORF8:p.Q27*;N:p.D3L;N:235F	S:p.S494P;S:p.K1191N	Alpha
+B.1.1.7	nsp6:p.S106del;nsp6:p.G107del;nsp6:p.F108del;S:p.H69del;S:p.V70del;S:p.Y144del;S:p.N501Y;S:p.A570D;S:p.D614G;S:p.P681H;S:p.T716I;S:p.S982A;S:p.D1118H;ORF8:p.Q27*;N:p.D3L;N:235F	S:p.S494P;S:p.K1191N	Alpha	MW633953
 B.1.1.7+E484K	nsp6:p.S106del;nsp6:p.G107del;nsp6:p.F108del;S:p.H69del;S:p.V70del;S:p.Y144del;S:p.E484K;S:p.N501Y;S:p.A570D;S:p.D614G;S:p.P681H;S:p.T716I;S:p.S982A;S:p.D1118H;ORF8:p.Q27*;N:p.D3L;N:235F	S:p.S494P;S:p.K1191N
 # B.1.1.519 via https://www.medrxiv.org/content/10.1101/2021.05.18.21255620v1
 B.1.1.519	PLpro:p.P141S;nsp4:p.T492I;nsp6:p.I49V;RdRp:p.P323L;S:p.T478K;S:p.D614G;S:p.P681H;S:p.T732A;N:p.R203K;N:p.G204R
-P.1	S:p.L18F;S:p.T20N;S:p.P26S;S:p.D138Y;S:p.R190S;S:p.K417T;S:p.E484K;S:p.N501Y;S:p.D614G;S:p.H655Y;S:p.T1027I		Gamma
+P.1	S:p.L18F;S:p.T20N;S:p.P26S;S:p.D138Y;S:p.R190S;S:p.K417T;S:p.E484K;S:p.N501Y;S:p.D614G;S:p.H655Y;S:p.T1027I		Gamma	MW642250
 # Depending on how the alignment is done, the exact change due to the three base deletion can be 241-243 or 242-244, so we are including only the one that always pops up
-B.1.351	S:p.D80A;S:p.D215G;S:p.L242del;S:p.A243del;S:p.L244del;S:p.R246I;S:p.K417N;S:p.E484K;S:p.N501Y;S:p.D614G;S:p.A701V		Beta
+B.1.351	S:p.D80A;S:p.D215G;S:p.L242del;S:p.A243del;S:p.L244del;S:p.R246I;S:p.K417N;S:p.E484K;S:p.N501Y;S:p.D614G;S:p.A701V		Beta	MW598413
 B.1.427	S:p.L452R;S:p.D614G		Epsilon
-B.1.429	S:p.S13I;S:p.W152C;S:p.L452R;S:p.D614G		Epsilon
-B.1.525	S:p.A67V;S:p.H69del;S:p.V70del;S:p.Y144del;S:p.E484K;S:p.D614G;S:p.Q677H;S:p.F888L		Eta
-B.1.526	S:p.T95I;S:p.D253G;S:p.D614G	S:p.L5F;S:p.S477N;S:p.E484K;S:p.A701V	Iota
+B.1.429	S:p.S13I;S:p.W152C;S:p.L452R;S:p.D614G		Epsilon	MW643426
+B.1.525	S:p.A67V;S:p.H69del;S:p.V70del;S:p.Y144del;S:p.E484K;S:p.D614G;S:p.Q677H;S:p.F888L		Eta	MW560924
+B.1.526	S:p.T95I;S:p.D253G;S:p.D614G	S:p.L5F;S:p.S477N;S:p.E484K;S:p.A701V	Iota	MW643362
 B.1.526.1	S:p.D80G;S:p.Y144del;S:p.F157S;S:p.L452R;S:p.D614G;S:p.D950H	S:p.T791I;S:p.T859N
-P.2	S:p.E484K;S:p.D614G;S:p.V1176F	S:p.F565L	Zeta
-P.3	S:p.L141del;S:p.G142del;S:p.V143del;S:p.E484K;S:p.501Y;S:p.D614G;S:p.P681H;S:p.E1092K;S:p.H1101Y;S:p.V1176F;ORF8:p.K2Q;N:p.R203K;N:p.G204R		Theta
+P.2	S:p.E484K;S:p.D614G;S:p.V1176F	S:p.F565L	Zeta	MW523796
+P.3	S:p.L141del;S:p.G142del;S:p.V143del;S:p.E484K;S:p.501Y;S:p.D614G;S:p.P681H;S:p.E1092K;S:p.H1101Y;S:p.V1176F;ORF8:p.K2Q;N:p.R203K;N:p.G204R		Theta	MW896444
 B.1.616	ORF3:p.Q57H;ORF7a:p.*122R;S:p.H66D;S:p.G142V;S:p.Y144del;S:p.D215G;S:p.V483A;S:p.D614G;S:p.H655Y;S:p.G669S;S:p.Q949R;S:p.N1187D;E:p.F20L;E:p.T30I;M:p.H125Y;N:p.T325I
 B.1.617	S:p.L452R;S:p.E484Q;S:p.D614G	
-B.1.617.1	S:p.G142D;S:p.E154K;S:p.L452R;S:p.E484Q;S:p.D614G;S:p.P681R;S:p.Q1071H	S:p.T95I;S:p.H1101D	Kappa
-B.1.617.2	S:p.T19R;S:p.E156del;S:p.F157del;S:p.R158G;S:p.L452R;S:p.T478K;S:p.D614G;S:p.P681R;S:p.D950N	S:p.G142D	Delta
+B.1.617.1	S:p.G142D;S:p.E154K;S:p.L452R;S:p.E484Q;S:p.D614G;S:p.P681R;S:p.Q1071H	S:p.T95I;S:p.H1101D	Kappa	MW966601
+B.1.617.2	S:p.T19R;S:p.E156del;S:p.F157del;S:p.R158G;S:p.L452R;S:p.T478K;S:p.D614G;S:p.P681R;S:p.D950N	S:p.G142D	Delta	MZ009823
 B.1.617.3	S:p.T19R;S:p.G142D;S:p.L452R;S:p.E484Q;S:p.D614G;S:p.P681R;S:p.D950N	S:p.E156_R158delinsG
 B.1.620	S:p.P26S;S:p.H69del;S:p.V70del;S:p.V126A;S:p.Y144del;S:p.L242del;S:p.H245Y;S:p.S477N;S:p.E484K;S:p.D614G;S:p.P681H;S:p.T1027I;S:p.D1118H;ORF9b:p.I5T;N:p.A220V
 # Not an official VOI/VOC yet, but preliminary data from Moderna shows immune escape greater than or equal to Beta (B.1.351). Ref desc is https://www.medrxiv.org/content/10.1101/2021.03.30.21254323v1
 A.VOI.V2	nsp2:E272G;nsp2:A360V;PLpro:P395L;PLpro:D821E;PLpro:T1465I;PLpro:N1552K;nsp6:M86I;nsp6:A268V;RdRp:T739I;Hel:V256F;Hel:F499L;ExoN:V290F;EndoU:V139F;S:p.D80Y;S:Y144del;S:I210del;S:D215G;S:S247del;S:Y248del;S:W258L;S:R346K;S:T478R;S:E484K;S:H655Y;S:P681H;S:Q957H;M:I82T;ORF8:L84S;ORF8:E92K;N:M234I
 # New VUI by PHE UK as of August reporting, ORF3a mutation combination is actually a frameshift, needs annotation reworking
 # Updated to WHO VOI designated "Mu"
-B.1.621	PLpro:p.T237A;PLpro:p.T720I;nsp6:p.Q160R;RdRp:p.P323L;Hel:p.P419S;ORF3a:p.Q57H;ORF3a:N257del;ORF8:p.T11K;ORF8:p.P38S;ORF8:p.S67F;S:p.T95I;S:p.Y144delinsTSN;S:p.R346K;S:p.E484K;S:p.N501Y;S:D614G;S:p.P681H;N:p.T205I	S:p.K417N;S:p.D950N	Mu
+B.1.621	PLpro:p.T237A;PLpro:p.T720I;nsp6:p.Q160R;RdRp:p.P323L;Hel:p.P419S;ORF3a:p.Q57H;ORF3a:N257del;ORF8:p.T11K;ORF8:p.P38S;ORF8:p.S67F;S:p.T95I;S:p.Y144delinsTSN;S:p.R346K;S:p.E484K;S:p.N501Y;S:D614G;S:p.P681H;N:p.T205I	S:p.K417N;S:p.D950N	Mu	OK005482
 AY.3	nsp6:p.T77A;nsp6:p.I162V;S:p.T19R;S:p.E156G;S:p.E156del;S:p.F157del;S:p.L452R;S:p.T478K;S:p.D614G;S:p.P681R;S:p.D950N;ORF3a:p.S26L;M:p.I82T;ORF7a:p.V80A;ORF7b:p.T40I;ORF8:p.D119I;ORF8:p.F120del;ORF8:p.I121del;N:p.D63G;N:p.R203M;N:p.G215C;N:p.D377Y
 C.1.2	nsp1:p.E102K;PLpro:p.T427I;PLpro:p.T818I;nsp4:p.L438P;3CL:p.G15S;nsp6:S106del;nsp6:G107del;nsp6:p.F108del;RdRp:p.P323L;S:p.P9L;S:p.P25L;S:p.C136F;S:p.Y144del;S:p.R190S;S:p.D215G,S:p.A243del;S:p.L244del;S:p.Y449H;S:p.E484K;S:p.N501Y;S:p.D614G;S:p.H655Y;S:p.N679K;S:p.T716I;S:p.T859N;orf3a:p.V255del;M:p.I82T;N:p.P13L;N:p.R203K;N:p.G204R;N:p.Q384H
 # AY.4.2 appears to have a transmission advantage over Delta based on early UK data see https://github.com/cov-lineages/pango-designation/issues/223
 AY.4.2	S:p.T19R;S:p.Y145H;S:p.E156del;S:p.F157del;S:p.R158G;S:p.A222V;S:p.L452R;S:p.T478K;S:p.D614G;S:p.P681R;S:p.D950N
 # High branch length clade, possibly originating in Congo.
-B.1.640 S:p.P9L;S:p.E96Q;S:p.C136del;S:p.N137del;S:p.D138del;S:p.P139del;D:p.F140del;S:p.L141del;S:p.G142del;S:p.V143del;S:p.Y144del;S:p.R190S;S:p.I210T;S:p.R346S;S:p.N394S;S:p.Y449N;S:p.F490R;S:p.N501Y;S:p.D614G;S:p.P681H;S:p.T859N;S:p.D936H;nsp2:p.P129L;nsp2:p.E272G;PLpro:p.L1301F;PLpro:p.A1537A;nsp4:p.S386F;nsp4:p.R401H;nsp4:p.T492I;nsp6:p.V149A;RdRp:p.P323L;ORF3a:p.T32I;ORF3a:p.Q57H;M:p.I82T;ORF8:p.Q27*;N:p.D22Y;N:p.T205I;N:p.E378Q
+B.1.640	S:p.P9L;S:p.E96Q;S:p.C136del;S:p.N137del;S:p.D138del;S:p.P139del;D:p.F140del;S:p.L141del;S:p.G142del;S:p.V143del;S:p.Y144del;S:p.R190S;S:p.I210T;S:p.R346S;S:p.N394S;S:p.Y449N;S:p.F490R;S:p.N501Y;S:p.D614G;S:p.P681H;S:p.T859N;S:p.D936H;nsp2:p.P129L;nsp2:p.E272G;PLpro:p.L1301F;PLpro:p.A1537A;nsp4:p.S386F;nsp4:p.R401H;nsp4:p.T492I;nsp6:p.V149A;RdRp:p.P323L;ORF3a:p.T32I;ORF3a:p.Q57H;M:p.I82T;ORF8:p.Q27*;N:p.D22Y;N:p.T205I;N:p.E378Q
+# New South African lineages with very high divergence
+BA.1	S:p.A67V;S:p.H69del;S:p.V70del;S:p.T95I;S:p.G142D;S:p.V143_Y145del;S:p.N211_R214delinsIVREPE;S:p.G339D;S:p.S371L;S:p.S373P;S:p.S375F;S:p.K417N;S:p.N440K;S:p.G446S;S:p.S477N;S:p.T478K;S:p.E484A;S:p.Q493K;S:p.G496S;S:p.Q498R;S:p.N501Y;S:p.Y505H;S:p.T547K;S:p.D614G;S:p.H655Y;S:p.N679K;S:p.P681H;S:p.N764K;S:p.D796Y;S:p.N856K;S:p.Q954H;S:p.N969K;S:p.L981F;PLpro:p.K38R;PLpro:p.S1265_L1266delinsI;PLpro:p.A1892T;nsp4:p.T492I;3CL:p.P132H;nsp6:p.L105_G107del;nsp6:p.I189V;RdRp:p.P323L;ExoN:p.I42V;E:p.T9I;M:p.D3G;M:p.Q19E;M:p.A63T;N:p.P13L;N:p.E31_S33del;N:p.R203K;N:p.G204R		Omicron	OL672836
+BA.2	S:T19I;S:L24_A27delinsS;S:p.G142D;S:p.V213G;S:p.G339D;S:p.S371F;S:p.S373P;S:p.S375F;S:p.T376A;S:p.D405N;S:p.R408S;S:p.K417N;S:p.N440K;S:p.S477N;S:p.T478K;S:p.E484A;S:p.Q493K;S:p.Q498R;S:p.N501Y;S:p.Y505H;S:p.D614G;S:p.H655Y;S:p.N679K;S:p.P681H;S:p.N764K;S:p.D796Y;S:p.Q954H;S:p.N969K;nsp1:p.S135R;PLpro:p.T24I;PLpro:p.G489S;nsp4:p.L264F;nsp4:p.T327I;nsp4:p.L264F;nsp4:p.T492I;3CL:p.P132H;nsp6:p.L105_G107del;RdRp:p.P323L;Hel:p.R392C;ExoN:p.I42V;EndoU:p.T112I;ORF3a:p.T223I;E:p.T9I;M:p.Q19E;M:p.A63T;ORF6:p.D61L;N:p.P13L;N:p.E31_S33del;N:p.R203K;N:p.G204R;N:p.S413R		Omicron	OM371884
+BA.3	S:p.A67V;S:p.H69del;S:p.V70del;S:p.T95I;S:p.G142D;S:p.N211del;S:p.L212I;S:p.S371F;S:p.S373P;S:p.S375F;S:p.D405N;S:p.K417N;S:p.N440K;S:p.S477N;S:p.T478K;S:p.E484A;S:p.Q493K;S:p.Q498R;S:p.N501Y;S:p.Y505H;S:p.D614G;S:p.H655Y;S:p.N679K;S:p.P681H;S:p.N764K;S:p.D796Y;S:p.Q954H;S:p.N969K;nsp1:p.S135R;PLpro:p.G489S;nsp4:p.T327I;nsp4:p.T492I;3CL:p.P132H;nsp6:p.L105_G107del;RdRp:p.P323L;ExoN:p.I42V;ORF3a:p.T223I;E:p.T9I;M:p.Q19E;M:p.A63T;N:p.P13L;N:p.E31_S33del;N:p.R203K;N:p.G204R;N:p.S413R		Omicron	OV494217
