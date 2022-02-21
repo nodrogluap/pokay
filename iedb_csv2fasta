@@ -9,26 +9,35 @@ use warnings;
 # "6668","Linear peptide","CMTSCCSCLK","","","1236","1245","","","surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]","YP_009724390.1","sp|P59594|SPIKE_CVHSA Spike glycoprotein OS=Human SARS coronavirus OX=694009 GN=S PE=1 SV=1","P59594","Severe acute respiratory syndrome coronavirus 2","Severe acute respiratory syndrome-related coronavirus","694009","The epitope region is deduced from a reactive overlapping peptide pool.","","","","","","","","","","",""
 # "997006","Discontinuous peptide","Y369, N370, S371, A372, F374, F377, K378, C379, Y380, G381, V382, S383, P384, T385, K386, L390, F429, T430, F515, E516, L517","","","","","","","surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]","QHD43416.1","sp|P59594|SPIKE_CVHSA Spike glycoprotein OS=Human SARS coronavirus OX=694009 GN=S PE=1 SV=1","P59594","Severe acute respiratory syndrome coronavirus 2","Severe acute respiratory syndrome-related coronavirus","694009","The epitope residues were calculated from [PDB: 6W41] as the antigen residues at 4&Aring; atomic distance from the antibody.","","","","","","","","","","",""
 
-@ARGV == 2 or die "Usage: $0 <IEDB epitope search result download input.csv> <epitope output.fasta>\n";
+@ARGV == 3 or die "Usage: $0 <IEDB epitope search result download input.csv> <linear epitope output.fasta> <discontinuous epitope output.fasta>\n";
 
 my $csv = shift @ARGV; 
-my $fasta = shift @ARGV; 
+my $linear_fasta = shift @ARGV; 
+my $discontinuous_fasta = shift @ARGV; 
 
 open(CSV, $csv)
 	or die "Cannot open $csv for reading: $!\n";
 <CSV>;
 <CSV>; # two header lines
-open(FASTA, ">$fasta")
-	or die "Cannot open $fasta for writing: $!\n";
+open(LINEAR_FASTA, ">$linear_fasta")
+	or die "Cannot open $linear_fasta for writing: $!\n";
+open(DISCONTINUOUS_FASTA, ">$discontinuous_fasta")
+	or die "Cannot open $discontinuous_fasta for writing: $!\n";
 while(<CSV>){
 	s/^"|"$//g;
 	my @F = split /","/, $_;
 	if($F[1] eq "Linear peptide"){
-		print FASTA ">$F[0]\n$F[2]\n";
+		# IEDB epitopes can have modifications, let's remove them (e.g. TEIYQAGSTPCNG + DEAM(N12) should just be TEIYQAGSTPCNG for our purposes)
+		$F[2] =~ s/\s*\+\s*\S+\(.*?\)//g;
+		print LINEAR_FASTA ">$F[0]\n$F[2]\n";
 	}
 	elsif($F[1] eq "Discontinuous peptide"){
 		my @epitope_residues = split /,/, $F[2];
 		next unless $#epitope_residues;
+
+		# Occasionally the residues are not in positional order, but we need them to be for the math below
+		@epitope_residues = sort {my($an) = $a =~ /(\d+)/; my($bn) = $b =~ /(\d+)/; $an <=> $bn} @epitope_residues;
+
 		my $first_pos = $epitope_residues[0];
 		my $last_pos = $epitope_residues[$#epitope_residues];
 		if($first_pos =~ s/^\s*[A-Z]// and $last_pos =~ s/^\s*[A-Z]//){
@@ -43,7 +52,7 @@ while(<CSV>){
 			# Only keep the epitopes that have enough contiguous non-X AA residues to stand a fighting chance of alignment in TBLASTN downstream.
 			my $epitope = join("", @epitope);
 			next unless $epitope =~ /[^X]{2}/;
-			print FASTA ">$F[0]\n$epitope\n";
+			print DISCONTINUOUS_FASTA ">$F[0]\n$epitope\n";
 		}
 		else{
 			die "Cannot parse residue information, expected [A-Z]\\d+ but found $first_pos and $last_pos ($csv line #$.)\n";
@@ -52,4 +61,5 @@ while(<CSV>){
 	# else: Ignore non-peptide antigens
 }
 close(CSV);
-close(FASTA);
+close(LINEAR_FASTA);
+close(DISCONTINUOUS_FASTA);
