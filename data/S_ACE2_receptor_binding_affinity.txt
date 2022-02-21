@@ -515,6 +515,14 @@ N460K
 # Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
 E484K;Q498R;N501Y
 
+# Y501 makes a pi interaction with Y41 and places R498 to make a hydrogen bond and salt bridge to Q42 and D38 of ACE2, 
+# forming a strong network of new interactions supporting the impact of these residues on affinity. Q498R alone appears 
+# to decrease ACE2 binding. The synergism of Q498R with N501Y (and E484K) increases ACE2 binding by ~50- fold relative 
+# to WT. The extent of affinity increase with Q498R and N501Y is not exactly quantified, as E484K always emerged with 
+# this duo during in vitro evolution.
+# Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
+Q498R;N501Y
+
 #Experimentally, ACE2 binding affinity increased 0.09 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 S477D
