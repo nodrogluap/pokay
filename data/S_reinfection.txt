@@ -1,3 +1,11 @@
+# Population-level evidence suggests that the Omicron variant is associated with substantial ability to evade 
+# immunity from prior infection, evidenced by a reinfection hazard ratio of 2.39 (CI95: 1.88-3.11) relative to primary infection
+# in the initial part of South Africa's 4th covid-19 wave (November 2021). 
+# In contrast, there is no population-wide epidemiological evidence of immune escape associated with the Beta or Delta variants.
+# [minimal variant signature for Omicron (B.1.1.529) used based on H69del PCR dropout observed in November 2021 coincident with the rise of Omicron]
+# Pulliam et al. (2021) https://www.medrxiv.org/content/10.1101/2021.11.11.21266068v2
+H69del;E484A
+
 # Three healthcare workers (29-50yo) had confirmed P.1 [Gamma] re-infection in the Amazonas region of Brazil 3-9 months after initial 
 # infection from viruses with distinct lineage from P.1, but mild symptoms upon re-infection and evidence for infectiousness during re-infection.
 # Naveca et al. (2021) https://www.researchsquare.com/article/rs-318392/v1
