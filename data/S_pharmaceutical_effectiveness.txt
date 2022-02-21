@@ -1,3 +1,45 @@
+# Omicron (a.k.a. B.1.1.529) Spike pseudotyped VSV and Vero E6 cells has somewhat 
+# reduced neutralization (2.7x) vs wild type with monoclonal antibody Sotrovimab (a.k.a. VIR-7831). 
+# [delins at 214 omitted for syntax compatibility]
+# Cathcart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.09.434607v9
+A67V;H69del;V70del;T95I;G142D;V143del;Y144del;Y145del;G142D;G339D;S375F;K417N;N440K;S477N;T478K;E484A;Q493R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F
+
+# This individual mutation, which has emerged in some Omicron sequences, has a 0.7x reduction in 
+# neutralization activity with Sotrovimab in a VSV model on Vero E6 cells. 
+# [Omicron sequences with R346K may very well have a non-additive neutralization rather than 2.7x+0.7x = 3.4x]
+# Cathcart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.09.434607v9
+R346K
+
+# This individual mutation found in the epitope from Sotrovimab causes a 1.5x reduction in
+# neutralization efficacy using a VSV model on Vero E6 cells.
+# Cathcart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.09.434607v9
+G446V
+
+# This individual mutation found in the epitope from Sotrovimab causes a 1.2x reduction in
+# neutralization efficacy using a VSV model on Vero E6 cells.
+# Cathcart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.09.434607v9
+G339D
+
+# This individual mutation found in the epitope from Sotrovimab causes a 0.7x reduction in
+# neutralization efficacy using a VSV model on Vero E6 cells.
+# Cathcart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.09.434607v9
+N440K
+
+# This individual mutation found in the epitope from Sotrovimab causes a 2.0x reduction in
+# neutralization efficacy using a VSV model on Vero E6 cells.
+# Cathcart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.09.434607v9
+S477N
+
+# This individual mutation found in the epitope from Sotrovimab causes a 1.0x reduction in
+# neutralization efficacy using a VSV model on Vero E6 cells.
+# Cathcart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.09.434607v9
+D614G
+
+# This individual mutation found in the epitope from Sotrovimab causes a 0.9x reduction in
+# neutralization efficacy using a VSV model on Vero E6 cells.
+# Cathcart et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.09.434607v9
+P681H
+
 # Greater than 10-fold rediuction of binding effeiency vs wild type for mAb LY-CoV555.
 # Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
 F490S
