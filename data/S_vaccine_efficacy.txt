@@ -1,3 +1,10 @@
+# In sera from 17 sero-positive blood donors, and 18 months post-infection (May 2020) sera from 17 health 
+# care workers in Sweden, a 40x drop in neutralzation by Omicron (B.1.1.529) pseudotyped lentivirus 
+# was observed in HEK293T cells using the First WHO International Standard (20/136). Median IC50 reduction
+# was ~6x for the blood donors, and ~4.5x for the health care workers.
+# Sheward et al. (2021) https://drive.google.com/file/d/1CuxmNYj5cpIuxWXhjjVmuDqntxXwlfXQ/view
+E484A;N501Y
+
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 2027 test-positive cases were Delta.
 # Two dose vaccine efficacy against Delta decreased from 94.1% (90.5-96.3%) 14-60 days after vaccination to 80.0% 
 # (70.2-86.6%) 151-180 days after vaccination. Waning was less pronounced for non-Delta variants. VE against Delta 
