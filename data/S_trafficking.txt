@@ -1,3 +1,12 @@
+# According to the SignalP software, this mutation changes the predicted signal peptide for Spike from a suboptimal at S12 (as indicated by UniProt) or C15, to an optimal one at C15 only.
+# An optimal signal peptide may change the efficiency with which newly synthesized Spike migrates from ER-budded double-membrane vesicles (DMV) into the cytoplasm for trimer assembly.
+# Gordon (2021) unpublished
+D9L
+
+# This mutation extends the fusion peptide 2 domain by 6 amino acids by substituting in a hydrophobic lysine. This may affect cell entry efficiency as the primary route of entry is cell membrane fusion.
+# Gordon (2021) unpublished
+N856K
+
 # Modelling the Delta variant in primary human airway epithelial (HAE) cultures, S1 to full length Spike ratio 
 # (measuring Spike furin cleavage processivity) increased 11x relative to wild type (15.3 vs 1.4). [del ~157 truncated due to ambiguity]
 # Furthermore the RNA ratio of Delta versus Alpha-spike/Delta-backbone continuously increased from 2.8 on day 1 
