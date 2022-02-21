@@ -5,13 +5,18 @@
 use strict;
 use warnings;
 use File::Copy;
+use Time::Piece;
 
-@ARGV == 4 or die "Usage: $0 <constellations of interest.tab> <input dir with txt files> <output html dir> <output.json>\n";
+my $max_histogram_x = 9;
+
+@ARGV == 4 or @ARGV == 6 or die "Usage: $0 <constellations of interest.tab> <input dir with txt files> <output html dir> <output.json> [b_epitopes.fasta t_epitopes.fasta]\n";
 
 my $vocs_tab_file = shift @ARGV;
 my $text_indir = shift @ARGV;
 my $html_outdir = shift @ARGV;
 my $json_outfile = shift @ARGV;
+my $b_cell_epitope_fasta = @ARGV ? shift @ARGV : undef;
+my $t_cell_epitope_fasta = @ARGV ? shift @ARGV : undef;
 
 if(-e $html_outdir){
   die "Specified HTML output directory '$html_outdir' exists, but is not a directory\n" if not -d $html_outdir;
@@ -28,14 +33,15 @@ open(JSON_OUT, ">$json_outfile")
 my %lineage_mutations;
 my %lineage_optional_mutations;
 my %lineage_nickname;
+my %lineage2epi_id;
 open(TAB_FILE, $vocs_tab_file)
   or die "Cannot open $vocs_tab_file for reading: $!\n";
 while(<TAB_FILE>){
 	next if /^\s*#/; # comment lines
 	chomp;
 	my @fields = split /\t/, $_;
-	if(@fields > 4){
-		warn "Skipping line $. of $vocs_tab_file because it has more tab delimited fields (", scalar(@fields), ") than expected (2 or 3)\n";
+	if(@fields > 5){
+		warn "Skipping line $. of $vocs_tab_file because it has more tab delimited fields (", scalar(@fields), ") than expected [2,5]\n";
 		next;
 	}
 	my $lineage_name = $fields[0];
@@ -51,9 +57,13 @@ while(<TAB_FILE>){
                 $lineage_optional_mutations{$lineage_name}->{$gene} //= [];
                 push @{$lineage_optional_mutations{$lineage_name}->{$gene}}, $mutation;
         }
-	# Last column is nick names for the lineage, like Alpha
-	if($#fields == 3){
+	# This column is nick names for the lineage, like Alpha
+	if($#fields >= 3){
 		$lineage_nickname{$lineage_name} = $fields[3];
+	}
+	# This column is a GISAID genome representative of the lineage for epitope mismatch calculation purposes (a corresponding FastA file for it must exist in the data dir for that to work)
+	if($#fields == 4){
+		$lineage2epi_id{$lineage_name} = $fields[4];
 	}
 
 }
@@ -70,7 +80,7 @@ while(my $txt_file = readdir(TXT_INDIR)){
   my $qualified_txt_file = "$text_indir/$txt_file";
   open(TXT_FILE, $qualified_txt_file)
     or die "Cannot open $qualified_txt_file for reading: $!\n";
-  print "Processing $qualified_txt_file\n";
+  #print "Processing $qualified_txt_file\n";
 
   my @lit_references;
   my $lit_link_evidence_summary;
@@ -91,7 +101,7 @@ while(my $txt_file = readdir(TXT_INDIR)){
     elsif(/^\s*#\s*(.*)/){
       $_ = $1;
       # Lit link
-      if(m(^(.+?)\s+(https?://\S+))){
+      if(m(^(.+?)\s+(https?://\S+|unpublished))){
         my ($authors, $link) = ($1, $2);
         push @lit_references, [$lit_link_evidence_summary, $authors, $link];
         $lit_link_evidence_summary = "";
@@ -291,7 +301,7 @@ END
 my @lineage_names_html;
 for my $lineage_name (sort keys %lineage_mutations){
 	push @lineage_names_html, "<a href=\"lineage-$lineage_name.html\">$lineage_name". 
-             (exists $lineage_nickname{$lineage_name} ? " (".$lineage_nickname{$lineage_name}.")" : ""). 
+             (exists $lineage_nickname{$lineage_name} ? " (".$lineage_nickname{$lineage_name}.(exists $lineage2epi_id{$lineage_name}?"*":"").")" : ""). 
              "</a>";
 }
 print FRONT_HTML join(" &mdash;\n", @lineage_names_html);
@@ -434,10 +444,77 @@ This site is maintained by Paul Gordon &lt;gordonp\@ucalgary.ca&gt;. Added refer
 END
 close(FRONT_HTML);
 
+
 # Write all the lineage-specific pages
 for my $lineage_name (keys %lineage_mutations){
 	my $lineage_short_name = $lineage_name;
-	$lineage_short_name =~ s/\+.*//; # get rid of B.1+E484K addditional variant info that cov-lineages.org won;t handle
+	$lineage_short_name =~ s/\+.*//; # get rid of B.1+E484K addditional variant info that cov-lineages.org won't handle
+
+	# Calculate the mismatch data to graph for each lineage if a sequence was provided
+	my $generate_histograms = 0;
+	my $epi_id = $lineage2epi_id{$lineage_name};
+	my %b_mismatch_count;
+	my $b_query_total = 0;
+	my $epi_fasta_file = defined $epi_id ? "$text_indir/$epi_id.fasta" : undef;
+	my $epi_date;
+	my $iedb_date;
+	if(defined $epi_id and defined $b_cell_epitope_fasta){
+		if(not -e $epi_fasta_file){
+			warn "Skipping epitope mismatch histograms generation for lineage $lineage_name, specified sequence ID $epi_id (in $vocs_tab_file) does not have a corresponding $epi_fasta_file\n";
+		}
+		elsif(not -e "$text_indir/$lineage_name.acknowledgements.pdf"){
+			warn "Skipping epitope mismatch histograms generation for lineage $lineage_name, FastA file $epi_fasta_file exists, but no sequence acknowledgment PDF exists (expected at $text_indir/$lineage_name.acknowledgements.pdf)\n";
+		}
+		else{
+ 			my $time = localtime() - (-M $epi_fasta_file)*60*60*24;
+			$epi_date = $time->date;
+			$time = localtime() - (-M $b_cell_epitope_fasta)*60*60*24;
+			$iedb_date = $time->date;
+			system("./pokay $epi_fasta_file /dev/null $b_cell_epitope_fasta $html_outdir/$lineage_name.b.html $html_outdir/$lineage_name.b.histogram.txt") >> 8 
+			  and die "Running Pokay epitope mismatch alignments for $epi_fasta_file exited abnormally: exit code was ".($? >> 8)."\n";
+			open(HIST, "$html_outdir/$lineage_name.b.histogram.txt")
+			  or die "Cannot open expected Pokay epitope search results file $html_outdir/$lineage_name.b.histogram.txt: $!\n";
+			my $hist_header = <HIST>;
+			($b_query_total) = $hist_header =~ /(\d+)/;
+			while(<HIST>){
+				chomp;
+				my @F = split /\t/, $_;
+				$b_mismatch_count{$F[0]} = 100*$F[1];
+			}
+			close(HIST);
+			system("cp $text_indir/$lineage_name.acknowledgements.pdf $html_outdir");
+		}
+	}
+	my %t_mismatch_count;
+	my $t_query_total = 0;
+        if(defined $epi_id and defined $t_cell_epitope_fasta){
+                if(not -e $epi_fasta_file){
+                        warn "Skipping epitope mismatch histograms generation for lineage $lineage_name, specified sequence ID $epi_id (in $vocs_tab_file) does not have a corresponding $epi_fasta_file\n";
+                }
+		elsif(not -e "$text_indir/$lineage_name.acknowledgements.pdf"){
+			warn "Skipping epitope mismatch histograms generation for lineage $lineage_name, FastA file $epi_fasta_file exists, but no sequence acknowledgment PDF exists (expected at $text_indir/$lineage_name.acknowledgements.pdf)\n";
+		}
+                else{   
+ 			my $time = localtime() - (-M $epi_fasta_file)*60*60*24;
+			$epi_date = $time->date;
+			$time = localtime() - (-M $t_cell_epitope_fasta)*60*60*24;
+			$iedb_date = $time->date;
+                        system("./pokay $epi_fasta_file /dev/null $t_cell_epitope_fasta $html_outdir/$lineage_name.t.html $html_outdir/$lineage_name.t.histogram.txt") >> 8  
+                          and die "Running Pokay epitope mismatch alignments for $epi_fasta_file exited abnormally: exit code was ".($? >> 8)."\n";
+			open(HIST, "$html_outdir/$lineage_name.t.histogram.txt")
+			  or die "Cannot open expected Pokay epitope search results file $html_outdir/$lineage_name.t.histogram.txt: $!\n";
+			my $hist_header = <HIST>;
+			($t_query_total) = $hist_header =~ /(\d+)/;
+			while(<HIST>){
+				chomp;
+				my @F = split /\t/, $_;
+				$t_mismatch_count{$F[0]} = 100*$F[1];
+			}
+			close(HIST);
+			system("cp $text_indir/$lineage_name.acknowledgements.pdf $html_outdir");
+                }
+        }
+
 	open(LINEAGE_HTML, ">$html_outdir/lineage-$lineage_name.html")
 		or die "Cannot open $html_outdir/lineage-$lineage_name.html for writing: $!\n";
 	print LINEAGE_HTML <<END;
@@ -449,6 +526,7 @@ for my $lineage_name (keys %lineage_mutations){
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
   <script src="imageMapResizer.min.js"></script>
   <script>
  \$( function() {
@@ -457,7 +535,80 @@ for my $lineage_name (keys %lineage_mutations){
       heightStyle: "content"
     });
   } );
+END
 
+	if($b_query_total or $t_query_total){
+		print LINEAGE_HTML "window.onload = function () {\n";
+	}
+	if($b_query_total){
+		print LINEAGE_HTML <<END;
+window.chartB = new CanvasJS.Chart("chartContainerB",
+{
+	title: {
+  	text: "% B-cell epitopes with given number of AA residue mismatches (of IEDB $b_query_total total)"
+  },
+	data: [
+	{
+		type: "column",
+		dataPoints: [
+END
+
+		# Print the B-epitope data
+		for(my $i = 1; $i <= $max_histogram_x; $i++){
+			print LINEAGE_HTML "{ x: $i, y: ", (defined $b_mismatch_count{$i} ? $b_mismatch_count{$i} : 0)," }", ($i == $max_histogram_x ? "" : ",");
+		}
+
+		print LINEAGE_HTML <<END;
+		]
+	}
+	]
+});
+chartB.render();
+chartB.set("dataPointWidth",Math.ceil(chartB.axisX[0].bounds.width/chartB.data[0].dataPoints.length),true);
+END
+	} #end if($b_query_total)
+
+	if($t_query_total){
+		print LINEAGE_HTML <<END;
+window.chartT = new CanvasJS.Chart("chartContainerT",
+{
+	title: {
+  	text: "% T-cell epitopes with given number of AA residue mismatches (of IEDB $t_query_total total)"
+  },
+	data: [
+	{
+		type: "column",
+		dataPoints: [
+END
+
+		# Print the T-epitope data
+		for(my $i = 1; $i <= $max_histogram_x; $i++){
+			print LINEAGE_HTML "{ x: $i, y: ", (defined $t_mismatch_count{$i} ? $t_mismatch_count{$i} : 0), "}", ($i == $max_histogram_x ? "" : ",");
+		}
+
+                print LINEAGE_HTML <<END;
+                ]
+        }
+        ]
+});
+chartT.render();
+chartT.set("dataPointWidth",Math.ceil(chartB.axisX[0].bounds.width/chartT.data[0].dataPoints.length),true);
+END
+
+	} # end if($t_query_total)
+
+
+	if($b_query_total or $t_query_total){
+		print LINEAGE_HTML <<END;
+\$( window ).resize(function() {
+        chartB.set("dataPointWidth",Math.ceil(chartB.axisX[0].bounds.width/chartB.data[0].dataPoints.length),true);
+        chartT.set("dataPointWidth",Math.ceil(chartT.axisX[0].bounds.width/chartT.data[0].dataPoints.length),true);
+});
+}
+END
+	}
+
+	print LINEAGE_HTML <<END;
   </script>
 </head>
 <body>
@@ -479,6 +630,24 @@ END
 	if(@child_lineage_links){
 		print LINEAGE_HTML "<div class='crossref'>Jump to sublineage report: ", join(" &mdash; ", @child_lineage_links), "</div>\n";
 	}
+
+	if($b_query_total or $t_query_total){
+		print LINEAGE_HTML "<div>\n<table>\n<tr>";
+		if($b_query_total){
+			print LINEAGE_HTML "<td><div id=\"chartContainerB\" class=\"epitope_mismatch_histogram\"></div></td>\n";
+		}
+		if($t_query_total){
+			print LINEAGE_HTML "<td><div id=\"chartContainerT\" class=\"epitope_mismatch_histogram\"></div></td>\n";
+		}
+		print LINEAGE_HTML <<END;
+</tr>
+<tr><td colspan="2" align="center">Calculated using representative genome <a href="$lineage_name.acknowledgements.pdf">$epi_id</a> downloaded from <a href="http://www.gisaid.org">GISAID</a> on $epi_date, 
+aligned using <a href="http://github.com/nodrogluap/pokay">Pokay</a> to an <a href="http://www.iedb.org">IEDB</a> antigens file dated $iedb_date. <a href="$lineage_name.b.html">See full alignments and disclaimers 
+for epitope alignments</a></td></tr>
+</table>
+</div>
+END
+	} # end if($b_query_total or $t_query_total)
 
 	print LINEAGE_HTML "<div id='accordion'>\n";
 	# Collect all the constellation evidence that fits the mutations in this lineage
@@ -554,7 +723,7 @@ sub constellation_cmp{
   my ($a, $b) = @_;
   my ($pos_a) = $a =~ /^.*?(\d+)/;
   my ($pos_b) = $b =~ /^.*?(\d+)/;
-  return $pos_a <=> $pos_b or $a cmp $b; # position-based or fall back toa lexical if same position 
+  return (($pos_a <=> $pos_b) or ($a cmp $b)); # position-based or fall back to a lexical if same position 
 }
 
 sub hgvsify{ 
@@ -581,8 +750,12 @@ sub prettify_effect_text{
 }
 
 sub htmlify_lit_ref{
+	if($_[0]->[2] eq "unpublished"){
+		warn "Got an unpublished reference: ", @{$_[0]}, "\n";
+	}
 	return "<li class=\"lit_item\"><span class=\"lit_summary\">".
-                                $_[0]->[0]. # text desc
-                                " (<a href=\"",$_[0]->[2],"\" class=\"lit_link\">".$_[0]->[1]."</a>)".
-                                "</span></li>\n";
+                                $_[0]->[0]. " (". # text desc
+				($_[0]->[2] eq "unpublished" ? $_[0]->[1]. ", unpublished" : 
+                                "<a href=\"".$_[0]->[2]."\" class=\"lit_link\">".$_[0]->[1]."</a>").
+				")</span></li>\n";
 }
