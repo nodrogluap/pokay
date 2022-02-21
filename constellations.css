@@ -24,6 +24,11 @@ div.effect_section {
   background-color: #F0F0F0;
 }
 
+div.epitope_mismatch_histogram {
+  height: 260px;
+  width: 95%;
+}
+
 img.genome_schematic {
   display: block;
   margin-left: auto;
