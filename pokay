@@ -2,7 +2,8 @@
 
 use strict;
 use warnings;
-use vars qw(%codon2aa %subs);
+use Fcntl qw(SEEK_SET SEEK_CUR SEEK_END); # for indexed sequence random file access
+use vars qw(%codon2aa %subs $db_file %template_sequences %template_sequence_N_regions $min_interferring_N_stretch $sequence_fasta_filehandle %sequence_fasta_offsets %sequence_length);
 
 # Homo sapiens codon table
 %codon2aa = (
@@ -45,18 +46,26 @@ use vars qw(%codon2aa %subs);
 		"-" , "-"
                 );
 
-@ARGV == 3 or die "Usage: $0 <templates.fasta> <exclude template id.txt> <probes_and_or_primers.fasta>\n";
-my $db_file = shift @ARGV;
+@ARGV == 3 or @ARGV == 5 or die "Usage: $0 <templates.fasta> <exclude template id.txt> <probes_and_or_primers.fasta> [alignment_output.html mismatch_histogram_data_output.txt]\n";
+$db_file = shift @ARGV;
 my $excludes_file = shift @ARGV;
 my $query_file = shift @ARGV;
+my $html_output = @ARGV ? shift @ARGV : undef;
+my $histogram_filename = @ARGV ? shift @ARGV : undef;
 
-if(not -e "$db_file.nsq" or -M "$db_file.nsq" > -M $db_file){ # non-existent or older BLAST index for the FastA file of templates
+if(not (-e "$db_file.nsq" || -e "$db_file.00.nsq")){ # non-existent BLAST index for the FastA file of templates
 	warn "Creating new BLAST database\n";
 	system("makeblastdb -in $db_file -dbtype nucl 1>&2") >> 8 
 	  and die "Cannot run makeblastdb, return code $?\n";
 }
 
-# List of template se quence identifiers to exclude from the mismatch analysis due to duplication, poor quality, etc.
+if(not -e "$db_file.fai"){  # No FastA index for samtools faidx retrieval later as used by mismatch alignment output
+	warn "Creating new samtools FastA index\n";
+	system("samtools faidx $db_file 1>&2") >> 8
+          and die "Cannot run samtools faidx, return code $?\n";
+}
+
+# List of template sequence identifiers to exclude from the mismatch analysis due to duplication, poor quality, etc.
 open(EXCLUDES, $excludes_file)
   or die "Cannot open excluded IDs file $excludes_file for reading: $!\n";
 my %exclude;
@@ -79,8 +88,6 @@ while(<QUERIES>){
 	my ($query_name, $query_sequence) = /^>?(\S+).*?\n(.*)/;
 	$query_sequence =~ tr/ \t\r\n//d;
 
-	# TODO: handle discontinuous epitope queries as they appear in IEDB (e.g. "Y369, N370, S371, A372, F374, F377, K378, C379, Y380, G381, V382, S383, P384, T385, K386, L390, F429, T430, F515, E516,")
-
 	if(not $aa_queries_detected and $query_sequence !~ /^[ACGTSWRYKMBDHVNX ]+$/){
 		warn "Amino acid queries detected, running AA mode\n";
 		$aa_queries_detected = 1;
@@ -91,63 +98,58 @@ while(<QUERIES>){
 	}
 }
 close(QUERIES);
+my $num_queries = scalar(keys %query_sequences);
 
 # 4 is the smallest word sizes supported by BLAST 2.9.0+, for maximum sensitivity
 my $blastn_word_size = 4;
 my $tblastn_word_size = 2;
-my $min_interferring_N_stretch = $shortest_query_len - 2*$blastn_word_size;
+$min_interferring_N_stretch = $shortest_query_len - 2*$blastn_word_size;
 # For epitope drift we are looking at closely related sequences so for best match stats use a scoring matrix more suited to short matches with random point mutations.
 # In an ideal world we would use an even more strict matrix like VTML10, but this would require switching to another BLAST implementation like wu-blast (TODO).
 # For now, don't put too much stock in the e-values generated.
 my $tblastn_substitution_matrix = "PAM30";
 my $num_threads = 20;
 
-open(TEMPLATES, $db_file)
-  or die "Cannot open templates sequence file $db_file for reading: $!\n";
-my %template_sequences;
-my %template_sequence_N_regions;
-while(<TEMPLATES>){
-	my ($template_name, $template_sequence) = /^>?(\S+).*?\n(.*)/;
-	my $template_name_prefix = $template_name;
-	$template_name_prefix =~ s/\|.*//;
-	$template_name_prefix =~ s/hCoV-19\///; # GISAID-NextStrain specific ID hacks
-	if(exists $exclude{$template_name_prefix}){
-		# augment excludes list with the full unadulterated name of the template sequence as will be reported by BLAST
-		$exclude{$template_name} = 1; 
-		#warn "Excluding $template_name_prefix\n";
-		next;
-	}
-	$template_sequence =~ tr/ \t\r\n//d;
-	$template_sequence = uc($template_sequence); # upper case
-	$template_sequences{$template_name} = $template_sequence;
-
-	# Let's record as linear coordinate tuples where stretches of N's are located in the genome, so these
-	# can be reported to help the user determine if a lack of BLAST match is due to change in the sequence,
-	# or that it's N's where the primer/probe would normally bind.
-	#while($template_sequence =~ /N{$min_interferring_N_stretch,}/go){
-	#	$template_sequence_N_regions{$template_name} //= []; # eschewing auto-vivification of the array
-	#	push @{$template_sequence_N_regions{$template_name}}, [pos($template_sequence), pos($template_sequence)+length($&)-1];
-	#}
+# Each retrieval from samtools faidx takes several seconds, which can really add up when thousands of matches are present, so 
+# let's just keep the index loaded and the sequence file open internally so we can skip all that overhead of multiple system()/open() 
+# samtools calls or reading the output twice.
+$/ = "\n";
+open($sequence_fasta_filehandle, $db_file)
+  or die "Cannot open $db_file for reading: $!\n";
+open(FAIDX, "$db_file.fai")
+  or die "Cannot open $db_file.fai for reading: $!\n";
+while(<FAIDX>){
+	chomp;
+	my ($name, $length, $seq_start_offset, $bases_per_line, $chars_per_line) = split /\t/, $_;
+ 	$sequence_fasta_offsets{$name} = $seq_start_offset;
+ 	$sequence_length{$name} = $length;
 }
-close(TEMPLATES);
+close(FAIDX);
 
-my $num_templates = scalar(keys %template_sequences);
+my $num_templates = scalar(keys %sequence_fasta_offsets);
 if($aa_queries_detected){
 	# So I tried lowering the xdrop_gap_final score from the default of 25 for better end alignments but in practice it makes weirder / more missing alignments for short epitopes
 	# max_hsp 1 means keep only the best hit for every query-subject pair.
 	open(BLAST, "tblastn -max_hsps 1 -num_threads $num_threads -num_descriptions $num_templates -num_alignments $num_templates -word_size $tblastn_word_size -matrix $tblastn_substitution_matrix -db $db_file -query $query_file -seg no -soft_masking false -evalue 1000 |")
-	#open(BLAST, "tblastn -num_threads $num_threads -num_descriptions $num_templates -num_alignments $num_templates -word_size $tblastn_word_size -matrix $tblastn_substitution_matrix -db $db_file -query $query_file -seg no -soft_masking false -evalue 1000 |")
 	  or die "Cannot run tblastn: $!\n";
 }
 else{
 	open(BLAST, "blastn -num_threads $num_threads -num_alignments $num_templates -word_size $blastn_word_size -db $db_file -query $query_file -dust no -soft_masking false -evalue 1000 |")
 	  or die "Cannot run blastn: $!\n";
 }
+
+# Most things are working so far, let's open the HTML output file if it was specified
+if(defined $html_output){
+	open(STDOUT, ">$html_output")
+	  or die "Cannot open $html_output for writing: $!\n";
+}
+
 $/ = "\nQuery="; # BLAST query output separator
 my %mismatch_alignments;
 my %perfect_match_alignment;
 my %query_lengths;
 my %extended_alignment;
+my %query2mismatch_cardinality;
 while(<BLAST>){
 	if(not /(?:Query=)?\s*(\S+)\s+Length=(\d+)/s){
 		next; # prologue
@@ -159,7 +161,7 @@ while(<BLAST>){
 		die "Discrepancy between query lists when parsed by this script and NCBI BLAST, please check FastA formatting of entry '$query_name'\n";
 	}
 	if($query_length != length($query_sequences{$query_name})){
-		die "Discrepancy between length of query when parsed by this script and NCBI BLAST, please check FastA formatting of entry '$query_name'\n";
+		die "Discrepancy between length of query when parsed by this script (", length($query_sequences{$query_name}), ") and NCBI BLAST ($query_length), please check FastA formatting of entry '$query_name'\n$_";
 	}
 	$query_lengths{$query_name} = $query_length;
 	my @hits = split /\n>/s, $_;
@@ -173,7 +175,7 @@ while(<BLAST>){
 			next;
 		}
 		if($hit !~ /Strand=|Frame = \+/s){
-			warn "Skipping negative strand best AA match for $subject_name against $query_name\n";
+			# warn "Skipping negative strand best AA match for $subject_name against $query_name\n";
 			next;
 		}
 		next if exists $exclude{$subject_name};
@@ -182,24 +184,25 @@ while(<BLAST>){
 			$perfect_match_alignment{$subject_name}->{$query_name} = 1;
 			next; # perfect match, no need to record
 		}
+
 		# Discount mismatches if they match a suitable IUPAC ambiguity code.
 		my ($qstart, $qpad, $qaln, $qend, $aln, $sstart, $spad, $saln, $send) = $hit =~ /Query\s+(\d+)(\s+)(\S+)\s+(\d+)\s+?([^ ][^\n]+)\s+?Sbjct\s+(\d+)(\s+)(\S+)\s+(\d+)/s;
 		my $pad = " " x length($qstart.$qpad);
 
 		my $subject_scaling = 1;
-		# Retrieve the ambiguous codons underlying the alignment so we can determine "real" mismatch vs BLAST unsophisticated translaion.
+		# Retrieve the ambiguous codons underlying the alignment so we can determine "real" mismatch vs BLAST unsophisticated translation.
 		if($aa_queries_detected){
 			$subject_scaling = 3;
-			$saln = substr($template_sequences{$subject_name}, $sstart-1, $send-$sstart+1);
+			$saln = substr(&template_sequence($subject_name), $sstart-1, $send-$sstart+1);
 			$saln =~ tr/U/T/; # RNA -> DNA for simplicity of downstream processing
 		}
 
 		# If the match is a substring of the query, extend the alignment in both the query and subject so the user sees the terminal mismatches.
 		# Use lower case letters to indicate that we added these bits.
 		my $num_missing_5p_bases = $subject_scaling*($qstart-1);
-		my $five_prime_subject = lc(substr($template_sequences{$subject_name}, $sstart-$num_missing_5p_bases-1, $num_missing_5p_bases));
+		my $five_prime_subject = lc(substr(&template_sequence($subject_name), $sstart-$num_missing_5p_bases-1, $num_missing_5p_bases));
 		my $num_missing_3p_bases = $subject_scaling*($query_length-$qend);
-		my $three_prime_subject = lc(substr($template_sequences{$subject_name}, $send, $num_missing_3p_bases));
+		my $three_prime_subject = lc(substr(&template_sequence($subject_name), $send, $num_missing_3p_bases));
 		my $five_prime_query = lc(substr($query_sequences{$query_name}, 0, $qstart-1));
 		my $three_prime_query = $qend == $query_length ? "" : lc(substr($query_sequences{$query_name}, $qend));
 		if($qend != $query_length || $qstart > 1){
@@ -212,7 +215,7 @@ while(<BLAST>){
 			$perfect_match_alignment{$subject_name}->{$query_name} = 1;
 			next;
 		}
-		if($aa_queries_detected){ # account for AA representation of query extension but DNA representation of subjece
+		if($aa_queries_detected){ # account for AA representation of query extension but DNA representation of subject
 			if($qstart > 1){
 				$five_prime_query = " ".join("  ", split(//, $five_prime_query))." ";
 			}
@@ -223,7 +226,8 @@ while(<BLAST>){
 		$saln = $five_prime_subject.$saln.$three_prime_subject;
 		$qaln = $five_prime_query.$qaln.$three_prime_query;
 		my $of_note = " " x length($saln);
-		$aln = (" " x length($five_prime_subject)).$aln.(" " x length($three_prime_subject));
+		$aln = (" " x (length($five_prime_query)+length($five_prime_subject))).$aln.(" " x (length($three_prime_query)+length($three_prime_subject)));
+		#$aln = (" " x length($five_prime_subject)).$aln.(" " x length($three_prime_subject));
 		# Fix the alignment symbols to account for the ambiguity mismatches and the extensions.
 		my $new_aln = " " x length($saln);
 		my $num_mismatches = 0;
@@ -242,7 +246,6 @@ while(<BLAST>){
 						elsif($codon2aa{$codon} ne $qaa){
 							substr($of_note, $i, 3) = " ".$codon2aa{$codon}." "; # Note mismatch
 							if($qaa ne "X"){
-								#print STDERR "Noting mismatch $qaa vs. $codon2aa{$codon} for $subject_name\n";
 								$num_mismatches++;
 							}
 						}
@@ -312,6 +315,7 @@ while(<BLAST>){
 				}
 			}
 		}
+		$query2mismatch_cardinality{$query_name} = $num_mismatches;
 		next unless $num_mismatches;
 		$aln =~ s/^(\s+)/$1.(" " x ($subject_scaling*($qstart-1)))/e;
 		$mismatch_alignments{$subject_name} //= {};
@@ -323,14 +327,46 @@ while(<BLAST>){
 	
 }
 close(BLAST);
-for my $subject_name (sort keys %template_sequences){
+
+# If an epitope search, print the histogram data of mismatches to a file that can be loaded into text2ui reports
+if(scalar(keys %sequence_fasta_offsets) == 1 and defined $histogram_filename){
+	open(HISTOGRAM, ">$histogram_filename")
+	  or die "Cannot open $histogram_filename for writing: $!\n";
+	print HISTOGRAM "#Total queries: $num_queries\n";
+	my %mismatch_cardinality2query_count;
+	for my $queryname (keys %query2mismatch_cardinality){
+		$mismatch_cardinality2query_count{$query2mismatch_cardinality{$queryname}}++;
+	}
+	for my $mismatch_count (sort {$a <=> $b} keys %mismatch_cardinality2query_count){
+		print HISTOGRAM "$mismatch_count\t",$mismatch_cardinality2query_count{$mismatch_count}/$num_queries,"\n";
+	}
+	close(HISTOGRAM);
+}
+
+if(defined $html_output){
+	print <<END;
+<html>
+<head><title>Pokay alignments</title></head>
+<body>
+<h1>Pokay alignments</h1>
+<pre>
+END
+}
+
+for my $subject_name (sort keys %sequence_fasta_offsets){
 	next if exists $exclude{$subject_name};
 	my $num_mismatch_hits = 0;
 	my $num_no_hits = 0;
 	my $text = "";
 	for my $query_name (sort keys %query_lengths){
 		if(exists $mismatch_alignments{$subject_name} and exists $mismatch_alignments{$subject_name}->{$query_name}){
-			$text .= "Alignment against $query_name with ". $mismatch_alignments{$subject_name}->{$query_name}."\n";
+			if(defined $html_output and $mismatch_alignments{$subject_name}->{$query_name} =~ /^http/){
+				$text .= "Alignment against $query_name with <a href=\"". $mismatch_alignments{$subject_name}->{$query_name}."\">".
+                                         $mismatch_alignments{$subject_name}->{$query_name}."</a>\n";
+			}
+			else{
+				$text .= "Alignment against $query_name with ". $mismatch_alignments{$subject_name}->{$query_name}."\n";
+			}
 			$num_mismatch_hits++;
 		}
 		elsif(not $aa_queries_detected and (not exists $perfect_match_alignment{$subject_name} or not exists $perfect_match_alignment{$subject_name}->{$query_name})){
@@ -342,10 +378,14 @@ for my $subject_name (sort keys %template_sequences){
 		print "===$subject_name===\n";
 		if($num_no_hits or exists $extended_alignment{$subject_name}){
 			# Print information about template length and the location of stretches of N's that might be relevant to doing triage of misses
-			print "Template length ", length($template_sequences{$subject_name}),", N stretches: [", join("], [", map {$_->[0].",".$_->[1]} @{$template_sequence_N_regions{$subject_name}}), "]\n";
+			print "Template length ", length(&template_sequence($subject_name)), ", N stretches [",
+                              join("],[", map {$_->[0].",".$_->[1]} @{$template_sequence_N_regions{$subject_name}}),"]\n\n";
 		}
 		print $text;
 	}
+}
+if(defined $html_output){
+	print "\n</pre>\n</body>\n</html>\n";
 }
 
 sub valid_iupac_substitution{
@@ -415,4 +455,55 @@ sub valid_iupac_substitution{
 		$regex .= "[$rchar".$subs{$rchar}."N]";
 	}
 	return uc($sbjt) =~ /^$regex$/;
+}
+
+sub template_sequence{
+	my $template_name = $_[0];
+        if(exists $template_sequences{$template_name}){
+		return $template_sequences{$template_name};
+	}
+        seek($sequence_fasta_filehandle, $sequence_fasta_offsets{$template_name}, SEEK_SET); # SET = relative to begin of file
+	my $old_record_separator = $/;
+        $/ = "\n";
+	my $seq = <$sequence_fasta_filehandle>;
+	chomp $seq;
+	while(length($seq) < $sequence_length{$template_name}){
+		my $line = <$sequence_fasta_filehandle>;
+		chomp($line);
+		$seq .= $line;
+	}
+	$/ = $old_record_separator;
+	$template_sequences{$template_name} = $seq;
+	
+	return $template_sequences{$template_name};
+}
+
+sub old_template_sequence{
+	# If the program needs to access the sequence, replace the sentinel "1" in %template_sequences with the full sequence
+	# from the samtools fasta index.
+	my $template_name = $_[0];
+	if($template_sequences{$template_name} !~ /^[ACGTNSWKMRYBDHV]/){
+		my $old_record_separator = $/;
+		$/ = "\n";
+		open(FAIDX, "samtools faidx $db_file '$template_name' |")
+			or die "Cannot run samtools faidx: $!\n";
+		$template_sequences{$template_name} = "";
+		<FAIDX>; # header
+		while(<FAIDX>){
+			chomp;
+			$template_sequences{$template_name} .= $_;
+		}
+		close(FAIDX);
+
+ 		# Let's record as linear coordinate tuples where stretches of N's are located in the genome, so these
+ 		# can be reported to help the user determine if a lack of BLAST match is due to change in the sequence,
+ 		# or that it's N's where the primer/probe would normally bind.
+		my $template_sequence = $template_sequences{$template_name};
+		while($template_sequence =~ /N{$min_interferring_N_stretch,}/go){
+ 	 		$template_sequence_N_regions{$template_name} //= []; # eschewing auto-vivification of the array
+ 	 		push @{$template_sequence_N_regions{$template_name}}, [pos($template_sequence), pos($template_sequence)+length($&)-1];
+ 		}
+		$/ = $old_record_separator;
+	}
+	return $template_sequences{$_[0]};
 }
