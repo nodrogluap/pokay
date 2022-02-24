@@ -1,3 +1,11 @@
+# This mutation combination (with construct P323L on a D614G wildtype backbone), 
+# is the only one present after 17 passages
+# in 10uM remdesivir. V166L is outside the active polymerase site. 
+# EC50 in a plaque reduction assay was 2.3x in the passage experiment, but only 1.5x when introduced
+# on a WA1 backbone and measured using a luciferase assay.
+# Checkmahomed et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.07.479493v1
+V166L;P323L
+
 # This mutation (discovered in a immunocomprimised patient with protracted COVID-19 given remdesivir) is associated with a ~6-fold in remdesivir IC50 
 # (i.e. increased resistance to treatment) in vitro, at some cost to viral fitness otherwise.
 # Gandhi et al. (2021) https://www.medrxiv.org/content/10.1101/2021.11.08.21266069v1
