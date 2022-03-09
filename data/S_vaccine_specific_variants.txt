@@ -10,4 +10,4 @@ K974P;V975P
 # substitutions at the S1/S2 cleavage site to increase stability, and K971P and V972P
 # substitutions to stabilize the protein in prefusion conformation.
 # Ward et al. (2020) https://www.medrxiv.org/content/10.1101/2020.11.04.20226282v1
-R667G;R668S;R670S;K971P;V972P 
+R670G;R671S;R673S;K974P;V975P 
