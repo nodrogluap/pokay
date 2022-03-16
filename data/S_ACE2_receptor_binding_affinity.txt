@@ -675,12 +675,11 @@ K458E
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 N460R
 
-#Experimentally, ACE2 binding affinity increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+# Experimentally, ACE2 binding affinity increased 0.06 fold
+# Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
 # Increased affinity for ACE2: clade in Australia 2020-05-27 onward, clade in Europe 2020-08-08 onward
 # Modelling shows flexible region in Spike RBD with residue S477 having the greatest rotational flexibility.
-# https://assets.researchsquare.com/files/rs-106969/v2_stamped.pdf
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+# Singh et al. (2021) https://assets.researchsquare.com/files/rs-106969/v2_stamped.pdf
 # Among the first selected minor variants in an in vitro evolution experiment for ACE2 binding, with increasing proportion in subsequent rounds.
 # Zahradnik et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.06.425392
 S477N
