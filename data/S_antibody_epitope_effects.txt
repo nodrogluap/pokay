@@ -2,6 +2,14 @@
 # Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
 F490S
 
+# Highly resistant to mAb 2H04 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+T345A;L517R
+
+# Highly resistant to mAbs SARS2-07 and SARS2-16 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+S477N;S514F
+
 # Highly resistant to mAb SARS2-01 of 10 antibodies tested.
 # Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
 S494P
