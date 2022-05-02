@@ -1,3 +1,7 @@
+# IC50 relative to wildtype drops ~8x in neutralization efficiency. 
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+F486S
+
 # In 12 convalescent sera more than 2 weeks and less than 2 months post infection, this NTD mutation causes a ~3.5x drop in neutralization efficiency.
 # Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1
 Y145D
