@@ -1,3 +1,15 @@
+# In 12 convalescent sera more than 2 weeks and less than 2 months post infection, this NTD mutation causes a ~3.5x drop in neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1
+Y145D
+
+# In 12 convalescent sera more than 2 weeks and less than 2 months post infection, this NTD mutation causes a ~3.5x drop in neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1
+K150E
+
+# In 12 convalescent sera more than 2 weeks and less than 2 months post infection, this NTD mutation causes a ~3.5x drop in neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1
+W152R
+
 # Sera from individuals who have been infected with Delta does not have strong
 # neutralising activity against B.1.621
 # Sera from individuals who have been vaccinated and have had subsequent
