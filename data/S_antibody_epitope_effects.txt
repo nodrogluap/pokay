@@ -1,3 +1,103 @@
+# Highly resistant to mAb SARS2-32 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+F490S
+
+# Highly resistant to mAb SARS2-01 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+S494P
+
+# Highly resistant to mAbs SARS2-07, SARS2-16 and SARS2-19 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+P499L
+
+# Highly resistant to mAbs 1B07 and SARS2-16 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+F486Y
+
+# Highly resistant to mAbs SARS2-07, SARS2-19, 1B07, SARS2-16 and 2B04 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+F486S
+
+# Highly resistant to mAb SARS2-16 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+T478I
+
+# Highly resistant to mAbs SARS2-01, 1B07, SARS2-32, SARS2-35 and SARS2-07 of 10 antibodies tested, and moderately high resistance to the remaining.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+E484A
+
+# Highly resistant to mAb 1B07 of 10 antibodies tested, and moderately high resistance to the remaining.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+E484D
+
+# Highly resistant to mAbs SARS2-01, 1B07, SARS2-32, SARS2-35 and 2B04 of 10 antibodies tested, and moderately high resistance to the remaining.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+E484G
+
+# Highly resistant to mAbs SARS2-01, SARS2-02, 1B07, SARS2-16, SARS2-32, SARS2-35 and 2B04 of 10 antibodies tested, and moderately high resistance to the remaining.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+E484K
+
+# Highly resistant to mAbs 2H04 and SARS2-01 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+T345A
+
+# Highly resistant to mAb 2H04 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+T345N
+
+# Highly resistant to mAb 2H04 of 10 antibodies tested, with moderate resistance to many of the remaining.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+T345S
+
+# Highly resistant to mAb SARS2-01 and moderately resistant to 2H04 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+R346G
+
+# Highly resistant to mAb SARS2-35 of 10 antibodies tested, with moderate resistance to many of the remaining..
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+K444E
+
+# Highly resistant to mAb SARS2-01 and moderately resistant to 2H04 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+K444N 
+
+# Highly resistant to mAbs SARS2-02, SARS2-32 and SARS2-35 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+G446D
+
+# Highly resistant to mAbs SARS2-01, SARS2-02, SARS2-32 and SARS2-35 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+G446V
+
+# Highly resistant to mAb SARS2-07 nd moderately resistant to SARS2-16 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+N450D
+
+# Highly resistant to mAbs SARS2-01 and SARS2-32 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+N450K
+
+# Highly resistant to mAbs SARS2-01 and SARS2-32 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+N450Y
+
+# Highly resistant to mAbs SARS2-01, SARS2-02 and SARS2-32 of 10 antibodies tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+L452R
+
+# Highly resistant to mAbs SARS2-07, SARS2-16 and SARS2-19 of 10 antibodies tested, and moderately high resistance to the remaining.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+S477G
+
+# Highly resistant to mAbs SARS2-01, SARS2-07, SARS2-16 and SARS2-19 of 10 antibodies tested, and moderately high resistance to the remaining.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+S477N
+
+# Highly resistant to mAbs SARS2-07, SARS2-16 and SARS2-19 of 10 antibodies tested
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+S477R
+
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ~2.5x drop of neutralization efficiency.
 # Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
 S494F 
