@@ -1,3 +1,35 @@
+# In a soluble human ACE2-Fc receptor decoy inhibition experiment, this mutation showed striking resistance with only 38% neutralization at the highest concentration tested.
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+F486S
+
+# In a soluble human ACE2-Fc receptor decoy inhibition experiment, this mutation showed a 4.6x drop in sensitivity. 
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+E484D
+
+# In a soluble human ACE2-Fc receptor decoy inhibition experiment, this mutation showed a ~4x drop in sensitivity. 
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+T345A
+
+# In a soluble human ACE2-Fc receptor decoy inhibition experiment, this mutation showed a ~4x drop in sensitivity. 
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+G446D
+
+# In a soluble human ACE2-Fc receptor decoy inhibition experiment, this mutation showed a ~4x drop in sensitivity. 
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+G446V
+
+# In a soluble human ACE2-Fc receptor decoy inhibition experiment, this mutation showed a ~4x drop in sensitivity. 
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+T345N
+
+# In a soluble human ACE2-Fc receptor decoy inhibition experiment, this mutation showed a ~4x drop in sensitivity. 
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+E484D
+
+# In a soluble human ACE2-Fc receptor decoy inhibition experiment, this mutation showed a ~4x drop in sensitivity. 
+# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+F486Y
+
 # The N501Y mutation had the biggest effect on ACE2 affinity of any VOC mutation tested, increasing the
 # affinity ~10 fold to KD ~7 nM, by increasing the k(on) ~1.8 fold and decreasing the k(off) by ~ 7
 # fold as measured by surface plasmon resonance. 
