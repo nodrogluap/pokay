@@ -1,3 +1,59 @@
+# For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ~2.5x drop of neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+S494F 
+
+# For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+F490S 
+
+# For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+C480S
+
+# For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+C480R
+
+# For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+E484K
+
+# For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+E484G
+
+# For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+E484D
+
+# For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+C488Y
+
+# For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+C488S
+
+# For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+F490S
+
+# For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+F490L
+
+# For NTD-binding neutralizing antibody ADI-56479 this mutation causes a 1000x drop in neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+F490I
+
+# For NTD-binding neutralizing antibody ADI-56479 this mutation causes a 1000x drop in neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+F490C
+
+# For NTD-binding neutralizing antibody ADI-56479 this mutation causes a 1000x drop in neutralization efficiency.
+# Haslwanter et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.10.447999v1 
+W152R
+
 # Multiple individuals in two related households were infected with a newly acquired E484K mutation within the B.1.311 lineage. 
 # The timing and patterns of subsequent spread were consistent 
 # with de novo emergence of this E484K variant in the initially affected individual who had been treated with bamlanivimab monotherapy. 
