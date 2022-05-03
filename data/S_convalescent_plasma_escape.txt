@@ -1,4 +1,4 @@
-# IC50 relative to wildtype drops ~8x in neutralization efficiency. 
+# IC50 relative to wildtype drops ~8x in neutralization efficiency between 7-17 days post symptoms onset. 
 # Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
 F486S
 
