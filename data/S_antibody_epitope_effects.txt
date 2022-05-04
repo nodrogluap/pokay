@@ -1,3 +1,83 @@
+# 8.3 fold drop in IC50 of P22A-1D1.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417R
+
+# No detectable fold drop in IC50 of P22A-1D1.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417A
+
+# No detectable fold drop in IC50 of P22A-1D1.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417E
+
+# No detectable fold drop in IC50 of P22A-1D1.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417N
+
+# No detectable fold drop in IC50 of P22A-1D1.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417T
+
+# No detectable fold drop in IC50 of P5A-1D2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417R
+
+# No detectable fold drop in IC50 of P5A-1D2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417A
+
+# No detectable fold drop in IC50 of P5A-1D2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417E
+
+# No detectable fold drop in IC50 of P5A-1D2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417N
+
+# No detectable fold drop in IC50 of P5A-1D2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417T
+
+# 1.9 fold drop in IC50 of P5A-3C8.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417R
+
+# No detectable fold drop in IC50 of P5A-3C8.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417A
+
+# No detectable fold drop in IC50 of P5A-3C8.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417E
+
+# No detectable fold drop in IC50 of P5A-3C8.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417N
+
+# No detectable fold drop in IC50 of P5A-3C8.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417T
+
+# 2.2 fold increase in IC50 of P2C-1F11.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417R
+
+# 2.3 fold increase in IC50 of P2C-1F11.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417A
+
+# 1.3 fold drop in IC50 of P2C-1F11.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417E
+
+# 1.1 fold drop in IC50 of P2C-1F11.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417N
+
+# 2.6 fold increase in IC50 of P2C-1F11.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417T
+
 # Highly resistant to mAb SARS2-32 of 10 antibodies tested.
 # Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
 F490S
