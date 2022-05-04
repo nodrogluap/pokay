@@ -1,3 +1,23 @@
+Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+E484K
+
+Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+E484D
+
+Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+E484A
+
+Significant decrease in neutralization across 11 of 16 sera tested 7-17 days post symptoms onset.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+S477N
+
+Significant decrease in neutralization across 4 of 16 sera tested 7-17 days post symptoms onset.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+N450Y
+
 # No effective neutralization in 1 out of the 4 sera tested.
 # Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
 T354S
