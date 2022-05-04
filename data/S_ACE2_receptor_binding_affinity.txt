@@ -1,3 +1,103 @@
+# Causes 1.6 fold decrease in KD value for antibody binding of P22A-1D1.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417R
+
+# Causes no detectable change in KD value for antibody binding of P22A-1D1.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417A
+
+# Causes 2.4 fold decrease in KD value for antibody binding of P22A-1D1.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417E
+
+# Causes no detectable change in KD value for antibody binding of P22A-1D1.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417N
+
+# Causes no detectable change in KD value for antibody binding of P22A-1D1.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417T
+
+# Causes 1.1 fold decrease in KD value for antibody binding of P5A-1D2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417R
+
+# Causes no detectable change in KD value for antibody binding of P5A-1D2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417A
+
+# Causes no detectable change in KD value for antibody binding of P5A-1D2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417E
+
+# Causes no detectable change in KD value for antibody binding of P5A-1D2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417N
+
+# Causes no detectable change in KD value for antibody binding of P5A-1D2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417T
+
+# Causes 1.8 fold decrease in KD value for antibody binding of P5A-3C8.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417R
+
+# Causes 564.8 fold decrease in KD value for antibody binding of P5A-3C8.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417A
+
+# Causes 15.9 fold decrease in KD value for antibody binding of P5A-3C8.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417E
+
+# Causes 36.9 fold decrease in KD value for antibody binding of P5A-3C8.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417N
+
+# Causes 57.1 fold decrease in KD value for antibody binding of P5A-3C8.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417T
+
+# Causes 4.4 fold increase in KD value for antibody binding of P2C-1F11.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417R
+
+# Causes 2.5 fold decrease in KD value for antibody binding of P2C-1F11.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417A
+
+# Causes 10 fold decrease in KD value for antibody binding of P2C-1F11.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417E
+
+# Causes 7.5 fold decrease in KD value for antibody binding of P2C-1F11.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417N
+
+# Causes 2.9 fold decrease in KD value for antibody binding of P2C-1F11.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417T
+
+# Causes 3.3 fold increase in KD value of antibody binding of ACE2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417R
+
+# Causes 1.3 fold decrease in KD value of antibody binding of ACE2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417A
+
+# Causes 1.7 fold decrease in KD value of antibody binding of ACE2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417E
+
+# Causes 1.5 fold decrease in KD value of antibody binding of ACE2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417N
+
+# Causes 1.1 fold decrease in KD value of antibody binding of ACE2.
+# Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
+K417T
+
 # In a soluble human ACE2-Fc receptor decoy inhibition experiment, this mutation showed striking resistance with only 38% neutralization at the highest concentration tested.
 # Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
 F486S
