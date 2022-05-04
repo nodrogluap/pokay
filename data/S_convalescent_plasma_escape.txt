@@ -1,20 +1,36 @@
-Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
+# Decreases in neutralization efficiency by ~25-50% in the S2D97 antibiotic.
+# Thomson et al. (2020)
+N439K
+
+# Decreases in neutralization efficiency by ~25-50% in the S2D97 antibiotic.
+# Thomson et al. (2020)
+N439K;K417V
+
+# Decreases in neutralization efficiency by ~15-125% in the REGN10987 antibiotic.
+# Thomson et al. (2020)
+N439K
+
+# Decreases in neutralization efficiency by ~50-75% in the S2D97 antibiotic.
+# Thomson et al. (2020)
+N439K;K417V
+
+# Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
 # Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
 E484K
 
-Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
+# Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
 # Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
 E484D
 
-Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
+# Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
 # Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
 E484A
 
-Significant decrease in neutralization across 11 of 16 sera tested 7-17 days post symptoms onset.
+# Significant decrease in neutralization across 11 of 16 sera tested 7-17 days post symptoms onset.
 # Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
 S477N
 
-Significant decrease in neutralization across 4 of 16 sera tested 7-17 days post symptoms onset.
+# Significant decrease in neutralization across 4 of 16 sera tested 7-17 days post symptoms onset.
 # Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
 N450Y
 
