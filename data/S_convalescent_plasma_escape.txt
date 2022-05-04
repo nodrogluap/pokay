@@ -1,5 +1,73 @@
+# No effective neutralization in 1 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+T354S
+
+# No effective neutralization in 2 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+L441R
+
+# No effective neutralization in 3 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+K444E
+
+# No effective neutralization in 1 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+G446D
+
+# No effective neutralization in 3 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+G446V
+
+# No effective neutralization in 2 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+N450D
+
+# No effective neutralization in 2 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+N450Y
+
+# No effective neutralization in 3 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+L452R
+
+# No effective neutralization in 2 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+S477G
+
+# No effective neutralization in 2 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+T478I
+
+# No effective neutralization in all 4 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+E484A
+
+# No effective neutralization in all 4 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+E484D
+
+# No effective neutralization in all 4 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+E484G
+
+# No effective neutralization in all 4 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+E484K
+
+# No effective neutralization in 1 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+F486S
+
+# No effective neutralization in 3 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+F490S
+
+# No effective neutralization in 2 out of the 4 sera tested.
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
+S477N;S514
+
 # IC50 relative to wildtype drops ~8x in neutralization efficiency between 7-17 days post symptoms onset. 
-# Liu et al. (2020) https://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
 F486S
 
 # In 12 convalescent sera more than 2 weeks and less than 2 months post infection, this NTD mutation causes a ~3.5x drop in neutralization efficiency.
