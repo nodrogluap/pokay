@@ -1,0 +1,38 @@
+# This mutation (found in the lambda VOC) causes a 4.4x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. However, this did not impact the susceptability to Nirmatrelvir.
+# FDA (2021) https://www.fda.gov/media/155050/download
+G15S
+
+# This mutation causes a 3.5x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
+# FDA (2021) https://www.fda.gov/media/155050/download
+T135I
+
+# This mutation causes a 91.9x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
+# FDA (2021) https://www.fda.gov/media/155050/download
+S144A
+
+# This mutation causes a 6.4x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
+# FDA (2021) https://www.fda.gov/media/155050/download
+H164N
+
+# This mutation causes a 233x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
+# FDA (2021) https://www.fda.gov/media/155050/download
+H172Y
+
+# This mutation causes a 65.4x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
+# FDA (2021) https://www.fda.gov/media/155050/download
+Q189K
+
+# This mutation causes a 3.7x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
+# FDA (2021) https://www.fda.gov/media/155050/download
+D248E
+
+# This mutation causes a 23.6x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
+# FDA (2021) https://www.fda.gov/media/155050/download
+ Y54A
+
+# This mutation causes a 3.7x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
+# FDA (2021) https://www.fda.gov/media/155050/download
+
+
+# This mutation causes a 3.7x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
+# FDA (2021) https://www.fda.gov/media/155050/download
