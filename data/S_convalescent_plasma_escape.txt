@@ -1,18 +1,42 @@
 # Decreases in neutralization efficiency by ~25-50% in the S2D97 antibiotic.
-# Thomson et al. (2020)
+# Thomson et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.04.355842v1
 N439K
 
 # Decreases in neutralization efficiency by ~25-50% in the S2D97 antibiotic.
-# Thomson et al. (2020)
+# Thomson et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.04.355842v1
+N439K
+
+# Decreases in neutralization efficiency by ~25-50% in the S2D97 antibiotic.
+# Thomson et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.04.355842v1
 N439K;K417V
 
 # Decreases in neutralization efficiency by ~15-125% in the REGN10987 antibiotic.
-# Thomson et al. (2020)
+# Thomson et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.04.355842v1
 N439K
 
-# Decreases in neutralization efficiency by ~50-75% in the S2D97 antibiotic.
-# Thomson et al. (2020)
+# Decreases in neutralization efficiency by ~25-50% in the S2H14 antibiotic.
+# Thomson et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.04.355842v1
 N439K;K417V
+
+# Decreases in neutralization efficiency by ~25-50% in the S2H14 antibiotic.
+# Thomson et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.04.355842v1
+K417V
+
+# Decreases in neutralization efficiency by ~12-88% in the S2H7 antibiotic.
+# Thomson et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.04.355842v1
+N439K;K417V
+
+# Decreases in neutralization efficiency by ~12-88% in the S2H7 antibiotic.
+# Thomson et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.04.355842v1
+K417V
+
+# Increases in neutralization efficiency by ~25% in the S2X192 antibiotic.
+# Thomson et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.04.355842v1
+K417V 
+
+# Increases in neutralization efficiency by ~25% in the S2X192 antibiotic.
+# Thomson et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.04.355842v1
+N439K;K417V 
 
 # Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
 # Liu et al. (2021) https://doi.org/10.1016/j.chom.2021.01.014
