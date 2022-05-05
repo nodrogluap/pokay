@@ -34,10 +34,14 @@ D248E
 # FDA (2021) https://www.fda.gov/media/155050/download
 F140A
 
-# This mutation causes a 91.9x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
-# FDA (2021) https://www.fda.gov/media/155050/download
-S144A
-
 # This mutation causes a 33.4x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
 # FDA (2021) https://www.fda.gov/media/155050/download
 E166A 
+
+# This mutation in mouse hepatitis virus subsitution residue emerges in cell culture resistance assay. This resulted in 4-5x fold higher EC50 values.
+# FDA (2021) https://www.fda.gov/media/155050/download
+S144A;E55L
+
+# This causes a 91.9x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
+# FDA (2021) https://www.fda.gov/media/155050/download
+S144A
