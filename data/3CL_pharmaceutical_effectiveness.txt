@@ -30,9 +30,10 @@ D248E
 # FDA (2021) https://www.fda.gov/media/155050/download
  Y54A
 
-# This mutation causes a 3.7x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
+# This mutation causes a 39x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
 # FDA (2021) https://www.fda.gov/media/155050/download
+F140A
 
-
-# This mutation causes a 3.7x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
+# This mutation causes a 33.4x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
 # FDA (2021) https://www.fda.gov/media/155050/download
+E166A 
