@@ -6,10 +6,11 @@
 # Checkmahomed et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.07.479493v1
 V166L;P323L
 
-# This mutation (discovered in a immunocomprimised patient with protracted COVID-19 given remdesivir) is associated with a ~6-fold in remdesivir IC50 
+# This mutation (discovered in a immunocomprimised patient with protracted COVID-19 given remdesivir) is associated with a ~6-fold in remdesivir IC50. 
 # (i.e. increased resistance to treatment) in vitro, at some cost to viral fitness otherwise.
 # Gandhi et al. (2021) https://www.medrxiv.org/content/10.1101/2021.11.08.21266069v1
-# Szemiel et al (2021) https://doi.org/10.1371/journal.ppat.1009929 report a 2.5x reduction in remdesivir EC50 in the presence of this mutation
+# Report a 2.5x reduction in remdesivir EC50 in the presence of this mutation.
+# Szemiel et al (2021) https://doi.org/10.1371/journal.ppat.1009929
 E802D
 
 # Remdesivir failure with SARS-CoV-2 RNA-dependent RNA-polymerase mutation in a B-cell immunodeficient patient with protracted Covid-19
