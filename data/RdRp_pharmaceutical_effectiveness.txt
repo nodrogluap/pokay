@@ -1,3 +1,19 @@
+# This mutation causes a 7.3x fold drop in the binding of Remdesivir, decreasing the infectious virus production rate. 
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+E802D
+
+# This mutation causes a 2.6x fold drop in the binding of Remdesivir, decreasing the infectious virus production rate. 
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+E796G
+
+# This mutation causes a 2.9x fold drop in the binding of Remdesivir, decreasing the infectious virus production rate. 
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+E796G
+
+# This mutation causes a 1-1.25x fold increase in the binding of Remdesivir, increasing the infectious virus production rate. 
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+D484Y
+ 
 # This mutation combination (with construct P323L on a D614G wildtype backbone), 
 # is the only one present after 17 passages
 # in 10uM remdesivir. V166L is outside the active polymerase site. 
