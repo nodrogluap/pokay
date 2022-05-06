@@ -1,3 +1,35 @@
+# This mutant has an EC50 value of 0.0165 with Remdesivir.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+E796G
+
+# This mutant has an EC50 value of 0.0120 with Remdesivir.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+C799F
+
+# This mutant has an EC50 value of 0.0183 with Remdesivir.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+R10/C799F/E796G
+
+# This mutant has an EC50 value of 0.0727 with Remdesivir.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+R10/C799F
+
+# This mutant has an EC50 value of 0.0459 with Remdesivir.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+E802D
+
+# This mutant has an EC50 value of 0.0193 with Remdesivir.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+D484Y
+
+# This mutant has an EC50 value of 0.0095 with Remdesivir.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+F480L
+
+# This mutant has an EC50 value of 0.0237 with Remdesivir.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+F480L/V557L
+
 # This mutant has an inhibition rate of virus production by Remdesivir of 0.5.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
 C799F
