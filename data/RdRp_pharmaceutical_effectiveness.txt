@@ -1,3 +1,23 @@
+# This mutant has an inhibition rate of virus production by Remdesivir of 0.5.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+C799F
+
+# This mutant has an inhibition rate of virus production by Remdesivir of 0.38.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+R10;E796G;C799F
+
+# This mutant has an inhibition rate of virus production by Remdesivir of 0.58.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+R10/C799F
+
+# This mutant has an inhibition rate of virus production by Remdesivir of 0.80.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+F480L
+
+# This mutant has an inhibition rate of virus production by Remdesivir of 0.78.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+F480L/V557L
+
 # This mutant causes a 0.82x fold change in the infectious virus production rate.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
 E796G
