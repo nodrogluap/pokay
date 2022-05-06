@@ -1,3 +1,31 @@
+# This mutant causes a 0.82x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+E796G
+
+# This mutant causes a 0.29x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+C799F
+
+# This mutant causes a 0.54x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+R10;E796G;C799F
+
+# This mutant causes a 0.51x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+R10/C799F
+
+# This mutant causes a 0.55x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+D484Y
+
+# This mutant causes a 0.48x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+F480L
+
+# This mutant causes a 0.41x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+F480L/V557L
+
 # This mutation causes a 7.3x fold drop in the binding of Remdesivir, decreasing the infectious virus production rate. 
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
 E802D
@@ -13,7 +41,7 @@ E796G
 # This mutation causes a 1-1.25x fold increase in the binding of Remdesivir, increasing the infectious virus production rate. 
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
 D484Y
- 
+
 # This mutation combination (with construct P323L on a D614G wildtype backbone), 
 # is the only one present after 17 passages
 # in 10uM remdesivir. V166L is outside the active polymerase site. 
