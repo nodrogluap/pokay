@@ -1,3 +1,27 @@
+# At genome position 15836 this nsp12 mutation had a GS-441524 P13 Lineage 1 amino acid change in 38.31% of populations of serially passaged SARS-CoV-2.
+# Stevens et al. (2022) https://www.biorxiv.org/content/10.1101/2022.01.25.477724v1.full.pdf
+C799F
+
+# At genome position 15835 this nsp12 mutation had a GS-441524 P13 Lineage 2 amino acid change in 86.27% of populations of serially passaged SARS-CoV-2.
+# Stevens et al. (2022) https://www.biorxiv.org/content/10.1101/2022.01.25.477724v1.full.pdf
+C799R
+
+# At genome position 15715 this nsp12 mutation had a GS-441524 P13 Lineage 3 amino acid change in 99.27% of populations of serially passaged SARS-CoV-2. GS-441524 P13 Lineage 1 amino acid change in 61.72% of the population tested and PP nsp12-S759A/V792I amino acid change in 99.72% of the population tested.
+# Stevens et al. (2022) https://www.biorxiv.org/content/10.1101/2022.01.25.477724v1.full.pdf
+S759A
+
+# At genome position 14033 this nsp12 mutation had a GS-441524 P13 Lineage 1 amino acid change in 97.57% of populations of serially passaged SARS-CoV-2. 
+# Stevens et al. (2022) https://www.biorxiv.org/content/10.1101/2022.01.25.477724v1.full.pdf
+N198S
+
+# At genome position 13937 this nsp12 mutation had a GS-441524 P13 Lineage 1 amino acid change in 92.32% of populations of serially passaged SARS-CoV-2. 
+# Stevens et al. (2022) https://www.biorxiv.org/content/10.1101/2022.01.25.477724v1.full.pdf
+V166A
+
+# This mutation causes a 2.6x-8x fold decrease in binding to Remdesivir determined using MutALink bioinformatics pipeline. At genome position 15814 this nsp12 mutation had a GS-441524 P13 Lineage 3 amino acid change in 98.82% of populations of serially passaged SARS-CoV-2. PP nsp12-V792I amino acid change in 99.96% of the population tested and PP nsp12-S759A/V792I amino acid change in 99.97% of the population tested.
+# Stevens et al. (2022) https://www.biorxiv.org/content/10.1101/2022.01.25.477724v1.full.pdf
+V792I
+
 # Over a 5 day Remdesivir treatment period this mutant induced resistance to it in vitro. This mutation may emerge in vivo and cause failure of Remdesivir treatment failure.
 # Martinoit et al. (2020) https://academic.oup.com/cid/article/73/7/e1762/5912587?login=false
 D484Y
