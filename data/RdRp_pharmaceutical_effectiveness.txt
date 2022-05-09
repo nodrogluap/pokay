@@ -1,4 +1,4 @@
-# Over a 5 day Remdesivir treatment period this mutant 
+# Over a 5 day Remdesivir treatment period this mutant induced resistance to it in vitro. This mutation may emerge in vivo and cause failure of Remdesivir treatment failure.
 # Martinoit et al. (2020) https://academic.oup.com/cid/article/73/7/e1762/5912587?login=false
 D484Y
 
