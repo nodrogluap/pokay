@@ -6,7 +6,7 @@ C799F
 # Stevens et al. (2022) https://www.biorxiv.org/content/10.1101/2022.01.25.477724v1.full.pdf
 C799R
 
-# At genome position 15715 this nsp12 mutation had a GS-441524 P13 Lineage 3 amino acid change in 99.27% of populations of serially passaged SARS-CoV-2. GS-441524 P13 Lineage 1 amino acid change in 61.72% of the population tested and PP nsp12-S759A/V792I amino acid change in 99.72% of the population tested.
+# At genome position 15715 this nsp12 mutation had a GS-441524 P13 Lineage 3 amino acid change in 99.27% of populations of serially passaged SARS-CoV-2. GS-441524 P13 Lineage 1 amino acid change in 61.72% of the population tested and PP nsp12-S759A/V792I amino acid change in 99.72% of the population tested. This mutation had a 7x-9x fold decrease in sensitivity to RDV by EC50.
 # Stevens et al. (2022) https://www.biorxiv.org/content/10.1101/2022.01.25.477724v1.full.pdf
 S759A
 
