@@ -1,3 +1,15 @@
+# This mutation causes a greater than 100x fold change in IC50 of Ensovibep.
+# Rothenberger et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.03.429164v4
+F486V
+
+# This mutation causes a greater than 100x fold change in IC50 of Ensovibep.
+# Rothenberger et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.03.429164v4
+F486L
+
+# This mutation causes a greater than 16.2x fold change in IC50 of Ensovibep.
+# Rothenberger et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.03.429164v4
+N234Q
+
 # One individual of 30 in the study, with HLA supertype HLA*A24:02, had a linear epitope that overlaps this variant of concern.
 # Redd et al. (2021) https://www.medrxiv.org/content/10.1101/2021.02.11.21251585v1
 D80A
