@@ -1,3 +1,27 @@
+# This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*03:01.
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+T362I
+
+# This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*11:01.
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+T362I
+
+# This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*68:01.
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+T362I
+
+# This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*03:01.
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+P365S
+
+# This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*11:01.
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+P365S
+
+# This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*68:01.
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+P365S
+
 # Variant causes complete loss of T cell line responsiveness to B*27:05-restricted CD8+ N epitope QRNAPRITF 1-17(2,13).
 # de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
 P13L
