@@ -1,3 +1,15 @@
+# This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DRB1*15:01.
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+R765L
+
+# This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DQB1*05:03.
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+R765L
+
+# This mutation causes reduced recognition by CD4 positive t-cells in people with HLA class 2.
+# de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
+R765L
+
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DQB1*02:01.
 # de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
 M177I
