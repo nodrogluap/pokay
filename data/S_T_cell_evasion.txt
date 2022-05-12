@@ -7,7 +7,7 @@ L270F
 L270F
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*24:02.
-#	Motozono et al. (2021) https://www.cell.com/cell-host-microbe/pdfExtended/S1931-3128(21)00284-5
+# Motozono et al. (2021) https://www.cell.com/cell-host-microbe/pdfExtended/S1931-3128(21)00284-5
 Y453F
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DRB1*15:01.
