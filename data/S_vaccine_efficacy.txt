@@ -1,3 +1,9 @@
+# In a study of 481 vaccinees, going from lowest to highest infection rate, 2 doses of CoronaVac and 1 dose of BNT162b2 had the lowest infection rate at 6.3%, then it
+# was 3 doses of BNT162b2 having a infection rate of 16.6%. 2 and 3 doses of CoronaVac had 48.6% and 20.6% infection rate respectively. 2 doses of BNT162b2 has 
+# the highest infection rate at 49.2%.
+# Zhou et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.09.491254v1
+R408S;E484A;N501Y
+
 # In a Belgian study including 1,433,135 persons (vaccinated between July 2021 to April 2022) infection-acquired immunity offered additional protection 
 # against symptomatic infection with Omicron in vaccinated persons compared to those without previous infection, when the infection was up to one year previous.
 # Braeye et al. (2022) http://doi.org/10.1101/2022.05.09.22274623v1
