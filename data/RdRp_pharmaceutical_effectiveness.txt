@@ -36,11 +36,11 @@ C799F
 
 # This mutant has an EC50 value of 0.0183 with Remdesivir.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
-R10/C799F/E796G
+R10;C799F;E796G
 
 # This mutant has an EC50 value of 0.0727 with Remdesivir.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
-R10/C799F
+R10;C799F
 
 # This mutant has an EC50 value of 0.0459 with Remdesivir.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
@@ -56,7 +56,7 @@ F480L
 
 # This mutant has an EC50 value of 0.0237 with Remdesivir.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
-F480L/V557L
+F480L;V557L
 
 # This mutant has an inhibition rate of virus production by Remdesivir of 0.5.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
@@ -68,7 +68,7 @@ R10;E796G;C799F
 
 # This mutant has an inhibition rate of virus production by Remdesivir of 0.58.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
-R10/C799F
+R10;C799F
 
 # This mutant has an inhibition rate of virus production by Remdesivir of 0.80.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
@@ -76,7 +76,7 @@ F480L
 
 # This mutant has an inhibition rate of virus production by Remdesivir of 0.78.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
-F480L/V557L
+F480L;V557L
 
 # This mutation causes a 7.3x fold drop in the binding of Remdesivir, decreasing the infectious virus production rate. 
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
@@ -132,4 +132,4 @@ F479L
 
 # Tandem mutation confers significant (5.6x) resistance in vitro to remdesivir [coordinates mapped from reported V553L in murine hepatitis virus model experiment to SARS-CoV-2].
 # Agostini et al. (2018) http://dx.doi.org/10.1128/mBio.00221-18
-F479L,V556L
+F479L;V556L
