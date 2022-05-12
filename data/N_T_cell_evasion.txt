@@ -1,3 +1,11 @@
+# This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type B*40:01.
+# Agerer et al. (2021) https://www.science.org/doi/epdf/10.1126/sciimmunol.abg6461
+M322I
+
+# This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type B*40:01.
+# Agerer et al. (2021) https://www.science.org/doi/epdf/10.1126/sciimmunol.abg6461
+L331F
+
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type B*27:05.
 # de Silva et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.08.438904v1
 P13S
