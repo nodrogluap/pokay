@@ -1,0 +1,27 @@
+# This mutant causes a 1.2x fold drop (95% CI 0.98-1.56) in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+E796G
+
+# This mutant causes a 0.29x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+C799F
+
+# This mutant causes a 0.54x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+R10;E796G;C799F
+
+# This mutant causes a 0.51x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+R10;C799F
+
+# This mutant causes a 0.55x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+D484Y
+
+# This mutant causes a 0.48x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+F480L
+
+# This mutant causes a 0.41x fold change in the infectious virus production rate.
+# Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
+F480L;V557L
