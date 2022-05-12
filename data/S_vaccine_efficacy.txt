@@ -1,5 +1,5 @@
-# Infection-acquired immunity offered additional protection against symptomatic infection with Omicron in vaccinated persons compared to 
-# those without previous infection, when the infection was up to one year previous.
+# In a Belgian study including 1,433,135 persons (vaccinated between July 2021 to April 2022) infection-acquired immunity offered additional protection 
+# against symptomatic infection with Omicron in vaccinated persons compared to those without previous infection, when the infection was up to one year previous.
 # Braeye et al. (2022) http://doi.org/10.1101/2022.05.09.22274623v1
 # In sera from 17 sero-positive blood donors, and 18 months post-infection (May 2020) sera from 17 health 
 # care workers in Sweden, a 40x drop in neutralization by Omicron (B.1.1.529) pseudotyped lentivirus 
