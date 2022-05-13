@@ -4,6 +4,9 @@
 # Zhou et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.09.491254v1
 R408S;E484A;N501Y
 
+# # Pseudotyped virus neutralization demonstrated that Bi-Nab35B5-47D10 can efficiently neutralize VBMs including Alpha (B.1.1.7), Beta (B.1.351) and Kappa 
+# (B.1.617.1) and VOCs including Delta (B.1.617.2).
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
 # In a Belgian study including 1,433,135 persons (vaccinated between July 2021 to April 2022) infection-acquired immunity offered additional protection 
 # against symptomatic infection with Omicron in vaccinated persons compared to those without previous infection, when the infection was up to one year previous.
 # Braeye et al. (2022) http://doi.org/10.1101/2022.05.09.22274623v1
