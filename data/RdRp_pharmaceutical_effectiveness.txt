@@ -26,35 +26,35 @@ V792I
 # Martinoit et al. (2020) https://academic.oup.com/cid/article/73/7/e1762/5912587?login=false
 D484Y
 
-# This mutant has an EC50 value of 0.0165 with Remdesivir.
+# This mutant has a 0.38x fold change in EC50 value with Remdesivir.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
 E796G
 
-# This mutant has an EC50 value of 0.0120 with Remdesivir.
+# This mutant has a 0.53x fold change in EC50 value with Remdesivir.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
 C799F
 
-# This mutant has an EC50 value of 0.0183 with Remdesivir.
+# This mutant has a 0.34x fold change in EC50 value with Remdesivir.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
 R10;C799F;E796G
 
-# This mutant has an EC50 value of 0.0727 with Remdesivir.
+# This mutant has a 0.09x fold change in EC50 value with Remdesivir.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
 R10;C799F
 
-# This mutant has an EC50 value of 0.0459 with Remdesivir.
+# This mutant has a 0.14x fold change in EC50 value with Remdesivir.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
 E802D
 
-# This mutant has an EC50 value of 0.0193 with Remdesivir.
+# This mutant has a 0.33x fold change in EC50 value with Remdesivir.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
 D484Y
 
-# This mutant has an EC50 value of 0.0095 with Remdesivir.
+# This mutant has a 0.66x fold change in EC50 value with Remdesivir.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
 F480L
 
-# This mutant has an EC50 value of 0.0237 with Remdesivir.
+# This mutant has a 0.27x fold change in EC50 value with Remdesivir.
 # Torii et al. (2022) https://www.biorxiv.org/content/10.1101/2022.02.22.481436v1
 F480L;V557L
 
