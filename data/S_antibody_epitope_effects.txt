@@ -1,3 +1,52 @@
+
+# Neutralization of the bsAbs Bi-Nab35B5-47D10. Alpha (B.1.1.7) has an IC50 fold change of 1.19x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs Bi-Nab35B5-47D10. Beta (B.1.351) has an IC50 fold change of 0.13x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs Bi-Nab35B5-47D10. Kappa (B.1.617.1) has an IC50 fold change of 0.13x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs Bi-Nab47D10-35B5. Alpha (B.1.1.7) has an IC50 fold change of 1.44x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs Bi-Nab47D10-35B5. Beta (B.1.351) has an IC50 fold change of 0.15x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs Bi-Nab47D10-35B5. Kappa (B.1.617.1) has an IC50 fold change of 2.3x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs 35B5. Alpha (B.1.1.7) has an IC50 fold change of 1.39x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs 35B5. Beta (B.1.351) has an IC50 fold change of 0.13x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs 35B5. Kappa (B.1.617.1) has an IC50 fold change of 0.68x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the 47D10. Alpha (B.1.1.7) has an IC50 fold change of 0.40x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs 47D10. Beta (B.1.351) has an IC50 fold change of 0.88x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs 47D10. Kappa (B.1.617.1) has an IC50 fold change of 80.2x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
 # 8.3 fold drop in IC50 of P22A-1D1.
 # Zhang et al. (2021) https://doi.org/10.1038/s41467-021-24514-w
 K417R
