@@ -11,6 +11,18 @@ E484A;N501Y
 # Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
 E484A;N501Y
 
+# Neutralization of the bsAbs Bi-Nab35B5-47D10. Delta (B.1.617.2) has an IC50 fold change of 0.57x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs Bi-Nab35B5-47D10. Omicron BA.1 has an IC50 fold change of 0.30x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs Bi-Nab35B5-47D10. Omicron BA.2 has an IC50 fold change of 0.07x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Alpha (B.1.1.7) has an IC50 fold change of 1.44x.
 # Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
 E484A;N501Y
@@ -20,6 +32,18 @@ E484A;N501Y
 E484A;N501Y
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Kappa (B.1.617.1) has an IC50 fold change of 2.3x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs Bi-Nab47D10-35B5. Delta (B.1.617.2) has an IC50 fold change of 0.15x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs Bi-Nab47D10-35B5. Omicron BA.1 has an IC50 fold change of 0.08x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs Bi-Nab47D10-35B5. Omicron BA.2 has an IC50 fold change of 0.04x.
 # Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
 E484A;N501Y
 
@@ -35,6 +59,18 @@ E484A;N501Y
 # Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
 E484A;N501Y
 
+# Neutralization of the bsAbs 35B5. Delta (B.1.617.2) has an IC50 fold change of 0.87x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs 35B5. Omicron BA.1 has an IC50 fold change of 0.38x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs 35B5. Omicron BA.2 has an IC50 fold change of 0.09x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
 # Neutralization of the 47D10. Alpha (B.1.1.7) has an IC50 fold change of 0.40x.
 # Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
 E484A;N501Y
@@ -44,6 +80,18 @@ E484A;N501Y
 E484A;N501Y
 
 # Neutralization of the bsAbs 47D10. Kappa (B.1.617.1) has an IC50 fold change of 80.2x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs 47D10. Delta (B.1.617.2) has an IC50 fold change of 46.5x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs 47D10. Omicron BA.1 has an IC50 fold change of 1.26x.
+# Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
+E484A;N501Y
+
+# Neutralization of the bsAbs 47D10. Omicron BA.2 has an IC50 fold change of 0.08x.
 # Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
 E484A;N501Y
 
