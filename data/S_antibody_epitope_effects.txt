@@ -1,3 +1,30 @@
+# BnAb 002-S21F2 IC50 on the Alpha (B.1.1.7) variant is 1.0x fold the wildtype.
+# Kumar et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.13.491770v1
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
+# BnAb 002-S21F2 IC50 on the Beta (B.1.351) variant is 0.4x fold the wildtype.
+# Kumar et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.13.491770v1
+D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V	
+
+# BnAb 002-S21F2 IC50 on the Gamma (B.1.351) variant is 0.6x fold the wildtype.
+# Kumar et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.13.491770v1
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I		
+
+# BnAb 002-S21F2 IC50 on the Delta (B.1.617.2) variant is 0.6x fold the wildtype.
+# Kumar et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.13.491770v1
+T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N;G142D	
+
+# BnAb 002-S21F2 IC50 on the Omicron BA.1 variant is 1.0x fold the wildtype.
+# Kumar et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.13.491770v1
+A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G
+;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203
+K;G204R	
+
+# BnAb 002-S21F2 IC50 on the Omicron BA.2 variant is 0.8x fold the wildtype.
+# Kumar et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.13.491770v1
+T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;
+Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R	
+
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Alpha (B.1.1.7) has an IC50 fold change of 1.19x.
 # Yuan et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.11.491588v1.full.pdf
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
