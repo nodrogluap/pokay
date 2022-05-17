@@ -1,3 +1,30 @@
+# Plaque reduction neutralization test (PRNT) was used uring primary infection, post sixty daysof second dose vaccination, pre-reinfection and reinfection against B.1
+variant and was used to determine neutralizing antibodytitres. There was a 6.76x fold increase in antibody response from first infection to
+recovered and vaccinated with 2 doses (60 days). There was a 2.06x fold increase in antibody response pre-reinfection. There was a 8.18x fold increase in antibody
+response during reinfection.
+# Shete et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.12.491584v1.full.pdf
+A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G
+;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203
+K;G204R	
+
+# Plaque reduction neutralization test (PRNT) was used uring primary infection, post sixty daysof second dose vaccination, pre-reinfection and reinfection against
+Delta variant and was used to determine neutralizing antibodytitres. There was a 24.63x fold increase in antibody response from first infection to
+recovered and vaccinated with 2 doses (60 days). There was a 4.21x fold increase in antibody response pre-reinfection. There was a 39.27x fold increase in antibody
+response during reinfection. 
+# Shete et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.12.491584v1.full.pdf
+A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G
+;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203
+K;G204R	
+
+# Plaque reduction neutralization test (PRNT) was used uring primary infection, post sixty daysof second dose vaccination, pre-reinfection and reinfection against
+Omicron variant and was used to determine neutralizing antibodytitres. There was a 114.84x fold increase in antibody response from first infection to
+recovered and vaccinated with 2 doses (60 days). There was a 6.61x fold increase in antibody response pre-reinfection. There was a 1194.9x fold increase in antibody
+response during reinfection.
+# Shete et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.12.491584v1.full.pdf
+A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G
+;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203
+K;G204R	
+
 # BnAb 002-S21F2 IC50 on the Alpha (B.1.1.7) variant is 1.0x fold the wildtype in 42 COVI.
 # Kumar et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.13.491770v1
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
