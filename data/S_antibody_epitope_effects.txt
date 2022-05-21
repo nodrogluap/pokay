@@ -1,3 +1,7 @@
+# Utilizing shark derived vnarbodies, S375F mutation on Omicron RBD disrupts the structure of β-strand, which inhibits binding with 20G6. 20G6 binds to a hidden epitope on RBD which is highly conserved in sarbecoviruses.
+# Feng et al. (2022) https://onlinelibrary.wiley.com/doi/epdf/10.1002/smtd.202200387
+E484;N501Y
+
 # Plaque reduction neutralization test (PRNT) was used uring primary infection, post sixty daysof second dose vaccination, pre-reinfection and reinfection against B.1
 variant and was used to determine neutralizing antibodytitres. There was a 6.76x fold increase in antibody response from first infection to
 recovered and vaccinated with 2 doses (60 days). There was a 2.06x fold increase in antibody response pre-reinfection. There was a 8.18x fold increase in antibody
