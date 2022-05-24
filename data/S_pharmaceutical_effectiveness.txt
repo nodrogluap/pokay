@@ -1,3 +1,11 @@
+# Lung viral loads were tested by qRT‑PCR and RNA scope at 3 dpi and there was a ~2266x fold drop in the R3P1-E4 antibody in comparison to the IgG control.
+# Li et al. (2022) https://link.springer.com/content/pdf/10.1186/s13578-022-00794-7.pdf
+K417N;Q493H;N501Y
+
+# Trachea viral loads were tested by qRT‑PCR and RNA scope at 3 dpi and there was a ~750x fold drop in the R3P1-E4 antibody in comparison to the IgG control.
+# Li et al. (2022) https://link.springer.com/content/pdf/10.1186/s13578-022-00794-7.pdf
+K417N;Q493H;N501Y
+
 # Infectious viral titers in lung tissue determined using a tissue culture infectious dose (TCID) assay in 10 hamsters showed that Omicron MK-4482 had no statistically 
 # significant change.
 # Rosenke et al. (2022) https://insight.jci.org/articles/view/160108/pdf
