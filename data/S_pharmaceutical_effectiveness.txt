@@ -1,3 +1,18 @@
+# Out of 10 individuals with 2 doses of the BNT162b2/BNT162b2 vaccine, neutralizing titer in Omicron was ~100x folds more significant in 3 individuals.
+# Arora et al. (2022) https://www.nature.com/articles/s41423-022-00870-5#Sec1
+E484K,N501Y
+
+# All 10 individuals with 2 doses of the BNT162b2/BNT162b2 vaccine had a neutralizing titer in B.1 variant.
+# Arora et al. (2022) https://www.nature.com/articles/s41423-022-00870-5#Sec1
+A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G
+;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203
+K;G204R	
+
+# Out of 10 individuals with 2 doses of the BNT162b2/BNT162b2 vaccine, neutralizing titer in Omicron was ~1000x folds more significant in 8 individuals.
+# Arora et al. (2022) https://www.nature.com/articles/s41423-022-00870-5#Sec1
+P9L;E96Q;C136del;N137del;D138del;P139del;F140del;L141del;G142del;V143del;Y144del;R190S;I210T;R346S;N394S;Y449N;F490R;N501Y;D614G;P681H;T859N;D936H;P129L;E272G;L1301F;A
+1537A;S386F;R401H;T492I;V149A;P323L;T32I;Q57H;I82T;Q27*;D22Y;T205I;E378Q.
+
 # 100% of the 5 8‑month‑old male R3P1-E4 antibody treated mice suvived 14 days after infection while only 60% the control group mice survived 5 days post infection. 
 # Li et al. (2022) https://link.springer.com/content/pdf/10.1186/s13578-022-00794-7.pdf
 K417N;Q493H;N501Y
