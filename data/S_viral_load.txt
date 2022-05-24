@@ -3,6 +3,11 @@
 # Rosenke et al. (2022) https://insight.jci.org/articles/view/160108/pdf
 E484K,N501Y
 
+# Viral load from lung tissue from 11 hamsters in 10 treatments for Omicron MK-4482 had the greatest drop 3 days post-infection determined by quantitative RT-PCR 
+# targeting sgE in comparison to Alpha MK-4482, Beta MK-4482 and Delta MK-4482.
+# Rosenke et al. (2022) https://insight.jci.org/articles/view/160108/pdf
+E484K,N501Y
+
 # In 9 infected hamsters each for B.1 and B.1.617.1, no significant change in viral load or subgenomic RNA levels were detected. 
 # Yadav et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.05.442760v1
 L452R;E484Q;P681R
