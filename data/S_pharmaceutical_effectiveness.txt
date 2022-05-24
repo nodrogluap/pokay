@@ -1,8 +1,14 @@
-# Lung viral loads were tested by qRT‑PCR and RNA scope at 3 dpi and there was a ~2266x fold drop in the R3P1-E4 antibody in comparison to the IgG control.
+# 100% of the 5 8‑month‑old male R3P1-E4 antibody treated mice suvived 14 days after infection while only 60% the control group mice survived 5 days post infection. 
 # Li et al. (2022) https://link.springer.com/content/pdf/10.1186/s13578-022-00794-7.pdf
 K417N;Q493H;N501Y
 
-# Trachea viral loads were tested by qRT‑PCR and RNA scope at 3 dpi and there was a ~750x fold drop in the R3P1-E4 antibody in comparison to the IgG control.
+# Lung viral loads were tested by qRT‑PCR and RNA scope at 3 dpi on 5 8‑month‑old male mice and there was a ~2266x fold drop in the R3P1-E4 antibody in comparison to 
+# the IgG control.
+# Li et al. (2022) https://link.springer.com/content/pdf/10.1186/s13578-022-00794-7.pdf
+K417N;Q493H;N501Y
+
+# Trachea viral loads were tested by qRT‑PCR and RNA scope at 3 dpi on 5 8‑month‑old male mice and there was a ~750x fold drop in the R3P1-E4 antibody in comparison to 
+# the IgG control.
 # Li et al. (2022) https://link.springer.com/content/pdf/10.1186/s13578-022-00794-7.pdf
 K417N;Q493H;N501Y
 
