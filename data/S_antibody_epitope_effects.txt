@@ -1,3 +1,75 @@
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+A701V
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+Q677P
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+Q677H
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+K417T
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+K417N
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+L18F
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+N501Y
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+E484K
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+K417T
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+L18F
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+A701V
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+N501Y
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+E484K
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+K417N
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+L242_L244del
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+D215G
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+D80A
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+L18F
+
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7).
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 T716
