@@ -1,3 +1,8 @@
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Omicron (B.1.1.529 [BA.1])
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+L18F
+
 # Utilizing shark derived vnarbodies, S375F mutation on Omicron RBD disrupts the structure of β-strand, which inhibits binding with 20G6. 20G6 binds to a hidden epitope on RBD which is highly conserved in sarbecoviruses.
 # Feng et al. (2022) https://onlinelibrary.wiley.com/doi/epdf/10.1002/smtd.202200387
 E484;N501Y
