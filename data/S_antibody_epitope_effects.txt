@@ -1,34 +1,114 @@
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+T716
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Omicron (B.1.1.529 [BA.1])
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+S892A
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+P681H
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+A570D
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+N501Y
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+Y144del
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+H69_V70del
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+P681R
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+T478K
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+L452R
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+T19R
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.617 [India].
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+P681R
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.617 [India].
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+E484Q
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.617 [India].
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+L452R
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+P681H
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+T478K
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+S477N
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+K417N
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+T95I
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Omicron (B.1.1.529 [BA.1]).
+# Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
+L452R
+
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Omicron (B.1.1.529 [BA.1]).
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 L18F
 
-# Utilizing shark derived vnarbodies, S375F mutation on Omicron RBD disrupts the structure of β-strand, which inhibits binding with 20G6. 20G6 binds to a hidden epitope on RBD which is highly conserved in sarbecoviruses.
+# Utilizing shark derived vnarbodies, S375F mutation on Omicron RBD disrupts the structure of β-strand, which inhibits binding with 20G6. 20G6 binds to a hidden 
+# epitope on RBD which is highly conserved in sarbecoviruses.
 # Feng et al. (2022) https://onlinelibrary.wiley.com/doi/epdf/10.1002/smtd.202200387
 E484;N501Y
 
 # Plaque reduction neutralization test (PRNT) was used uring primary infection, post sixty daysof second dose vaccination, pre-reinfection and reinfection against B.1
-variant and was used to determine neutralizing antibodytitres. There was a 6.76x fold increase in antibody response from first infection to
-recovered and vaccinated with 2 doses (60 days). There was a 2.06x fold increase in antibody response pre-reinfection. There was a 8.18x fold increase in antibody
-response during reinfection.
+# variant and was used to determine neutralizing antibodytitres. There was a 6.76x fold increase in antibody response from first infection to
+# recovered and vaccinated with 2 doses (60 days). There was a 2.06x fold increase in antibody response pre-reinfection. There was a 8.18x fold increase in antibody
+# response during reinfection.
 # Shete et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.12.491584v1.full.pdf
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G
 ;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203
 K;G204R	
 
 # Plaque reduction neutralization test (PRNT) was used uring primary infection, post sixty daysof second dose vaccination, pre-reinfection and reinfection against
-Delta variant and was used to determine neutralizing antibodytitres. There was a 24.63x fold increase in antibody response from first infection to
-recovered and vaccinated with 2 doses (60 days). There was a 4.21x fold increase in antibody response pre-reinfection. There was a 39.27x fold increase in antibody
-response during reinfection. 
+# Delta variant and was used to determine neutralizing antibodytitres. There was a 24.63x fold increase in antibody response from first infection to
+# recovered and vaccinated with 2 doses (60 days). There was a 4.21x fold increase in antibody response pre-reinfection. There was a 39.27x fold increase in antibody
+# response during reinfection. 
 # Shete et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.12.491584v1.full.pdf
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G
 ;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203
 K;G204R	
 
 # Plaque reduction neutralization test (PRNT) was used uring primary infection, post sixty daysof second dose vaccination, pre-reinfection and reinfection against
-Omicron variant and was used to determine neutralizing antibodytitres. There was a 114.84x fold increase in antibody response from first infection to
-recovered and vaccinated with 2 doses (60 days). There was a 6.61x fold increase in antibody response pre-reinfection. There was a 1194.9x fold increase in antibody
-response during reinfection.
+# Omicron variant and was used to determine neutralizing antibodytitres. There was a 114.84x fold increase in antibody response from first infection to
+# recovered and vaccinated with 2 doses (60 days). There was a 6.61x fold increase in antibody response pre-reinfection. There was a 1194.9x fold increase in antibody
+# response during reinfection.
 # Shete et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.12.491584v1.full.pdf
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G
 ;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203
