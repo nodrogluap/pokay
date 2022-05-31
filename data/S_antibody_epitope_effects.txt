@@ -1,264 +1,264 @@
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Broad USA variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Broad USA variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 Q677P
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in D614G variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in D614G variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 D614G
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Cluster 5/Mink variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Cluster 5/Mink variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 l692V
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Cluster 5/Mink variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Cluster 5/Mink variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 N501T
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Cluster 5/Mink variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Cluster 5/Mink variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 Y453F
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Cluster 5/Mink variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Cluster 5/Mink variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 H69_V70del
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Florida variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Florida variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 K1191N
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Florida variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Florida variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 Q493K
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.258 variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.258 variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 N439K
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.258 variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.258 variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 H69_V70del
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Epsilon (B.1.427/429) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Epsilon (B.1.427/429) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 L452R
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Epsilon (B.1.427/429) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Epsilon (B.1.427/429) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 W152C
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Epsilon (B.1.427/429) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Epsilon (B.1.427/429) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 S13I
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.526.1 [B.1.637] variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.526.1 [B.1.637] variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 L452R
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.526.1 [B.1.637] variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.526.1 [B.1.637] variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 Y144del
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.526.1 [B.1.637] variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.526.1 [B.1.637] variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 D80G
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 A701V
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 E484K
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 S477N
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 D253G
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 T95l
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 L5F
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Eta (B.1.525) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Eta (B.1.525) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 Q677H
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Eta (B.1.525) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Eta (B.1.525) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 E484K
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Eta (B.1.525) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Eta (B.1.525) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 Y144del
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Eta (B.1.525) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Eta (B.1.525) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 H69_V70del
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Zeta (P.2) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Zeta (P.2) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 E484K
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2).
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2) from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 A701V
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2).
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2) from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 Q677P
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2).
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2) from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 Q677H
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2).
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2) from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 K417T
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2).
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2) from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 K417N
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2).
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2) from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 L18F
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 N501Y
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 E484K
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 K417T
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 L18F
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 A701V
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 N501Y
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 E484K
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 K417N
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 L242_L244del
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 D215G
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 D80A
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 L18F
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 T716
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 S892A
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 P681H
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 A570D
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 N501Y
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 Y144del
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 H69_V70del
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 P681R
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 T478K
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 L452R
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 T19R
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.617 [India] variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.617 [India] variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 P681R
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.617 [India] variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.617 [India] variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 E484Q
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.617 [India] variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.617 [India] variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 L452R
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 P681H
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 T478K
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 S477N
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 K417N
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant.
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 T95I
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Omicron (B.1.1.529 [BA.1]).
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Omicron (B.1.1.529 [BA.1]) from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 L452R
 
-# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Omicron (B.1.1.529 [BA.1]).
+# Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Omicron (B.1.1.529 [BA.1]) from 391 RNA specimens.
 # Hernandez et al. (2022) https://www.medrxiv.org/content/10.1101/2022.05.28.22275691v1
 L18F
 
