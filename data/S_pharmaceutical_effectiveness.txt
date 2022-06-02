@@ -1,6 +1,6 @@
 # Out of 10 individuals with 2 doses of the BNT162b2/BNT162b2 vaccine, neutralizing titer in Omicron was ~100x folds more significant in 3 individuals.
 # Arora et al. (2022) https://www.nature.com/articles/s41423-022-00870-5#Sec1
-E484K,N501Y
+E484K;N501Y
 
 # All 10 individuals with 2 doses of the BNT162b2/BNT162b2 vaccine had a neutralizing titer in B.1 variant at an average of 729 NT50.
 # Arora et al. (2022) https://www.nature.com/articles/s41423-022-00870-5#Sec1
