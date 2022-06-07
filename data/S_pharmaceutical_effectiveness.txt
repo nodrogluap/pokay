@@ -17,6 +17,16 @@ Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R3
 A67V;H69del;V70del;T95I;G142D;N211del;L212I;S371F;S373P;S375F;D405N;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N96
 9K;S135R;G489S;T327I;T492I;P132H;L105_G107del;P323L;I42V;T223I;T9I;Q19E;A63T;P13L;E31_S33del;R203K;G204R;S413R
 
+# Omicron BA.4 have higher sensitivity to inhibition by soluble angiotensin converting enzyme 2 (ACE2) and the endosomal inhibitor chloroquine compared 
+# to D614G
+# Neerukonda et al. (2022) https://outbreak.info/resources/2022.06.01.494385
+E484K;N501Y
+
+# Omicron BA.5 have higher sensitivity to inhibition by soluble angiotensin converting enzyme 2 (ACE2) and the endosomal inhibitor chloroquine compared 
+# to D614G
+# Neerukonda et al. (2022) https://outbreak.info/resources/2022.06.01.494385
+E484K;N501Y
+
 # Out of 10 individuals with 2 doses of the BNT162b2/BNT162b2 vaccine, neutralizing titer in Omicron was ~100x folds more significant in 3 individuals.
 # Arora et al. (2022) https://www.nature.com/articles/s41423-022-00870-5#Sec1
 E484K;N501Y
