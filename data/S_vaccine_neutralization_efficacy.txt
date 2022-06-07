@@ -1,3 +1,22 @@
+# Omicron B.1.1.529 (BA.1) neutralization of the Omicron variants by antibodies induced by three doses of Pfizer/BNT162b2 mRNA vaccine was 7-8-fold less potent than 
+# the D614G, and the Omicron variants still evade neutralization more efficiently.
+# Neerukonda et al. (2022) https://outbreak.info/resources/2022.06.01.494385
+A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G
+;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203
+K;G204R	
+
+# Omicron BA.2 neutralization of the Omicron variants by antibodies induced by three doses of Pfizer/BNT162b2 mRNA vaccine was 7-8-fold less potent than the D614G, and 
+# the Omicron variants still evade neutralization more efficiently.
+# Neerukonda et al. (2022) https://outbreak.info/resources/2022.06.01.494385
+T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;
+Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R	
+
+# Omicron BA.3 neutralization of the Omicron variants by antibodies induced by three doses of Pfizer/BNT162b2 mRNA vaccine was 7-8-fold less potent than the D614G, and 
+# the Omicron variants still evade neutralization more efficiently.
+# Neerukonda et al. (2022) https://outbreak.info/resources/2022.06.01.494385
+A67V;H69del;V70del;T95I;G142D;N211del;L212I;S371F;S373P;S375F;D405N;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N96
+9K;S135R;G489S;T327I;T492I;P132H;L105_G107del;P323L;I42V;T223I;T9I;Q19E;A63T;P13L;E31_S33del;R203K;G204R;S413R
+
 # Using a pseudovirus assay and 6 ChAdOx1 vaccinee sera, this RBD mutation conferred a 2.36x drop in neutralization (NT50).
 # Mishra et al. (2021) https://www.biorxiv.org/content/10.1101/2021.10.04.463028v1
 L452R;D614G
