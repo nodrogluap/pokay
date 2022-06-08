@@ -1,3 +1,7 @@
+# Using molecular dynamics simulation, ACE2-RBD (Omicron) complex is destabilized by the E484A and Y505H mutations and stabilized by S477N and N501Y mutations.
+# Zhang et al. (2022) https://outbreak.info/resources/2022.06.05.493249
+E484A;Y505H;S477N;N501Y
+
 # DARPin SR16m molecule had a 0.036x fold change in IC50 in B.1.351 Beta
 # Chonira et al. (2022) https://www.biorxiv.org/content/10.1101/2022.05.30.493765v1
 L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
