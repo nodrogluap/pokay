@@ -1,3 +1,8 @@
+# Omicron (B.1.1.529/BA.1/BA.2) has 3x fold greater mutated residues than Delta (B.1.617.2) in 159,981 Delta (B.1.617.2) sequences and 5,441 Omicron 
+(B.1.1.529/BA.1/BA.2) sequences.
+# Venkatakrishnan et al. (2022) https://outbreak.info/resources/2022.06.03.22275976
+E484K,N501Y
+
 # Viral load from oral swabs from 11 hamsters in 10 treatments for Omicron MK-4482 had the greatest drop 3 days post-infection determined by quantitative RT-PCR 
 # targeting sgE in comparison to Alpha MK-4482, Beta MK-4482 and Delta MK-4482.
 # Rosenke et al. (2022) https://insight.jci.org/articles/view/160108/pdf
