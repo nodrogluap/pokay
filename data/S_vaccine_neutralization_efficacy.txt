@@ -1,3 +1,7 @@
+# 7 feline cats Delta (B.1.617.2) serum  samples  from  cats  at  days  0, 7, and 14  pi were  analyze. NAbs titers to SARS-CoV-2 
+# Martins et al. (2022) https://doi.org/10.1101/2022.06.15.496220v1
+T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
+
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.1 (from Botswana/R40B59_BHP_3321001248/2021) were 3.4-fold lower (95% CI: 3.2x-3.6x) than against 
 # US-WA1/2020 using an infectious cDNA clone of mNG USA-WA1/2020.
