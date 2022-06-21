@@ -1112,51 +1112,51 @@ F140del
 E484K
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 Y145del
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 Q414E
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 N439K
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 G446V
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 K458N
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 I472V
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 A475V
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 T478I
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 V483I
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
 # Resistent to 3 individual sera at >4x
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 F490L
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
 # Resistent to 3 individual sera at >4x
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 H519P
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 A831V
