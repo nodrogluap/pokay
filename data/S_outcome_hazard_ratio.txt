@@ -39,7 +39,7 @@ T95I;D253G;D614G
 # Significant increase in hospitalization rate (11% vs 7.5% for non-VOC cases).
 # Significant increase in ICU rate (1.4% vs 0.6% for non-VOC cases).
 # Significant decrease in death rate (2.0% vs vs 4.0% for non-VOC cases).
-# Funk et al. (2021) https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.16.2100348
+# Funk et al. (2021) https://doi.org/10.2807/1560-7917.ES.2021.26.16.2100348
 # The matching-adjusted conditional odds ratio of hospitalisation was 1.58 (95% confidence interval 1.50 to 1.67) for COVID-19 patients 
 # infected with a SGTF-associated variant [primarily B.1.1.7], compared to those infected with non-SGTF-associated variants. 
 # The effect was modified by age (p<0.001), with ORs of 0.96-1.13 below age 20 years and 1.57-1.67 in age groups 40 years or older.
@@ -78,7 +78,7 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # Significant increase in hospitalization rate (20% vs 7.5% for non-VOC cases).
 # Significant increase in ICU rate (2.1% vs 0.6% for non-VOC cases).
 # Significant increase in health care worker rate (19.8% vs 8.0% for non-VOC cases).
-# Funk et al. (2021) https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.16.2100348
+# Funk et al. (2021) https://doi.org/10.2807/1560-7917.ES.2021.26.16.2100348
 # In the Parana state of Brazil, patients aged 20-29 years experienced a tripling of their case fatality rate (CFR), from 0.04% to 0.13%, while those aged 
 # 30-39, 40-49, 50-59 experienced approximate CFR doubling comparing February to January in 2021. Notably, 
 # the observed CFR increase coincided with the second consecutive month of declining number of diagnosed SARS-CoV-2 cases. 
@@ -94,5 +94,5 @@ L18F;K417T;E484K;N501Y;H655Y
 # Significant increase in hospitalization rate (19.3% vs 7.5% for non-VOC cases).
 # Significant increase in ICU rate (2.3% vs 0.6% for non-VOC cases).
 # PG: seems to be different notations around the LAL deletion, using the minimal shared definition to catch as many as possible.
-# Funk et al. (2021) https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2021.26.16.2100348
+# Funk et al. (2021) https://doi.org/10.2807/1560-7917.ES.2021.26.16.2100348
 D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
