@@ -43,7 +43,7 @@ T95I;D253G;D614G
 # The matching-adjusted conditional odds ratio of hospitalisation was 1.58 (95% confidence interval 1.50 to 1.67) for COVID-19 patients 
 # infected with a SGTF-associated variant [primarily B.1.1.7], compared to those infected with non-SGTF-associated variants. 
 # The effect was modified by age (p<0.001), with ORs of 0.96-1.13 below age 20 years and 1.57-1.67 in age groups 40 years or older.
-# Nyberg et al. (2021) https://arxiv.org/abs/2104.05560
+# Nyberg et al. (2021) https://doi.org/10.48550/arXiv.2104.05560
 # Using UK data 1 November 2020 to 14 February 2021, while correcting for misclassification of PCR test Spike Gene Target Failure (SGTF)
 # and missingness in SGTF status, we estimate that the hazard of death associated with B.1.1.7 is 61% (42–82%) higher than with 
 # pre-existing variants after adjustment for age, sex, ethnicity, deprivation, residence in a care home, the local authority of residence and test date. 
