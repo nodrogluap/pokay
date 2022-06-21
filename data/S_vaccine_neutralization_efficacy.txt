@@ -405,7 +405,7 @@ E484K
 # of the ChAdOx1-S vaccine was about 60-75% effective against symptomatic disease and provided an additional protective effect against hospital 
 # admission—it is too early to assess the effect on mortality. The B.1.1.7 variant now dominates in the UK and these results will largely 
 # reflect vaccine effectiveness against this variant.
-# Lopez Bernal et al. (2021) https://pubmed.ncbi.nlm.nih.gov/33985964/
+# Lopez Bernal et al. (2021) https://doi.org/10.1136/bmj.n1088
 # SARS-CoV-2 infection was confirmed in three HCWs working a single shift; all presented with mild symptoms of COVID-19. The two physicians 
 # were fully vaccinated with BNT162b2 vaccine, with the second dose administered 1 month before symptom onset. Both had high titres of IgG 
 # anti-spike antibodies at the time of diagnosis. WGS confirmed that all virus strains were VOC 202012/01-lineage B.1.1.7, suggesting a 
