@@ -954,7 +954,7 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of vaccine was significantly lower against B.1.351 (12.4x in twelve Moderna-recipient sera; 10.3x in ten Pfizer-recipient sera).
 # [this is a larger list of B.1.351 than modeled by Wang et al. (2021) by including L18F and R246I, less effective at neutralizing]
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 # Neutralization efficiency (ID50) against B.1.1.351-v1 reduced 6.9x relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster.
 # Choi et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.28.449914v1
 # 3.2x reduction in neutralization (ID50) in sera 3 weeks after one dose of Pfizer/BioNTech BNT162b2 (up to 5 naive and post infection vaccinees)
