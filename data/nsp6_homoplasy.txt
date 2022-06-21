@@ -16,7 +16,7 @@ g.C11074U
 # Could significantly modify COVID-19 pathogenicity by altering the host autophagic lysosomal antiviral machinery.
 # O'Leary and Ovsepian (2020) https://dx.doi.org/10.1016%2Fj.tig.2020.08.014
 # By analyzing the distribution of 11083G>T in various countries, we unveil that 11083G>T may correlate with the hypotoxicity of SARS-CoV-2...L37F has made NSP6 energetically less stable
-# Wang et al. (2020) https://arxiv.org/abs/2007.01344
+# Wang et al. (2020) https://doi.org/10.48550/arXiv.2007.01344
 # Destabilization of NSP6 also predicted in this paper.
 # Sadar et al. (2020) https://doi.org/10.1016/j.heliyon.2020.e04658 
 L37F
