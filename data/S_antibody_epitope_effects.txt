@@ -1007,7 +1007,7 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 D80A
 
 # 10-fold reduction in binding efficiency vs wild type for MAb REGN10933.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 Y453F
 
 # Resistent to class 2/3 antibody C603.
@@ -1053,7 +1053,7 @@ K444E
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 # Abolishes binding efficiency vs wild type for mAb REGN10933.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 K444N
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
@@ -1063,7 +1063,7 @@ G446D
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 # Massive reduction in binding efficiency vs wild type for mAb REGN10933.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 G446V
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
@@ -1151,7 +1151,7 @@ K417N
 # Pseudotyped virus model impairs neutralization by RBD-directed mAb COV2-2196 (somewhat more than fully pseudotyped B.1.351 or live virus)
 # Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 # Massive reduction in binding efficiency vs wild type for mAb LY-CoV555.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 E484K
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 4 antibodies, 
@@ -1162,7 +1162,7 @@ E484A
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb 1B07.
 # Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 # Massive reduction in binding efficiency vs wild type for mAb LY-CoV555.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 E484D
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 5 antibodies.
@@ -1180,7 +1180,7 @@ F490S
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb SARS2-01.
 # Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 # Greater than 10-fold rediuction of binding effeiency vs wild type for mAb LY-CoV555.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 S494P
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 3 antibodies.
@@ -1259,7 +1259,7 @@ N439K
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 # Greater than 10-fold reduction of binding effeiency vs wild type for mAb LY-CoV555.
 # Abolishes binding of mAb ADG-1.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 # N501Y substitution decreased the neutralizing and binding activities of CB6 and increased that of BD-23
 # Cheng et al. (2021) https://virologyj.biomedcentral.com/articles/10.1186/s12985-021-01554-8
 N440K
@@ -1290,7 +1290,7 @@ A475V
 # Mix of non- to strongly resistent in class 2 antibodies tested.
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 # Massive reduction in binding efficiency vs wild type for mAbs CB6/LY-CoV16 and LY-CoV555.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 Q493R
 
 # Resistent to neutralizing mAb H014
