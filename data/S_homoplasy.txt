@@ -9,7 +9,7 @@
 g.C24034U
 
 # Mutation has arisen independently multiple times, twice forming significant lineages
-# Thomson et al. (2021) https://www.cell.com/cell/fulltext/S0092-8674(21)00080-5
+# Thomson et al. (2021) https://doi.org/10.1016/j.cell.2021.01.037
 N439K
 
 # Variant within the six key residues in the receptor binding domain (RBD). Independently reported in UK, Australia 
