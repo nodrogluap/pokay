@@ -839,7 +839,7 @@ H69del;V70del;Y145del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Sera after the second dose of Pfizer showed an average reduction in neutralization titres against the B.1.1.7 + E484K 
 # variant of ~6.7x, markedly higher than B.1.1.7 alone. For first dose sera, a 9.7x drop was observed.
-# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+# Collier et al. (2021) https://doi.org/10.1038/s41586-021-03412-7
 # Neutralization efficiency (ID50) against B.1.1.7+E484K reduced 2.8x relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster.
 # Compare with 1.2x reduction for B.1.1.7 without E484K.
 # Choi et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.28.449914v1
@@ -848,7 +848,7 @@ H69del;V70del;Y144del;E484K;N501Y;A570D;P681H;T716I;S982A;D1118H
 # 20/29 sera after the first dose of Pfizer showed an average reduction in neutralization titres against the B.1.1.7 variant of 3.2 ± 5.7.
 # After the second dose, the GMT was markedly increased compared with the first-dose titres, with a fold change of 1.9 ± 0.9 (mean ± s.d.).
 # Neutralization GMT of 27 subjects post-infection was considerably higher (stronger) than after the second Pfizer dose, and 4.5x drop in B.1.1.7 neutralization was observed.
-# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+# Collier et al. (2021) https://doi.org/10.1038/s41586-021-03412-7
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Pzifer vaccinees that tested positive at least a week after the second dose were indeed disproportionally infected with B.1.351, 
