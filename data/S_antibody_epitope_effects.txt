@@ -1422,7 +1422,7 @@ A570D
 # Together with other B1.1.7 lineage mutational changes (Spike: Y144del,N501Y, A570D Nucleoprotein: D3L, S235F) resulted in only 2 of 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen.
 # Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
 # This variant is adjacent to the Spike protein furin cleavage site (cleavage of S into S1 and S2 subunits is required for viral membrane fusion and subsequent entry into host cells), a site shown to be highly immunogenic.
-# Johnson et al. (2020)  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457603/ 
+# Johnson et al. (2020)  https://doi.org/10.1101%2F2020.08.26.268854 
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 P681H
