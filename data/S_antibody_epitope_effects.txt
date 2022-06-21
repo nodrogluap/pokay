@@ -1261,7 +1261,7 @@ N439K
 # Abolishes binding of mAb ADG-1.
 # Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 # N501Y substitution decreased the neutralizing and binding activities of CB6 and increased that of BD-23
-# Cheng et al. (2021) https://virologyj.biomedcentral.com/articles/10.1186/s12985-021-01554-8
+# Cheng et al. (2021) https://doi.org/10.1186/s12985-021-01554-8
 N440K
 
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
