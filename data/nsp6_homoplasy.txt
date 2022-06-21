@@ -8,7 +8,7 @@ g.C11074U
 # High quality non-synonymous homoplasies from a paper, where functional fitness is presumed.
 # Van Dorp et al. (2020) https://doi.org/10.1016/j.meegid.2020.104351
 # PG: Directly flanks a lumenal (endoplasmic reticulum bound) domain, NSPs "rush to the ER" for assembly of the replication and transcriptional machinery.
-# Santerre et al. (2020) https://link.springer.com/article/10.1007/s00415-020-10197-8
+# Santerre et al. (2020) https://doi.org/10.1007/s00415-020-10197-8
 # PG: Effect is for reported homoplasy g.G11083T.
 # PG: This variant has appeared independently many times in the tree, and lead to multiple extended lineages. 
 # PG: G->T is not easily explained by base deamination or cross-linking artefacts.
@@ -25,5 +25,5 @@ L37F
 # a.k.a ORF1a:p.3675_3677del or NC_045512:g.11288_11296del
 # Rambaut (2021) https://github.com/cov-lineages/pango-designation/issues/4
 # PG: Directly flanks a lumenal (endoplasmic reticulum bound) domain, NSPs "rush to the ER" for assembly of the replication and transcriptional machinery.
-# Santerre et al. (2020) https://link.springer.com/article/10.1007/s00415-020-10197-8
+# Santerre et al. (2020) https://doi.org/10.1007/s00415-020-10197-8
 S106del,G107del,F108del
