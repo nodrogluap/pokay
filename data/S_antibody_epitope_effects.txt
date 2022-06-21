@@ -1242,7 +1242,7 @@ A475V
 # 6.8% of 442 tested post-infection sera showed a greater than two-fold
 # reduction in binding to N439K RBD as compared to WT. In some individuals, the >two-fold reduction diminished the RBD ED50 response below 30
 # a threshold previously determined to be a cutoff for specific binding
-# Thomson et al. (2021) https://www.cell.com/cell/fulltext/S0092-8674(21)00080-5
+# Thomson et al. (2021) https://doi.org/10.1016/j.cell.2021.01.037
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
 # but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
