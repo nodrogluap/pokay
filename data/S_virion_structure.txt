@@ -42,7 +42,7 @@ H69del;V70del;N501Y;P681H
 # Zhang et al. (2020) https://doi.org/10.1038/s41467-020-19808-4
 # CryoEM shows increased proportion of "one-up" trimer conformation of Spike proteins on the surface of virions, where the up 
 # conformation is presumed to be more likely to bind ACE2.
-# Yurkovetskiy et al. (2020) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7492024/
+# Yurkovetskiy et al. (2020) https://doi.org/10.1016%2Fj.cell.2020.09.032
 # Negative stain EM shows increased proportion of "one-up" trimer conformation of Spike proteins on the surface of virions, where the up 
 # conformation is presumed to be more likely to bind ACE2.
 # Weissman et al. (2020) https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v2
