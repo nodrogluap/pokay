@@ -693,7 +693,7 @@ S13I;W152C;L452R
 # Lineage B.1.1.7 spike–pseudotyped VSV was tested for neutralization vs Wuhan reference genome pseudotype in 40 sera collected
 # 7 or 21 days post-booster dose. Statistically significant change (22%) in neutralization was observed among the 26 sera from those <=55yo, 
 # but not in the 14 sera from those >55yo. A ~20% change is not considered immunologically significant historically in influenza antibody studies. 
-# Muik et al. (2021) https://science.sciencemag.org/content/371/6534/1152
+# Muik et al. (2021) https://doi.org/10.1126/science.abg6105
 # Vaccine elicited antibodies neutralized virus with the B.1.1.7 spike protein with titers similar to D614G virus. Serum specimens 
 # from individuals vaccinated with the BNT162b2 mRNA vaccine neutralized D614G virus with titers that were on average 7-fold greater than convalescent sera.
 # Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003
