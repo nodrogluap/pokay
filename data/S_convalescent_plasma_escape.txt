@@ -759,7 +759,7 @@ E484Q
 # neutralization of all 16 convalescent sera tested, averaging WT ratio of 0.41+-0.08 (less dramatic than E484K). 
 # This amino acid emerges as an additional hotspot for immune evasion and a target for therapies, vaccines and diagnostics.
 # It has emerged independently in multiple lineages.
-# Alenquer et al. (2021) http://biorxiv.org/cgi/content/short/2021.04.22.441007
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007
 # In 2 of 11 subjects' convalescent sera in an early+late mutational landscape analysis of the RBD, 
 # S484P shows a slightly resistent profile across both timepoints (i.e. resistant to immune cell somatic mutation evolution)
 # Greaney et al. (2021) https://doi.org/10.1016/j.chom.2021.02.003
