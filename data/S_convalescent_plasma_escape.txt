@@ -882,7 +882,7 @@ H69del;V70del;Y493F
 S982A
 
 # B.1.1.351 in 19 convalescent human sera ~1mo post infection had mild to moderate resistence against all samples
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Demonstrate (via competitive assays in human and mouse) immune escape from polyclonal antibodies induced
@@ -892,27 +892,27 @@ D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 # reduced as confirmed here.
 # Vogel et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.04.433887v1
 # In 19 convalescent human sera ~1mo post infection had mild to moderate resistence against most samples
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 K417N;E484K;N501Y 
 
 # In 19 convalescent human sera ~1mo post infection had mild to moderate resistence against all samples. 
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 E484K;N501Y
 
 # B.1.1.248 variant constellation in 10 convalescent human sera ~1mo post infection had mild to moderate resistence against most samples, P=0.0020.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # In 19 convalescent human sera ~1mo post infection, Two-tailed Wilcoxon matched-pairs signed-rank test shows mild resistence P=0.0361.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 K417N
 
 # B.1.1.7 variant constellation two-tailed Wilcoxon matched-pairs signed-rank test against 10 convalescent sera P=0.0039 for mild resistence.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # B.1.1.351 variant constellation two-tailed Wilcoxon matched-pairs signed-rank test against 10 convalescent sera P=0.0020 for moderate resistence.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest

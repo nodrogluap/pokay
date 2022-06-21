@@ -1106,26 +1106,26 @@ T478I
 # Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody P2B-2F6 on 501Y.V2 ("South African") lineage background
 # Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
 # Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 K417N;E484K;N501Y
 
 # Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 E484K;N501Y
 
 # B.1.1.248 variant constellation ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07.
 # B.1.1.248 variant constellation ablates Class 3 N-terminal domain targeting antibody COV2-2676.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # B.1.1.7 variant constellation ablates Class 3 N-terminal domain targeting antibody COV2-2489. 
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 H69del;V70del;Y144del;Y145del;N501Y;A570D;D614G;P681H
 
 # B.1.1.351 variant constellation ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
 # B.1.1.351 variant constellation ablates Class 3 N-terminal domain targeting antibodies COV2-2489 and COV2-2676 (the only two tested). 
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # 5 antibodies tested were less potent against K417N by ten-fold or more (class 1 mAbs)
@@ -1146,7 +1146,7 @@ K417N
 # or greater reduction in neutralization (plus notable reudction in two unclassfied mAbs).
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 # Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384 and S2H58.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w
 # Pseudotyped virus model ablates neutralization by RBD-directed mAbs 4-20, 2-4, 2-43, 2-30, 2-15, LY-Cov555, C121.
 # Pseudotyped virus model impairs neutralization by RBD-directed mAb COV2-2196 (somewhat more than fully pseudotyped B.1.351 or live virus)
 # Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
@@ -1405,7 +1405,7 @@ S254F
 # 4 antibodies tested were less potent against K417N by ten-fold or more, in both mAb classes 1 and 3
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 # Reduction in neutralization by mAbs COVA1-18 (~4x), COVA2-15 (~9x), S309 (~3x)
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
 # Lowered	the	neutralization potency of mAb COVA1-12 to the	limit	of the assay.
@@ -1424,7 +1424,7 @@ A570D
 # This variant is adjacent to the Spike protein furin cleavage site (cleavage of S into S1 and S2 subunits is required for viral membrane fusion and subsequent entry into host cells), a site shown to be highly immunogenic.
 # Johnson et al. (2020)  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457603/ 
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 P681H
 
 # Not in a major wildtype epitope, mutant increases PIWAS epitope score from 0.69% to 2.3%
@@ -1451,7 +1451,7 @@ W633P
 S686V
 
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 # Reduction in neutralization by mAbs COVA1-18 (~4x), COVA2-15 (~9x).
 # PG: these effects are laregly missing in the deletion-alone data
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2

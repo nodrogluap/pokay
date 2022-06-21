@@ -962,18 +962,18 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 L18F,D80A,D215G,L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of vaccine was significantly lower against B.1.351 in sera from all 24 patients with the BNT162b2 mRNA vaccine. (Fig. 4)
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 D80A,L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of vaccine was slightly lower against B.1.1.248 variant constellation in sera tested from most of the 15 patients with 
 # the BNT162b2 mRNA vaccine. (Fig. 4)
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # The neutralizing activity of vaccine was slightly to significantly lower against this variant combination in sera from all 24 patients with 
 # the BNT162b2 mRNA vaccine. (Fig. 4)
 # [In stark contrast to this combination plus K417N, which had no effect (P<0.0001 vs. P=0.8774)]
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w
 # In 20 sera from BNT162b2 mRNA vaccine inoculated participants, 6 displayed mild (2x) reductions in neutralization.
 # This variant combination showed the highest reduction, but the magnitude of the differences was small 
 # compared to the >4x differences in HA-inhibition titers that have been used to signal potential need for a strain change in influenza vaccines.
@@ -981,7 +981,7 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 E484K;N501Y
 
 # The neutralizing activity of vaccine was somewhat lower against B.1.1.7 in sera tested from most of the 24 patients with the BNT162b2 mRNA vaccine. (Fig. 4)
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 H69del;V70del;Y144del;Y145del;N501Y;A570D;D614G;P681H
 
 # Pseudotyped B.1.1.7 Spike variants lentivirus.
