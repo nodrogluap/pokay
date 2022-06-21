@@ -501,7 +501,7 @@ A831V
 # This increased entry correlates with less S1-domain shedding and higher S-protein incorporation into the virion. 
 # D614G does not alter S-protein binding to ACE2 or neutralization sensitivity of pseudoviruses. Thus, D614G may 
 # increase infectivity by assembling more functional S protein into the virion.
-# Zhang et l. (2020) https://www.nature.com/articles/s41467-020-19808-4
+# Zhang et l. (2020) https://doi.org/10.1038/s41467-020-19808-4
 # Among S variants tested, the D614G mutant shows the highest cell entry (~3.5x wild type), as supported by 
 # structural and binding analyses. 
 # Ozono et al. (2020) https://www.nature.com/articles/s41467-021-21118-2
