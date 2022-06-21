@@ -335,13 +335,13 @@ K417T;E484K;N501Y;D614G
 # Flow cytometry was used on recombinant VSV proteins and yeast surface display to assess the binding of a labeled soluble ACE2 
 # protein to cells expressing B.1.1.7. We observed a dramatic increase (relative to D614G) in binding of soluble 
 # ACE2 to B.1.1.7, and to a lesser extent to B.1.351, which both carry the N501Y mutation (see Fig 3). 
-# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Flow cytometry was used on recombinant VSV proteins and yeast surface display to assess the binding of a labeled soluble ACE2 
 # protein to cells expressing B.1.351. We observed an increase (relative to D614G) in binding of soluble 
 # ACE2 to B.1.351, and to a much gearter extent to B.1.1.7, which both carry the N501Y mutation (see Fig 3). 
-# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Lentiviral pseudotyped with the key mutations from COH.20G/677H lineage

@@ -554,14 +554,14 @@ L452R
 # The sera of 16 individuals with time course collection was evaulated against VSV pseudotypes: neutralized D614G at week 2, 
 # whereas B.1.1.7 started to be neutralized at week 3, although less efficiently than D614G. B.1.1.7 and D614G strains were 
 # similarly neutralized at week 4 (1 week after booster dose). 
-# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # The sera of 16 individuals with time course collection was evaluated against VSV pseudotypes: while BD614G and B.1.1.7 were 
 # neutralized earlier, the anti-B.1.351 response was negative up to week 3, and became detectable at week 4 (1 week after booster dose), at a level lower 
 # than the two other viruses (~10x vs D614G) through week 6, the last timepoint measured. Three vaccinees never showed detectable neutralization
 # to B.1.351 even after second dose.
-# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5
 # [Contrary to how this paper has been cited, Voysey et al. do NOT show evidence of decreased effectiveness of ChAdOx1 (AstraZeneca) against 
 # the South African B.1.351 lineage. Insufficient numbers reaching the primary study endpoint were available in that arm of the vaccine study
 # to report any statistics from the South African participants. Additionally, the study period of the paper ended in November 2020, while

@@ -507,13 +507,13 @@ N501Y;K417N;E484K
 
 # Using a new rapid neutralization assay, based on reporter cells that become positive for GFP after overnight infection, sera from 58 
 # convalescent individuals collected up to 9 months after symptoms, similarly neutralized B.1.1.7 and D614G. 
-# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Using a new rapid neutralization assay, based on reporter cells that become positive for GFP after overnight infection, sera from 58 
 # convalescent individuals collected up to 9 months after symptoms had mean ~6x reduction in neutralizing titers, and 40% of the samples 
 # lacked any activity against B.1.351. 
-# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Approximately 2-fold reduction in 15 ICU patient convalescent plasma neutralization as quantified by measuring virus-encoded 
