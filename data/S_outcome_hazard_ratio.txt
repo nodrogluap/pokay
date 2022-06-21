@@ -49,7 +49,7 @@ T95I;D253G;D614G
 # pre-existing variants after adjustment for age, sex, ethnicity, deprivation, residence in a care home, the local authority of residence and test date. 
 # This corresponds to the absolute risk of death for a 55–69-year-old man increasing from 
 # 0.6% to 0.9% (95% confidence interval, 0.8–1.0%) within 28 days of a positive test in the community.
-# Davies et al. (2021) https://www.nature.com/articles/s41586-021-03426-1
+# Davies et al. (2021) https://doi.org/10.1038/s41586-021-03426-1
 # 341 samples collected Nov 9 to Dec 20, 2020 were sequenced from two London (UK) hospitals. 
 # 198 (58%) of 341 had B.1.1.7 infection and 143 (42%) had non-B.1.1.7 infection. No evidence was found of an association 
 # between severe disease and death and lineage (B.1.1.7 vs non-B.1.1.7) in unadjusted analyses (prevalence ratio [PR] 0·97 
