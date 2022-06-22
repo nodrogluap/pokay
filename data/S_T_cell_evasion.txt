@@ -136,20 +136,20 @@ L452R
 # Mutation is predicted to lose the T cell epitope for people carrying DRB1*0301 and DRB1*0401, 
 # but not for example in those who are DRB1*0701 or DRB1*1501 who would be predicted to show an enhanced response.
 # This is also observed in a study of 26 each post-infection and post first dose HCWs.
-# Reynolds et al. (2021) https://science.sciencemag.org/content/early/2021/04/29/science.abh1282
+# Reynolds et al. (2021) https://doi.org/10.1126/science.abh1282
 D1118H
 
 # Analyzing responses to the E484K mutation seen in B.1.351 and P.1 variants, we noted that it did 
 # not fall in a region predicted to bind the HLAII alleles tested (table S4). The mutation appeared 
 # to have no substantial or differential impact on T cell responses.
-# Reynolds et al. (2021) https://science.sciencemag.org/content/early/2021/04/29/science.abh1282
+# Reynolds et al. (2021) https://doi.org/10.1126/science.abh1282
 E484K
 
 # Vaccinated, but not post-infection sera, show decreased average T cell response to an N501Y peptide.
 # When we primed transgenic mice expressing human HLA-DRB1*0401 with the Wuhan Hu-1 peptide pool, 
 # T cell responses to the B.1.1.7 variant peptide pool were significantly reduced (p = 0.0286). 
 # Furthermore, the T cell response to the spike N501Y mutation common to all three of the current VOC was ablated.
-# Reynolds et al. (2021) https://science.sciencemag.org/content/early/2021/04/29/science.abh1282
+# Reynolds et al. (2021) https://doi.org/10.1126/science.abh1282
 N501Y
 
 # PBMCs of 11 mild COVID-19 patients collected 38-80 days after symptom onset

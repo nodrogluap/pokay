@@ -405,7 +405,7 @@ E484K
 # of the ChAdOx1-S vaccine was about 60-75% effective against symptomatic disease and provided an additional protective effect against hospital 
 # admission—it is too early to assess the effect on mortality. The B.1.1.7 variant now dominates in the UK and these results will largely 
 # reflect vaccine effectiveness against this variant.
-# Lopez Bernal et al. (2021) https://pubmed.ncbi.nlm.nih.gov/33985964/
+# Lopez Bernal et al. (2021) https://doi.org/10.1136/bmj.n1088
 # SARS-CoV-2 infection was confirmed in three HCWs working a single shift; all presented with mild symptoms of COVID-19. The two physicians 
 # were fully vaccinated with BNT162b2 vaccine, with the second dose administered 1 month before symptom onset. Both had high titres of IgG 
 # anti-spike antibodies at the time of diagnosis. WGS confirmed that all virus strains were VOC 202012/01-lineage B.1.1.7, suggesting a 
@@ -554,14 +554,14 @@ L452R
 # The sera of 16 individuals with time course collection was evaulated against VSV pseudotypes: neutralized D614G at week 2, 
 # whereas B.1.1.7 started to be neutralized at week 3, although less efficiently than D614G. B.1.1.7 and D614G strains were 
 # similarly neutralized at week 4 (1 week after booster dose). 
-# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # The sera of 16 individuals with time course collection was evaluated against VSV pseudotypes: while BD614G and B.1.1.7 were 
 # neutralized earlier, the anti-B.1.351 response was negative up to week 3, and became detectable at week 4 (1 week after booster dose), at a level lower 
 # than the two other viruses (~10x vs D614G) through week 6, the last timepoint measured. Three vaccinees never showed detectable neutralization
 # to B.1.351 even after second dose.
-# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5
 # [Contrary to how this paper has been cited, Voysey et al. do NOT show evidence of decreased effectiveness of ChAdOx1 (AstraZeneca) against 
 # the South African B.1.351 lineage. Insufficient numbers reaching the primary study endpoint were available in that arm of the vaccine study
 # to report any statistics from the South African participants. Additionally, the study period of the paper ended in November 2020, while
@@ -623,7 +623,7 @@ E484K;F565L;D614G;V1176F
 # infection showed reduced immunity against variants. B.1.351 spike mutations 
 # resulted in increased, abrogated or unchanged T cell responses depending on human leukocyte 
 # antigen (HLA) polymorphisms. Study was 26 each post-infection and post first dose HCWs.
-# Reynolds et al. (2021) https://science.sciencemag.org/content/early/2021/04/29/science.abh1282
+# Reynolds et al. (2021) https://doi.org/10.1126/science.abh1282
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # ELISpot assays show T cell neutralization reduced by 29.8% in this B.1.351 pseudotype relative to wild type in 18-20 pooled patient samples post second mRNA vaccine dose,
@@ -644,7 +644,7 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 # infection showed reduced immunity against variants. B.1.1.7 spike mutations 
 # resulted in increased, abrogated or unchanged T cell responses depending on human leukocyte 
 # antigen (HLA) polymorphisms. Study was 26 each post-infection and post first dose HCWs.
-# Reynolds et al. (2021) https://science.sciencemag.org/content/early/2021/04/29/science.abh1282
+# Reynolds et al. (2021) https://doi.org/10.1126/science.abh1282
 # ELISpot assays show T cell neutralization reduced by 15.4% in this B.1.1.7 pseudotype relative to wild type in 18-20 pooled patient samples post second mRNA vaccine dose,
 # with no significant difference between Pfizer and Moderna cohorts. Reduction was stronger in the S1 subunit than S2 (separate peptide pools were used).
 # Gallagher et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.03.442455v1
@@ -693,7 +693,7 @@ S13I;W152C;L452R
 # Lineage B.1.1.7 spike–pseudotyped VSV was tested for neutralization vs Wuhan reference genome pseudotype in 40 sera collected
 # 7 or 21 days post-booster dose. Statistically significant change (22%) in neutralization was observed among the 26 sera from those <=55yo, 
 # but not in the 14 sera from those >55yo. A ~20% change is not considered immunologically significant historically in influenza antibody studies. 
-# Muik et al. (2021) https://science.sciencemag.org/content/371/6534/1152
+# Muik et al. (2021) https://doi.org/10.1126/science.abg6105
 # Vaccine elicited antibodies neutralized virus with the B.1.1.7 spike protein with titers similar to D614G virus. Serum specimens 
 # from individuals vaccinated with the BNT162b2 mRNA vaccine neutralized D614G virus with titers that were on average 7-fold greater than convalescent sera.
 # Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003
@@ -839,7 +839,7 @@ H69del;V70del;Y145del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Sera after the second dose of Pfizer showed an average reduction in neutralization titres against the B.1.1.7 + E484K 
 # variant of ~6.7x, markedly higher than B.1.1.7 alone. For first dose sera, a 9.7x drop was observed.
-# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+# Collier et al. (2021) https://doi.org/10.1038/s41586-021-03412-7
 # Neutralization efficiency (ID50) against B.1.1.7+E484K reduced 2.8x relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster.
 # Compare with 1.2x reduction for B.1.1.7 without E484K.
 # Choi et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.28.449914v1
@@ -848,7 +848,7 @@ H69del;V70del;Y144del;E484K;N501Y;A570D;P681H;T716I;S982A;D1118H
 # 20/29 sera after the first dose of Pfizer showed an average reduction in neutralization titres against the B.1.1.7 variant of 3.2 ± 5.7.
 # After the second dose, the GMT was markedly increased compared with the first-dose titres, with a fold change of 1.9 ± 0.9 (mean ± s.d.).
 # Neutralization GMT of 27 subjects post-infection was considerably higher (stronger) than after the second Pfizer dose, and 4.5x drop in B.1.1.7 neutralization was observed.
-# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+# Collier et al. (2021) https://doi.org/10.1038/s41586-021-03412-7
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Pzifer vaccinees that tested positive at least a week after the second dose were indeed disproportionally infected with B.1.351, 
@@ -954,7 +954,7 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of vaccine was significantly lower against B.1.351 (12.4x in twelve Moderna-recipient sera; 10.3x in ten Pfizer-recipient sera).
 # [this is a larger list of B.1.351 than modeled by Wang et al. (2021) by including L18F and R246I, less effective at neutralizing]
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 # Neutralization efficiency (ID50) against B.1.1.351-v1 reduced 6.9x relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster.
 # Choi et al. (2021) https://www.biorxiv.org/content/10.1101/2021.06.28.449914v1
 # 3.2x reduction in neutralization (ID50) in sera 3 weeks after one dose of Pfizer/BioNTech BNT162b2 (up to 5 naive and post infection vaccinees)
@@ -962,26 +962,26 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 L18F,D80A,D215G,L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of vaccine was significantly lower against B.1.351 in sera from all 24 patients with the BNT162b2 mRNA vaccine. (Fig. 4)
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 D80A,L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of vaccine was slightly lower against B.1.1.248 variant constellation in sera tested from most of the 15 patients with 
 # the BNT162b2 mRNA vaccine. (Fig. 4)
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # The neutralizing activity of vaccine was slightly to significantly lower against this variant combination in sera from all 24 patients with 
 # the BNT162b2 mRNA vaccine. (Fig. 4)
 # [In stark contrast to this combination plus K417N, which had no effect (P<0.0001 vs. P=0.8774)]
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w
 # In 20 sera from BNT162b2 mRNA vaccine inoculated participants, 6 displayed mild (2x) reductions in neutralization.
 # This variant combination showed the highest reduction, but the magnitude of the differences was small 
 # compared to the >4x differences in HA-inhibition titers that have been used to signal potential need for a strain change in influenza vaccines.
-# Xie et al. (2021) https://www.nature.com/articles/s41591-021-01270-4
+# Xie et al. (2021) https://doi.org/10.1038/s41591-021-01270-4
 E484K;N501Y
 
 # The neutralizing activity of vaccine was somewhat lower against B.1.1.7 in sera tested from most of the 24 patients with the BNT162b2 mRNA vaccine. (Fig. 4)
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 H69del;V70del;Y144del;Y145del;N501Y;A570D;D614G;P681H
 
 # Pseudotyped B.1.1.7 Spike variants lentivirus.

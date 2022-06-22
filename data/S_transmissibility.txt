@@ -76,7 +76,7 @@ N440K
 # We estimate that this [B.1.1.17] variant has a 43–90% (range of 95% credible intervals 38–130%) higher reproduction number than preexisting variants.
 # Data from other countries yield similar results: we estimate that R for VOC 202012/01 relative to other lineages is 55% (45–66%) higher in Denmark, 
 # 74% (66–82%) higher in Switzerland, and 59% (56–63%) higher in the United States, with consistent rates of displacement across regions within each country.
-# Davies et al. (2021) https://science.sciencemag.org/content/early/2021/03/02/science.abg3055
+# Davies et al. (2021) https://doi.org/10.1126/science.abg3055
 # Primary cases infected with B.1.1.7 had an increased transmissibility of 1.5-1.7 times that of primary cases infected with other 
 # lineages. The increased transmissibility of B.1.1.7 was multiplicative across age and viral load.
 # Lyngse et al. (2021) https://www.medrxiv.org/content/10.1101/2021.04.16.21255459v1

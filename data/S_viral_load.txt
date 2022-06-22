@@ -44,7 +44,7 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Hamsters infected with SARS-CoV-2 expressing spike(D614G) (G614 virus) produced higher infectious titres in nasal washes and the trachea, but not in the lungs, 
 # supporting clinical evidence showing that the mutation enhances viral loads in the upper respiratory tract of COVID-19 patients and may increase transmission.
-# Plante et al. (2020) https://www.nature.com/articles/s41586-020-2895-3
+# Plante et al. (2020) https://doi.org/10.1038/s41586-020-2895-3
 D614G
 
 # Swab samples N/NP viral RNA is approximately 2-fold higher in B.1.427/B.1.429 than in non-variant viruses.

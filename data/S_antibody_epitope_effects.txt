@@ -915,11 +915,11 @@ N501Y
 D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 
 # Of 50 mAbs tested, major loss of neutralization observed for S2X128, S2D8, S2X192, S2D19, S2H14, S2H19.
-# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+# Collier et al. (2021) https://doi.org/10.1038/s41586-021-03412-7
 N501Y
 
 # Of 50 mAbs tested, major loss of neutralization observed for S2N28, S2X615, S2N12, S2X192, S2H7, S2X16, S2X58, S2H70, S2X613, S2D19, S2N22, S2D32, S2H58, S2M11, S2D106, S2X30.
-# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+# Collier et al. (2021) https://doi.org/10.1038/s41586-021-03412-7
 E484K
 
 # Amongst RBD-targeting Emergency Use Authorized monoclonal antibody treatments CB6, LY-CoV555 and REGN10933 show abrogated neutralization activity against the
@@ -993,21 +993,21 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # B.1.351 pseudotyped virus model severely impairs neutralization by N-terminal-domain-directed mAb 2-17.
 # B.1.351 pseudotyped virus model impairs neutralization by N-terminal-domain-directed mAb 5-7.
 # PG: Live virus data for the same mAbs is similar, but 1-20 becomes severally impaired, REGN10933 activity is ablated, and Brii-196 becomes impaired.
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 L18F;D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # B.1.1.7 pseudotyped virus model impairs binding by RBD-directed mAb 910-30.
 # B.1.1.7 pseudotyped virus model abolishes N-terminal-domain-directed mAbs 5-24, 4-8, and 4A8.
 # B.1.1.7 pseudotyped virus model impairs binding by N-terminal-domain-directed mAbs 2-17, 4-19, 5-7.
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Abolishes neutralizing activity of N-terminal-domain-directed mAb 4-19.
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 D80A
 
 # 10-fold reduction in binding efficiency vs wild type for MAb REGN10933.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 Y453F
 
 # Resistent to class 2/3 antibody C603.
@@ -1053,7 +1053,7 @@ K444E
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 # Abolishes binding efficiency vs wild type for mAb REGN10933.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 K444N
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
@@ -1063,7 +1063,7 @@ G446D
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 # Massive reduction in binding efficiency vs wild type for mAb REGN10933.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 G446V
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to more than one antibody.
@@ -1106,33 +1106,33 @@ T478I
 # Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody P2B-2F6 on 501Y.V2 ("South African") lineage background
 # Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
 # Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 K417N;E484K;N501Y
 
 # Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 E484K;N501Y
 
 # B.1.1.248 variant constellation ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07.
 # B.1.1.248 variant constellation ablates Class 3 N-terminal domain targeting antibody COV2-2676.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # B.1.1.7 variant constellation ablates Class 3 N-terminal domain targeting antibody COV2-2489. 
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 H69del;V70del;Y144del;Y145del;N501Y;A570D;D614G;P681H
 
 # B.1.1.351 variant constellation ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
 # B.1.1.351 variant constellation ablates Class 3 N-terminal domain targeting antibodies COV2-2489 and COV2-2676 (the only two tested). 
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # 5 antibodies tested were less potent against K417N by ten-fold or more (class 1 mAbs)
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 # Pseudotyped virus model ablates binding by RBD-directed mAbs CB6 and 910-30 (targeting the inner side of the RBD).
 # Pseudotyped virus model impairs binding by RBD-directed mAbs 4-20 and REGN10933.
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 K417N
 
 # Ablates binding by class 2 mAbs such as C144 that directly interfere with ACE2 binding, 
@@ -1146,12 +1146,12 @@ K417N
 # or greater reduction in neutralization (plus notable reudction in two unclassfied mAbs).
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 # Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384 and S2H58.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w
 # Pseudotyped virus model ablates neutralization by RBD-directed mAbs 4-20, 2-4, 2-43, 2-30, 2-15, LY-Cov555, C121.
 # Pseudotyped virus model impairs neutralization by RBD-directed mAb COV2-2196 (somewhat more than fully pseudotyped B.1.351 or live virus)
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 # Massive reduction in binding efficiency vs wild type for mAb LY-CoV555.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 E484K
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 4 antibodies, 
@@ -1162,7 +1162,7 @@ E484A
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb 1B07.
 # Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 # Massive reduction in binding efficiency vs wild type for mAb LY-CoV555.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 E484D
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 5 antibodies.
@@ -1180,7 +1180,7 @@ F490S
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb SARS2-01.
 # Liu et al. (2020) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 # Greater than 10-fold rediuction of binding effeiency vs wild type for mAb LY-CoV555.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 S494P
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 3 antibodies.
@@ -1200,7 +1200,7 @@ T345A;L517R
 # 501Y.V2 ("South African") lineage background variant R246I to disrupt paratope binding. [PG: del extent simplified to accomodate minor position realignments]
 # Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
 # B.1.351 pseudotyped virus model ablates neutralization by N-terminal-domain-directed mAbs 5-24, 4-8, 4A8, 2-17, and 4-19 (independent of S:p.R246I).
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 L242del
 
 # Ablates binding of Spike N terminal domain targeting monoconal anibody 4A8, this residue is known to be key for CDR-H1 mediated
@@ -1208,19 +1208,19 @@ L242del
 # via steric clash with residue R102.
 # Wibmer et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1
 # B.1.351 pseudotyped virus model ablates neutralization by N-terminal-domain-directed mAbs 5-24, 4-8, 4A8, and 4-19 (independent of S:pL242_L244del).
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 R246I
 
 # Markedly resistant to neutralizing antibodies, unlike most ablated N-glycosylation sites.
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 N234Q
 
 # Resistent to some neutralizing antibodies: mAbs X593 and P2B-2F6
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 L452R
 
 # Resistent to some neutralizing antibodies: mAbs X593 and P2B-2F6
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding,
 # but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response)
 # show pronounced increase in binding to the variant.
@@ -1228,21 +1228,21 @@ L452R
 V483A
 
 # Resistent to some neutralizing antibodies: mAbs X593, 261-262, H4, and P2B-2F6
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 F490L
 
 # Resistent to some neutralizing antibodies: mAbs 157, 247, CB6, P2C-1F11, B38, and CA1
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 # Resistent to some class 1 (Spike 'up' conformation) antibodies tested.
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 A475V
 
 # Resistent to neutralizing mAb H00S022
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 # 6.8% of 442 tested post-infection sera showed a greater than two-fold
 # reduction in binding to N439K RBD as compared to WT. In some individuals, the >two-fold reduction diminished the RBD ED50 response below 30
 # a threshold previously determined to be a cutoff for specific binding
-# Thomson et al. (2021) https://www.cell.com/cell/fulltext/S0092-8674(21)00080-5
+# Thomson et al. (2021) https://doi.org/10.1016/j.cell.2021.01.037
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
 # but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
@@ -1259,9 +1259,9 @@ N439K
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 # Greater than 10-fold reduction of binding effeiency vs wild type for mAb LY-CoV555.
 # Abolishes binding of mAb ADG-1.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 # N501Y substitution decreased the neutralizing and binding activities of CB6 and increased that of BD-23
-# Cheng et al. (2021) https://virologyj.biomedcentral.com/articles/10.1186/s12985-021-01554-8
+# Cheng et al. (2021) https://doi.org/10.1186/s12985-021-01554-8
 N440K
 
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
@@ -1290,43 +1290,43 @@ A475V
 # Mix of non- to strongly resistent in class 2 antibodies tested.
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 # Massive reduction in binding efficiency vs wild type for mAbs CB6/LY-CoV16 and LY-CoV555.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 Q493R
 
 # Resistent to neutralizing mAb H014
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 Y508H
 
 # Resistent to neutralizing mAb B38
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 A831V
 
 # Resistent to neutralizing mAb X593 (on D614G background)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 I472V
 
 # Resistent to neutralizing mAb H014 (on D614G background)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 A435S
 
 # Increased sensitivity to neutralizing antibodies.
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 N165Q
 
 # Ablation of N-glycosylation site in RBD drastically reduces infectivity.
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 N331X
 
 # Ablation of N-glycosylation site in RBD drastically reduces infectivity (proline disallowed in N-X-S/T glycosylation pattern).
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 I332P
 
 # Ablation of N-glycosylation site in RBD drastically reduces infectivity.
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 N343X
 
 # Ablation of N-glycosylation site in RBD drastically reduces infectivity (proline disallowed in N-X-S/T glycosylation pattern).
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 I344P
 
 # Alters cleavage to occur between residues C15 and V16, thereby eliminating the C15-C136 disulfide bond – similarly to escape mutants at positions C15 and C136.
@@ -1344,7 +1344,7 @@ S12F
 # McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
 # Ablates neutralization by N-terminal-domain-targeting mAbs 4-19.
 # Impairs neutralization by N-terminal-domain-targeting mAbs 4A8 and 2-17.
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 L18F
 
 # Massively decreases N terminal domain antigen recognition by supersite i mAbs S2L28, S2M28, S2X28, S2X333, 4A8.
@@ -1364,7 +1364,7 @@ K147T
 # Massive reduction in 4A8 monoclonal antibody EC50 (i.e. ablated recognition) 
 # McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475
 # Abolishes neutralization by N-terminal-domain-directed mAbs 5-24, 4-8, and 4A8.
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 Y144del
 
 # Massive reduction in 4A8 monoclonal antibody EC50 (i.e. ablated recognition), but much milder effect on mAbs within antigenic supersite "i"
@@ -1405,7 +1405,7 @@ S254F
 # 4 antibodies tested were less potent against K417N by ten-fold or more, in both mAb classes 1 and 3
 # Wang et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.15.426911v2
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 # Reduction in neutralization by mAbs COVA1-18 (~4x), COVA2-15 (~9x), S309 (~3x)
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
 # Lowered	the	neutralization potency of mAb COVA1-12 to the	limit	of the assay.
@@ -1422,9 +1422,9 @@ A570D
 # Together with other B1.1.7 lineage mutational changes (Spike: Y144del,N501Y, A570D Nucleoprotein: D3L, S235F) resulted in only 2 of 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen.
 # Haynes et al. (2021) https://www.medrxiv.org/content/10.1101/2021.01.06.20248960v1
 # This variant is adjacent to the Spike protein furin cleavage site (cleavage of S into S1 and S2 subunits is required for viral membrane fusion and subsequent entry into host cells), a site shown to be highly immunogenic.
-# Johnson et al. (2020)  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7457603/ 
+# Johnson et al. (2020)  https://doi.org/10.1101%2F2020.08.26.268854 
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 P681H
 
 # Not in a major wildtype epitope, mutant increases PIWAS epitope score from 0.69% to 2.3%
@@ -1451,7 +1451,7 @@ W633P
 S686V
 
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 # Reduction in neutralization by mAbs COVA1-18 (~4x), COVA2-15 (~9x).
 # PG: these effects are laregly missing in the deletion-alone data
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2

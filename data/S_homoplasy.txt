@@ -9,12 +9,12 @@
 g.C24034U
 
 # Mutation has arisen independently multiple times, twice forming significant lineages
-# Thomson et al. (2021) https://www.cell.com/cell/fulltext/S0092-8674(21)00080-5
+# Thomson et al. (2021) https://doi.org/10.1016/j.cell.2021.01.037
 N439K
 
 # Variant within the six key residues in the receptor binding domain (RBD). Independently reported in UK, Australia 
 # (same origin as UK), and South Africa (independent origin).
-# Flores-Alanis et al. (2021) https://www.mdpi.com/2076-0817/10/2/184/htm
+# Flores-Alanis et al. (2021) https://doi.org/10.3390/pathogens10020184
 N501Y
 
 # In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears 

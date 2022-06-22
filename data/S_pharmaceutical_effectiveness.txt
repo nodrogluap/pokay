@@ -132,7 +132,7 @@ D614G
 P681H
 
 # Greater than 10-fold rediuction of binding effeiency vs wild type for mAb LY-CoV555.
-# Rappazzo et al. (2021) https://science.sciencemag.org/content/371/6531/823
+# Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830
 F490S
 
 # This Spike pseudotype for Day 146 virus from a chronically infected patient was completely resistent to REGN10933.

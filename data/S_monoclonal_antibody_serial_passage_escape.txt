@@ -1307,7 +1307,7 @@ G496H
 # Strong positive selection (up to 44% of supernatant sequences) after after one round of C144 monoclonal antibody passage, then waning on subsequent passages
 # Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
 # The engineered mutation cause 10-fold or more increase in the disassociation constant with many monoclonal antibodies (C144/C002/C121/C104/C110).
-# Barnes et al. (2020) https://www.nature.com/articles/s41586-020-2852-1_reference.pdf?origin=ppub
+# Barnes et al. (2020) https://doi.org/10.1038/s41586-020-2852-1
 # Mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
 # Effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007
@@ -1434,7 +1434,7 @@ R346K
 # Strong positive selection (up to 37% of supernatant sequences) after two rounds of C135 monoclonal antibody passage, overall 76% switch away from Q493 to K or R
 # Weisblum et al. (2020) https://www.biorxiv.org/content/10.1101/2020.07.21.214759v1.full.pdf
 # The engineered mutation cause 10-fold or more increase in the disassociation constant with C144, C002 and C121 monoclonal antibodies vs. wild type Spike protein RBD domain AAs.
-# Barnes et al. (2020) https://www.nature.com/articles/s41586-020-2852-1_reference.pdf?origin=ppub
+# Barnes et al. (2020) https://doi.org/10.1038/s41586-020-2852-1
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
 # Starr et al. (2021) https://www.biorxiv.org/content/10.1101/2021.02.17.431683v1
 # Class 2 mAb C627 modestly selected for the emergence of this mutation in vitro.
@@ -1454,7 +1454,7 @@ Q493F
 Q493W
 
 # The engineered mutation cause 10-fold or more increase in the disassociation constant with C102, C105 and C144 monoclonal antibodies vs. wild type Spike protein RBD domain AAs.
-# Barnes et al. (2020) https://www.nature.com/articles/s41586-020-2852-1_reference.pdf?origin=ppub
+# Barnes et al. (2020) https://doi.org/10.1038/s41586-020-2852-1
 A475V
 
 # Escape variant 45% appearance in 2 passages against Regeneron monoclonal antibody RGN10987 @ 10ug/mL

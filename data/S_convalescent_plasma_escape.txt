@@ -507,13 +507,13 @@ N501Y;K417N;E484K
 
 # Using a new rapid neutralization assay, based on reporter cells that become positive for GFP after overnight infection, sera from 58 
 # convalescent individuals collected up to 9 months after symptoms, similarly neutralized B.1.1.7 and D614G. 
-# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Using a new rapid neutralization assay, based on reporter cells that become positive for GFP after overnight infection, sera from 58 
 # convalescent individuals collected up to 9 months after symptoms had mean ~6x reduction in neutralizing titers, and 40% of the samples 
 # lacked any activity against B.1.351. 
-# Planas et al. (2021) https://www.nature.com/articles/s41591-021-01318-5
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Approximately 2-fold reduction in 15 ICU patient convalescent plasma neutralization as quantified by measuring virus-encoded 
@@ -706,11 +706,11 @@ D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 
 # Neutralization capacity GMT of 27 subjects' sera post-infection was considerably higher (stronger) than after the second 
 # Pfizer dose, and 4.5x drop in B.1.1.7 neutralization was observed.
-# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+# Collier et al. (2021) https://doi.org/10.1038/s41586-021-03412-7
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Neutralization capacity GMT of 27 subjects' sera post-infection was markedly worse against B.1.1.7 + E484K than the lineage alone, with a 11.4x drop.
-# Collier et al. (2021) https://www.nature.com/articles/s41586-021-03412-7
+# Collier et al. (2021) https://doi.org/10.1038/s41586-021-03412-7
 H69del;V70del;Y144del;E484K;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # In convalescent sera one month or more post-infection in Spring 2020, an average 6.5x decrease in reciprocal ID50 value was observed 
@@ -759,7 +759,7 @@ E484Q
 # neutralization of all 16 convalescent sera tested, averaging WT ratio of 0.41+-0.08 (less dramatic than E484K). 
 # This amino acid emerges as an additional hotspot for immune evasion and a target for therapies, vaccines and diagnostics.
 # It has emerged independently in multiple lineages.
-# Alenquer et al. (2021) http://biorxiv.org/cgi/content/short/2021.04.22.441007
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007
 # In 2 of 11 subjects' convalescent sera in an early+late mutational landscape analysis of the RBD, 
 # S484P shows a slightly resistent profile across both timepoints (i.e. resistant to immune cell somatic mutation evolution)
 # Greaney et al. (2021) https://doi.org/10.1016/j.chom.2021.02.003
@@ -836,16 +836,16 @@ S13I;W152C;L452R
 
 # The neutralizing activity of 16/20 convalescent sera was significantly lower against this pseudotyped virus model of B.1.351,
 # with similar results for the live virus.
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 L18F,D80A,D215G,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of 8/20 convalescent sera was significantly lower against this pseudotyped virus model
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 L242del;A243del;L244del
 
 # The neutralizing activity of 8/20 convalescent sera was significantly lower against this pseudotyped virus model of B.1.1.7,
 # yet almost no effect was detected using the live B.1.1.7 virus.
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 # Neutralization activity of convalescent sera tested decreased <2x with this B.1.1.7 pseudotyped virus.
 # Shen et al. (2021) https://www.biorxiv.org/content/10.1101/2021.01.27.428516v2
 # Maximum fold-decrease in potency for the serum samples from mild illness was 8.2 but the 
@@ -878,11 +878,11 @@ H69del;V70del;Y493F
 
 # The neutralizing activity of 6/20 convalescent sera was significantly lower against this single variant pseudotyped virus model,
 # showing similar patterns to the pseudotyped virus model of B.1.1.7.
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 S982A
 
 # B.1.1.351 in 19 convalescent human sera ~1mo post infection had mild to moderate resistence against all samples
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Demonstrate (via competitive assays in human and mouse) immune escape from polyclonal antibodies induced
@@ -892,27 +892,27 @@ D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 # reduced as confirmed here.
 # Vogel et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.04.433887v1
 # In 19 convalescent human sera ~1mo post infection had mild to moderate resistence against most samples
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 K417N;E484K;N501Y 
 
 # In 19 convalescent human sera ~1mo post infection had mild to moderate resistence against all samples. 
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 E484K;N501Y
 
 # B.1.1.248 variant constellation in 10 convalescent human sera ~1mo post infection had mild to moderate resistence against most samples, P=0.0020.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # In 19 convalescent human sera ~1mo post infection, Two-tailed Wilcoxon matched-pairs signed-rank test shows mild resistence P=0.0361.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 K417N
 
 # B.1.1.7 variant constellation two-tailed Wilcoxon matched-pairs signed-rank test against 10 convalescent sera P=0.0039 for mild resistence.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # B.1.1.351 variant constellation two-tailed Wilcoxon matched-pairs signed-rank test against 10 convalescent sera P=0.0020 for moderate resistence.
-# Chen et al. (2021) https://www.nature.com/articles/s41591-021-01294-w 
+# Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w 
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
@@ -920,7 +920,7 @@ D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 # Against a wider panel of 16 convalescent plasma (no replicates), all but one show major resistance.
 # Liu et al. (2021) https://www.biorxiv.org/content/10.1101/2020.11.06.372037v2
 # The neutralizing activity of 15/20 convalescent sera was significantly lower against this pseudotyped virus model
-# Wang et al. (2021) https://www.nature.com/articles/s41586-021-03398-2
+# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2
 E484K
 
 # Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
@@ -1050,7 +1050,7 @@ S477N,S514F
 # The 501Y.V2 to first wave IC50 ratio ranged from 6 to 200-fold. Averaging across all 7 participant convalescent sera highlighted the dramatic
 # decrease in sensitivity to neutralization of authentic 501Y.V2 variants.
 # PG: I'm purposefully ignoring D614G and A701V as contributors
-# Cele et al. (2021) https://www.krisp.org.za/manuscripts/MEDRXIV-2021-250224v1-Sigal.pdf
+# Cele et al. (2021) https://doi.org/10.1038/s41586-021-03471-w
 L18F,D80A,D215G,L242del,A243del,L244del,K417N,E484K,N501Y
 
 # 27% of 44 early pandemic exposure convalescent plasma/sera lose all activity against a RBD triple mutant pseudovirus (RBD mutatants of the 501Y.V2 "South African" lineage), while only 23% retained high titres 
@@ -1112,51 +1112,51 @@ F140del
 E484K
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 Y145del
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 Q414E
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 N439K
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 G446V
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 K458N
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 I472V
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 A475V
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 T478I
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 V483I
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
 # Resistent to 3 individual sera at >4x
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 F490L
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
 # Resistent to 3 individual sera at >4x
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 H519P
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) https://www.sciencedirect.com/science/article/abs/pii/S0092867420308771
+# Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012
 A831V
