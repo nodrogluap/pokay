@@ -2,6 +2,20 @@
 # Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950
 
+# Paradigm’s ACE-2 variant LVE/STR chimera neutralizes Beta Variant B.1.351 RBD significantly better than w.t. SARS-CoV-2 RBD. Determined using Surrogate Viral Neutralization Tests.
+# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 
+L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
+
+# Paradigm’s ACE-2 variant LVE/STR chimera neutralizes Alpha Variant B.1.1.7 RBD significantly better than GenScript IgG FL18-740 w.t. ACE-2 mAB. Determined using Surrogate Viral Neutralization Tests.
+# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326
+H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
+
+# Paradigms’ ACE-2 variant LVE/STR chimera binds to SARS-2 Omicron variant B.1.1.529 spike protein trimer with high affinity. Determined using Surrogate Viral Neutralization Tests.
+# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326
+A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G
+;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203
+K;G204R
+
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.1 (from Botswana/R40B59_BHP_3321001248/2021) were 3.4-fold lower (95% CI: 3.2x-3.6x) than against 
 # US-WA1/2020 using an infectious cDNA clone of mNG USA-WA1/2020.
