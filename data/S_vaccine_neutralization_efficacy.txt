@@ -1,3 +1,27 @@
+# Log10ID50 of Beta neutralizing antibodies is 0.803x the WT pre-third dose 13 Kidney transplant recipients (KTR) with median age of 55.5.
+# McEvoy C et al. (2022) https://doi.org/10.1101/2022.06.24.22276144
+L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
+
+# Log10ID50 of Delta neutralizing antibodies is 0.872x the WT pre-third dose 13 Kidney transplant recipients (KTR) with median age of 55.5.
+# McEvoy C et al. (2022) https://doi.org/10.1101/2022.06.24.22276144
+T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950
+
+# Log10ID50 of Omicron neutralizing antibodies is 0.722x the WT pre-third dose 13 Kidney transplant recipients (KTR) with median age of 55.5.
+# McEvoy C et al. (2022) https://doi.org/10.1101/2022.06.24.22276144
+E484K;N501Y
+
+# Log10ID50 of Beta neutralizing antibodies is 0.899x the WT post-third dose 13 Kidney transplant recipients (KTR) with median age of 55.5.
+# McEvoy C et al. (2022) https://doi.org/10.1101/2022.06.24.22276144
+L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
+
+# Log10ID50 of Delta neutralizing antibodies is 0.952x the WT post-third dose 13 Kidney transplant recipients (KTR) with median age of 55.5.
+# McEvoy C et al. (2022) https://doi.org/10.1101/2022.06.24.22276144
+T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950
+
+# Log10ID50 of Omicron neutralizing antibodies is 0.686x the WT post-third dose 13 Kidney transplant recipients (KTR) with median age of 55.5.
+# McEvoy C et al. (2022) https://doi.org/10.1101/2022.06.24.22276144
+E484K;N501Y
+
 # Values taken 28 days after booster dose was given for BBIBP-CorVvaccine to 390 participants with 130 participants in the 0-14d-10m, 0-21d-10m and 0-28d-10m group. The geometric mean titers (GMT) of neutralizing antibody in 0-28d-10m and 0-21d-10m group were significantly higher than 0-14d-10m group at month 3, month 6 and month 10 after the second dose. A sharply decrease by 4.85-fold (GMT: 94.4-20.3), 4.67-fold (GMT: 134.4-28.8) and 4.49-fold (GMT: 145.5-32.4) was observed from day 28 to month 10 after the second dose in 0-14d-10m, 0-21d-10m and 0-28d-10m group, respectively, and they had similar decline kinetics.
 # Yao T et al. (2022) https://outbreak.info/resources/2022.06.22.22276690
 E484K;N501Y
