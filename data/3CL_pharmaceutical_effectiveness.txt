@@ -1,3 +1,35 @@
+# In a escape mutation generation experiment using protease inhibitor boceprevir, all four independent experiments
+# revealed this mutation combination. Two of the samples had up to 4.7x resistance to boceprevir as measured by EC50 in Vero E6 cells.
+# This resistence was NOT recapitulated in a subsequent confirmatory bacterial artificial chromosome (BAC) clone experiment.
+# Zhou et al. (2022) https://doi.org/10.1101/2022.06.06.494921
+# In a escape mutation generation experiment using protease inhibitor nirmatrelvir, samples previously escaping boceprevir with this 
+# mutation combination had up to 6.8x resistance to nirmatrelvir as measured by EC50 in Vero E6 cells.
+# This resistence was NOT recapitulated in a subsequent confirmatory bacterial artificial chromosome (BAC) clone experiment.
+# Remdesivir effectiveness was not significantly affected by this mutation combination, suggesting that ciombined treatment would be
+# less likely to induce resistance.
+# Zhou et al. (2022) https://doi.org/10.1101/2022.06.06.494921
+L50F;A173V
+
+# In a escape mutation generation experiment using protease inhibitor nirmatrelvir, one of two independent experiments
+# generated this mutation combination. It provides 5.9x resistance to nirmatrelvir as measured by EC50 in Vero E6 cells.
+# Remdesivir effectiveness was not significantly affected by this mutation combination, suggesting that ciombined treatment would be
+# less likely to induce resistance.
+# Zhou et al. (2022) https://doi.org/10.1101/2022.06.06.494921
+T21I;T304I
+
+# In a escape mutation generation experiment using protease inhibitor nirmatrelvir, one of two independent experiments
+# generated this mutation combination. It provides 175x resistance to nirmatrelvir as measured by EC50 in Vero E6 cells.
+# The significance of these putative resistance substitutions was confirmed by reverse genetics using a bacterial artificial 
+# chromosome (BAC) clone, which displayed ~80x resistance.
+# Remdesivir effectiveness was not significantly affected by this mutation combination, suggesting that ciombined treatment would be
+# less likely to induce resistance.
+# Zhou et al. (2022) https://doi.org/10.1101/2022.06.06.494921
+L50F;E166V 
+
+# [Data suggests that observed A173V and E166V mutations have a fitness cost, and that L50F is compensatory.]
+# Zhou et al. (2022) https://doi.org/10.1101/2022.06.06.494921
+L50F
+
 # This mutation (found in the lambda VOC) causes a 4.4x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. However, this did not impact the susceptability to Nirmatrelvir.
 # FDA (2021) https://www.fda.gov/media/155050/download
 G15S
