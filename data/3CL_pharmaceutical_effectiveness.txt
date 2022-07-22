@@ -1,3 +1,19 @@
+# This mutation renders 3CL enzymatically inactive, as determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+H41M
+
+# This mutation renders 3CL enzymatically inactive, as determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+H41T
+
+# This mutation renders 3CL enzymatically inactive, as determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+H41Y
+
+# This mutation renders 3CL enzymatically inactive, as determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+H163W
+
 # This mutation causes a 38.0x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
 # Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
