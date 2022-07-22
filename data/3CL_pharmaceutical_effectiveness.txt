@@ -1,3 +1,69 @@
+# This mutation causes a 38.0x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
+# remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+S144M
+
+# This mutation causes a 19.2x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
+# remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+S144F
+
+# This mutation causes a 20.5x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
+# remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+S144A
+
+# This mutation causes a 20.4x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
+# remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+S144G
+
+# This mutation causes a 21.3x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
+# remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+S144Y
+
+# This mutation causes a 29.9x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
+# remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+M165T
+
+# This mutation causes a 11.7x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
+# remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+E166Q
+
+# This mutation causes a 42.4x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
+# remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+H172Q
+
+# This mutation causes a 42.5x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
+# remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+H172F
+
+# This mutation causes a 32.9x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
+# remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+Q192T
+
+# This mutation causes a 46.7x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
+# remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+Q192S
+
+# This mutation causes a 22.2x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
+# remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+Q192V
+
+# This mutation combination causes a 281.1x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki. 
+# Enzymatic activity remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay, and resistance was confirmed 
+# by thermal shift binding assay.
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
+H172Y;Q189E
+
 # In a escape mutation generation experiment using protease inhibitor boceprevir, all four independent experiments
 # revealed this mutation combination. Two of the samples had up to 4.7x resistance to boceprevir as measured by EC50 in Vero E6 cells.
 # This resistence was NOT recapitulated in a subsequent confirmatory bacterial artificial chromosome (BAC) clone experiment.
