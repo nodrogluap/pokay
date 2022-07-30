@@ -1,3 +1,12 @@
+# Jochmans et al. (2022) https://doi.org/10.1101/2022.06.07.495116
+L50F
+
+# Jochmans et al. (2022) https://doi.org/10.1101/2022.06.07.495116
+E166A
+
+# Jochmans et al. (2022) https://doi.org/10.1101/2022.06.07.495116
+L167F
+
 # This mutation renders 3CL enzymatically inactive, as determined by FRET assay.
 # Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978
 H41M
