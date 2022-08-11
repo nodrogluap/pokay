@@ -2,7 +2,7 @@
 # PF-00835231. EC50 increased 63x for ALG-097161. EC50 increased 51x for Nirmatrelvir. EC50 increased 23x for PF-00835231. EC50 increased 2.1x for GS-441524. Tested   
 # using FRET assay.
 # Jochmans et al. (2022) https://doi.org/10.1101/2022.06.07.495116
-L50F
+L50F 
 
 # P8 and p12 had dominant mutations in 3CLpro. Antiviral testing with p13 stock indicated strong resistance toALG-097161and cross-resistance to  both nirmatrelvir and 
 # PF-00835231. EC50 increased 63x for ALG-097161. EC50 increased 51x for Nirmatrelvir. EC50 increased 23x for PF-00835231. EC50 increased 2.1x for GS-441524. Tested   
