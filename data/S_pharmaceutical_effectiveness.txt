@@ -1,3 +1,7 @@
+# 3rd exposure to antigen by Delta (B.1.617.2) (n=24) breakthrough increases the number of memory B cells that produce antibodies with comparable potency and breadth to a 3rd mRNA vaccine dose in individuals aged 21 –63 years, median age=30 years. Data collected in a median 26.5days.
+# Wang et al. (2022) https://outbreak.info/resources/2022.08.11.503601
+E484A;N501Y
+
 # Omicron (B.1.1.529 [BA.1]) have higher sensitivity to inhibition by soluble angiotensin converting enzyme 2 (ACE2) and the endosomal inhibitor chloroquine compared 
 # to D614G
 # Neerukonda et al. (2022) https://outbreak.info/resources/2022.06.01.494385
