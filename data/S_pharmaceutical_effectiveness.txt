@@ -1,4 +1,8 @@
-# 3rd exposure to antigen by Delta (B.1.617.2) (n=24) breakthrough increases the number of memory B cells that produce antibodies with comparable potency and breadth to a 3rd mRNA vaccine dose in individuals aged 21 –63 years, median age=30 years. Data collected in a median 26.5days.
+# 4th antigenic exposure with Omicron (B.1.1.529 [BA.1])(n=29) infection increased variant specific plasma antibody and memory B cell responses as well as overall increased strain specific memory in individuals aged 22 –79 years, median age=33.5 years. Data collected 2.4 months after 3rd vaccination.
+# Wang et al. (2022) https://outbreak.info/resources/2022.08.11.503601
+A67V;D614G;D796Y;E484A;G142D;G339D;G446S;G496S;H69del;H655Y;ins214EPE;K417N;L212I;N211del;N440K;N501Y;N679K;N764K;N856K;N969K;P681H;Q493R;Q498R;Q954H;S371L;S373P;S375F;S477N;T95I;T478K;T547K;V70del;V143del;Y144del;Y145del;Y505H
+
+# 3rd exposure to antigen by Delta (B.1.617.2) (n=24) breakthrough increases the number of memory B cells that produce antibodies with comparable potency and breadth to a 3rd mRNA vaccine dose in individuals aged 21 –63 years, median age=30 years. Data collected 5.5 months after 2nd vaccination.
 # Wang et al. (2022) https://outbreak.info/resources/2022.08.11.503601
 E484A;N501Y
 
