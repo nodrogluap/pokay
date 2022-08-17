@@ -14,23 +14,28 @@ A67V;H69del;V70del;T95I;G142D;V143del;Y144del;Y145del;G142D;G339D;S375F;K417N;N4
 # Wang et al. (2022) https://outbreak.info/resources/2022.08.11.503601
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950
 
-# Log10ID50 of Beta neutralizing antibodies is 0.803x the WT pre-third dose of pfizer-BioNTech BNT162b2 in 13 Kidney transplant recipients (KTR) with median age of 55.5.
+# Log10ID50 of Beta neutralizing antibodies is 0.803x the WT pre-third dose of pfizer-BioNTech BNT162b2 in 13 Kidney transplant recipients (KTR) with median age of 
+# 55.5.
 # McEvoy C et al. (2022) https://doi.org/10.1101/2022.06.24.22276144
 L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
 
-# Log10ID50 of Delta neutralizing antibodies is 0.872x the WT pre-third dose of pfizer-BioNTech BNT162b2 in 13 Kidney transplant recipients (KTR) with median age of 55.5.
+# Log10ID50 of Delta neutralizing antibodies is 0.872x the WT pre-third dose of pfizer-BioNTech BNT162b2 in 13 Kidney transplant recipients (KTR) with median age of 
+# 55.5.
 # McEvoy C et al. (2022) https://doi.org/10.1101/2022.06.24.22276144
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950
 
-# Log10ID50 of Omicron neutralizing antibodies is 0.722x the WT pre-third dose of pfizer-BioNTech BNT162b2 in  13 Kidney transplant recipients (KTR) with median age of 55.5.
+# Log10ID50 of Omicron neutralizing antibodies is 0.722x the WT pre-third dose of pfizer-BioNTech BNT162b2 in  13 Kidney transplant recipients (KTR) with median age 
+# of 55.5.
 # McEvoy C et al. (2022) https://doi.org/10.1101/2022.06.24.22276144
 E484K;N501Y
 
-# Log10ID50 of Beta neutralizing antibodies is 0.899x the WT 1 month post-third dose of pfizer-BioNTech BNT162b2 in 13 Kidney transplant recipients (KTR) with median age of 55.5.
+# Log10ID50 of Beta neutralizing antibodies is 0.899x the WT 1 month post-third dose of pfizer-BioNTech BNT162b2 in 13 Kidney transplant recipients (KTR) with median 
+# age of 55.5.
 # McEvoy C et al. (2022) https://doi.org/10.1101/2022.06.24.22276144
 L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
 
-# Log10ID50 of Delta neutralizing antibodies is 0.952x the WT 1 month post-third dose of pfizer-BioNTech BNT162b2 in 13 Kidney transplant recipients (KTR) with median age of 55.5.
+# Log10ID50 of Delta neutralizing antibodies is 0.952x the WT 1 month post-third dose of pfizer-BioNTech BNT162b2 in 13 Kidney transplant recipients (KTR) with median 
+# age of 55.5.
 # McEvoy C et al. (2022) https://doi.org/10.1101/2022.06.24.22276144
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950
 
