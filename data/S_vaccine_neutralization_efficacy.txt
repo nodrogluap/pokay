@@ -1,3 +1,7 @@
+# paired testing of vaccine sera against ancestral virus compared to Omicron BA.1 shows that 3-dose vaccine regimen provides over 50x fold increase in protection against Omicron(B.1.1.529 [BA.1]) compared to a 2-dose regimen. 
+# Hao et al. (2022) https://outbreak.info/resources/2022.08.12.22278720
+A67V;D614G;D796Y;E484A;G142D;G339D;G446S;G496S;H69del;H655Y;ins214EPE;K417N;L212I;N211del;N440K;N501Y;N679K;N764K;N856K;N969K;P681H;Q493R;Q498R;Q954H;S371L;S373P;S375F;S477N;T95I;T478K;T547K;V70del;V143del;Y144del;Y145del;Y505H
+
 # Plasma neutralizing activity was also assessed against SARS-CoV-2 Delta, Omicron BA.1, BA.2 and BA.4/5 variants using viruses pseudotyped with appropriate 
 # variant spikeproteins. Delta breakthrough infection resulted in 15-fold increased neutralizing titers.
 # Wang et al. (2022) https://outbreak.info/resources/2022.08.11.503601
