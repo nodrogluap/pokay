@@ -1,3 +1,47 @@
+# Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes under no vaccination results in high relative infection for individuals previously infected.
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+R346W
+
+# Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes under no vaccination results in high relative infection for individuals previously infected.
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+T345A
+
+# Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes under no vaccination results in high relative infection for individuals previously infected.
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+D420N
+
+# Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes under no vaccination results in high relative infection for individuals previously infected.
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+Y449D
+
+# Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes under no vaccination results in high relative infection for individuals previously infected.
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+F486S
+
+# Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes under no vaccination results in high relative infection for individuals previously infected.
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+N487D
+
+# Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for individuals previously infected.
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+T345A
+
+# Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for individuals previously infected.
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+L452R
+
+# Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for individuals previously infected.
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+R346W
+
+# Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for individuals previously infected.
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+F486S
+
+# Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes by broadly neutralizing antibodies 
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+A67V;D614G;D796Y;E484A;G142D;G339D;G446S;G496S;H69del;H655Y;ins214EPE;K417N;L212I;N211del;N440K;N501Y;N679K;N764K;N856K;N969K;P681H;Q493R;Q498R;Q954H;S371L;S373P;S375F;S477N;T95I;T478K;T547K;V70del;V143del;Y144del;Y145del;Y505H
+
 # 4th antigenic exposure with Omicron (B.1.1.529 [BA.1])(n=29) infection increased variant specific plasma antibody and memory B cell responses as well as overall increased strain specific memory in individuals aged 22 –79 years, median age=33.5 years. Data collected 2.4 months after 3rd vaccination.
 # Wang et al. (2022) https://outbreak.info/resources/2022.08.11.503601
 A67V;D614G;D796Y;E484A;G142D;G339D;G446S;G496S;H69del;H655Y;ins214EPE;K417N;L212I;N211del;N440K;N501Y;N679K;N764K;N856K;N969K;P681H;Q493R;Q498R;Q954H;S371L;S373P;S375F;S477N;T95I;T478K;T547K;V70del;V143del;Y144del;Y145del;Y505H
