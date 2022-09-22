@@ -4,7 +4,7 @@
 # In the paper describing the Moderna vaccine, the engineered mutations are described as K986P;V987P relative to their 
 # Spike construct, but this maps differently in the reference sequence.
 # Corbett et al. (2020) https://doi.org/10.1038/s41586-020-2622-0
-K974P;V975P
+K986P;V987P
 
 # In the Medicago vaccine candidate (CoVLP), the S protein was modified with R667G, R668S and R670S
 # substitutions at the S1/S2 cleavage site to "increase stability" (also, prevent furin cleavage), and K971P and V972P
