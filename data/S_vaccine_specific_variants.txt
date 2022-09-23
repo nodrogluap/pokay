@@ -10,4 +10,4 @@ K986P;V987P
 # substitutions at the S1/S2 cleavage site to "increase stability" (also, prevent furin cleavage), and K971P and V972P
 # substitutions to stabilize the protein in prefusion conformation. Coordinates remapped from construct to reference.
 # Ward et al. (2020) https://www.medrxiv.org/content/10.1101/2020.11.04.20226282v1
-R670G;R671S;R673S;K974P;V975P 
+R670G;R671S;R673S;K986P;V987P 
