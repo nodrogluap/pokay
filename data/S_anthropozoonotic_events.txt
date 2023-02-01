@@ -89,3 +89,57 @@ Y453F
 # Emergent variants observed in tandem in ferrets post-serial infection.
 # Richard et al. (2020) https://doi.org/10.1038/s41467-020-17367-2
 N501T,S686G
+
+# This mutation outside the receptor binding domain increases the virus transduction rate in tree shrew (Tupaia belangeri), 
+# (as it does in humans) according to pseudotyped VSV experiments.
+# Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2
+H655Y
+
+# This mutation (a.k.a. "Doug") outside the receptor binding domain, while highly favorable to improved human-human transmission, 
+# decreases transduction in naked mole-rat (Heterocephalus glaber) 
+# fibroblast and Japanese pipistrelle bat (Pipistrellus abramus) cell cultures using a pseudotyped VSV assay.
+# Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2
+D614G
+
+# This mutation outside the receptor binding domain, frequently observed in various human infection lineages, reduces the 
+# tropism of SARS-CoV-2 in F81 (cat kidney, Felis catus) and BHK-21 (golden hamster kidney, Mesocricetus auratus) cell line cultures using a pseudotyped VSV assay.
+# Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2
+T22I
+
+# This mutation outside the receptor binding domain showed a decreased capacity to transduce PK-15 (pig kidney, Sus scrofa) and PaKi (black flying fox kidney, Pteropus alecto) cell line cultures using a pseudotyped VSV assay.
+# Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2
+H519N
+
+# This mutation outside the receptor binding domain showed a decreased capacity to transduce PK-15 (pig kidney, Sus scrofa) and PaKi (black flying fox kidney, Pteropus alecto) cell line cultures using a pseudotyped VSV assay.
+# Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2
+T716I
+
+# This mutation outside the receptor binding domain significantly reduced the tropism of SARS-CoV-2 to MfuKi (eastern bent-wing bat kidney cell, Miniopterus fuliginosus) cell cultures using a pseudotyped VSV assay.
+# Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2
+T29I
+
+# This mutation outside the receptor binding domain significantly reduced the tropism of SARS-CoV-2 to MfuKi (eastern bent-wing bat kidney cell, Miniopterus fuliginosus) cell cultures using a pseudotyped VSV assay.
+# Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2
+E281V 
+
+# This mutation outside the receptor binding domain significantly reduced the tropism of SARS-CoV-2 to MfuKi (eastern bent-wing bat kidney cell, Miniopterus fuliginosus) cell cultures using a pseudotyped VSV assay.
+# Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2
+S939F
+
+# This deletion outside the receptor binding domain in pseudotyped VSV promoted the capacity of pseudotyped VSV to transduce black flying fox (Pteropus alecto) kidney PabKi.1 cells (17.8%) to a level twice that of human epithelial-like Huh-7 cells (9.8%) 
+# Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2
+H69del;V70del
+
+# This AA substitution outside the receptor binding domain in pseudotyped VSV promoted a 7.2% transduction rate in golden hamster cells, which was higher than that of human epithelial-like Huh-7 cells (6.6%). 
+# Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2
+D80Y
+
+# This mutation outside the receptor binding domain significantly enhanced the transduction rate in raccoon dog (Nyctereutes procyonoides) kidney (62.4%) and Rickett’s big-footed 
+# bat (Myotis pilosus) kidney (45.0%) cell cultures compared to epithelial-like human Huh-7 cells (38.9%).
+# Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2
+S98F
+
+# This mutation outside the receptor binding domain significantly enhanced the ability of the pseudotyped VSV to infect fat-tailed gerbil (Pachyuromys duprasi) kidney cell cultures, with a 
+# transduction rate of 13.4%, close to the 15.7% in epithelial-like human Huh-7 cells while starting from a significantly lower wildtype (Wuhan-Hu-1 Spike VSVdeltaG psuedotype) rate.
+# Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2
+Q675H
