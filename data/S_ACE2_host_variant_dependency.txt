@@ -3,5 +3,5 @@
 # was significantly lower than the predicted value, 
 # indicating that these mutations were not independent. This is consistent with the fact that the ACE2 residue S19 
 # is adjacent to RBD residue S477 in the contact interface. 
-# Barton et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.18.444646v1
+# Barton et al. (2021) http://doi.org/10.1101/2021.05.18.444646
 S477N

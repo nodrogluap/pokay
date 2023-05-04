@@ -1,3 +1,3 @@
 # Observed first in a mouse-adapted SARS-CoV-2 strain (MA10).
-# Leist et al. (2020) https://dx.doi.org/10.1016%2Fj.cell.2020.09.050
+# Leist et al. (2020) http://doi.org/10.1016/j.cell.2020.09.050
 T285I

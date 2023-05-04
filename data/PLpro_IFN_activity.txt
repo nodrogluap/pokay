@@ -4,5 +4,5 @@
 # resistance was more striking when compared to USA-WA1/2020 (322-fold). 
 # [changes noted as 112x in figure, 122x in text. Addition of A1305V from UK B.1.1.7 replicate has minimal effect. Replication 
 # effects and IFN resistence cannot be readily distinguished in the assays used. Effect of lineage mutations in other genes may be important as well/instead]
-# Guo et al. (2021) https://dx.doi.org/10.1101%2F2021.03.20.436257
+# Guo et al. (2021) http://doi.org/10.1101/2021.03.20.436257
 T183I;A454V;I1412T

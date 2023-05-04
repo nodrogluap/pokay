@@ -1,10 +1,10 @@
 # Observed on two mink farms in the Netherlands, no humans.
 # [Incorrectly identified as ORF1a G4177Q in that paper, is actually ORF1a G4177E (a.k.a NSP9 G37E)]
-# Oreshkova et al. (2020) http://dx.doi.org/10.2807/1560-7917.ES.2020.25.23.2001005
+# Oreshkova et al. (2020) http://doi.org/10.2807/1560-7917.ES.2020.25.23.2001005
 # Observed on 5 mink farms, mostly mink but one human also.
-# Oude Munnink et al. (2020) http://dx.doi.org/10.1126/science.abe5901
+# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901
 G37E
 
 # Observed on mink farms in the Netherlands, no local humans, but homoplasy in United Arab Emirates, September 2020 (e.g. lineage B.1.1. samples UnitedArabEmirates/skmc-3122201/2020 and UnitedArabEmirates/skmc-3122376/2020)
-# Oude Munnink et al. (2020) http://dx.doi.org/10.1126/science.abe5901 
+# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901 
 G37R

@@ -2,5 +2,5 @@
 # individual with chronic lymphocytic leukemia and acquired hypogammaglobulinemia. 
 # Variant became 100% in day 70 culture.
 # Variant disappeared after convalescent plasma treatment (day 71) in subsequent patient sample sequencing.
-# Avanzato et al. (2020) https://doi.org/10.1016%2Fj.cell.2020.10.049
+# Avanzato et al. (2020) http://doi.org/10.1016/j.cell.2020.10.049
 M85del

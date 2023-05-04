@@ -1,24 +1,24 @@
 # Arginine methylation of N protein is required for its RNA binding capacity, since treatment with a type I PRMT inhibitor (MS023) 
 # or substitution of R95K or R177K inhibited interaction with the 5’-UTR of the SARS-CoV-2 genomic RNA.
-# Cai et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436822v1
+# Cai et al. (2021) http://doi.org/10.1101/2021.03.24.436822
 R95X
 
 # Arginine methylation of N protein is required for its RNA binding capacity, since treatment with a type I PRMT inhibitor (MS023) 
 # or substitution of R95K or R177K inhibited interaction with the 5’-UTR of the SARS-CoV-2 genomic RNA.
-# Cai et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.24.436822v1
+# Cai et al. (2021) http://doi.org/10.1101/2021.03.24.436822
 R177X
 
 # Northern blot analysis of novel mutant virus-like-particles (VLPs) shows most increase in RNA content of any N mutation tested, suggesting that this
 # mutation improves virus particle production (requisite RNA packaging signal binding site in nsp15/16 boundary is included in the VLP).
-# Syed et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455082v1
+# Syed et al. (2021) http://doi.org/10.1101/2021.08.05.455082
 R203M
 
 # Northern blot analysis of novel mutant virus-like-particles (VLPs) shows major increase in RNA content with this mutation, suggesting that 
 # it improves virus particle production (requisite RNA packaging signal binding site in nsp15/16 boundary is included in the VLP).
-# Syed et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455082v1
+# Syed et al. (2021) http://doi.org/10.1101/2021.08.05.455082
 S202R
 
 # Northern blot analysis of novel mutant virus-like-particles (VLPs) shows increase in RNA content with this mutation, suggesting that it
 # improves virus particle production (requisite RNA packaging signal binding site in nsp15/16 boundary is included in the VLP).
-# Syed et al. (2021) https://www.biorxiv.org/content/10.1101/2021.08.05.455082v1
+# Syed et al. (2021) http://doi.org/10.1101/2021.08.05.455082
 P199L

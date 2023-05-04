@@ -1,1328 +1,1328 @@
 #Experimentally, Spike gene expression increased 0.99 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y365W
 
 #Experimentally, Spike gene expression increased 0.79 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455N
 
 #Experimentally, Spike gene expression increased 0.75 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455K
 
 #Experimentally, Spike gene expression increased 0.74 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367F
 
 #Experimentally, Spike gene expression increased 0.74 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455R
 
 #Experimentally, Spike gene expression increased 0.72 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I358F
 
 #Experimentally, Spike gene expression increased 0.7 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L518D
 
 #Experimentally, Spike gene expression increased 0.68 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L518E
 
 #Experimentally, Spike gene expression increased 0.65 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K417V
 
 #Experimentally, Spike gene expression increased 0.64 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N354E
 
 #Experimentally, Spike gene expression increased 0.64 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G502D
 
 #Experimentally, Spike gene expression increased 0.58 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L452K
 
 #Experimentally, Spike gene expression increased 0.58 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455A
 
 #Experimentally, Spike gene expression increased 0.56 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y505N
 
 #Experimentally, Spike gene expression increased 0.56 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y505E
 
 #Experimentally, Spike gene expression increased 0.54 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V524R
 
 #Experimentally, Spike gene expression increased 0.54 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G502E
 
 #Experimentally, Spike gene expression increased 0.53 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R408D
 
 #Experimentally, Spike gene expression increased 0.52 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N354Q
 
 #Experimentally, Spike gene expression increased 0.48 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y365F
 
 #Experimentally, Spike gene expression increased 0.48 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S373N
 
 #Experimentally, Spike gene expression increased 0.48 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F456Y
 
 #Experimentally, Spike gene expression increased 0.46 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367A
 
 #Experimentally, Spike gene expression increased 0.45 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455S
 
 #Experimentally, Spike gene expression increased 0.45 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Q498D
 
 #Experimentally, Spike gene expression increased 0.41 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I358W
 
 #Experimentally, Spike gene expression increased 0.41 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527L
 
 #Experimentally, Spike gene expression increased 0.41 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y505D
 
 #Experimentally, Spike gene expression increased 0.4 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L452S
 
 #Experimentally, Spike gene expression increased 0.4 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 A348P
 
 #Experimentally, Spike gene expression increased 0.39 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K417I
 
 #Experimentally, Spike gene expression increased 0.38 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K529A
 
 #Experimentally, Spike gene expression increased 0.37 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y505G
 
 #Experimentally, Spike gene expression increased 0.36 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369M
 
 #Experimentally, Spike gene expression increased 0.36 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S383D
 
 #Experimentally, Spike gene expression increased 0.36 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S477E
 
 #Experimentally, Spike gene expression increased 0.36 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455H
 
 #Experimentally, Spike gene expression increased 0.35 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L518K
 
 #Experimentally, Spike gene expression increased 0.35 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S373K
 
 #Experimentally, Spike gene expression increased 0.34 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527K
 
 #Experimentally, Spike gene expression increased 0.33 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V362T
 
 #Experimentally, Spike gene expression increased 0.33 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N501M
 
 #Experimentally, Spike gene expression increased 0.32 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L452R
 
 #Experimentally, Spike gene expression increased 0.31 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369L
 
 #Experimentally, Spike gene expression increased 0.31 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455M
 
 #Experimentally, Spike gene expression increased 0.31 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367E
 
 #Experimentally, Spike gene expression increased 0.3 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Q414A
 
 #Experimentally, Spike gene expression increased 0.3 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G339D
 
 #Experimentally, Spike gene expression increased 0.3 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367S
 
 #Experimentally, Spike gene expression increased 0.3 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y365L
 
 #Experimentally, Spike gene expression increased 0.3 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527C
 
 #Experimentally, Spike gene expression increased 0.3 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V483T
 
 #Experimentally, Spike gene expression increased 0.3 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G504D
 
 #Experimentally, Spike gene expression increased 0.29 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L518S
 
 #Experimentally, Spike gene expression increased 0.29 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P337D
 
 #Experimentally, Spike gene expression increased 0.29 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 A520G
 
 #Experimentally, Spike gene expression increased 0.29 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L517N
 
 #Experimentally, Spike gene expression increased 0.29 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R408Q
 
 #Experimentally, Spike gene expression increased 0.29 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y449D
 
 #Experimentally, Spike gene expression increased 0.28 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367W
 
 #Experimentally, Spike gene expression increased 0.28 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 T385E
 
 #Experimentally, Spike gene expression increased 0.28 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367Q
 
 #Experimentally, Spike gene expression increased 0.28 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P337N
 
 #Experimentally, Spike gene expression increased 0.28 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N360D
 
 #Experimentally, Spike gene expression increased 0.28 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F486E
 
 #Experimentally, Spike gene expression increased 0.28 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y505S
 
 #Experimentally, Spike gene expression increased 0.28 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G502S
 
 #Experimentally, Spike gene expression increased 0.27 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L452Q
 
 #Experimentally, Spike gene expression increased 0.27 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367K
 
 #Experimentally, Spike gene expression increased 0.27 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 H519D
 
 #Experimentally, Spike gene expression increased 0.27 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R408E
 
 #Experimentally, Spike gene expression increased 0.26 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F392W
 
 #Experimentally, Spike gene expression increased 0.26 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V362Y
 
 #Experimentally, Spike gene expression increased 0.26 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I358M
 
 #Experimentally, Spike gene expression increased 0.26 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455E
 
 #Experimentally, Spike gene expression increased 0.25 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 A363W
 
 #Experimentally, Spike gene expression increased 0.25 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L441I
 
 #Experimentally, Spike gene expression increased 0.25 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527A
 
 #Experimentally, Spike gene expression increased 0.25 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 A372K
 
 #Experimentally, Spike gene expression increased 0.25 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P521N
 
 #Experimentally, Spike gene expression increased 0.25 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K417T
 
 #Experimentally, Spike gene expression increased 0.25 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G502N
 
 #Experimentally, Spike gene expression increased 0.25 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G502P
 
 #Experimentally, Spike gene expression increased 0.24 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L518T
 
 #Experimentally, Spike gene expression increased 0.24 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G502K
 
 #Experimentally, Spike gene expression increased 0.23 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N440E
 
 #Experimentally, Spike gene expression increased 0.23 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455C
 
 #Experimentally, Spike gene expression increased 0.22 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S366D
 
 #Experimentally, Spike gene expression increased 0.22 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 H519N
 
 #Experimentally, Spike gene expression increased 0.22 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K529G
 
 #Experimentally, Spike gene expression increased 0.22 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527I
 
 #Experimentally, Spike gene expression increased 0.22 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S383N
 
 #Experimentally, Spike gene expression increased 0.22 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G526K
 
 #Experimentally, Spike gene expression increased 0.22 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F486P
 
 #Experimentally, Spike gene expression increased 0.22 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F486Q
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527M
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S530E
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367M
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N354K
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K356R
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V341I
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369V
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 T385D
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L441Q
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 E516Q
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R408S
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455V
 
 #Experimentally, Spike gene expression increased 0.21 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y505Q
 
 #Experimentally, Spike gene expression increased 0.2 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L390Y
 
 #Experimentally, Spike gene expression increased 0.2 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 A522Y
 
 #Experimentally, Spike gene expression increased 0.2 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 C391N
 
 #Experimentally, Spike gene expression increased 0.2 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369F
 
 #Experimentally, Spike gene expression increased 0.2 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 A372Q
 
 #Experimentally, Spike gene expression increased 0.19 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S383E
 
 #Experimentally, Spike gene expression increased 0.19 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527R
 
 #Experimentally, Spike gene expression increased 0.19 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527D
 
 #Experimentally, Spike gene expression increased 0.19 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367T
 
 #Experimentally, Spike gene expression increased 0.19 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F464Y
 
 #Experimentally, Spike gene expression increased 0.19 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 C525D
 
 #Experimentally, Spike gene expression increased 0.19 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527W
 
 #Experimentally, Spike gene expression increased 0.19 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455D
 
 #Experimentally, Spike gene expression increased 0.18 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R357K
 
 #Experimentally, Spike gene expression increased 0.18 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P384K
 
 #Experimentally, Spike gene expression increased 0.18 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369T
 
 #Experimentally, Spike gene expression increased 0.18 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K386E
 
 #Experimentally, Spike gene expression increased 0.18 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K528N
 
 #Experimentally, Spike gene expression increased 0.18 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 D428N
 
 #Experimentally, Spike gene expression increased 0.18 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S359T
 
 #Experimentally, Spike gene expression increased 0.18 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F486K
 
 #Experimentally, Spike gene expression increased 0.18 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y449Q
 
 #Experimentally, Spike gene expression increased 0.17 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N354S
 
 #Experimentally, Spike gene expression increased 0.17 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L452H
 
 #Experimentally, Spike gene expression increased 0.17 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S530A
 
 #Experimentally, Spike gene expression increased 0.17 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S459Q
 
 #Experimentally, Spike gene expression increased 0.17 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I468T
 
 #Experimentally, Spike gene expression increased 0.17 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K417L
 
 #Experimentally, Spike gene expression increased 0.17 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 A475N
 
 #Experimentally, Spike gene expression increased 0.16 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Q498H
 
 #Experimentally, Spike gene expression increased 0.16 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N460K
 
 #Experimentally, Spike gene expression increased 0.16 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K378R
 
 #Experimentally, Spike gene expression increased 0.16 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L452M
 
 #Experimentally, Spike gene expression increased 0.16 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527V
 
 #Experimentally, Spike gene expression increased 0.16 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I434F
 
 #Experimentally, Spike gene expression increased 0.16 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527T
 
 #Experimentally, Spike gene expression increased 0.16 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K529H
 
 #Experimentally, Spike gene expression increased 0.16 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G339E
 
 #Experimentally, Spike gene expression increased 0.16 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 T430V
 
 #Experimentally, Spike gene expression increased 0.16 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y505H
 
 #Experimentally, Spike gene expression increased 0.16 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G502Q
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R346T
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R346N
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L441V
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367L
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G339H
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K529T
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K386D
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R408P
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N450E
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F486R
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455T
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N487Q
 
 #Experimentally, Spike gene expression increased 0.15 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G502T
 
 #Experimentally, Spike gene expression increased 0.14 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y508H
 
 #Experimentally, Spike gene expression increased 0.14 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N354R
 
 #Experimentally, Spike gene expression increased 0.14 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V483K
 
 #Experimentally, Spike gene expression increased 0.14 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K356T
 
 #Experimentally, Spike gene expression increased 0.14 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I358L
 
 #Experimentally, Spike gene expression increased 0.14 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K528G
 
 #Experimentally, Spike gene expression increased 0.14 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369A
 
 #Experimentally, Spike gene expression increased 0.14 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N501Q
 
 #Experimentally, Spike gene expression increased 0.14 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L452Y
 
 #Experimentally, Spike gene expression increased 0.14 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I332G
 
 #Experimentally, Spike gene expression increased 0.14 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455G
 
 #Experimentally, Spike gene expression increased 0.14 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G496K
 
 #Experimentally, Spike gene expression increased 0.13 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 T415H
 
 #Experimentally, Spike gene expression increased 0.13 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L518N
 
 #Experimentally, Spike gene expression increased 0.13 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K529S
 
 #Experimentally, Spike gene expression increased 0.13 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N354D
 
 #Experimentally, Spike gene expression increased 0.13 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F486S
 
 #Experimentally, Spike gene expression increased 0.13 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F486T
 
 #Experimentally, Spike gene expression increased 0.13 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455P
 
 #Experimentally, Spike gene expression increased 0.13 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G496R
 
 #Experimentally, Spike gene expression increased 0.13 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y505K
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S477D
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S373Q
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369I
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527S
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S366E
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S514T
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R346K
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S359H
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S366A
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367I
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R408A
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369E
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G496S
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y449H
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y449S
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G496T
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y449E
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y505C
 
 #Experimentally, Spike gene expression increased 0.12 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y505A
 
 #Experimentally, Spike gene expression increased 0.11 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L335E
 
 #Experimentally, Spike gene expression increased 0.11 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 D389E
 
 #Experimentally, Spike gene expression increased 0.11 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G339N
 
 #Experimentally, Spike gene expression increased 0.11 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369Q
 
 #Experimentally, Spike gene expression increased 0.11 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S459E
 
 #Experimentally, Spike gene expression increased 0.11 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K529C
 
 #Experimentally, Spike gene expression increased 0.11 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L518C
 
 #Experimentally, Spike gene expression increased 0.11 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367D
 
 #Experimentally, Spike gene expression increased 0.11 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y489H
 
 #Experimentally, Spike gene expression increased 0.11 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F456H
 
 #Experimentally, Spike gene expression increased 0.11 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F486D
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N501W
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F490Y
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y365M
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S530I
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I402V
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I358Y
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S459K
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367R
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V362S
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V445D
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K417H
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F486A
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K417N
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N487G
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G502R
 
 #Experimentally, Spike gene expression increased 0.1 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G502V
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L517M
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L335P
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N460R
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L452T
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527Y
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K386Q
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S459T
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S373E
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V483A
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 A522Q
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R408G
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369N
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G504E
 
 #Experimentally, Spike gene expression increased 0.09 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y449T
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527Q
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V483Q
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K529F
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G339S
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367H
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V367N
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L452E
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 A372E
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 T531G
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R346E
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K528A
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369W
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V483S
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K417R
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N450T
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N501D
 
 #Experimentally, Spike gene expression increased 0.08 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G502A
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 T430I
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 H519P
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 E406H
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K529Y
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L455I
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N460P
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527H
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I332Q
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V362K
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N440D
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K444T
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I468V
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369K
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 T385K
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S383Q
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N501A
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S530G
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K417Y
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K529R
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V503E
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F486V
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G496A
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 N487D
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y449N
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y449P
 
 #Experimentally, Spike gene expression increased 0.07 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y505M
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Q498Y
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Q493A
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S530N
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S477N
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F347W
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V395I
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 R408K
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L517T
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L518Q
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 T531N
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F374W
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 T376H
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P384M
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F338L
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L441M
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V445E
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K417M
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 T500G
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y449G
 
 #Experimentally, Spike gene expression increased 0.06 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y489S
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Q498F
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S359Q
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S366N
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I332H
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 A372R
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V445P
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 A520P
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 E471D
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 P527N
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K529I
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 I332N
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S373T
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S373R
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 L452F
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S530C
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 V362Q
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y369S
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 K386A
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 S514V
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Q498A
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G413N
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 F486H
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Y449A
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G496Q
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 Q498K
 
 #Experimentally, Spike gene expression increased 0.05 fold
-#Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012
+#Starr et al. (2020) http://doi.org/10.1016/j.cell.2020.08.012
 G502H
 
