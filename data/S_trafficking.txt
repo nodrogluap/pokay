@@ -439,7 +439,7 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 # cleavage based on the removal of a proline-directed phosphotase recognition site at S680. In a homologuous site in Infectious 
 # Bronchitis Virus (IBV, Gammacoronaviruses), abolition of S680 phosphorylation improves furin cleavage 
 # (and presumably cell entry).
-# Maaroufi (2021) https://www.researchgate.net/publication/348943694_The_mutation_P681H_in_the_B117_variant_of_SARS-CoV-2_probably_enhances_viral_entry_and_replication
+# Maaroufi (2021) https://www.researchgate.net/publication/348943694_The_mutation_P681H_in_the_B117_variant_of_SARS-CoV-2_probably_enhances_viral_entry_and_replication [Preprint (other)]
 # While the introduction of P681H in the SARS-CoV-2 B.1.1.7 variant may increase spike cleavage by furin-like proteases, 
 # this does not significantly impact viral entry or cell-cell spread. We consider that other factors are at play to account 
 # for the increased in transmission and disease severity attributed to this variant of concern (VOC).
@@ -450,7 +450,7 @@ P681H
 # cleavage based on the removal of a proline-directed phosphotase recognition site at S680. In a homologuous site in Infectious 
 # Bronchitis Virus (IBV, Gammacoronaviruses), abolition of S680 phosphorylation improves furin cleavage 
 # (and presumably cell entry). [Inference from similar positively charged substitution P681H actually described in the work]
-# Maaroufi (2021) https://www.researchgate.net/publication/348943694_The_mutation_P681H_in_the_B117_variant_of_SARS-CoV-2_probably_enhances_viral_entry_and_replication
+# Maaroufi (2021) https://www.researchgate.net/publication/348943694_The_mutation_P681H_in_the_B117_variant_of_SARS-CoV-2_probably_enhances_viral_entry_and_replication [Preprint (other)]
 P681R
 
 # We observed increased entry by pseudoviruses carrying the L452R mutation compared to D614G alone, 

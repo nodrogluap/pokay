@@ -22,7 +22,7 @@ L141del;G142del;V143del;Y144del;E484K
 # The so-called "delta F" variant combination previously observed in mink spillover events also emerged in a lymphoma 
 # patient (non-Hodgkin diffuse B-cell lymphoma IV stage B) with a long-term COVID-19 infection (4 months) where 18 de novo mutation occureed overall.
 # Patient was taking rituximab, the B-cell-depleting agent, and had no detectable neutralizing antibody response.
-# Bazykin et al. (2021) https://virological.org/t/emergence-of-y453f-and-69-70hv-mutations-in-a-lymphoma-patient-with-long-term-covid-19/580
+# Bazykin et al. (2021) https://virological.org/t/emergence-of-y453f-and-69-70hv-mutations-in-a-lymphoma-patient-with-long-term-covid-19/580 [Preprint (other)]
 Y453F;H69del;V70del
 
 # Emergent as 100% variant from larger minor (1% allele frequency) deletion by day 70 post-infection of female immunocompromised 
