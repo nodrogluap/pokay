@@ -14,7 +14,7 @@ R408S;E484A;N501Y
 # care workers in Sweden, a 40x drop in neutralization by Omicron (B.1.1.529) pseudotyped lentivirus 
 # was observed in HEK293T cells using the First WHO International Standard (20/136). Median IC50 reduction
 # was ~6x for the blood donors, and ~4.5x for the health care workers.
-# Sheward et al. (2021) https://drive.google.com/file/d/1CuxmNYj5cpIuxWXhjjVmuDqntxXwlfXQ/view
+# Sheward et al. (2021) https://drive.google.com/file/d/1CuxmNYj5cpIuxWXhjjVmuDqntxXwlfXQ/view [Preprint (other)]
 E484A;N501Y
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 2027 test-positive cases were Delta.
@@ -35,7 +35,7 @@ E484A;N501Y
 # (30.7%; 95% confidence interval [CI], 25.2 to 35.7); the results were similar for both vaccines. 
 # With the BNT162b2 vaccine, the effectiveness of two doses was 88.0% (95% CI, 85.3 to 90.1) among those with the delta variant. 
 # With the ChAdOx1 nCoV-19 vaccine, the effectiveness of two doses was 67.0% (95% CI, 61.3 to 71.8) among those with the delta variant.
-# Lopez Bernal et al. (2021) http://doi.org/10.1056/NEJMoa2108891
+# Lopez Bernal et al. (2021) http://doi.org/10.1056/NEJMoa2108891 [Journal publication]
 # During December 14, 2020–August 14, 2021, frontline worker without previous documented SARS-CoV-2 infection were monitored regularly. 
 # Of 4,217 participants, 3,483 (83%) were vaccinated; 2,278 (65%) received Pfizer-BioNTech, 1,138 (33%) Moderna, and 67 (2%) Janssen 
 # (Johnson & Johnson) COVID-19 vaccines.
@@ -87,7 +87,7 @@ T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 # (48.7%; 95% confidence interval [CI], 45.5 to 51.7); the results were similar for both vaccines. 
 # With the BNT162b2 vaccine, the effectiveness of two doses was 93.7% (95% CI, 91.6 to 95.3) among those with the alpha variant. 
 # With the ChAdOx1 nCoV-19 vaccine, the effectiveness of two doses was 74.5% (95% CI, 68.4 to 79.4) among those with the alpha variant.
-# Lopez Bernal et al. (2021) http://doi.org/10.1056/NEJMoa2108891
+# Lopez Bernal et al. (2021) http://doi.org/10.1056/NEJMoa2108891 [Journal publication]
 # Using a test-negative design using Ontario data between Dec 14, 2020 and May 30, 2021, 421,073 symptomatic community-dwelling individuals were tested.
 # Against symptomatic infection caused by Alpha, vaccine effectiveness with partial vaccination (≥14 days after dose 1) was higher for mRNA-1273 (83%) than
 # BNT162b2 (66%) and ChAdOx1 (64%), and full vaccination (≥7 days after dose 2) increased vaccine effectiveness for BNT162b2 (89%) and mRNA-1273 (92%). 

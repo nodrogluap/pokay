@@ -23,7 +23,7 @@ L37F
 
 # A 9-nucletide deletion in nsp6 has come about apparently epistatically in multiple lineages of concern (B.1.1.7, B.1.351, P.1) and the latest B.1.525.
 # a.k.a ORF1a:p.3675_3677del or NC_045512:g.11288_11296del
-# Rambaut (2021) https://github.com/cov-lineages/pango-designation/issues/4
+# Rambaut (2021) https://github.com/cov-lineages/pango-designation/issues/4 [Grey literature]
 # PG: Directly flanks a lumenal (endoplasmic reticulum bound) domain, NSPs "rush to the ER" for assembly of the replication and transcriptional machinery.
 # Santerre et al. (2020) http://doi.org/10.1007/s00415-020-10197-8
 S106del,G107del,F108del
