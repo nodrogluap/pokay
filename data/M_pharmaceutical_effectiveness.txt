@@ -1,24 +1,24 @@
 # This mutation is candidate for resistance to the first FDA-authorized Mpro inhibitor, PF-07321332. 
 # It has WT-like function in both the FRET and growth screens, would lead to a predicted decrease in 
 # inhibitor binding energy upon mutation of greater than 1 kcal/mol, and is a single nucleotide base change. 
-# Flynn et al. (2022) http://doi.org/10.1101/2022.01.26.477860
+# Flynn et al. (2022) http://doi.org/10.1101/2022.01.26.477860 [Preprint (other)]
 Q189E
 
 # This mutation is candidate for resistance to the first FDA-authorized Mpro inhibitor, PF-07321332. 
 # It has WT-like function in both the FRET and growth screens, would lead to a predicted decrease in 
 # inhibitor binding energy upon mutation of greater than 1 kcal/mol, and is a single nucleotide base change. 
-# Flynn et al. (2022) http://doi.org/10.1101/2022.01.26.477860
+# Flynn et al. (2022) http://doi.org/10.1101/2022.01.26.477860 [Preprint (other)]
 E166A
 
 # This mutation is candidate for resistance to the first FDA-authorized Mpro inhibitor, PF-07321332. 
 # It has WT-like function in both the FRET and growth screens, would lead to a predicted decrease in 
 # inhibitor binding energy upon mutation of greater than 1 kcal/mol, and is a single nucleotide base change. 
-# Flynn et al. (2022) http://doi.org/10.1101/2022.01.26.477860
+# Flynn et al. (2022) http://doi.org/10.1101/2022.01.26.477860 [Preprint (other)]
 E166Q
 
 # Mutations at position 142 should be readily available
 # to Mpro evolution and appear likely to influence loop conformation at a site where PF-07321332
 # extends beyond the substrate envelope. Together these observations suggest that N142
 # warrants further attention as a potential contributor to drug resistance.
-# Flynn et al. (2022) http://doi.org/10.1101/2022.01.26.477860
+# Flynn et al. (2022) http://doi.org/10.1101/2022.01.26.477860 [Preprint (other)]
 N142X

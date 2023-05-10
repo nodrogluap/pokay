@@ -1,57 +1,57 @@
 # This mutation combination stabilize the RBD-ACE2 binding interface, leading to a 3.8–5.3°C melting temperature increase relative to wild type. 
 # [Relevant for thermostable vaccine antigen design]
-# Ellis et al. (2021) http://doi.org/10.1101/2021.05.15.444222
+# Ellis et al. (2021) http://doi.org/10.1101/2021.05.15.444222 [Preprint (other)]
 F392W;Y365F
 
 # This mutation stabilizes the RBD-ACE2 binding interface, leading to a 1.9–2.4°C melting temperature increase relative to wild type.
 # [Relevant for thermostable vaccine antigen design]
-# Ellis et al. (2021) http://doi.org/10.1101/2021.05.15.444222
+# Ellis et al. (2021) http://doi.org/10.1101/2021.05.15.444222 [Preprint (other)]
 F392W
 
 # The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation, 
 # due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
 # by improved proteolytic processing.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
 P681H
 
 # The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation, 
 # due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
 # by improved proteolytic processing. [PG: Inferred by conservative AA substitution of described P681H]
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
 P681R
 
 # The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation, 
 # due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
 # by improved proteolytic processing.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
 A570D
 
 # The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation combination, 
 # due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
 # by improved proteolytic processing.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
 H69del;V70del;N501Y
 
 # The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation combination, 
 # due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
 # by improved proteolytic processing.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
 H69del;V70del;N501Y;P681H
 
 # Based on pseudotyped virus experiments, D614G may increase infectivity by assembling more functional S protein into the virion.
-# Zhang et al. (2020) http://doi.org/10.1038/s41467-020-19808-4
+# Zhang et al. (2020) http://doi.org/10.1038/s41467-020-19808-4 [Journal publication]
 # CryoEM shows increased proportion of "one-up" trimer conformation of Spike proteins on the surface of virions, where the up 
 # conformation is presumed to be more likely to bind ACE2.
-# Yurkovetskiy et al. (2020) http://doi.org/10.1016/j.cell.2020.09.032
+# Yurkovetskiy et al. (2020) http://doi.org/10.1016/j.cell.2020.09.032 [Journal publication]
 # Negative stain EM shows increased proportion of "one-up" trimer conformation of Spike proteins on the surface of virions, where the up 
 # conformation is presumed to be more likely to bind ACE2.
-# Weissman et al. (2020) http://doi.org/10.1101/2020.07.22.20159905
+# Weissman et al. (2020) http://doi.org/10.1101/2020.07.22.20159905 [Preprint (other)]
 # Estimated free energy change (ddG) for this variant is 2.5 kcal/mol (i.e. stabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 D614G
 
 # CryoEM analysis of B.1.1.7 demonstrates an increased propensity for 'up', receptor accessible conformation of the Spike protein trimer. 
-# Cai et al. (2021) http://doi.org/10.1101/2021.04.13.439709
+# Cai et al. (2021) http://doi.org/10.1101/2021.04.13.439709 [Journal publication]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # The L18F and D80A of the B.1.351 lineage lead to reconfiguration of the N-terminal segment despite the disulfide between
@@ -59,69 +59,69 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # which causes a shift of the nearby loop 144-155 and must also reconfigure the adjacent disorder
 # loop (residues 246-260), both of which form part of the neutralizing epitopes...bringing large changes in the antigenic surface in this
 # region.
-# Cai et al. (2021) http://doi.org/10.1101/2021.04.13.439709
+# Cai et al. (2021) http://doi.org/10.1101/2021.04.13.439709 [Journal publication]
 L18F;D80A;L242del
 
 # CryoEM reveals the P.1 trimer to adopt exclusively a conformation in which one of the receptor-binding domains is in the “up” position.
-# Wang et al. (2021) http://doi.org/10.1101/2021.03.01.433466
+# Wang et al. (2021) http://doi.org/10.1101/2021.03.01.433466 [Journal publication]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y
 
 # Estimated free energy change (ddG) for this variant is 1.51 kcal/mol (i.e. stabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 T1027I
 
 # Estimated free energy change (ddG) for this variant is 0.98 kcal/mol (i.e. stabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 D215G
 
 # Estimated free energy change (ddG) for this variant is 0.87 kcal/mol (i.e. stabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 H655Y
 
 # Estimated free energy change (ddG) for this variant is 0.69 kcal/mol (i.e. stabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 N501Y
 
 # Estimated free energy change (ddG) for this variant is 0.43 kcal/mol (i.e. stabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 D138Y
 
 # Estimated free energy change (ddG) for this variant is 0.33 kcal/mol (i.e. stabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 R246I
 
 # Estimated free energy change (ddG) for this variant is 0.22 kcal/mol (i.e. stabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 S477N
 
 # Estimated that there is no free energy change (ddG) for this variant (i.e. same stability as wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 D80A
 
 # Estimated that there is very little free energy change (ddG. -0.02 kcal/mol) for this variant (i.e. approx. same stability as wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 A570D
 
 # Estimated free energy change (ddG) for this variant is -0.33 kcal/mol (i.e. destabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 A701V
 
 # Estimated free energy change (ddG) for this variant is -0.6 kcal/mol (i.e. destabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 E484K
 
 # Estimated free energy change (ddG) for this variant is -0.64 kcal/mol (i.e. destabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 K417T
 
 # Estimated free energy change (ddG) for this variant is -0.67 kcal/mol (i.e. destabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 L452R
 
 # Estimated free energy change (ddG) for this variant is -0.69 kcal/mol (i.e. destabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 R190S
 
 # Estimated free energy change (ddG) for this variant is -0.86 kcal/mol (i.e. destabilizing relative to wild type) 
-# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850
+# Spratt et al. (2021) http://doi.org/10.1101/2021.03.24.436850 [Journal publication]
 K417N

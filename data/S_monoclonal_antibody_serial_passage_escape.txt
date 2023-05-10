@@ -1,1730 +1,1730 @@
 # Identified in 6/20 replicates of recombinant VSV growth in the presence of mAb COV2-2130.
-# Dong et al. (2021) http://doi.org/10.1101/2021.01.27.428529
+# Dong et al. (2021) http://doi.org/10.1101/2021.01.27.428529 [Journal publication]
 K444R
 
 # Identified in 2/20 replicates of recombinant VSV growth in the presence of mAb COV2-2130.
-# Dong et al. (2021) http://doi.org/10.1101/2021.01.27.428529
+# Dong et al. (2021) http://doi.org/10.1101/2021.01.27.428529 [Journal publication]
 K444E
 
 # Provides ~80% escape from mAb COV2-2130, even though its appearance in culture is formed without selective mAb pressure.
-# Dong et al. (2021) http://doi.org/10.1101/2021.01.27.428529
+# Dong et al. (2021) http://doi.org/10.1101/2021.01.27.428529 [Journal publication]
 R346I
 
 # In serial experiment of mAb 2B04 resistent mutation isolate E484K then selected against mAb 2H04,
 # this combination caused escape from both mAbs, even though incubation simultaneously with both
 # mAbs failed to yield this combination.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 E484K;R346K
 
 # In serial experiment of mAb 2B04 resistent mutation isolate E48K then selected against mAb 2H04,
 # this combination caused escape from both mAbs, even though incubation simultaneously with both
 # mAbs failed to yield this combination.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 E484K;A372T
 
 # In serial experiment of mAb 2B04 resistent mutation isolate E48K then selected against mAb 2H04,
 # this combination caused escape from both mAbs, even though incubation simultaneously with both
 # mAbs failed to yield this combination.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 E484K;K444E
 
 # In serial experiment of mAb 2B04 resistent mutation isolate E48K then selected against mAb 2H04,
 # this combination caused escape from both mAbs, even though incubation simultaneously with both
 # mAbs failed to yield this combination.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 E484A;T345A
 
 # In serial experiment of mAb 2B04 resistent mutation isolate E48K then selected against mAb 2H04,
 # this combination caused escape from both mAbs, even though incubation simultaneously with both
 # mAbs failed to yield this combination.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 E484K;R346G
 
 # In serial experiment of mAb 2B04 resistent mutation isolate E48K then selected against mAb 2H04,
 # this combination caused escape from both mAbs, even though incubation simultaneously with both
 # mAbs failed to yield this combination.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 E484K;K444E
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460K
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460T
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460L
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460R
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460I
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460A
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460F
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460V
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460M
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460P
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460E
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 # Mild escape mutant emergent for class 1 antibody C613 in vitro.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 N460H
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460S
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460Q
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460C
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N460Y
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F456H
 
 # C666 mildly selected for the emergence of the F456S mutation in vitro.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 F456S
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F456G
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F456R
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F456Q
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F456A
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F456C
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F456K
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 # Moderate in vitro selection against class 1 (Spike 'up' conformation) antibodies C683 and C664.
 # Unclassified antibody C666  selected for the emergence of the F456V mutation in vitro.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 F456V
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F456T
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 L455E
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 L455R
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 L455W
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 L455N
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 L455G
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 L452R
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 L452D
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 L452K
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 L452E
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 I472W
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 I472G
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 I472K
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab),
 # and combination treatment with LY-CoV016, but moderate decrease in ACE2 binding affinity.
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 I472D
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y473Q
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y473I
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y473C
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y473V
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y473E
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y473S
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y473T
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y473L
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y473N
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y473M
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y473A
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 V483R
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 V483K
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 V483E
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484F
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab), 
 # and in combination with LY-CoV016 (i.e. proline stiffness disrupts binding sites for both antibodies), but moderate 
 # decrease in ACE2 binding affinity.
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G485P
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G485R
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G485N
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G485K
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G485T
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G485D
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2L28, S2M28, S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 P9S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 P9Q
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28, S2X333
 # Putative mechanism of action is the introduction of a new signal peptide, altering
 # cleavage to occur between residues C15 and V16, thereby eliminating the C15-C136
 # disulfide bond – similarly to escape mutants at positions C15 and C136
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 S12P
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
 # Eliminates the C15-C136 disulfide bond.
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 C15F
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
 # Eliminates the C15-C136 disulfide bond.
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 C15R
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
 # Eliminates the C15-C136 disulfide bond.
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 C15W
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
 # Eliminates the C15-C136 disulfide bond.
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 C15S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
 # Eliminates the C15-C136 disulfide bond.
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 C15Y
 
 # Escape mutation against all tested Spike N terminal domain antigenic supersite i mAbs S2L28, S2M28, S2X28, S2X333
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 L18P
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 T22P
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 Y28C
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 K77E
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 D80N
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 A123T
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 C136G
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 C136S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 C136Y
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 P139S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 P139Q
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2L28, S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 # Selected once in passage with mAb COV2-2676.
-# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324
+# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324 [Journal publication]
 F140S
 
 # Selected in passage with mAb COV2-2489 during alanine mutagenesis antibody mapping experiment.
-# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324
+# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324 [Journal publication]
 A123S
 
 # Selected in passage with mAb COV2-2489 during alanine mutagenesis antibody mapping experiment.
-# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324
+# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324 [Journal publication]
 G142A
 
 # Selected in passage with mAb COV2-2489 during alanine mutagenesis antibody mapping experiment.
-# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324
+# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324 [Journal publication]
 F157A
 
 # Selected in passage with mAb COV2-2489 during alanine mutagenesis antibody mapping experiment.
-# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324
+# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324 [Journal publication]
 N164A
 
 # Selected in passage with mAb COV2-2676 during alanine mutagenesis antibody mapping experiment.
-# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324
+# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324 [Journal publication]
 Y144A
 
 # Selected three times in passage with mAb COV2-2489.
-# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324
+# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324 [Journal publication]
 R158S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 F140C
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28 
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 L141S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28, S2X333
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 # Selected twice in passage with mAb COV2-2489.
-# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324
+# Suryadevara et al. (2021) http://doi.org/10.1101/2021.01.19.427324 [Journal publication]
 G142D
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 G142C
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 Y144N
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 Y144C
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 K147Q
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X333
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 K147T
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2X28, S2X333
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 K147E
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 R158G
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 L244S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication] 
 R246G
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 S247R
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 P251L
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 G252D
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 G252C
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 D253E
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 D253G
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication] 
 S255F
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication]
 G257S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 
+# McCallum et al. (2021) http://doi.org/10.1101/2021.01.14.426475 [Journal publication] 
 W258R
 
 # Most and modestly potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
 # Eliminates the C15-C136 disulfide bond.
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 C361H
 
 # Most potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 S443Q
 
 # Second most potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 S443H
 
 # Mostand highly effective escape variant in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 S443Y
 
 # Ranked effective escape variant in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 S443K
 
 # Ranked effective escape variant in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 S443M
 
 # Ranked effective escape variant in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 S443F
 
 # Most potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
 # Ranked escape variant in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378L
 
 # Second most potent escape variant for this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Second most potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378V
 
 # Most and fairly potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 V382Y
 
 # Second most potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 V382A
 
 # Most and highly potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 S383L
 
 # Highly ranked escape variant in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 S383K
 
 # Highly ranked escape variant in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 S383Y
 
 # Highly ranked escape variant in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 S383F
 
 # Highly ranked escape variant in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 S383E
 
 # Most potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 P384K
 
 # Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
-# Long et al. (2020) http://doi.org/10.1128/mBio.02707-20
+# Long et al. (2020) http://doi.org/10.1128/mBio.02707-20 [Journal publication]
 F338L
 
 # Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
-# Long et al. (2020) http://doi.org/10.1128/mBio.02707-20
+# Long et al. (2020) http://doi.org/10.1128/mBio.02707-20 [Journal publication]
 S373P
 
 # Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
-# Long et al. (2020) http://doi.org/10.1128/mBio.02707-20
-# PG: this finding was NOT recapitulated for the same antibody in Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Long et al. (2020) http://doi.org/10.1128/mBio.02707-20 [Journal publication]
+# PG: this finding was NOT recapitulated for the same antibody in Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 R408T
 
 # Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F392K
 
 # Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F392Y
 
 # Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F392Q
 
 # Reduce affinity for mildly cross-reactive CR3022 (2003 pandemic SARS monoclonal antibody cross-reactive to SARS-CoV-2)
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F392A
 
 # Most and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, but moderate decrease in ACE2 binding affinity
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417D
 
 # Moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, with modest loss of ACE2 binding affinity.
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 # In vitro selection against class 1 (Spike 'up' conformation) monoclonal antibodies C614, C660, C664, C683, and to a lesser extent C678.
 # In vitro selection against class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody C653.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 K417E
 
 # In vitro selection against class 1 (Spike 'up' conformation) monoclonal antibody C663, and to a lesser extent C613.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 N501Y
 
 # Mild in vitro selection against class 1 (Spike 'up' conformation) monoclonal antibody C613.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 N501H
 
 # Mild in vitro selection against class 3 monoclonal antibody C670.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 N501T
 
 # Mild in vitro selection against class 3 monoclonal antibody C669.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 V503L
 
 # Mild in vitro selection against class 3 monoclonal antibody C669.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 Y508H
 
 # Moderate in vitro selection against both class 3 monoclonal antibodies tested: C669 and C670.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 G504D
 
 # Moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417G
 
 # Moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417F
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417I
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 # In vitro selection against class 1 (Spike 'up' conformation) monoclonal antibody C682, and to a lesser extent C614 and C660
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 K417N
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417A
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417V
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417L
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417Y
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417P
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417H
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 # In vitro selection against class 1 antibody C682
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 K417T
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417W
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417C
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417S
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417M
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 K417Q
 
 # Only (and moderately) effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Most and moderately effective mutant against this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 A411K
 
 # Most and moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 Y365E
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 Y365K
 
 # Most and moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 Y369N
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 Y369P
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 Y369D
 
 # Most and moderately effective mutant against this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 N370P
 
 # Most and moderately effective mutant against this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 A372S
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 A372T
 
 # Most and moderately effective mutant against this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F374D
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F374N
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378E
 
 # Second most moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378V
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378S
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378Q
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378A
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378I
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378T
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378L
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378N
 
 # Most effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378Y
 
 # Most and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Ranked modestly effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378D
 
 # Most and moderately effective mutant against this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 P384Y
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 P384E
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 P384D
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 P384N
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 P384K
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 P384H
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 P384G
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 P384Q
 
 # Ranked moderately effective mutant against this position in the RBD for mildly neutralizing COV2-2677 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 P384R
 
 # Most effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Most and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 T376E
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Ranked modestly effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 T376F
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 T376D
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 T376N
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Ranked modestly effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 T376W
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 T376R
 
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 K378H
 
 # Highly effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 R408D
 
 # Moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 R408E
 
 # Only effective mutant against this position in the RBD for moderately neutralizing COV2-2084 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 A435W
 
 # Most (tied) and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 D420R
 
 # Most (tied) and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 D420W
 
 # Ranked mildy effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 D420Y
 
 # Ranked mildy effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 D420K
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 D420Q
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 D420N
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 D420M
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 D420A
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 D420E
 
 # Most and mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 A475Y
 
 # Ranked mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 A475R
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 A475E
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 A475I
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 A475E
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 A475K
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 A475F
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 A475D
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 A475Q
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 A475M
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 A475V
 
 # Only and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 A475N
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G476T
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G476E
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G476R
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G476K
 
 # Class 2 mAb C602 mildly selected for the emergence of this mutation in vitro.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 E484G
 
 # Most but stiil only mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
 # Most and moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484M
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484V
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484H
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484Y
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484F
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484L
 
 # Most btu only mildly effective ranked mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 E484I
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484R
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 E484W
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484C
 
 # "E484A rose in frequency in linkage with F486I, but since E484A is not an escape mutation in our maps it is not shown in other panels"
-# Starr et al. (2020) http://doi.org/10.1101/2020.11.30.405472
+# Starr et al. (2020) http://doi.org/10.1101/2020.11.30.405472 [Journal publication] [Journal publication]
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484A
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484N
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484P
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484I
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484Q
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 # Class 2 mAb C602 mildly selected for the emergence of this mutation in vitro.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 E484D
 
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
 # Most but only mildly effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G446V
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G446P
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G446D
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G446F
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G446E
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G446T
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G446W
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G446H
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G446N
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G446Y
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G446L
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
 # Most but only mildly effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447P
 
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447N
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447Y
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447L
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447I
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447H
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447M
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447K
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447V
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447E
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447T
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447S
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447R
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447C
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447F
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G447D
 
 # Ranked most but only mildy effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 Y449R
 
 # Ranked most and moderately effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 N448C
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 N4348R
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 N448P
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 E484T
 
 # Only observed effective escape variant against Regeron's antibody cocktail (REGN10933 and REGN10987) 
-# Starr et al. (2020) http://doi.org/10.1101/2020.11.30.405472
+# Starr et al. (2020) http://doi.org/10.1101/2020.11.30.405472 [Journal publication] [Journal publication]
 E406W
 
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496V
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496D
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496Y
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496R
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496F
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496E
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496Q
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496I
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496W
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496L
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496K
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496N
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496T
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496M
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 G496H
 
 # Escape variant 100% appearance in 2 passages against Regeneron monoclonal antibody REGN10989 @ 50ug/mL (99% after one passage)
-# Baum et al. (2020) http://doi.org/10.1126/science.abd0831
+# Baum et al. (2020) http://doi.org/10.1126/science.abd0831 [Journal publication]
 # Strong positive selection (up to 50% of supernatant sequences) after C121 monoclonal antibody assay, decreasing in subsequent passages
 # Strong positive selection (up to 44% of supernatant sequences) after after one round of C144 monoclonal antibody passage, then waning on subsequent passages
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 # The engineered mutation cause 10-fold or more increase in the disassociation constant with many monoclonal antibodies (C144/C002/C121/C104/C110).
-# Barnes et al. (2020) http://doi.org/10.1038/s41586-020-2852-1
+# Barnes et al. (2020) http://doi.org/10.1038/s41586-020-2852-1 [Journal publication]
 # Mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
 # Effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 # Class 2 antibodies C627, C602, C671, C643, and class 2/3 antibody C603 selected for the emergence of the E484K mutation in vitro.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 E484K
 
 # Class 3 antibody C669 and C670 mildly selected for the emergence of the N439K mutation in vitro.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 N439K
 
 # Class 3 antibody C669 mildly selected for the emergence of the N440K mutation in vitro (in contrast to N440H which caused mild escape in Class 1/2 mAb C653).
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 N440K
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F490A
 
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F490E
 
 # Positive selection (up to 23% of supernatant sequences) after C121 monoclonal antibody assay
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 F490L
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
 # Mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F490D
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F490K
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F490N
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F490V
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 # Class 2/3 mAb C603 modestly selected for the emergence of this mutation in vitro.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 F490S
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F490P
 
 # Mildly effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F490R
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F490G
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F490T
 
 # Most but only mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 S494R
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 S494K
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 S494P
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 S494W
 
 # Escapes mAb REGN10987, part of Regeneron's antibody cocktail. 
-# Starr et al. (2020) http://doi.org/10.1101/2020.11.30.405472
+# Starr et al. (2020) http://doi.org/10.1101/2020.11.30.405472 [Journal publication] [Journal publication]
 # Strong positive selection (up to 45% of supernatant sequences) under two rounds of C121 monoclonal antibody passage
 # Strong positive selection (up to 39% of supernatant sequences) after two rounds of C135 monoclonal antibody passage, overall 76% switch away from Q493 to K or R
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Q493K
 
 # Positive selection (up to 45% of supernatant sequences) under two rounds of C135 monoclonal antibody passage, eliminated in subsequent passages
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 N440K
 
 # Positive selection (up to 30% of supernatant sequences) under two rounds of C135 monoclonal antibody passage, overall 70% switch away from R346 to S, K or M
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 # The engineered mutation cause 10-fold or more increase in the disassociation constant with C135 and C110 monoclonal antibodies vs. wild type Spike protein RBD domain AAs.
 R346S
 
 # Strong positive selection (up to 53% of supernatant sequences) under two rounds of C135 monoclonal antibody passage, overall 70% switch away from R346 to S, K or M
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 R346K
 
 # Strong positive selection (up to 37% of supernatant sequences) after two rounds of C135 monoclonal antibody passage, overall 76% switch away from Q493 to K or R
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 # The engineered mutation cause 10-fold or more increase in the disassociation constant with C144, C002 and C121 monoclonal antibodies vs. wild type Spike protein RBD domain AAs.
-# Barnes et al. (2020) http://doi.org/10.1038/s41586-020-2852-1
+# Barnes et al. (2020) http://doi.org/10.1038/s41586-020-2852-1 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 # Class 2 mAb C627 modestly selected for the emergence of this mutation in vitro.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 Q493R 
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Q493Y
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Q493F
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Q493W
 
 # The engineered mutation cause 10-fold or more increase in the disassociation constant with C102, C105 and C144 monoclonal antibodies vs. wild type Spike protein RBD domain AAs.
-# Barnes et al. (2020) http://doi.org/10.1038/s41586-020-2852-1
+# Barnes et al. (2020) http://doi.org/10.1038/s41586-020-2852-1 [Journal publication]
 A475V
 
 # Escape variant 45% appearance in 2 passages against Regeneron monoclonal antibody RGN10987 @ 10ug/mL
-# Baum et al. (2020) http://doi.org/10.1126/science.abd0831
+# Baum et al. (2020) http://doi.org/10.1126/science.abd0831 [Journal publication]
 K444Q
 
 # Escape variant 41% appearance in 2 passages against Regeneron monoclonal antibody RGN10987 @ 10ug/mL
-# Baum et al. (2020) http://doi.org/10.1126/science.abd0831
+# Baum et al. (2020) http://doi.org/10.1126/science.abd0831 [Journal publication]
 V445A
 
 # Most and highly effective mutant against this position in the RBD for highly neutralizing COV2-2499
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 V445G
 
 # Ranked highly effective mutant against this position in the RBD for highly neutralizing COV2-2499
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 V445N
 
 # Ranked highly effective mutant against this position in the RBD for highly neutralizing COV2-2499
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 V445W
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 V445D
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 V445Y
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 V445K
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2499
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 V445R
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2499
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 V445S
 
 # Escape variant 95% appearance in 2 passages against Regeneron monoclonal antibody RGN10934 @ 50ug/mL
-# Baum et al. (2020) http://doi.org/10.1126/science.abd0831
+# Baum et al. (2020) http://doi.org/10.1126/science.abd0831 [Journal publication]
 N450D
 
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2096
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 L452Y
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 L452W
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 L452K
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Class 2/3 antibody C628 and class 2 antibody C643 selected for the emergence of the L452R mutation in vitro.
-# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911
+# Wang et al. (2021) http://doi.org/10.1101/2021.01.15.426911 [Journal publication]
 L452R
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 L452T
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 L452E
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2096
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 L452F
 
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2096
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 N450Y
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 N450T
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2096
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 N450P
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2096
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 N450G
 
 # Escape variant 88% appearance in 2 passages against Regeneron monoclonal antibody RGN10933 @ 50ug/mL
-# Baum et al. (2020) http://doi.org/10.1126/science.abd0831
+# Baum et al. (2020) http://doi.org/10.1126/science.abd0831 [Journal publication]
 # Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F486V
 
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F486A
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F486C
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F486G
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F486K
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F486R
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F486S
 
 # Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 F486D
 
 # Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F486V
 
 # Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F486T
 
 # Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F486P
 
 # Escapes mAb REGN10933 (part of Regeneron's antibody cocktail)
-# Starr et al. (2020) http://doi.org/10.1101/2020.11.30.405472
+# Starr et al. (2020) http://doi.org/10.1101/2020.11.30.405472 [Journal publication] [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y489H
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y489V
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y489L
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y489Q
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y489M
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y489I
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 Y489W
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G504I
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G504V
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G504C
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 G504L
 
 # Escapes mAb REGN10933 (part of Regeneron's antibody cocktail)
-# Starr et al. (2020) http://doi.org/10.1101/2020.11.30.405472
+# Starr et al. (2020) http://doi.org/10.1101/2020.11.30.405472 [Journal publication] [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F486I
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 F486L
 
 # Escapes mAb REGN10987 (part of Regeneron's antibody cocktail)
-# Starr et al. (2020) http://doi.org/10.1101/2020.11.30.405472
+# Starr et al. (2020) http://doi.org/10.1101/2020.11.30.405472 [Journal publication] [Journal publication]
 N440D
 
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N487Y
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N487S
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N487T
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N487A
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N487E
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N487K
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N487H
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N487L
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N487F
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N487D
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N487G
 
 # Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 N487R
 
 # Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
-# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007
+# Greaney et al. (2020) http://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Weak escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683
+# Starr et al. (2021) http://doi.org/10.1101/2021.02.17.431683 [Journal publication]
 N487Q
 
 # Escape variant 47% appearance in 2 passages against Regeneron monoclonal antibody RGN10987 @ 10ug/mL
-# Baum et al. (2020) http://doi.org/10.1126/science.abd0831
+# Baum et al. (2020) http://doi.org/10.1126/science.abd0831 [Journal publication]
 R685S
 
 # Escape variant 87% appearance in 2 passages against Regeneron monoclonal antibody RGN10933 @ 50ug/mL
-# Baum et al. (2020) http://doi.org/10.1126/science.abd0831
+# Baum et al. (2020) http://doi.org/10.1126/science.abd0831 [Journal publication]
 G769E
 
 # Escape variant 20% appearance in 2 passages against Regeneron monoclonal antibody RGN10989 @ 50ug/mL
-# Baum et al. (2020) http://doi.org/10.1126/science.abd0831
+# Baum et al. (2020) http://doi.org/10.1126/science.abd0831 [Journal publication]
 Q779K

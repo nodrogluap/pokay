@@ -1,4 +1,4 @@
 # Abbott Panbio COVID-19 Ag test fails to detect infection with virus comtaining this circulating
 # combination of nucleocapsid variants.
-# DelVecchio et al. (2021) http://doi.org/10.1101/2021.03.25.21253802
+# DelVecchio et al. (2021) http://doi.org/10.1101/2021.03.25.21253802 [Preprint (MedRxiv)]
 A376T;M241I

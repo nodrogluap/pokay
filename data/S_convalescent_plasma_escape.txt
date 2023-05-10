@@ -3,179 +3,179 @@ Fluorescent  focus  reduction  neutralization  test (FFRNT50)
 # Kurhade et al. (2022) https://outbreak.info/resources/2022.06.05.494889
 
 # Decreases in neutralization efficiency up to ~25-50% in the S2D97 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 N439K
 
 # Decreases in neutralization efficiency up to ~25-50% in the S2D97 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 N439K
 
 # Decreases in neutralization efficiency up to ~25-50% in the S2D97 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 N439K;K417V
 
 # Decreases in neutralization efficiency up to ~15-125% in the REGN10987 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 N439K
 
 # Decreases in neutralization efficiency up to ~25-50% in the S2H14 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 N439K;K417V
 
 # Decreases in neutralization efficiency up to ~25-50% in the S2H14 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 K417V
 
 # Decreases in neutralization efficiency up to ~12-88% in the S2H7 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 N439K;K417V
 
 # Decreases in neutralization efficiency up to ~12-88% in the S2H7 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 K417V
 
 # Increases in neutralization efficiency up to ~25% in the S2X192 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 K417V 
 
 # Increases in neutralization efficiency up to ~25% in the S2X192 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 N439K;K417V 
 
 # Decreases in neutralization efficiency up to ~50% in the S2X128 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 K417V
 
 # Decreases in neutralization efficiency up to ~50% in the S2X128 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 N439K;K417V
 
 # Decreases in neutralization efficiency up to ~75% in the S2X71 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 K417V
 
 # Decreases in neutralization efficiency up to ~75% in the S2X71 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 N439K;K417V
 
 # Decreases in neutralization efficiency up to ~75% to increase up to ~25% in the S2D8 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 K417V
 
 # Decreases in neutralization efficiency up to ~75% to increase up to ~25% in the S2D8 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 N439K;K417V
 
 # Decreases in neutralization efficiency up to ~60% in the REGN10933 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 K417V
 
 # Decreases in neutralization efficiency up to ~60% in the REGN10933 antibiotic.
-# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842
+# Thomson et al. (2020) http://doi.org/10.1101/2020.11.04.355842 [Preprint (other)]
 N439K;K417V
 
 # Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 E484K
 
 # Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 E484D
 
 # Significant decrease in neutralization across 15 of 16 sera tested 7-17 days post symptoms onset.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 E484A
 
 # Significant decrease in neutralization across 11 of 16 sera tested 7-17 days post symptoms onset.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 S477N
 
 # Significant decrease in neutralization across 4 of 16 sera tested 7-17 days post symptoms onset.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 N450Y
 
 # No effective neutralization in 1 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 T354S
 
 # No effective neutralization in 2 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 L441R
 
 # No effective neutralization in 3 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 K444E
 
 # No effective neutralization in 1 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 G446D
 
 # No effective neutralization in 3 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 G446V
 
 # No effective neutralization in 2 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 N450D
 
 # No effective neutralization in 2 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 N450Y
 
 # No effective neutralization in 3 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 L452R
 
 # No effective neutralization in 2 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 S477G
 
 # No effective neutralization in 2 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 T478I
 
 # No effective neutralization in all 4 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 E484A
 
 # No effective neutralization in all 4 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 E484D
 
 # No effective neutralization in all 4 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 E484G
 
 # No effective neutralization in all 4 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 E484K
 
 # No effective neutralization in 1 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 F486S
 
 # No effective neutralization in 3 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 F490S
 
 # No effective neutralization in 2 out of the 4 sera tested.
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 S477N;S514
 
 # IC50 relative to wildtype drops ~8x in neutralization efficiency between 7-17 days post symptoms onset. 
-# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014
+# Liu et al. (2021) http://doi.org/10.1016/j.chom.2021.01.014 [Journal publication]
 F486S
 
 # In 12 convalescent sera more than 2 weeks and less than 2 months post infection, this NTD mutation causes a ~3.5x drop in neutralization efficiency.
-# Haslwanter et al. (2021) http://doi.org/10.1101/2021.06.10.447999
+# Haslwanter et al. (2021) http://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)]
 Y145D
 
 # In 12 convalescent sera more than 2 weeks and less than 2 months post infection, this NTD mutation causes a ~3.5x drop in neutralization efficiency.
-# Haslwanter et al. (2021) http://doi.org/10.1101/2021.06.10.447999
+# Haslwanter et al. (2021) http://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)]
 K150E
 
 # In 12 convalescent sera more than 2 weeks and less than 2 months post infection, this NTD mutation causes a ~3.5x drop in neutralization efficiency.
-# Haslwanter et al. (2021) http://doi.org/10.1101/2021.06.10.447999
+# Haslwanter et al. (2021) http://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)]
 W152R
 
 # Sera from individuals who have been infected with Delta does not have strong
@@ -186,31 +186,31 @@ W152R
 T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H
 
 # Mean 12.4x reduction of NT50 value B.1.621 (Mu) relative to wild type in 8 sera from older convalescent patients (52-92yo) collected 1-3m post symptom onset. [This is a greater reduction than Beta @ 8.2x]
-# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005
+# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005 [Preprint (other)]
 T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H;D950N
 
 # Mean 3.4x reduction of NT50 value for C.37 (Lambda) relative to wild type in 8 sera from older convalescent patients (52-92yo) collected 1-3m post symptom onset.
-# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005
+# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005 [Preprint (other)]
 G75V;T76I;R246_D253delinsN;L452Q;F490S;D614G;T859N
 
 # Mean 2.7x reduction of NT50 value B.1.427 (Epsilon) relative to wild type in 8 sera from older convalescent patients (52-92yo) collected 1-3m post symptom onset.
-# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005
+# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005 [Preprint (other)]
 S13I;W152C;L452R;D614G
 
 # Mean 4.0x reduction of NT50 value B.1.617.2 (Delta) relative to wild type in 8 sera from older convalescent patients (52-92yo) collected 1-3m post symptom onset.
-# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005
+# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005 [Preprint (other)]
 T19R;G142D;S:p.E156del;S:p.F157del;S:p.R158G;L452R;T478K;D614G;P681R;D950N
 
 # Mean 4.1x reduction of NT50 value P.1 (Gamma) relative to wild type in 8 sera from older convalescent patients (52-92yo) collected 1-3m post symptom onset.
-# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005
+# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005 [Preprint (other)]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
 
 # Mean 8.2x reduction of NT50 value B.1.351 (Beta) relative to wild type in 8 sera from older convalescent patients (52-92yo) collected 1-3m post symptom onset.
-# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005
+# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005 [Preprint (other)]
 L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Mean 2.6x reduction of NT50 value B.1.1.7 (Alpha) relative to wild type in 8 sera from older convalescent patients (52-92yo) collected 1-3m post symptom onset.
-# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005
+# Uriu et al. (2021) http://doi.org/10.1101/2021.09.06.459005 [Preprint (other)]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Sera from individuals who have been infected with Delta does not have strong
@@ -221,479 +221,479 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Relative to B.1, Kappa (B.1.617.1) shows 5.71x decrease in neutralization efficiency by convalescent plasma [no cohort details provided]
-# Wilhelm et al. (2021) http://doi.org/10.1101/2021.08.09.21261704
+# Wilhelm et al. (2021) http://doi.org/10.1101/2021.08.09.21261704 [Preprint (other)]
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
 
 # Relative to B.1, Delta (B.1.617.2) shows 3.64x decrease in neutralization efficiency by convalescent plasma [no cohort details provided]
-# Wilhelm et al. (2021) http://doi.org/10.1101/2021.08.09.21261704
+# Wilhelm et al. (2021) http://doi.org/10.1101/2021.08.09.21261704 [Preprint (other)]
 T19R;T95I;G142D;F157del;R158del;A222V;L452R;T478K;D614G;P681R;D950N
 
 # Relative to B.1, Epsilon (B.1.417/429) shows 1.74x-2.35x decrease in neutralization efficiency by convalescent plasma [no cohort details provided]
-# Wilhelm et al. (2021) http://doi.org/10.1101/2021.08.09.21261704
+# Wilhelm et al. (2021) http://doi.org/10.1101/2021.08.09.21261704 [Preprint (other)]
 D614G;L452R
 
 # Artificially constructed HIV-1 pseudovirus with set of mutations drawn from plasma passage escape experiments
 # shows ablated neutralization efficacy (NT50 ~ 0) in two of 21 convalescents plasma collected mean 1.5 post symptom onset.
 # Greater than 4-fold reduction was observed in most of the other plasma. 14 vaccinee plasma showed a slightly lower
 # reduction in efficacy, albeit from a higher average starting point titre than convalescents.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 V47M;G142E;K378R;V445E;N450D;E484K;Q493R;T604I;F759S;P792H;I931M;V1061M;P1162S
 
 # Artificially constructed HIV-1 pseudovirus with set of mutations drawn from plasma passage escape experiments
 # shows ablated neutralization efficacy (NT50 ~ 0) in two of 21 convalescents plasma collected mean 1.5 post symptom onset.
 # Greater than 4-fold reduction was observed in most of the other plasma. 14 vaccinee plasma showed a slightly lower
 # reduction in efficacy, albeit from a higher average starting point titre than convalescents.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 S12P;F104S;Y144C;L244P;W258R;K378R;N440K;V445E;G446R;N450D;E484K;P792H;N801D
 
 # Artificially constructed HIV-1 pseudovirus with set of mutations drawn from plasma passage escape experiments
 # and mutations from variants of concern completely ablates neutralization in 19 of 21 convalescents plasma collected mean 1.5 post symptom onset.
 # [actual Y145del from manuscript substituted with more common Y144del description]
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 L18F;V47M;H69del;V70del;D80A;Y144del;D215G;L242del;A243del;L244del;W258R;R346S;K417N;N440K;V445E;L455R;A475V;E484K;N501Y;D614G;A701V;P792H;N801D
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 S12P
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 Q14H
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 C15G
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 P25L
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 V47M
 
 # Mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset, but also
 # in cell culture without plasma, therefore likely a replication cycle fitness rather than polyclonal iummnuity escape variant.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 W64R
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 F140S
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 G142E
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 V143G
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 Y145C
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 K147N
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 K147E
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 E154K
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 A243D
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 L244P
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 S247P
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 S254Y
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 Y248H
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 W258R
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 A260V
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 A260T
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 K378R
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 K444T
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 V445E
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 V445M
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 G446R
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 N450D
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 E484K
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 Q493R
 
 # Mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset, but also
 # in cell culture without plasma, therefore likely a replication cycle fitness rather than polyclonal iummnuity escape variant.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 T604I
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 A623T
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 P681S
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 F792H
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 N801D
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 S813I
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 I931M
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 Q1010R
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 V1061M
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 D1118G
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 V1128A
 
 # Escape mutant found after in passage in plasma pool of 26 convalescents mean 1.5 post symptom onset.
-# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491
+# Schmidt et al. (2021) http://doi.org/10.1101/2021.08.06.455491 [Preprint (other)]
 P1162S
 
 # Mutation from chronically infected patient predicted to introduce clash with potent mAbs C1A-VH3-53, 
 # and verified by pseudovirus assay against the weaker mAbs in this family.
 # The mutation conferred decreased sensitivity to mAb B38 but had no effect on neutralization by mAb CC12.
-# Clark et al. (2021) http://doi.org/10.1016/j.cell.2021.03.027
+# Clark et al. (2021) http://doi.org/10.1016/j.cell.2021.03.027 [Journal publication]
 Q493K
 
 # Pseudotype for Day 146 virus from a chronically infected patient, neutralizing activity of purified IgG 
 # from 3 donors was mostly unaffected by the single mutations (Q493K/R or N439K), but the day 146 S pseudotype
 # was resistant to neutralization.
-# Clark et al. (2021) http://doi.org/10.1016/j.cell.2021.03.027
+# Clark et al. (2021) http://doi.org/10.1016/j.cell.2021.03.027 [Journal publication]
 N440D;Y489H;Q493K;N501Y
 
 # Pseudotype for Day 152 virus from a chronically infected patient, neutralizing activity of purified IgG 
 # from 3 donors was mostly unaffected by the single mutations (Q493K/R or N439K), but the day 152 S pseudotype
 # was resistant to neutralization.
-# Clark et al. (2021) http://doi.org/10.1016/j.cell.2021.03.027
+# Clark et al. (2021) http://doi.org/10.1016/j.cell.2021.03.027 [Journal publication]
 E484A;F486I;Y489H;N501Y
 
 # Pseudotyped viruses for B.1.617 was 2.3-fold resistant to neutralization by convalescent sera compared to wild type - a finding that
 # was similar to that of the 3-fold resistance of the South Africa B.1.351 variant using the same assay.
 # The resistance of B.1.617 was caused by the L452R and E484Q mutation, based on results from viruses pseudotyped for individual variants within B.1.617.
 # [details on the convalescent patient sera collection are not abundantly clear in the preprint]
-# Tada et al. (2021) http://doi.org/10.1101/2021.05.14.444076
+# Tada et al. (2021) http://doi.org/10.1101/2021.05.14.444076 [Preprint (other)]
 L452R;E484Q;D614G
 
 # Pseudotyped viruses for B.1.618 was 2.5-fold resistant to neutralization by convalescent sera compared to wild type - a finding that
 # was similar to that of the 3-fold resistance of the South Africa B.1.351 variant using the same assay.
 # The resistance of B.1.618 was caused by the E484K mutation, based on results from viruses pseudotyped for individual variants within B.1.618.
 # [details on the convalescent patient sera collection are not abundantly clear in the preprint]
-# Tada et al. (2021) http://doi.org/10.1101/2021.05.14.444076
+# Tada et al. (2021) http://doi.org/10.1101/2021.05.14.444076 [Preprint (other)]
 E484K;D614G
 
 # Using convalescent sera from 15 early pandemic patients (Seattle Flu Study), mean 220 days post symptom onset (IQR 125-269, and three asymptomatic cases)
 # with 27% WHO disease severity scale 3, one third (5/15) of sera neutralized this B.1.351 pseudotype and only three had ID50 titers above 100.
 # Only two of the 15 sera achieved 80% neutralization.
-# Stamatatos et al. (2021) http://doi.org/10.1126/science.abg9175
+# Stamatatos et al. (2021) http://doi.org/10.1126/science.abg9175 [Journal publication]
 D80A;D215G;K417N;E484K;N501Y;A701V;D614G
 
 # Using convalescent sera from 15 early pandemic patients (Seattle Flu Study), mean 220 days post symptom onset (IQR 125-269, and three asymptomatic cases)
 # with 27% WHO disease severity scale 3, 7 of 15 neutralized this B.1.351 pseudotype that includes the L242del, and only one had titers above 100. 
 # Only one of the 15 sera achieved 80% neutralization.
 # [compare to 5 and 1 for pseudotype without the deletion]
-# Stamatatos et al. (2021) http://doi.org/10.1126/science.abg9175
+# Stamatatos et al. (2021) http://doi.org/10.1126/science.abg9175 [Journal publication]
 D80A;D215G;L242del;K417N;E484K;N501Y;D614G
 
 # VSV pseudotyped with Y453F reduced inhibition by most of the 13 potent convalescent serum/plasma samples tested, albeit with variable efficiency 
 # (median increase of serum/plasma titer required for 50% neutralization [NT50] = 1.62x, range = 1.02x to 3.43x), indicating that this 
 # RBD mutation may compromise SARS-CoV-2 control by preexisting neutralizing antibody responses.
-# Hoffman et al. (2021) http://doi.org/10.1016/j.celrep.2021.109017
+# Hoffman et al. (2021) http://doi.org/10.1016/j.celrep.2021.109017 [Journal publication]
 Y453F
 
 # In 34 plasma collected 11-45 days post symptom onset, before B.1.1.7's emergence, neutralization of P.1 decreased 3.1x (comparable to B.1.1.7 at 2.9x).
 # When using plasma from individuals infected with B.1.1.7, only modest (1.8-fold, p=0.0039) reductions in neutralization comparing 
 # P.1 with Victoria (~wild type) were observed.
-# Dejnirattisai et al. (2021) http://doi.org/10.1016/j.cell.2021.03.055
+# Dejnirattisai et al. (2021) http://doi.org/10.1016/j.cell.2021.03.055 [Journal publication]
 # In sera from six patients collected 1 to 12 weeks post-infection with B.1, antibody titer in a microneutralization assay was on average 256 for B.1.1.7 virus.
 # Compare to somewhat stronger neutralization titer for wild type (456.1) in the same sera. 
-# Luftig et al. (2021) http://doi.org/10.1056/NEJMc2104036
+# Luftig et al. (2021) http://doi.org/10.1056/NEJMc2104036 [Journal publication]
 L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # In 34 plasma collected 11-45 days post symptom onset, before B.1.1.7's emergence, neutralization of B.1.351 decreased 13.3x 
 # (much more than B.1.1.7 at 2.9x and P.1 at 3.1x).
 # When using plasma from individuals infected with B.1.1.7, reductions in neutralization were significant but less extreme (4.4x) compared with 
 # with Victoria (~wild type).
-# Dejnirattisai et al. (2021) http://doi.org/10.1016/j.cell.2021.03.055
+# Dejnirattisai et al. (2021) http://doi.org/10.1016/j.cell.2021.03.055 [Journal publication]
 # Passive immunization with plasma from an early pandemic SARS-CoV-2 patients given to K18-hACE2 transgenic mice did not protect 
 # against viral propagation or lethal disease (whereas B.1.1.7 had partial protection and wild type complete protection).
 # B.1.351 triggering significantly altered cytokine profiles than other strains in these mice.
-# Horspool et al. (2021) http://doi.org/10.1101/2021.05.05.442784
+# Horspool et al. (2021) http://doi.org/10.1101/2021.05.05.442784 [Journal publication]
 # Using early pandemic sera (April-June 2020), we observed modestly decreased cross-neutralization of B.1.1.7 pseudotype lentilvirus but a 
 # substantial 4.8-fold reduction in cross-neutralization of B.1.351. 2 sera showed zero neutralization of B.1.351.
-# Vidal et al. (2021) http://doi.org/10.1128/JVI.00404-21
+# Vidal et al. (2021) http://doi.org/10.1128/JVI.00404-21 [Journal publication]
 # In sera from six patients collected 1 to 12 weeks post-infection with B.1, antibody titer in a microneutralization assay was on average 8 for B.1.351 virus.
 # Compare to much stronger neutralization titers for B.1.1.7 (256) and wild type (456.1) in the same sera. 
-# Luftig et al. (2021) http://doi.org/10.1056/NEJMc2104036
+# Luftig et al. (2021) http://doi.org/10.1056/NEJMc2104036 [Journal publication]
 L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # 0.7x reduction in neutralization by key variant in several variants of concern in sera collected from cohort of 10 with severe 
 # disease 21 to 63 days post-onset. 
-# Kuzmina et al. (2021) http://doi.org/10.1016/j.chom.2021.03.008
+# Kuzmina et al. (2021) http://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 N501Y
 
 # ~7x reduction in neutralization by key B.1.351 lineage RBD variant combination in sera collected from cohort of 10 with severe 
 # disease 21 to 63 days post-onset. Two of the cohort showed no neutralization against this variant.
-# Kuzmina et al. (2021) http://doi.org/10.1016/j.chom.2021.03.008
+# Kuzmina et al. (2021) http://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 N501Y;K417N;E484K
 
 # Using a new rapid neutralization assay, based on reporter cells that become positive for GFP after overnight infection, sera from 58 
 # convalescent individuals collected up to 9 months after symptoms, similarly neutralized B.1.1.7 and D614G. 
-# Planas et al. (2021) http://doi.org/10.1038/s41591-021-01318-5
+# Planas et al. (2021) http://doi.org/10.1038/s41591-021-01318-5 [Journal publication]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Using a new rapid neutralization assay, based on reporter cells that become positive for GFP after overnight infection, sera from 58 
 # convalescent individuals collected up to 9 months after symptoms had mean ~6x reduction in neutralizing titers, and 40% of the samples 
 # lacked any activity against B.1.351. 
-# Planas et al. (2021) http://doi.org/10.1038/s41591-021-01318-5
+# Planas et al. (2021) http://doi.org/10.1038/s41591-021-01318-5 [Journal publication]
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Approximately 2-fold reduction in 15 ICU patient convalescent plasma neutralization as quantified by measuring virus-encoded 
 # luciferase activity in cell lysates at 16-18 h post transduction.
 # [PG: note that the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
 # therefore the results should be interpreted carefully as transferable to B.1.617 generally]
-# Hoffman et al. (2021) http://doi.org/10.1101/2021.05.04.442663
+# Hoffman et al. (2021) http://doi.org/10.1101/2021.05.04.442663 [Preprint (other)]
 R21T;E154K;Q218H;L452R;E484Q;D614G;P681R;H1101D
 
 # Approximately 6-fold reduction in 15 ICU patient convalescent plasma neutralization as quantified by measuring virus-encoded luciferase 
 # activity in cell lysates at 16-18 h post transduction.
-# Hoffman et al. (2021) http://doi.org/10.1101/2021.05.04.442663
+# Hoffman et al. (2021) http://doi.org/10.1101/2021.05.04.442663 [Preprint (other)]
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # The most significant loss of neutralizing activity (PsVNA50 assay) using 6 hyperimmune immunoglobulin preparations from
 # convalescent plasma was seen against authentic B.1.351 lineage virus (9.2-fold). Neutralization against 10
 # convalescent plasma was poorer (18.7x).
-# Tang et al. (2021) http://doi.org/10.1101/2021.03.19.436183
+# Tang et al. (2021) http://doi.org/10.1101/2021.03.19.436183 [Preprint (BioRxiv)]
 L18F;D80A;D215G;L242del;A243del;L244del;N501Y;K417N;E484K;D614G 
 
 # Loss of neutralizing activity (PsVNA50 assay) using 6 hyperimmune immunoglobulin preparations from
 # convalescent plasma was seen against P.1 (3.5-fold). Neutralization against 10
 # convalescent plasma was slightly poorer (3.9-fold).
-# Tang et al. (2021) http://doi.org/10.1101/2021.03.19.436183
+# Tang et al. (2021) http://doi.org/10.1101/2021.03.19.436183 [Preprint (BioRxiv)]
 # In sera from six patients collected 1 to 12 weeks post-infection with B.1, antibody titer in a microneutralization assay was on average 71.46 for P.1 virus.
 # Compare to much stronger neutralization titers for B.1.1.7 (256) and wild type (456.1) in the same sera. 
-# Luftig et al. (2021) http://doi.org/10.1056/NEJMc2104036
+# Luftig et al. (2021) http://doi.org/10.1056/NEJMc2104036 [Journal publication]
 # Neutralizing antibodies that were generated following a mild infection with SARS-CoV-2 B.1.128 were effective in vitro, 
 # and likely protective, against the SARS-CoV-2 P.1. variant in the majority of individuals based on 60 convalescent sera tested.
-# Mendes-Correa et al. (2021) http://doi.org/10.1101/2021.05.11.21256908
+# Mendes-Correa et al. (2021) http://doi.org/10.1101/2021.05.11.21256908 [Preprint (MedRxiv)]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
 # Loss of neutralizing activity (PsVNA50 assay) using 6 hyperimmune immunoglobulin preparations from
 # convalescent plasma was minimal against B.1.249 (1.7-fold). Neutralization against 10
 # convalescent plasma was somewhat poorer (3.1-fold).
-# Tang et al. (2021) http://doi.org/10.1101/2021.03.19.436183
+# Tang et al. (2021) http://doi.org/10.1101/2021.03.19.436183 [Preprint (BioRxiv)]
 S13I;W152C;L452R
 
 # As measured by surface plasmon resonance, RBD with the E484K mutation alone showed a mean 19.1x decrease in binding affinity for 
 # six batches of hyperimmune immunoglobulin (hCoV-2IG) preparations generated from SARS-CoV-2 convalescent plasma.
-# Tang et al. (2021) http://doi.org/10.1101/2021.03.19.436183
+# Tang et al. (2021) http://doi.org/10.1101/2021.03.19.436183 [Preprint (BioRxiv)]
 E484K
 
 # As measured by surface plasmon resonance, RBD with the N501Y mutation alone showed a mean 2.1x decrease in binding affinity for 
 # six batches of hyperimmune immunoglobulin (hCoV-2IG) preparations generated from SARS-CoV-2 convalescent plasma.
-# Tang et al. (2021) http://doi.org/10.1101/2021.03.19.436183
+# Tang et al. (2021) http://doi.org/10.1101/2021.03.19.436183 [Preprint (BioRxiv)]
 N501Y
 
 # The only mutation in the B.1.351 lineage that appears to contribute to neutralization reduction (~1.7x across 10 convalescent sera from April 2020 infectees)
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
 E484K
 
 # Viruses containing the point mutations
 # of B.1.1.7 showed that the single point mutations (Δ69-70 and N501Y) were neutralized
 # as efficiently as D614G across 10 convalescent sera from April 2020 infectees.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
 N501Y
 
 # Viruses containing the point mutations
 # of B.1.1.7 showed that the single point mutations (Δ69-70 and N501Y) were neutralized
 # as efficiently as D614G across 10 convalescent sera from April 2020 infectees.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
 H69del;V70del
 
 # These key B.1.1.7 mutations as a combination neutralized slightly less well than D614G
 # and this was noticeable in the lack of sera with high neutralizing titer for the viruses 
 # across 10 convalescent sera from April 2020 infectees.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
 H69del;V70del;N501Y;P681H
 
 # Lentiviral pseudotyped with the key mutations from COH.20G/677H ("Ohio") lineage
 # was neutralized similarly to D614G in 10 convalescent sera from April 2020 infectees.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
 N501Y;D614G;Q677H
 
 # Lentiviral pseudotyped with the key mutations from Mink Cluster 5
 # was neutralized more easily than D614G in 10 convalescent sera from April 2020 infectees.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
 H69del;V70del;Y453F;I692V;M1229I
 
 # Lentiviral pseudotyped with the key mutations from 20A.EU2 lineage
 # was neutralized slightly less than D614G in 10 convalescent sera from April 2020 infectees.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
 S477N;D614G
 
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed no significant 
 # change in IC50 serum dilution concentration for 6 convalescent sera.
-# Zhou et al. (2021) http://doi.org/10.1101/2021.03.24.436620
+# Zhou et al. (2021) http://doi.org/10.1101/2021.03.24.436620 [Journal publication]
 L5F;T95I;D253G;S477N;D614G;A701V
 
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.8x reduction in 
 # IC50 serum dilution concentration for 6 convalescent sera.
-# Zhou et al. (2021) http://doi.org/10.1101/2021.03.24.436620
+# Zhou et al. (2021) http://doi.org/10.1101/2021.03.24.436620 [Journal publication]
 L5F;T95I;D253G;E484K;D614G;A701V
 
 # In 9 plasma collected 15 to 28 days after early 2020 infections, neutralization reduced 4.9-fold for
 # B.1.427/B.1.429 compared to wildtype (D614G).
 # In 13 plasma collected ~1mo after B.1.1.7 infection (nursing home in Ticino, Switzerland), neutralization 
 # reduced to undetectable levels in many plasma for B.1.427/B.1.429 pseudotyped virus, as well as WT and other VOCs. 
-# McCallum et al. (2021) http://doi.org/10.1101/2021.03.31.437925
+# McCallum et al. (2021) http://doi.org/10.1101/2021.03.31.437925 [Journal publication] [Journal publication]
 S13I;W152C;L452R
 
 # In 13 plasma collected ~1mo after B.1.1.7 infection (nursing home in Ticino, Switzerland), neutralization 
 # reduced to undetectable levels in many plasma for B.1.351 pseudotyped virus, as well as WT and other VOCs. 
 # [paper does not detail the B.1.351 variants used, using the most popular as a stad in]
-# McCallum et al. (2021) http://doi.org/10.1101/2021.03.31.437925
+# McCallum et al. (2021) http://doi.org/10.1101/2021.03.31.437925 [Journal publication] [Journal publication]
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # In 13 plasma collected ~1mo after B.1.1.7 infection (nursing home in Ticino, Switzerland), neutralization 
 # reduced to undetectable levels in many plasma for P.1 pseudotyped virus, as well as WT and other VOCs. 
 # [paper does not detail the P.1 variants used, using the most popular as a stand in]
-# McCallum et al. (2021) http://doi.org/10.1101/2021.03.31.437925
+# McCallum et al. (2021) http://doi.org/10.1101/2021.03.31.437925 [Journal publication] [Journal publication]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
 # VSV pseudotype B.1.351 showed 7.86-fold decrease in NT50 vs wild type in sera from 9 ICU patients undergoing treatment in Germany (pre-variant infections).
-# Hoffman et al. (2021) http://doi.org/10.1016/j.cell.2021.03.036
+# Hoffman et al. (2021) http://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
 D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
 
 # VSV pseudotype P.1 showed 4.8-fold decrease in NT50 vs wild type in sera from 9 ICU patients undergoing treatment in Germany (pre-variant infections).
-# Hoffman et al. (2021) http://doi.org/10.1016/j.cell.2021.03.036
+# Hoffman et al. (2021) http://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
 # Loss of neutralizing activity using 6 hyperimmune immunoglobulin preparations from
 # convalescent plasma was minimal against B.1.1.7 (1.9-fold). Neutralization against 10
 # convalescent plasma was poorer.
-# Tang et al. (2021) http://doi.org/10.1101/2021.03.19.436183
+# Tang et al. (2021) http://doi.org/10.1101/2021.03.19.436183 [Preprint (BioRxiv)]
 # We analyzed 34 convalescent samples including the WHONIBSC 20/130 reference serum, and, although 
 # a few sera showed near identical FRNT 50 values, the FRNT50 dilutions for the B.1.1.7 strain 
 # were 2.9-fold lower (geometric mean) than those for the Victoria strain (p < 0.0001).
 # Sera from 13 subjects post-B.1.1.7 infection showed no significant change in neutralization against Victoria (~wild type),
 # suggesting that B.1.1.7 infection also protects against ancestral virus.
 # [Note that D1119H was included in the original paper, assuming typographical error and correcting to D1118H]
-# Supasa et al. (2021) http://doi.org/10.1016/j.cell.2021.02.033
+# Supasa et al. (2021) http://doi.org/10.1016/j.cell.2021.02.033 [Journal publication]
 # NTD-specific nAbs showed a substantial (3-450x) decrease in neutralization potency against the recently reported highly 
 # transmissible B.1.1.7 variant of concern, whereas RBD-specific nAbs were either unaffected or showed lower decreases in potency.
-# Graham et al. (2021) http://doi.org/10.1016/j.immuni.2021.03.023
+# Graham et al. (2021) http://doi.org/10.1016/j.immuni.2021.03.023 [Journal publication]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Virus evolution data in 9 immunocomprised patients with long active COVID-19 infections was gathered, showing sequence deletion hotspots.
 # This variant was present in 1 patient.
-# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950
+# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950 [Journal publication]
 H146del
 
 # Virus evolution data in 9 immunocomprised patients with long active COVID-19 infections was gathered, showing sequence deletion hotspots.
 # This variant was present in 1 patient.
-# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950
+# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950 [Journal publication]
 Y145del
 
 # Virus evolution data in 9 immunocomprised patients with long active COVID-19 infections was gathered, showing sequence deletion hotspots.
 # This variant was present in 1 patient.
-# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950
+# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950 [Journal publication]
 P138del;F139del;L140del;G141del;V142del;Y143del;Y144del
 
 # Virus evolution data in 9 immunocomprised patients with long active COVID-19 infections was gathered, showing sequence deletion hotspots.
 # This variant was present in 4 patients.
-# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950
+# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950 [Journal publication]
 L140del;G141del;V142del;Y143del
 
 # Virus evolution data in 9 immunocomprised patients with long active COVID-19 infections was gathered, showing sequence deletion hotspots.
 # This variant was present in 1 patient.
-# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950
+# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950 [Journal publication]
 L140F;G141del;V142del;Y143del
 
 # Virus evolution data in 9 immunocomprised patients with long active COVID-19 infections was gathered, showing sequence deletion hotspots.
 # This variant was present in 4 patients.
-# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950
+# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950 [Journal publication]
 Y144del
 
 # Virus evolution data in 9 immunocomprised patients with long active COVID-19 infections was gathered, showing sequence deletion hotspots.
 # This variant was present in 1 patient.
-# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950
+# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950 [Journal publication]
 L244F;H245del;R246del;S247del;Y248del
 
 # Virus evolution data in 9 immunocomprised patients with long active COVID-19 infections was gathered, showing sequence deletion hotspots.
 # This variant was present in 1 patient.
-# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950
+# McCarthy et al. (2021) http://doi.org/10.1126/science.abf6950 [Journal publication]
 L242del
 
 # A 1.8-fold drop in FRNT50 for B.1.351 was observed in 44 sera collected between 1 and 301 post-infection.
-# Bates et al. (2021) http://doi.org/10.1101/2021.04.04.21254881
+# Bates et al. (2021) http://doi.org/10.1101/2021.04.04.21254881 [Journal publication]
 L18F;D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 
 # In 34 convalescent cases 4–9 weeks following infection in June 2020, before the emergence of B.1.1.7, neutralization titers 
@@ -701,35 +701,35 @@ L18F;D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 # of 34 samples failed to reach 50% neutralization at a plasma dilution of 1:20, with a number showing a near total reduction of neutralization activity.
 # In 13 convalescent cases 4–9 weeks following infection with B.1.1.7, neutralization titers 
 # against B.1.351 were, on average, 3.1-fold reduced compared with an early Victoria sample (p < 0.0001). 
-# Zhou et al. (2021) http://doi.org/10.1016/j.cell.2021.02.037
+# Zhou et al. (2021) http://doi.org/10.1016/j.cell.2021.02.037 [Journal publication]
 D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 
 # Neutralization capacity GMT of 27 subjects' sera post-infection was considerably higher (stronger) than after the second 
 # Pfizer dose, and 4.5x drop in B.1.1.7 neutralization was observed.
-# Collier et al. (2021) http://doi.org/10.1038/s41586-021-03412-7
+# Collier et al. (2021) http://doi.org/10.1038/s41586-021-03412-7 [Journal publication]
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Neutralization capacity GMT of 27 subjects' sera post-infection was markedly worse against B.1.1.7 + E484K than the lineage alone, with a 11.4x drop.
-# Collier et al. (2021) http://doi.org/10.1038/s41586-021-03412-7
+# Collier et al. (2021) http://doi.org/10.1038/s41586-021-03412-7 [Journal publication]
 H69del;V70del;Y144del;E484K;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # In convalescent sera one month or more post-infection in Spring 2020, an average 6.5x decrease in reciprocal ID50 value was observed 
 # ten key point mutations in Spike in the P.1 lineage vs wildtype. A 3.4x decrease against the full P.1 type vs WA-1 was observed, with 
 # better full P.1 ID50 reciprocal value compared to the 10-mutation model.
-# Wang et al. (2021) http://doi.org/10.1101/2021.03.01.433466
+# Wang et al. (2021) http://doi.org/10.1101/2021.03.01.433466 [Journal publication]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y
 
 # In a Syrian hamster model, B.1.351 variant virus had >4x reduction in YRNT90 (measure of neutralization) using wild type convalescent sera.
 # PG: Note that exact sequence for B.1.351 used was not disclosed.
-# Cochin et al. (2021) http://doi.org/10.1101/2021.04.19.440435
+# Cochin et al. (2021) http://doi.org/10.1101/2021.04.19.440435 [Preprint (BioRxiv)]
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Highly ranked escape variant in most of the early and late convalescent sera in a study of 11 post-infection subjects.
-# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003
+# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003 [Journal publication]
 F456A
 
 # Highly ranked escape variant in most of the early and late convalescent sera in a study of 11 post-infection subjects.
-# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003
+# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003 [Journal publication]
 F456T
 
 # In 3 of 11 subjects' convalescent sera in an early+late mutational landscape analysis of the RBD, 
@@ -739,7 +739,7 @@ F456T
 # Subject B 26 days post-infection showed ~10 fold reduction in neutralization, but little immune escape at day 113.
 # Subject G 18 days post-infection showed ~7 fold reduction in neutralization, but no immune escape at day 94.
 # Notably, Subject G had no E484K/Q effect at either the early or late timepoints.
-# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003
+# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003 [Journal publication]
 E484P
 
 # In 3 of 11 subjects' convalescent sera in an early+late mutational landscape analysis of the RBD, 
@@ -752,137 +752,137 @@ E484P
 # Subject I 26 days post-infection showed ~10 fold reduction in neutralization, with no reduction in escape at day 102.
 # Notably, Subject I also showed smaller than typical (~10 vs 30+ fold) reduction in one-month neutralization by E484K at day 26, 
 # and no E484K immune escape at day 102.
-# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003
+# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003 [Journal publication]
 E484Q
 
 # S494P frequently engages in interactions with antibodies but not with ACE2. It reduces antibody 
 # neutralization of all 16 convalescent sera tested, averaging WT ratio of 0.41+-0.08 (less dramatic than E484K). 
 # This amino acid emerges as an additional hotspot for immune evasion and a target for therapies, vaccines and diagnostics.
 # It has emerged independently in multiple lineages.
-# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007
+# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (other)]
 # In 2 of 11 subjects' convalescent sera in an early+late mutational landscape analysis of the RBD, 
 # S484P shows a slightly resistent profile across both timepoints (i.e. resistant to immune cell somatic mutation evolution)
-# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003
+# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003 [Journal publication]
 S494P
 
 # In 2 of 11 subjects' convalescent sera in an early+late mutational landscape analysis of the RBD, 
 # the early serum timepoint shows significant resistance (~10x or more), but both abate by the late timepoint (~3m) 
 # presumably through immune cell somatic mutation evolution.
-# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003
+# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003 [Journal publication]
 G446V
 
 # In 1 of 11 subjects' convalescent sera in an early+late mutational landscape analysis of the RBD, 
 # this mutation shows significant resistence (~10x) at day 26, but waning resistence at day 102 (presumably due to immune cell somatic mutation evolution).
-# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003
+# Greaney et al. (2021) http://doi.org/10.1016/j.chom.2021.02.003 [Journal publication]
 G485R
 
 # Sera neutralized the B1.1.7 isolate with a lower potency (2-fold; 95% CL: 1.5 – 3-fold), and those with the lowest homotypic neutralizing potency
 # had undetectable heterotypic potency (2/25).
-# Skelly et al. (2021) http://doi.org/10.21203/rs.3.rs-226857/v1
+# Skelly et al. (2021) http://doi.org/10.21203/rs.3.rs-226857/v1 [Preprint (other)]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;L716T;A982S;D1118H
 
 # In over 90% of two dose mRNA vaccinees, heterotypic neutralizing titres (NT50) against B.1.1.7 and B.1.351 remain comfortably 
 # above the level associated with immune protection in recent vaccine trials. However, in over 50% of convalescent COVID-19 
 # individuals (5/9) and recipients of a only a single dose of mRNA vaccine (10/11) – heterotypic neutralization dropped to negligible levels, 
 # particularly against B.1.351.
-# Skelly et al. (2021) http://doi.org/10.21203/rs.3.rs-226857/v1
+# Skelly et al. (2021) http://doi.org/10.21203/rs.3.rs-226857/v1 [Preprint (other)]
 L18F;D80A;D215G;L242del;A243del;K417N;E484K;N501Y;D614G;A701V
 
 # Neutralizing antibody titers of 18 samples (90%) decreased against this B.1.351 pseudotyped virus below an ID50 threshold of 40 (sera 
 # collected ~8mo post Jan 2020 first wave in China).
-# Hu et al. (2021) http://doi.org/10.1101/2021.01.22.427749
+# Hu et al. (2021) http://doi.org/10.1101/2021.01.22.427749 [Preprint (other)]
 # Average ~10-fold reduction in neutralization efficacy in convalescent sera of 16 health workers infected in Spring 2020.
-# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007
+# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (other)]
 K417N;E484K;N501Y;D614G
 
 # Average ~5-fold reduction in neutralization efficacy in convalescent sera of 16 health workers infected in Spring 2020.
-# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007
+# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (other)]
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.3x reduction in 
 # IC50 serum dilution concentration for 6 convalescent sera.
-# Zhou et al. (2021) http://doi.org/10.1101/2021.03.24.436620
+# Zhou et al. (2021) http://doi.org/10.1101/2021.03.24.436620 [Journal publication]
 E484K
 
 # No notable change in neutralization efficiency, despite N439K by itself showing a ~2x decrease on average in 16 health workers' convalescent sera.
-# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007
+# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (other)]
 H69del;V70del;N439K
 
 # Slight neutralization improvement on average in 16 health workers' convalescent sera.
-# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007
+# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (other)]
 H69del;V70del;N501Y;P681H
 
 # Observed ~2x decrease on average in 16 health workers' convalescent sera.
-# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007
+# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (other)]
 N439K
 
 # Observed ~2x decrease on average in 16 health workers' convalescent sera.
-# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007
+# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (other)]
 L452R
 
 # One convalescent sera tested showed 4-fold or greater reduction in neutralization efficiency.
-# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007
+# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (other)]
 H69del;V70del;N501Y;P681H
 
 # Four the convalescent sera tested showed 4-fold or greater improvement in neutralization efficiency.
-# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007
+# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (other)]
 L5F;Q1208H
 
 # One convalescent sera tested showed 4-fold or greater reduction in neutralization efficiency.
-# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007
+# Alenquer et al. (2021) http://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (other)]
 H69del;V70del;N439K
 
 # Antibody neutralization assays showed 6.7-fold resistence against 7/8 convalescent plasma.
-# Deng et al. (2021) http://doi.org/10.1101/2021.03.07.21252647
+# Deng et al. (2021) http://doi.org/10.1101/2021.03.07.21252647 [Journal publication]
 S13I;W152C;L452R
 
 # The neutralizing activity of 16/20 convalescent sera was significantly lower against this pseudotyped virus model of B.1.351,
 # with similar results for the live virus.
-# Wang et al. (2021) http://doi.org/10.1038/s41586-021-03398-2
+# Wang et al. (2021) http://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 L18F,D80A,D215G,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # The neutralizing activity of 8/20 convalescent sera was significantly lower against this pseudotyped virus model
-# Wang et al. (2021) http://doi.org/10.1038/s41586-021-03398-2
+# Wang et al. (2021) http://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 L242del;A243del;L244del
 
 # The neutralizing activity of 8/20 convalescent sera was significantly lower against this pseudotyped virus model of B.1.1.7,
 # yet almost no effect was detected using the live B.1.1.7 virus.
-# Wang et al. (2021) http://doi.org/10.1038/s41586-021-03398-2
+# Wang et al. (2021) http://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 # Neutralization activity of convalescent sera tested decreased <2x with this B.1.1.7 pseudotyped virus.
-# Shen et al. (2021) http://doi.org/10.1101/2021.01.27.428516
+# Shen et al. (2021) http://doi.org/10.1101/2021.01.27.428516 [Journal publication]
 # Maximum fold-decrease in potency for the serum samples from mild illness was 8.2 but the 
 # majority of samples showed less than a 3-fold change. Similarly, the maximum decrease seen 
 # for samples from hospitalized patients was a 9.1-fold change, but most of the samples showed 
 # minimal change in the potency of their neutralization. Overall, three samples from each cohort 
 # (8%) showed a 5–10-fold reduction, but as they were potently neutralizing sera, the reduced 
 # ID50 values were still >1:100. 
-# Rees-Spear et al. (2021) http://doi.org/10.1101/2021.01.15.426849
+# Rees-Spear et al. (2021) http://doi.org/10.1101/2021.01.15.426849 [Preprint (BioRxiv)]
 # Neutralizing antibody titers of 2/20 (10%) samples showed >10x reduction (sera collected ~1mo post Jan 2020 first wave in China).
 # Neutralizing antibody titers of 8/20 samples (40%) decreased below an ID50 threshold of 40 (sera 
 # collected ~8mo post Jan 2020 first wave in China).
-# Hu et al. (2021) http://doi.org/10.1101/2021.01.22.427749
+# Hu et al. (2021) http://doi.org/10.1101/2021.01.22.427749 [Preprint (other)]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Neutralization activity of convalescent sera tested decreased ~2x with this B.1.1.7 pseudotyped virus.
-# Shen et al. (2021) http://doi.org/10.1101/2021.01.27.428516
+# Shen et al. (2021) http://doi.org/10.1101/2021.01.27.428516 [Journal publication]
 # In 30 samples collected 111 to 260 days post onset of symptoms, the covalescent plasma can neutralize both 
 # the reference USA-WA1/2020 strain and the mouse adapted strain that contains the N501Y spike mutation with similar efficiency.
-# Rathnasinghe et al. (2021) http://doi.org/10.1101/2021.01.19.21249592
+# Rathnasinghe et al. (2021) http://doi.org/10.1101/2021.01.19.21249592 [Journal publication]
 N501Y
 
 # Neutralization activity of almost all Moderna Phase 1 sera tested actually *increased*.
-# Shen et al. (2021) http://doi.org/10.1101/2021.01.27.428516
+# Shen et al. (2021) http://doi.org/10.1101/2021.01.27.428516 [Journal publication]
 H69del;V70del
 
 # Neutralization activity of almost all convalescent sera tested decreased ~2x.
-# Shen et al. (2021) http://doi.org/10.1101/2021.01.27.428516
+# Shen et al. (2021) http://doi.org/10.1101/2021.01.27.428516 [Journal publication]
 H69del;V70del;Y493F
 
 # The neutralizing activity of 6/20 convalescent sera was significantly lower against this single variant pseudotyped virus model,
 # showing similar patterns to the pseudotyped virus model of B.1.1.7.
-# Wang et al. (2021) http://doi.org/10.1038/s41586-021-03398-2
+# Wang et al. (2021) http://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 S982A
 
 # B.1.1.351 in 19 convalescent human sera ~1mo post infection had mild to moderate resistence against all samples
-# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w 
+# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Demonstrate (via competitive assays in human and mouse) immune escape from polyclonal antibodies induced
@@ -890,273 +890,273 @@ D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 # antibodies for N501Y and more importantly for E484K. Even though viral mutations
 # may more strongly affect monoclonal antibodies than sera activity, the latter may also be
 # reduced as confirmed here.
-# Vogel et al. (2021) http://doi.org/10.1101/2021.03.04.433887
+# Vogel et al. (2021) http://doi.org/10.1101/2021.03.04.433887 [Preprint (BioRxiv)]
 # In 19 convalescent human sera ~1mo post infection had mild to moderate resistence against most samples
-# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w 
+# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 K417N;E484K;N501Y 
 
 # In 19 convalescent human sera ~1mo post infection had mild to moderate resistence against all samples. 
-# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w 
+# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 E484K;N501Y
 
 # B.1.1.248 variant constellation in 10 convalescent human sera ~1mo post infection had mild to moderate resistence against most samples, P=0.0020.
-# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w 
+# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # In 19 convalescent human sera ~1mo post infection, Two-tailed Wilcoxon matched-pairs signed-rank test shows mild resistence P=0.0361.
-# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w 
+# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 K417N
 
 # B.1.1.7 variant constellation two-tailed Wilcoxon matched-pairs signed-rank test against 10 convalescent sera P=0.0039 for mild resistence.
-# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w 
+# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # B.1.1.351 variant constellation two-tailed Wilcoxon matched-pairs signed-rank test against 10 convalescent sera P=0.0020 for moderate resistence.
-# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w 
+# Chen et al. (2021) http://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
 # concentration (1:80 initial dilution) of all 4 convalescent sera tested (triplicate experiments).
 # Against a wider panel of 16 convalescent plasma (no replicates), all but one show major resistance.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 # The neutralizing activity of 15/20 convalescent sera was significantly lower against this pseudotyped virus model
-# Wang et al. (2021) http://doi.org/10.1038/s41586-021-03398-2
+# Wang et al. (2021) http://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 E484K
 
 # Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
 # concentration (1:80 initial dilution) of all 4 convalescent sera tested.
 # Against a wider panel of 16 convalescent plasma (no replicates), all but one show major resistance.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 E484A
 
 # Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
 # concentration (1:80 initial dilution) of all 4 convalescent sera tested.
 # Against a wider panel of 16 convalescent plasma (no replicates), all but one show major resistance.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 E484D
 
 # Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
 # concentration (1:80 initial dilution) of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 E484G
 
 # Strong reduction in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 T345A
 
 # Strong reduction in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 T345N
 
 # Strong reduction in neutralization capability of all 4 convalescent sera tested (strongest of T345 alts).
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 T345S
 
 # Improvement in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 R346G
 
 # Improvement in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 A352D
 
 # Strong reduction in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 L441R
 
 # Ablation of neutralization capability of 3/4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 K444E
 
 # Improvement in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 K444N
 
 # Decrease in neutralization capability of all 4 convalescent sera tested (1 ablated).
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 G446D
 
 # Ablation of neutralization capability of 3 convalescent sera tested, 1 improvement.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 G446V
 
 # Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations).
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 N450D
 
 # Mixed bag of positive and negative changes in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 N450K
 
 # Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations), triple replicates.
 # Against a broader panel of 16 convalescent plasma (no replicates), reductions in neutralization are considerably less dramatic 
 # in pattern, and sometime neutralization increases. 
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 N450Y
 
 # Ablation of neutralization capability of 3 of 4 convalescent sera tested, the other is significantly hindered.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 L452R
 
 # Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations).
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 S477G
 
 # Mixed bag of mild positive and negative changes in neutralization capability of all 4 convalescent sera tested.
 # Against a wider panel of 16 convalescent plasma (no replicates), 10 show low neutralization.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 S477N
 
 # Mixed bag of positive and negative changes in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 S477R
 
 # Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations).
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 T478I
 
 # Mixed bag of positive and negative changes in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 F486Y
 
 # Modest decrease in in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 F486S
 
 # Strong reduction in neutralization capability of all 4 convalescent sera tested (3 ablations).
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 F490S
 
 # Mixed bag of positive and negative changes in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 S494P
 
 # General increase in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 P499L
 
 # General increase in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 T345A,L517R
 
 # Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations).
-# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037
+# Liu et al. (2021) http://doi.org/10.1101/2020.11.06.372037 [Journal publication]
 S477N,S514F
 
 # Nearly half (21 of 44, 48%) of early pandemic exposure convalescent plasma/sera failed to neutralize the 501Y.V2 ("South African") lineage pseudovirus construct
 # Only 3 of 44 convascent sera (those with the highest titer, which correlated direectly with initial infection severity) had high neutralization against this 501Y.V2 
 # PG: note that lineage variant R246I was excluded from the text in reference to these sera assays, not sure if that was an oversight.
-# Wibmer et al. (2021) http://doi.org/10.1101/2021.01.18.427166
+# Wibmer et al. (2021) http://doi.org/10.1101/2021.01.18.427166 [Journal publication] [Journal publication]
 # The 501Y.V2 to first wave IC50 ratio ranged from 6 to 200-fold. Averaging across all 7 participant convalescent sera highlighted the dramatic
 # decrease in sensitivity to neutralization of authentic 501Y.V2 variants.
 # PG: I'm purposefully ignoring D614G and A701V as contributors
-# Cele et al. (2021) http://doi.org/10.1038/s41586-021-03471-w
+# Cele et al. (2021) http://doi.org/10.1038/s41586-021-03471-w [Journal publication]
 L18F,D80A,D215G,L242del,A243del,L244del,K417N,E484K,N501Y
 
 # 27% of 44 early pandemic exposure convalescent plasma/sera lose all activity against a RBD triple mutant pseudovirus (RBD mutatants of the 501Y.V2 "South African" lineage), while only 23% retained high titres 
-# Wibmer et al. (2021) http://doi.org/10.1101/2021.01.18.427166
+# Wibmer et al. (2021) http://doi.org/10.1101/2021.01.18.427166 [Journal publication] [Journal publication]
 K417N,E484K,N501Y
 
 # Strong positive selection (up to 72% of supernatant sequences) under six rounds of COV47 convalescent plasma passage
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 N148S
 
 # Positive selection (up to 18% of supernatant sequences) under two rounds of COV47 convalescent plasma passage
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 K150R
 
 # Strong positive selection (up to 40% of supernatant sequences) under three rounds of COV47 convalescent plasma passage
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 K150E
 
 # Positive selection (up to 22% of supernatant sequences) after COV47 convalescent plasma assay
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 K150T
 
 # Positive selection (up to 22% of supernatant sequences) under two rounds of COV47 convalescent plasma passage
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 K150Q
 
 # Positive selection (up to 20% of supernatant sequences) under three rounds of COV47 convalescent plasma passage
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 S151P
 
 # Positive selection (up to 20% of supernatant sequences) under two rounds of COV-NY convalescent plasma passage, eliminated in rounds three and four
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 K444R
 
 # Positive selection (up to 14% of supernatant sequences) after COV-NY convalescent plasma assay
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 K444N
 
 # Positive selection (up to 33% of supernatant sequences) after COV-NY convalescent plasma assay
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 K444Q
 
 # Positive selection (up to 18% of supernatant sequences) after COV-NY convalescent plasma assay
-# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759
+# Weisblum et al. (2020) http://doi.org/10.1101/2020.07.21.214759 [Journal publication]
 V445E
 
 # Fatal COVID-19 complications in immunocomprimised patient after immune escape from convalescent plasma
-# Kemp et al. (2020) http://doi.org/10.1101/2020.12.05.20241927
+# Kemp et al. (2020) http://doi.org/10.1101/2020.12.05.20241927 [Journal publication]
 D796H, H69del, V70del
 
 # 36% of virions contained this variant (in the S-protein NTD N3 loop) after 7 passages (45 days) in convalescent plasma PT188
 # This variant became 100% in subsequent passage with decreased neutralizing titer.
 # It is hypothesized that the F140 deletion alters the packing of the N1, N3 and N5 loops
-# Andreano et al. (2020) http://doi.org/10.1101/2020.12.28.424451
+# Andreano et al. (2020) http://doi.org/10.1101/2020.12.28.424451 [Journal publication]
 F140del
 
 # This mutation occurred in 100% of sequenced virions after 12 passages and led to a 4-fold decrease in convalescent plasma neutralization activity
-# Andreano et al. (2020) http://doi.org/10.1101/2020.12.28.424451
+# Andreano et al. (2020) http://doi.org/10.1101/2020.12.28.424451 [Journal publication]
 E484K
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012
+# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 Y145del
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012
+# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 Q414E
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012
+# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 N439K
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012
+# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 G446V
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012
+# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 K458N
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012
+# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 I472V
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012
+# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 A475V
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012
+# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 T478I
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012
+# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 V483I
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
 # Resistent to 3 individual sera at >4x
-# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012
+# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 F490L
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
 # Resistent to 3 individual sera at >4x
-# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012
+# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 H519P
 
 # Resistant to a pool of 10 convalescent sera (but less than 4x, a typical threshold for definition of escape)
-# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012
+# Li et al. (2020) http://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 A831V

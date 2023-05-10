@@ -5,5 +5,5 @@
 # After controlling for the effect of masks and numbers of coughs during sampling, alpha variant infection was associated with
 # a 100-fold (95% CI, 16 to 650-fold) increase in coarse- and a 73-fold (95% CI, 15 to 350-fold) increase
 # in fine-aerosol RNA shedding.
-# Adenaiye et al. (2021) http://doi.org/10.1093/cid/ciab797
+# Adenaiye et al. (2021) http://doi.org/10.1093/cid/ciab797 [Journal publication]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H 

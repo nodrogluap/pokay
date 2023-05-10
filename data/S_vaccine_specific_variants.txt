@@ -1,13 +1,13 @@
 # Tandem proline variants introduced at the edge of the central domain in viral class I fusion proteins
 # to increase vaccine antigen yield and stabilize the spike protein into the soluable pre-fusion ("3 down") confirmation.
-# Pallesen et al. (2017) http://doi.org/10.1073/pnas.1707304114
+# Pallesen et al. (2017) http://doi.org/10.1073/pnas.1707304114 [Journal publication]
 # In the paper describing the Moderna vaccine, the engineered mutations are described as K986P;V987P relative to their 
 # Spike construct, but this maps differently in the reference sequence.
-# Corbett et al. (2020) http://doi.org/10.1038/s41586-020-2622-0
+# Corbett et al. (2020) http://doi.org/10.1038/s41586-020-2622-0 [Journal publication]
 K986P;V987P
 
 # In the Medicago vaccine candidate (CoVLP), the S protein was modified with R667G, R668S and R670S
 # substitutions at the S1/S2 cleavage site to "increase stability" (also, prevent furin cleavage), and K971P and V972P
 # substitutions to stabilize the protein in prefusion conformation. Coordinates remapped from construct to reference.
-# Ward et al. (2020) http://doi.org/10.1101/2020.11.04.20226282
+# Ward et al. (2020) http://doi.org/10.1101/2020.11.04.20226282 [Preprint (other)]
 R670G;R671S;R673S;K986P;V987P 
