@@ -182,7 +182,7 @@ W152R
 # neutralising activity against B.1.621
 # Sera from individuals who have been vaccinated and have had subsequent
 # recent Delta infection have a high level of neutralising activity against B.1.621.
-# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf [Grey literature]
+# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf
 T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H
 
 # Mean 12.4x reduction of NT50 value B.1.621 (Mu) relative to wild type in 8 sera from older convalescent patients (52-92yo) collected 1-3m post symptom onset. [This is a greater reduction than Beta @ 8.2x]
@@ -217,7 +217,7 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # neutralising activity against Beta.
 # Sera from individuals who have been vaccinated and have had subsequent
 # recent Delta infection have a high level of neutralising activity against Beta.
-# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf [Grey literature]
+# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf
 L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Relative to B.1, Kappa (B.1.617.1) shows 5.71x decrease in neutralization efficiency by convalescent plasma [no cohort details provided]

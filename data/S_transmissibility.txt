@@ -63,7 +63,7 @@ E156_R158delinsG;L452R;E484Q;D614G
 T19R;T95I;E156_R158delinsG;L452R;E484Q;D614G
 
 # The B.1.525 appears to have poor transmissibility when in competition with B.1.1.7 and other circulating strains in Denmark (early 2021).
-# Albertsen et al. (2021) https://www.covid19genomics.dk/2021-05-08_data-overview.html#b1525 [Grey literature]
+# Albertsen et al. (2021) https://www.covid19genomics.dk/2021-05-08_data-overview.html#b1525
 Q52R;E484K;Q677H;F888L
 
 # The N440K variant produced ten times higher infectious viral titers than a prevalent A2a strain, 
@@ -119,7 +119,7 @@ S13I;W152C;L452R
 # identically transmissible, the new variant evades 21% (95% CrI: 11-36%) of previously
 # acquired immunity. Reality may lie between these extremes, with an intermediate increase in
 # transmissibility and mildly imperfect cross-protection from past exposure. 
-# Pearson et al. (2021) https://cmmid.github.io/topics/covid19/reports/sa-novel-variant/2021_01_11_Transmissibility_and_severity_of_501Y_V2_in_SA.pdf [Grey literature]
+# Pearson et al. (2021) https://cmmid.github.io/topics/covid19/reports/sa-novel-variant/2021_01_11_Transmissibility_and_severity_of_501Y_V2_in_SA.pdf
 # 36,590 variant-specific RT-PCR tests were performed on samples collected between April 12 and May 7, 2021 
 # in France to compare variant spread. Compared to January to March 2021, B.1.351 variant had a significant 
 # transmission advantage over B.1.1.7 in some regions (15.1 to 16.1% in Île-de-France and 16.1 to 18.8% in Hauts-de-France).

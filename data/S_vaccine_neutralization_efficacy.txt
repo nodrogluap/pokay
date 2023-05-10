@@ -163,7 +163,7 @@ T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H;D950N
 
 # Sera from vaccinees [ChAdOx1 and BNT162b2 primarily used in UK] shows decreased ability to neutralize B.1.621 compared to
 # first wave virus and Alpha, with a magnitude of change similar to Beta.
-# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf [Grey literature]
+# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf
 T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H
 
 # Mean 7.6x reduction of NT50 value B.1.621 (Mu) relative to wild type in 8 sera from adult BNT162b2 vaccinees (28-47yo) collected ~1m post booster. [This is a greater reduction than Beta @ 6.3x]
@@ -318,7 +318,7 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G
 # (95% CI: 40.0-89.4), and moderate to severe/critical disease VE of 52.0% (95% CI: 30.3-67.4). Compare to 78.0% and 74.4% for North American arm
 # of the study during the same period (with low B.1.351 prevalence). Of the 66.9% of SA severe infections that have been sequenced as of this report, 94.5%
 # are B.1.351.
-# Janssen Biotech (2021) https://www.fda.gov/media/146217/download [Grey literature]
+# Janssen Biotech (2021) https://www.fda.gov/media/146217/download
 # The dominant circulating B.1.351 spike variant originating in RSA, which harbors E484K and additional substitutions in the 
 # RBD, NTD, and S2 and deletions in the NTD (amino acids 242–244), was neutralized with a 5.02-fold reduced titer
 # Solfrosi et al. (2021) http://doi.org/10.1084/jem.20202756
@@ -374,7 +374,7 @@ G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;H1101D
 # Case 62541 cluster in Singapore included a fully vaccinated nurse 2 months post-vaccine [likely Pfizer based on dates and supply], 
 # and a doctor of unknown vaccine status. This cluster was caused by a B.1.617.2 virus [via crossreference to 
 # https://www.moh.gov.sg/docs/librariesprovider5/default-document-library/annex-a65c38244a9e142828ce500c88a5a5503.pdf].
-# Singapore MOH (2021) https://www.moh.gov.sg/news-highlights/details/3-new-cases-of-locally-transmitted-covid-19-infection-28apr2021-update [Grey literature]
+# Singapore MOH (2021) https://www.moh.gov.sg/news-highlights/details/3-new-cases-of-locally-transmitted-covid-19-infection-28apr2021-update
 # 2.3x reduction in neutralization (ID50) in sera 3 weeks after one dose of Pfizer/BioNTech BNT162b2 (up to 5 naive and post infection vaccinees)
 # [exact set of variants used is not listed in the manuscript]
 # Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
@@ -672,7 +672,7 @@ L18F;L452R;N501Y;A653V;H655Y;D796Y;G1219V
 # (95% CI: 17.0-98.1), and moderate to severe/critical disease VE of 66.2% (95% CI: 51.0-77.1). Compare to 78.0% and 74.4% for North American arm
 # of the study during the same period (with low B.1.351 prevalence). Of the 69.3% of mostly severe infections sequenced as of this report, 69.4% were
 # of P.2 lineage [defining lineage SNPs reported here].
-# Janssen Biotech (2021) https://www.fda.gov/media/146217/download [Grey literature]
+# Janssen Biotech (2021) https://www.fda.gov/media/146217/download
 E484K;F565L;D614G;V1176F
 
 # Neutralizing antibody titers increased in previously infected vaccinees relative to uninfected vaccinees 
@@ -862,11 +862,11 @@ D80A;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 # Zhou et al. (2021) http://doi.org/10.1016/j.cell.2021.02.037
 # The Novavax vaccine, which achieved 95.6% efficacy against previous SARS-CoV-2 strains, had reduced efficacy of 60% in South Africa, 
 # where 92.6% of infections are estimated to have been B.1.351.
-# Novavax (2021) https://www.novavax.com/sites/default/files/2021-02/20210202-NYAS-Novavax-Final.pdf [Grey literature]
+# Novavax (2021) https://www.novavax.com/sites/default/files/2021-02/20210202-NYAS-Novavax-Final.pdf
 # The Janssen single dose vaccine showed 72% efficacy at preventing moderate and severe disease, which was 
 # reduced to 57% in South Africa, where 92.6% of infections are estimated to have been B.1.351. 100% reduction in 
 # hospitalization risk remains across variants after 28 days post-vaccination.
-# https://mg.co.za/coronavirus-essentials/2021-03-24-single-dose-jj-janssen-covid-19-vaccine-hopes-to-speed-up-sas-vaccination-programme/ [Grey literature]
+# https://mg.co.za/coronavirus-essentials/2021-03-24-single-dose-jj-janssen-covid-19-vaccine-hopes-to-speed-up-sas-vaccination-programme/
 # A two-dose regimen of (AstraZeneca) ChAdOx1-nCoV19 did not show protection against mild-moderate Covid-19 due to B.1.351 variant, however, 
 # vaccine efficacy against severe Covid-19 is undetermined.
 # Madhi et al. (2021) http://doi.org/10.1101/2021.02.10.21251247

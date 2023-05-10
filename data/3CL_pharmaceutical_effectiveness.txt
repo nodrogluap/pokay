@@ -131,49 +131,49 @@ L50F;E166V
 L50F
 
 # This mutation (found in the lambda VOC) causes a 4.4x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. However, this did not impact the susceptability to Nirmatrelvir.
-# FDA (2021) https://www.fda.gov/media/155050/download [Grey literature]
+# FDA (2021) https://www.fda.gov/media/155050/download
 G15S
 
 # This mutation causes a 3.5x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
-# FDA (2021) https://www.fda.gov/media/155050/download [Grey literature]
+# FDA (2021) https://www.fda.gov/media/155050/download
 T135I
 
 # This mutation causes a 91.9x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
-# FDA (2021) https://www.fda.gov/media/155050/download [Grey literature]
+# FDA (2021) https://www.fda.gov/media/155050/download
 S144A
 
 # This mutation causes a 6.4x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
-# FDA (2021) https://www.fda.gov/media/155050/download [Grey literature]
+# FDA (2021) https://www.fda.gov/media/155050/download
 H164N
 
 # This mutation causes a 233x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
-# FDA (2021) https://www.fda.gov/media/155050/download [Grey literature]
+# FDA (2021) https://www.fda.gov/media/155050/download
 H172Y
 
 # This mutation causes a 65.4x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
-# FDA (2021) https://www.fda.gov/media/155050/download [Grey literature]
+# FDA (2021) https://www.fda.gov/media/155050/download
 Q189K
 
 # This mutation causes a 3.7x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
-# FDA (2021) https://www.fda.gov/media/155050/download [Grey literature]
+# FDA (2021) https://www.fda.gov/media/155050/download
 D248E
 
 # This mutation causes a 23.6x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
-# FDA (2021) https://www.fda.gov/media/155050/download [Grey literature]
+# FDA (2021) https://www.fda.gov/media/155050/download
  Y54A
 
 # This mutation causes a 39x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
-# FDA (2021) https://www.fda.gov/media/155050/download [Grey literature]
+# FDA (2021) https://www.fda.gov/media/155050/download
 F140A
 
 # This mutation causes a 33.4x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
-# FDA (2021) https://www.fda.gov/media/155050/download [Grey literature]
+# FDA (2021) https://www.fda.gov/media/155050/download
 E166A 
 
 # This mutation in mouse hepatitis virus subsitution residue emerges in cell culture resistance assay. This resulted in 4-5x fold higher EC50 values.
-# FDA (2021) https://www.fda.gov/media/155050/download [Grey literature]
+# FDA (2021) https://www.fda.gov/media/155050/download
 S144A;E55L
 
 # This causes a 91.9x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. 
-# FDA (2021) https://www.fda.gov/media/155050/download [Grey literature]
+# FDA (2021) https://www.fda.gov/media/155050/download
 S144A

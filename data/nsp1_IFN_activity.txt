@@ -2,47 +2,47 @@
 # interferon A1/2 & B1 expression, and are associated with lower clinical severity of disease (Jan-Mar 2020 in China).
 # variations of deletion in this region are found in separate lineages throughout the globe.
 # This specific deletion (genomic 500-523) was tested in vitro for IFN response.
-# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015 [Journal publication]
+# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015
 A79del,P80del,H81del,G82del,H83del,V84del,M85del,V86del,E87del,L88del,V89del
 
 # Deletions in the genomic nucleotide 500-523 range are shown in vitro culture to downregulated 
 # interferon A1/2 & B1 expression, and are associated with lower clinical severity of disease (Jan-Mar 2020 in China).
 # variations of deletion in this region are found in separate lineages throughout the globe.
 # This specific deletion (genomic 509-523) was tested in vitro for IFN response.
-# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015 [Journal publication]
+# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015
 G82del,H83del,V84del,M85del,V86del
 
 # Deletions in the genomic nucleotide 500-523 range are shown in vitro culture to downregulated 
 # interferon A1/2 & B1 expression, and are associated with lower clinical severity of disease (Jan-Mar 2020 in China).
 # variations of deletion in this region are found in separate lineages throughout the globe.
 # This specific deletion (genomic 509-517) was tested in vitro for IFN response.
-# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015 [Journal publication]
+# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015
 G82del,H83del,V84del,M85del,V86del,E87del
 
 # Deletions in the genomic nucleotide 500-523 range are shown in vitro culture to downregulated
 # interferon A1/2 & B1 expression, and are associated with lower clinical severity of disease (Jan-Mar 2020 in China).
 # variations of deletion in this region are found in separate lineages throughout the globe.
 # This specific deletion (genomic 515-523) was tested in vitro for IFN response.
-# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015 [Journal publication]
+# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015
 E87del,L88del,V89del
 
 # Deletions in the genomic nucleotide 500-523 range are shown in vitro culture to downregulated
 # interferon A1/2 & B1 expression, and are associated with lower clinical severity of disease (Jan-Mar 2020 in China).
 # variations of deletion in this region are found in separate lineages throughout the globe.
 # This specific deletion (genomic 518-523) was tested in vitro for IFN response.
-# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015 [Journal publication]
+# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015
 L88del,V89del
 
 # Deletions in the genomic nucleotide 500-523 range are shown in vitro culture to downregulated
 # interferon A1/2 & B1 expression, and are associated with lower clinical severity of disease (Jan-Mar 2020 in China).
 # variations of deletion in this region are found in separate lineages throughout the globe.
 # This specific deletion (genomic 518-520) was tested in vitro for IFN response.
-# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015 [Journal publication]
+# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015
 L88del
 
 # Deletions in the genomic nucleotide 500-523 range are shown in vitro culture to downregulated
 # interferon A1/2 & B1 expression, and are associated with lower clinical severity of disease (Jan-Mar 2020 in China).
 # variations of deletion in this region are found in separate lineages throughout the globe.
 # This specific deletion (genomic 521-523) was tested in vitro for IFN response.
-# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015 [Journal publication]
+# Lin et al. (2021) https://doi.org/10.1016/j.chom.2021.01.015
 V89del
