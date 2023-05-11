@@ -1,7 +1,7 @@
 # Variant causes complete loss of T cell line responsiveness to A*01:01-restricted CD8+ ORF3a epitope, which is otherwise "consistently dominant and of high magnitude". 
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
 Q213K
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*01:01.
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
 Q213K

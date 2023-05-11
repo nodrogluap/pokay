@@ -1,5 +1,5 @@
 # No biochemical data, but high quality non-synonymous homoplasies from a paper, where functional fitness is presumed.
-# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351
+# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351 [Journal publication]
 # PG: All four bases observed in this 2nd codon position, leading to different non-synonymous AA changes 
 # PG: Other changes within this codon (non-homoplasic) have been observed also.
 # PG: Has not lead to major lineage expansions, nor is it critical to a well defined RNA secondary structure. 
@@ -8,7 +8,7 @@
 g.C28311D
 
 # No biochemical data, but high quality non-synonymous homoplasies from a paper, where functional fitness is presumed.
-# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351
+# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351 [Journal publication]
 # PG: Effect is synonymous (Y360=), with the variant containing the optimal human codon (UAU) vs the reference (UAC).
 # PG: Has not lead to major lineage expansions, and is in unpaired regions of predicted RNA secondary structure. 
 # PG: Presumably the homoplasy is due to propensity of this site to deamination rather than a clear fitness advantage, 
@@ -17,17 +17,17 @@ g.C29353U
 
 # Mutation with a population frequency of 30% in a Mexican dataset, primarily of lineage 20B, but also present
 # in a substantial number of 20A lineage sequences, suggesting convergent evolution.
-# Barona-Gomez et al. (2021) http://doi.org/10.1101/2021.05.18.21256128
+# Barona-Gomez et al. (2021) http://doi.org/10.1101/2021.05.18.21256128 [Preprint (MedRxiv)]
 S194L
 
 # In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation appears convergent. 
-# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774
+# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv)]
 P13L
 
 # In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation appears convergent. 
-# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774
+# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv)]
 T379I
 
 # In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation appears convergent. 
-# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774
+# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv)]
 Q418*

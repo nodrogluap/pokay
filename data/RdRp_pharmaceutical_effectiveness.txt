@@ -1,97 +1,97 @@
 # At genome position 15836 this nsp12 mutation had a GS-441524 P13 Lineage 1 amino acid change in 38.31% of populations of serially passaged SARS-CoV-2.
-# Stevens et al. (2022) http://doi.org/10.1101/2022.01.25.477724
+# Stevens et al. (2022) http://doi.org/10.1101/2022.01.25.477724 [Preprint (BioRxiv)]
 C799F
 
 # At genome position 15835 this nsp12 mutation had a GS-441524 P13 Lineage 2 amino acid change in 86.27% of populations of serially passaged SARS-CoV-2.
-# Stevens et al. (2022) http://doi.org/10.1101/2022.01.25.477724
+# Stevens et al. (2022) http://doi.org/10.1101/2022.01.25.477724 [Preprint (BioRxiv)]
 C799R
 
 # At genome position 15715 this nsp12 mutation had a GS-441524 P13 Lineage 3 amino acid change in 99.27% of populations of serially passaged SARS-CoV-2. GS-441524 P13 Lineage 1 amino acid change in 61.72% of the population tested and PP nsp12-S759A/V792I amino acid change in 99.72% of the population tested. This mutation had a 7x-9x fold decrease in sensitivity to RDV by EC50.
-# Stevens et al. (2022) http://doi.org/10.1101/2022.01.25.477724
+# Stevens et al. (2022) http://doi.org/10.1101/2022.01.25.477724 [Preprint (BioRxiv)]
 S759A
 
 # At genome position 14033 this nsp12 mutation had a GS-441524 P13 Lineage 1 amino acid change in 97.57% of populations of serially passaged SARS-CoV-2. 
-# Stevens et al. (2022) http://doi.org/10.1101/2022.01.25.477724
+# Stevens et al. (2022) http://doi.org/10.1101/2022.01.25.477724 [Preprint (BioRxiv)]
 N198S
 
 # At genome position 13937 this nsp12 mutation had a GS-441524 P13 Lineage 1 amino acid change in 92.32% of populations of serially passaged SARS-CoV-2. 
-# Stevens et al. (2022) http://doi.org/10.1101/2022.01.25.477724
+# Stevens et al. (2022) http://doi.org/10.1101/2022.01.25.477724 [Preprint (BioRxiv)]
 V166A
 
 # This mutation causes a 2.6x-8x fold decrease in binding to Remdesivir determined using MutALink bioinformatics pipeline. At genome position 15814 this nsp12 mutation had a GS-441524 P13 Lineage 3 amino acid change in 98.82% of populations of serially passaged SARS-CoV-2. PP nsp12-V792I amino acid change in 99.96% of the population tested and PP nsp12-S759A/V792I amino acid change in 99.97% of the population tested.
-# Stevens et al. (2022) http://doi.org/10.1101/2022.01.25.477724
+# Stevens et al. (2022) http://doi.org/10.1101/2022.01.25.477724 [Preprint (BioRxiv)]
 V792I
 
 # Over a 5 day Remdesivir treatment period this mutant induced resistance to it in vitro. This mutation may emerge in vivo and cause failure of Remdesivir treatment failure.
-# Martinot et al. (2020) http://doi.org/10.1093/cid/ciaa1474
+# Martinot et al. (2020) http://doi.org/10.1093/cid/ciaa1474 [Journal publication] [Journal publication]
 D484Y
 
 # This mutant has a 0.38x fold change in EC50 value with Remdesivir.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 E796G
 
 # This mutant has a 0.53x fold change in EC50 value with Remdesivir.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 C799F
 
 # This mutant has a 0.34x fold change in EC50 value with Remdesivir.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 R10;C799F;E796G
 
 # This mutant has a 0.09x fold change in EC50 value with Remdesivir.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 R10;C799F
 
 # This mutant has a 0.14x fold change in EC50 value with Remdesivir.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 E802D
 
 # This mutant has a 0.33x fold change in EC50 value with Remdesivir.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 D484Y
 
 # This mutant has a 0.66x fold change in EC50 value with Remdesivir.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 F480L
 
 # This mutant has a 0.27x fold change in EC50 value with Remdesivir.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 F480L;V557L
 
 # This mutant has an inhibition rate of virus production by Remdesivir of 0.5.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 C799F
 
 # This mutant has an inhibition rate of virus production by Remdesivir of 0.38.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 R10;E796G;C799F
 
 # This mutant has an inhibition rate of virus production by Remdesivir of 0.58.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 R10;C799F
 
 # This mutant has an inhibition rate of virus production by Remdesivir of 0.80.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 F480L
 
 # This mutant has an inhibition rate of virus production by Remdesivir of 0.78.
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 F480L;V557L
 
 # This mutation causes a 7.3x fold drop in the binding of Remdesivir, decreasing the infectious virus production rate. 
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 E802D
 
 # This mutation causes a 2.6x fold drop in the binding of Remdesivir, decreasing the infectious virus production rate. 
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 E796G
 
 # This mutation causes a 2.9x fold drop in the binding of Remdesivir, decreasing the infectious virus production rate. 
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 E796G
 
 # This mutation causes a 1-1.25x fold increase in the binding of Remdesivir, increasing the infectious virus production rate. 
-# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436
+# Torii et al. (2022) http://doi.org/10.1101/2022.02.22.481436 [Preprint (BioRxiv)]
 D484Y
 
 # This mutation combination (with construct P323L on a D614G wildtype backbone), 
@@ -99,37 +99,37 @@ D484Y
 # in 10uM remdesivir. V166L is outside the active polymerase site. 
 # EC50 in a plaque reduction assay was 2.3x in the passage experiment, but only 1.5x when introduced
 # on a WA1 backbone and measured using a luciferase assay.
-# Checkmahomed et al. (2022) http://doi.org/10.1101/2022.02.07.479493
+# Checkmahomed et al. (2022) http://doi.org/10.1101/2022.02.07.479493 [Preprint (BioRxiv)]
 V166L;P323L
 
 # This mutation (discovered in a immunocomprimised patient with protracted COVID-19 given remdesivir) is associated with a ~6-fold in remdesivir IC50. 
 # (i.e. increased resistance to treatment) in vitro, at some cost to viral fitness otherwise.
-# Gandhi et al. (2021) http://doi.org/10.1101/2021.11.08.21266069
+# Gandhi et al. (2021) http://doi.org/10.1101/2021.11.08.21266069 [Preprint (MedRxiv)]
 # Report a 2.5x reduction in remdesivir EC50 in the presence of this mutation.
-# Szemiel et al (2021) http://doi.org/10.1371/journal.ppat.1009929
+# Szemiel et al (2021) http://doi.org/10.1371/journal.ppat.1009929 [Journal publication]
 E802D
 
 # Remdesivir failure with SARS-CoV-2 RNA-dependent RNA-polymerase mutation in a B-cell immunodeficient patient with protracted Covid-19
 # We report the occurrence of a mutation in the RdRP (D484Y) following failure of remdesivir in a 76-year-old woman with a post-rituximab 
 # B-cell immunodeficiency and persistent SARSCoV-2 viremia.
-# Martinot et al. (2020) http://doi.org/10.1093/cid/ciaa1474
+# Martinot et al. (2020) http://doi.org/10.1093/cid/ciaa1474 [Journal publication] [Journal publication]
 D483Y
 
 # Confers significant (5x) resistance in vitro to remdesivir [coordinates mapped from reported V553L in murine hepatitis virus model experiment to SARS-CoV-2].
-# Agostini et al. (2018) http://doi.org/10.1128/mBio.00221-18
+# Agostini et al. (2018) http://doi.org/10.1128/mBio.00221-18 [Journal publication]
 # V556L mutation (incorrectly listed as V557L in the paper) is implicated in low-level resistance to Remdesivir.
-# Tchesnokov et al. (2020) http://doi.org/10.1074/jbc.AC120.015720
+# Tchesnokov et al. (2020) http://doi.org/10.1074/jbc.AC120.015720 [Journal publication]
 V556L 
 
 # S861G mutation (incorrectly listed as S861G in the paper) in RdRp eliminates chain-termination by Remdesivir, 
 # which confirms the existence of a steric clash between that residue and the incorporated RDV-TP
-# Tchesnokov et al. (2020) http://doi.org/10.1074/jbc.AC120.015720
+# Tchesnokov et al. (2020) http://doi.org/10.1074/jbc.AC120.015720 [Journal publication]
 S860G
 
 # Confers resistance (2.4x) in vitro to remdesivir [coordinates mapped from reported F476L in murine hepatitis virus model experiment to SARS-CoV-2].
-# Agostini et al. (2018) http://doi.org/10.1128/mBio.00221-18
+# Agostini et al. (2018) http://doi.org/10.1128/mBio.00221-18 [Journal publication]
 F479L
 
 # Tandem mutation confers significant (5.6x) resistance in vitro to remdesivir [coordinates mapped from reported V553L in murine hepatitis virus model experiment to SARS-CoV-2].
-# Agostini et al. (2018) http://doi.org/10.1128/mBio.00221-18
+# Agostini et al. (2018) http://doi.org/10.1128/mBio.00221-18 [Journal publication]
 F479L;V556L

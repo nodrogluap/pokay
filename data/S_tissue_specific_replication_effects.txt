@@ -1,5 +1,5 @@
 # In this report, by using a lower infectious dose, we demonstrate that B.1.1.7 
 # (cultured sample Hong Kong/HKPU-00015/2021) exhibits higher infectivity and/or 
 # replication efficiency in the nasal epithelium. (Hamster model of infection)
-# Mok et al. (2021) http://doi.org/10.1101/2021.04.19.440414
+# Mok et al. (2021) http://doi.org/10.1101/2021.04.19.440414 [Preprint (BioRxiv)]
 H69del;V70del;S94F;Y144del;N501Y;A570D;D614G;T716I;P681H;S982A;D1118H
