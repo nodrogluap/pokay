@@ -563,40 +563,40 @@ E484K
 N501Y
 
 # The only mutation in the B.1.351 lineage that appears to contribute to neutralization reduction (~1.7x across 10 convalescent sera from April 2020 infectees)
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 E484K
 
 # Viruses containing the point mutations
 # of B.1.1.7 showed that the single point mutations (Δ69-70 and N501Y) were neutralized
 # as efficiently as D614G across 10 convalescent sera from April 2020 infectees.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 N501Y
 
 # Viruses containing the point mutations
 # of B.1.1.7 showed that the single point mutations (Δ69-70 and N501Y) were neutralized
 # as efficiently as D614G across 10 convalescent sera from April 2020 infectees.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 H69del;V70del
 
 # These key B.1.1.7 mutations as a combination neutralized slightly less well than D614G
 # and this was noticeable in the lack of sera with high neutralizing titer for the viruses 
 # across 10 convalescent sera from April 2020 infectees.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 H69del;V70del;N501Y;P681H
 
 # Lentiviral pseudotyped with the key mutations from COH.20G/677H ("Ohio") lineage
 # was neutralized similarly to D614G in 10 convalescent sera from April 2020 infectees.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 N501Y;D614G;Q677H
 
 # Lentiviral pseudotyped with the key mutations from Mink Cluster 5
 # was neutralized more easily than D614G in 10 convalescent sera from April 2020 infectees.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 H69del;V70del;Y453F;I692V;M1229I
 
 # Lentiviral pseudotyped with the key mutations from 20A.EU2 lineage
 # was neutralized slightly less than D614G in 10 convalescent sera from April 2020 infectees.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 S477N;D614G
 
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed no significant 
@@ -613,19 +613,19 @@ L5F;T95I;D253G;E484K;D614G;A701V
 # B.1.427/B.1.429 compared to wildtype (D614G).
 # In 13 plasma collected ~1mo after B.1.1.7 infection (nursing home in Ticino, Switzerland), neutralization 
 # reduced to undetectable levels in many plasma for B.1.427/B.1.429 pseudotyped virus, as well as WT and other VOCs. 
-# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)]
 S13I;W152C;L452R
 
 # In 13 plasma collected ~1mo after B.1.1.7 infection (nursing home in Ticino, Switzerland), neutralization 
 # reduced to undetectable levels in many plasma for B.1.351 pseudotyped virus, as well as WT and other VOCs. 
 # [paper does not detail the B.1.351 variants used, using the most popular as a stad in]
-# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)]
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # In 13 plasma collected ~1mo after B.1.1.7 infection (nursing home in Ticino, Switzerland), neutralization 
 # reduced to undetectable levels in many plasma for P.1 pseudotyped virus, as well as WT and other VOCs. 
 # [paper does not detail the P.1 variants used, using the most popular as a stand in]
-# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
 # VSV pseudotype B.1.351 showed 7.86-fold decrease in NT50 vs wild type in sera from 9 ICU patients undergoing treatment in Germany (pre-variant infections).
@@ -759,7 +759,7 @@ E484Q
 # neutralization of all 16 convalescent sera tested, averaging WT ratio of 0.41+-0.08 (less dramatic than E484K). 
 # This amino acid emerges as an additional hotspot for immune evasion and a target for therapies, vaccines and diagnostics.
 # It has emerged independently in multiple lineages.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 # In 2 of 11 subjects' convalescent sera in an early+late mutational landscape analysis of the RBD, 
 # S484P shows a slightly resistent profile across both timepoints (i.e. resistant to immune cell somatic mutation evolution)
 # Greaney et al. (2021) https://doi.org/10.1016/j.chom.2021.02.003 [Journal publication]
@@ -792,42 +792,42 @@ L18F;D80A;D215G;L242del;A243del;K417N;E484K;N501Y;D614G;A701V
 # collected ~8mo post Jan 2020 first wave in China).
 # Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv)]
 # Average ~10-fold reduction in neutralization efficacy in convalescent sera of 16 health workers infected in Spring 2020.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 K417N;E484K;N501Y;D614G
 
 # Average ~5-fold reduction in neutralization efficacy in convalescent sera of 16 health workers infected in Spring 2020.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.3x reduction in 
 # IC50 serum dilution concentration for 6 convalescent sera.
 # Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv)]
 E484K
 
 # No notable change in neutralization efficiency, despite N439K by itself showing a ~2x decrease on average in 16 health workers' convalescent sera.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 H69del;V70del;N439K
 
 # Slight neutralization improvement on average in 16 health workers' convalescent sera.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 H69del;V70del;N501Y;P681H
 
 # Observed ~2x decrease on average in 16 health workers' convalescent sera.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 N439K
 
 # Observed ~2x decrease on average in 16 health workers' convalescent sera.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 L452R
 
 # One convalescent sera tested showed 4-fold or greater reduction in neutralization efficiency.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 H69del;V70del;N501Y;P681H
 
 # Four the convalescent sera tested showed 4-fold or greater improvement in neutralization efficiency.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 L5F;Q1208H
 
 # One convalescent sera tested showed 4-fold or greater reduction in neutralization efficiency.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 H69del;V70del;N439K
 
 # Antibody neutralization assays showed 6.7-fold resistence against 7/8 convalescent plasma.
@@ -1046,7 +1046,7 @@ S477N,S514F
 # Nearly half (21 of 44, 48%) of early pandemic exposure convalescent plasma/sera failed to neutralize the 501Y.V2 ("South African") lineage pseudovirus construct
 # Only 3 of 44 convascent sera (those with the highest titer, which correlated direectly with initial infection severity) had high neutralization against this 501Y.V2 
 # PG: note that lineage variant R246I was excluded from the text in reference to these sera assays, not sure if that was an oversight.
-# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)]
 # The 501Y.V2 to first wave IC50 ratio ranged from 6 to 200-fold. Averaging across all 7 participant convalescent sera highlighted the dramatic
 # decrease in sensitivity to neutralization of authentic 501Y.V2 variants.
 # PG: I'm purposefully ignoring D614G and A701V as contributors
@@ -1054,7 +1054,7 @@ S477N,S514F
 L18F,D80A,D215G,L242del,A243del,L244del,K417N,E484K,N501Y
 
 # 27% of 44 early pandemic exposure convalescent plasma/sera lose all activity against a RBD triple mutant pseudovirus (RBD mutatants of the 501Y.V2 "South African" lineage), while only 23% retained high titres 
-# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)]
 K417N,E484K,N501Y
 
 # Strong positive selection (up to 72% of supernatant sequences) under six rounds of COV47 convalescent plasma passage

@@ -1071,7 +1071,7 @@ E484W
 E484C
 
 # "E484A rose in frequency in linkage with F486I, but since E484A is not an escape mutation in our maps it is not shown in other panels"
-# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)]
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
@@ -1238,7 +1238,7 @@ N448P
 E484T
 
 # Only observed effective escape variant against Regeron's antibody cocktail (REGN10933 and REGN10987) 
-# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)]
 E406W
 
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
@@ -1410,7 +1410,7 @@ S494P
 S494W
 
 # Escapes mAb REGN10987, part of Regeneron's antibody cocktail. 
-# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)]
 # Strong positive selection (up to 45% of supernatant sequences) under two rounds of C121 monoclonal antibody passage
 # Strong positive selection (up to 39% of supernatant sequences) after two rounds of C135 monoclonal antibody passage, overall 76% switch away from Q493 to K or R
 # Weisblum et al. (2020) https://doi.org/10.1101/2020.07.21.214759 [Preprint (BioRxiv)]
@@ -1602,7 +1602,7 @@ F486T
 F486P
 
 # Escapes mAb REGN10933 (part of Regeneron's antibody cocktail)
-# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)]
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
 # Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
 Y489H
@@ -1648,7 +1648,7 @@ G504C
 G504L
 
 # Escapes mAb REGN10933 (part of Regeneron's antibody cocktail)
-# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
 # Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
 F486I
@@ -1658,7 +1658,7 @@ F486I
 F486L
 
 # Escapes mAb REGN10987 (part of Regeneron's antibody cocktail)
-# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)]
 N440D
 
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody

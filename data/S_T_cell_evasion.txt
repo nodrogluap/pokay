@@ -125,12 +125,12 @@ L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # The induction level of IFN-gamma expression by the Y453F derivative in two different A*24:02 convalescent sera 
 # donor plasma (linear epitope NYNYLYRLF 448,456) was significantly lower.
-# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)]
 Y453F
 
 # L452R derivative virus did not induce IFN-gamma expression even at the highest concentration tested (10 nM) in two different A*24:02 convalescent sera 
 # donor plasma (linear epitope NYNYLYRLF 448,456).
-# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)]
 L452R
 
 # Mutation is predicted to lose the T cell epitope for people carrying DRB1*0301 and DRB1*0401, 

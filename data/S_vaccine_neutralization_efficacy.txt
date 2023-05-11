@@ -742,7 +742,7 @@ D614G;P681H
 # It was reduced ~4-fold in 14 Pfizer/BioNtech BNT162b2-elicited plasma (7-27 days post-2nd dose). 
 # Using VSV pseudotype: we observed a 3-fold average reduction of Pfizer/BioNtech
 # BNT162b2-elicited plasma neutralizing activity.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)]
 S13I;W152C;L452R
 
 # Neutralizing antibody titers increased in previously infected vaccinees relative to uninfected vaccinees 
@@ -757,7 +757,7 @@ S13I;W152C;L452R
 # Muik et al. (2021) https://doi.org/10.1126/science.abg6105 [Journal publication]
 # Vaccine elicited antibodies neutralized virus with the B.1.1.7 spike protein with titers similar to D614G virus. Serum specimens 
 # from individuals vaccinated with the BNT162b2 mRNA vaccine neutralized D614G virus with titers that were on average 7-fold greater than convalescent sera.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # VSV pseudotype B.1.351 showed 7.85-fold reduction in neutralization efficiency vs wild type in 15 Pfizer BNT162b2 vaccinee sera 13-15 days post second dose.
@@ -772,7 +772,7 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # a titer that was still higher than the average titer with which convalescent sera neutralized D614G (1:139). Serum specimens 
 # from individuals vaccinated with the BNT162b2 mRNA vaccine neutralized D614G virus with titers that were on average 7-fold greater 
 # than convalescent sera.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # VSV pseudotype P.1 showed 5.12-fold reduction in neutralization efficiency vs wild type in 15 Pfizer BNT162b2 vaccinee sera 13-15 days post second dose.
@@ -959,13 +959,13 @@ N501Y
 # Using B.1.351 defining mutations for Spike, observed 4x average decrease in neutralization efficiency 
 # (but still relevant titres) for sera from 10 BNT162b2 vaccinees 12 days after second dose, but only one 
 # relevant titre 12 days after first dose. Compares unfavorably to wild type or B.1.1.7 titres.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 D80A;D215G;K417N;E484K;N501Y;A701V
 
 # Using P.1 defining mutations for Spike, observed 4x average decrease in neutralization efficiency 
 # (but still relevant titres) for sera from 10 BNT162b2 vaccinees 12 days after second dose, but only one 
 # relevant titre 12 days after first dose. Compares unfavorably to wild type or B.1.1.7 titres.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 # In human sera 8 weeks post-vaccination with INO-4800, a ~2-fold reduction in P.1 neutralization was observed.
 # Andrade et al. (2021) https://doi.org/10.1101/2021.04.14.439719 [Preprint (BioRxiv)]
 # Among 46,884 HCWs in Manaus, Brazil vaccinated with at least one dose of CoronaVac, a 0.50-fold reduction (adjusted vaccine 

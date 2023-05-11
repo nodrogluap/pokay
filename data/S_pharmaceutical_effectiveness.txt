@@ -510,7 +510,7 @@ K417T;E484K;N501Y
 # Bamlanivimab (LY-CoV555) entirely lost its neutralizing activity due to the central location of
 # L452R in the epitopes recognized by this mAb.
 # Regdanvimab (CT-P59), and to a smaller extent etesevimab, showed a reduction in neutralization potency.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)]
 # Bamlanivimab (LY-CoV555) lost ~5x binding against this isolated mutation.
 # Cligavimab lost ~4x binding against this isolated mutation.
 # Regdanvimab lost ~4x binding against this isolated mutation.

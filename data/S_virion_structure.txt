@@ -11,31 +11,31 @@ F392W
 # The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation, 
 # due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
 # by improved proteolytic processing.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 P681H
 
 # The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation, 
 # due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
 # by improved proteolytic processing. [PG: Inferred by conservative AA substitution of described P681H]
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 P681R
 
 # The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation, 
 # due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
 # by improved proteolytic processing.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 A570D
 
 # The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation combination, 
 # due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
 # by improved proteolytic processing.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 H69del;V70del;N501Y
 
 # The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation combination, 
 # due to a drop in the full length Spike measured, suggesting that this mutation compensates for decreased Spike production
 # by improved proteolytic processing.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 H69del;V70del;N501Y;P681H
 
 # Based on pseudotyped virus experiments, D614G may increase infectivity by assembling more functional S protein into the virion.

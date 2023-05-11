@@ -376,15 +376,15 @@ L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 # Lentiviral pseudotyped with the key mutations from COH.20G/677H lineage
 # was tested on ACE2.293T cells for ACE2 affinity changes vs D614G alone, showing a ~70%
 # drop in IC50 (i.e. increased affinity).
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 N501Y;D614G;Q677H
 
 # This single mutation causes major increase in binding affinity vs. wild type as measured by IC50 vs pseudotyped lentivirus, 
 # but combined with the complete set of B.1.1.7  
 # lineage variants no major change vs wild type affnity is observed. 
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 # ~4-fold increase in binding affinity vs wild type.
-# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)]
 # In silico methods (PyMOL and PDBePISA) involving mutagenesis (N501Y mutation) and interface analysis focusing on the Spike 
 # RDB-ACE2 interaction showed that the SARS-CoV-2 N501Y mutant (lineage B.1.1.7) establishes a more significant number of 
 # interactions relating to the mutant residue Y501 (Spike RDB) with residues Y41 and K353 (ACE2). This finding shows that the 
@@ -396,19 +396,19 @@ N501Y
 # This mutation combination causes major increase in binding affinity vs. wild type as measured by IC50 vs pseudotyped 
 # lentivirus, but combined with the complete set of B.1.1.7  
 # lineage variants no major change vs wild type affnity is observed. 
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 H69del;V70del;N501Y
 
 # This mutation causes major decrease in binding affinity vs. wild type as measured by IC50 vs pseudotyped lentivirus.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 S982A
 
 # ~4-fold increase in binding affinity vs wild type.
-# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)]
 Y453F
 
 # ~1.7-fold increase in binding affinity vs wild type.
-# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)]
 L452R
 
 # The B.1.351 variant constellation causes an ∼20-fold increase in affinity for ACE2 compared with Wuhan RBD, which may influence transmissibility.
@@ -418,7 +418,7 @@ D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 # Pseudotype lentivirus for the full B.1.351 Spike variant list shows increase affinity for ACE2 as measured by IC50.
 # This is in contrast to B.1.1.7 which showed no major change, indicating that the shared N501Y mutation is the driver of affinity change,
 # attentuated in the B.1.1.7 mutatioon set, but maintained in the B.1.351 lineage.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 L18F;D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 
 # Using molecular dynamic simulation, the mildly (~1kcal/mol) enhanced binding energy of this variant is primarily 
@@ -431,7 +431,7 @@ S494P
 # Six fold increase in affinity for ACE2 by the B.1.1.7 lineage vs wild type is driven by a drop in observed dissociation rate constant.
 # Collier et al. (2021) https://doi.org/10.1038/s41586-021-03412-7 [Journal publication]
 # This mutation causes major decrease in binding affinity vs. wild type as measured by IC50 vs pseudotyped lentivirus.
-# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Studying the key covariants in lineage of concern 501Y.V2, 

@@ -848,11 +848,11 @@ K417N;E484K;N501Y
 # 10 of 14 RBD-specific mAbs that showed at least 10-fold reduced neutralization of B.1.427/B.1.429 variant pseudotype (S13I, W152C, and L452R) were also found
 # to poorly bind to just a L452R RBD mutant, demonstrating a role for this mutation as an escape
 # mechanism for certain RBD-targeting mAbs.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)]
 L452R
 
 # 14 of 34 RBD-specific mAbs showed reduced neutralization to the B.1.427/B.1.429 variant pseudotype.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)]
 S13I;W152C;L452R
 
 # The S13I mutation dampened binding of 5 mAbs and abrogated binding of 5 additional mAbs out of 11 neutralizing mAbs evaluated.
@@ -860,19 +860,19 @@ S13I;W152C;L452R
 # PG: in saying S12F does not shift the signal peptide nor affect mAb binding, this manuscript appears to contradict the 
 # text of McCallum et al.'s earlier 2021 manuscript stating that S12F *does* affected some mAb binding
 # via putative signal peptide shift.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)]
 S13I
 
 # The W152C mutation reduced recognition of six NTD neutralizing mAbs, including a complete loss of binding for two of them, with a complementary
 # pattern to that observed for S13I (also found in lineage B.1.427/B.1.429) out of 11 neutralizing mAbs evaluated.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)]
 W152C
 
 # The B.1.427/B.1.429 S13I/W152C NTD did not bind to any NTD-directed neutralizing mAbs, which are known to
 # target a single antigenic site (antigenic site i), whereas binding of the non-neutralizing
 # S2L20 mAb to the NTD antigenic site iv was not affected by any mutants, confirming proper
 # retention of folding.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.03.31.437925 [Preprint (BioRxiv)]
 S13I;W152C
 
 # Contrary to other reports on N501Y containing lineages (i.e. with additional mutations), N501Y alone may
@@ -1081,7 +1081,7 @@ T478I
 # Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody BD23 on 501Y.V2 ("South African") lineage background 
 # Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody C119 (also known as CB6 or JS016) on 501Y.V2 ("South African") lineage background
 # Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody P2B-2F6 on 501Y.V2 ("South African") lineage background
-# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)]
 # Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 K417N;E484K;N501Y
@@ -1175,7 +1175,7 @@ T345A;L517R
 
 # Ablates binding of Spike N terminal domain targeting monoclonal antibody 4A8, by disruption of N5-loop/supersite loop, may work synergistically with 
 # 501Y.V2 ("South African") lineage background variant R246I to disrupt paratope binding. [PG: del extent simplified to accomodate minor position realignments]
-# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)]
 # B.1.351 pseudotyped virus model ablates neutralization by N-terminal-domain-directed mAbs 5-24, 4-8, 4A8, 2-17, and 4-19 (independent of S:p.R246I).
 # Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 L242del
@@ -1183,7 +1183,7 @@ L242del
 # Ablates binding of Spike N terminal domain targeting monoconal anibody 4A8, this residue is known to be key for CDR-H1 mediated
 # interactions. May work synergistically with 501Y.V2 ("South African") lineage background deletion 242del,243del,244del to disrupt paratope binding
 # via steric clash with residue R102.
-# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)]
 # B.1.351 pseudotyped virus model ablates neutralization by N-terminal-domain-directed mAbs 5-24, 4-8, 4A8, and 4-19 (independent of S:pL242_L244del).
 # Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 R246I
