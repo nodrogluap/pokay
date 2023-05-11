@@ -1,37 +1,37 @@
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.1 (from Botswana/R40B59_BHP_3321001248/2021) were 28.7x-fold lower (95% CI: 0.03x-0.05) than against 
 # US-WA1/2020 using an infectious cDNA clone of mNG USA-WA1/2020.
-# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BiorXiv)] [Preprint (BioRxiv)]
+# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BiorXiv)]
 A67V;D614G;D796Y;E484A;G142D;G339D;G446S;G496S;H69del;H655Y;ins214EPE;K417N;L212I;N211del;N440K;N501Y;N679K;N764K;N856K;N969K;P681H;Q493R;Q498R;Q954H;S371L;S373P;S375F;S477N;T95I;T478K;T547K;V70del;V143del;Y144del;Y145del;Y505H
 
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.2 (from South Africa/CERI-KRISP-K032307/2021) were 3.9x-fold lower (95% CI: 0.14x-0.17x) than against 
 # US-WA1/2020 using an infectious cDNA clone of mNG USA-WA1/2020.
-# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BiorXiv)] [Preprint (BioRxiv)]
+# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BiorXiv)]
 A27S;D405N;D614G;D796Y;E484A;G142D;G339D;H655Y;K417N;L24del;N440K;N501Y;N679K;N764K;N969K;P25del;P26del;P681H;Q493R;Q498R;Q954H;R408S;S371F;S373P;S375F;S477N;T19I;T376A;T478K;V213G;Y505H
 
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.2.12.1 (from USA/NY-CDC-ASC210722700/2022) were 3.9x-fold lower (95% CI: 0.14x-0.18x) than against 
 # US-WA1/2020 using an infectious cDNA clone of mNG USA-WA1/2020.
-# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BiorXiv)] [Preprint (BioRxiv)]
+# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BiorXiv)]
 A27S;D405N;D614G;D796Y;E484A;G142D;G339D;H655Y;K417N;L24del;L452Q;N440K;N501Y;N679K;N764K;N969K;P25del;P26del;P681H;Q493R;Q498R;Q954H;R408S;S371F;S373P;S375F;S477N;S704L;T19I;T376A;T478K;V213G;Y505H
 
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.3 (from South Africa/NICD-N22404/2021) were 4.2x-fold lower (95% CI: 0.15x-0.20x) than against 
 # US-WA1/2020 using an infectious cDNA clone of mNG USA-WA1/2020.
-# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BiorXiv)] [Preprint (BioRxiv)]
+# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BiorXiv)]
 A67V;D405N;D614G;D796Y;E484A;G142D;G339D;G446S;H69del;H655Y;K417N;L212I;N211del;N440K;N501Y;N679K;N764K;N969K;P681H;Q493R;Q498R;Q954H;S371F;S373P;S375F;S477N;T95I;T478K;V70del;V143del;Y144del;Y145del;Y505H
 
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.4/5 (from ) were 17.2x-fold lower (95% CI: 0.6x-0.7x) than against 208-428 972-1834 4.3-4.7
 # US-WA1/2020 usiong an infectious cDNA clone of mNG USA-WA1/2020.
-# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BiorXiv)] [Preprint (BioRxiv)]
+# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BiorXiv)]
 H69del;L24del;S373P;N969K;H655Y;V213G;G142D;A27S;Q954H;N501Y;P25del;T19I;N440K;N679K;N764K;Y505H;D796Y;T478K;S371F;K417N;T376A;F486V;G339D;R408S;P681H;S375F;D405N;Q498R;S477N;E484A;V70del;P26del;D614G;L452R
 
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # XD (from ) were 1.5x-fold lower (95% CI: 0.05x-0.07x) than against 208-428 972-1834 4.3-4.7
 # US-WA1/2020 usiong an infectious cDNA clone of mNG USA-WA1/2020.
-# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BiorXiv)] [Preprint (BioRxiv)]
+# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BiorXiv)]
 T95I;S373P;Q493R;N969K;H655Y;N856K;G142D;A27S;Q954H;N501Y;N440K;T19R;N679K;N764K;L212I;Y505H;T547K;D796Y;T478K;G496S;K417N;S371L;G339D;R158del;P681H;ins214EPE;F157del;S375F;Q498R;G446S;S477N;E156G;N211del;E484A;L981F;D614G
 
 # Using molecular dynamics simulation, ACE2-RBD (Omicron) complex is destabilized by the E484A and Y505H mutations and stabilized by S477N and N501Y mutations.
