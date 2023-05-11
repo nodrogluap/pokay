@@ -860,9 +860,6 @@ D80A;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 # For the AstraZeneca vaccine, samples (n = 25) were obtained 14 or 28 days following the second vaccine dose, with a dosing 
 # interval of 8–14 weeks, geometric mean B.1.351 titers were 9-fold lower than for Victoria (p < 0.0001).
 # Zhou et al. (2021) http://doi.org/10.1016/j.cell.2021.02.037 [Journal publication]
-# The Novavax vaccine, which achieved 95.6% efficacy against previous SARS-CoV-2 strains, had reduced efficacy of 60% in South Africa, 
-# where 92.6% of infections are estimated to have been B.1.351.
-# Novavax (2021) https://www.novavax.com/sites/default/files/2021-02/20210202-NYAS-Novavax-Final.pdf [Grey literature]
 # The Janssen single dose vaccine showed 72% efficacy at preventing moderate and severe disease, which was 
 # reduced to 57% in South Africa, where 92.6% of infections are estimated to have been B.1.351. 100% reduction in 
 # hospitalization risk remains across variants after 28 days post-vaccination.
