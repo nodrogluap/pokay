@@ -12,9 +12,9 @@ H69del;K417N;E484A
 # emergency care within 14 days for Delta cases had an adjusted HR 1.45 [95% CI 1.08–1.95] relative to Alpha. Most patients were unvaccinated (32 078 [74·0%]
 # across both groups). The HRs for vaccinated patients were similar: 1.94 [95% CI 0.47–8.05] for hospitalization and 1.58 [0.69–3.61]) for hospital admission or 
 # emergency care attendance.
-# Twohig et al. (2021) https://doi.org/10.1016/S1473-3099(21)00475-8
+# Twohig et al. (2021) https://doi.org/10.1016/S1473-3099(21)00475-8 [Journal publication]
 # In Denmark, for the period Jan 1 to Jun 27, 2021, Delta variant was associated with increased an risk ratio of 2.83 [95% CI 2.02–3.98] for hospitalization.
-# Bager et al. (2021) https://doi.org/10.1016/S1473-3099(21)00580-6
+# Bager et al. (2021) https://doi.org/10.1016/S1473-3099(21)00580-6 [Journal publication]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # Compared to Alpha (B.1.1.7) variant, odds of progressing to severe disease were 1.24-fold (95% CI: 1.11-1.39) higher for Beta. 
@@ -54,10 +54,10 @@ T95I;D253G;D614G
 # 198 (58%) of 341 had B.1.1.7 infection and 143 (42%) had non-B.1.1.7 infection. No evidence was found of an association 
 # between severe disease and death and lineage (B.1.1.7 vs non-B.1.1.7) in unadjusted analyses (prevalence ratio [PR] 0·97 
 # [95% CI 0·72-1·31]), or in analyses adjusted for hospital, sex, age, comorbidities, and ethnicity (adjusted PR 1·02 [0·76-1·38]).
-# Frampton et al. (2021) https://doi.org/10.1016/s1473-3099(21)00170-5
+# Frampton et al. (2021) https://doi.org/10.1016/s1473-3099(21)00170-5 [Journal publication]
 # From Sept 28 to Dec 27, 2020, positive COVID-19 tests were reported by 36 920 COVID Symptom Study app users whose region was 
 # known and who reported as healthy on app sign-up. We found no changes in reported symptoms or disease duration associated with B.1.1.7. 
-# Graham et al. (2021) https://doi.org/10.1016/s2468-2667(21)00055-4
+# Graham et al. (2021) https://doi.org/10.1016/s2468-2667(21)00055-4 [Journal publication]
 # The mortality hazard ratio associated with infection with [B.1.1.7] compared with infection with previously circulating variants was 
 # 1.64 (95% confidence interval 1.32 to 2.04) in patients who tested positive for covid-19 in the community (54906 matched pairs of 
 # participants who tested positive for SARS-CoV-2 in pillar 2 between 1 October 2020 and 29 January 2021). In this comparatively low risk 

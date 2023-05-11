@@ -33,7 +33,7 @@ I210del;D614G
 # 36920 COVID Symptom Study app users reported SARS-CoV-2 test positivity in late 2020. Possible reinfections were 
 # identified in 249 (0.7% [95% CI 0.6-0.8]) of 36509 app users who reported a positive swab test before Oct 1, 2020, 
 # but there was no evidence that the frequency of reinfections was higher for the B.1.1.7 variant than for pre-existing variants.
-# Graham et al. (2021) https://doi.org/10.1016/s2468-2667(21)00055-4
+# Graham et al. (2021) https://doi.org/10.1016/s2468-2667(21)00055-4 [Journal publication]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 27yo female nurse reinfected in December 2020 (B.1.177) after initial infection in March 2020 (B.3). Both cases were mild.
