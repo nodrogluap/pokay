@@ -1,4 +1,4 @@
 # By Western blot, a statistically significant 2x increase in N protein expression in packaging cells was observed using mutant novel virus-like-particles.
 # This did not correlate with luciferase activity (which was not statistically different from D614G wild type).
-# Syed et al. (2021) http://doi.org/10.1101/2021.08.05.455082 [Preprint (BioRxiv)]
+# Syed et al. (2021) https://doi.org/10.1101/2021.08.05.455082 [Preprint (BioRxiv)]
 G204R

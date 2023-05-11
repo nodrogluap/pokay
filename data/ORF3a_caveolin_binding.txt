@@ -1,5 +1,5 @@
 # In silico, this mutation is the only one weakening ORF3a's binding affinity for caveolin-1
 # (essential for entry and endomembrane trafficking of SARS-CoV-2). This mutation is a widespread
 # homoplasy in 20A and 20B lineages.
-# Gupta et al. (2021) http://doi.org/10.1101/2021.03.26.437194 [Preprint (BioRxiv)]
+# Gupta et al. (2021) https://doi.org/10.1101/2021.03.26.437194 [Preprint (BioRxiv)]
 D155Y

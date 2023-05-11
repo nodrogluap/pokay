@@ -1,10 +1,10 @@
 # Reinfection in a September 2020 of a 61yo female Brazilian HCW, no hospitalization required in first or second infection.
 # Genome also has one Spike mutation of unknown significance, S:p.Q675H
-# Amorim et al. (2021) http://doi.org/10.3201/eid2706.210558 [Journal publication]
+# Amorim et al. (2021) https://doi.org/10.3201/eid2706.210558 [Journal publication]
 A414S;R203K;G204R;I292T
 
 # Reinfection in an October 2020 of a 40yo female Brazilian HCW, no hospitalization required in first or second infection.
 # Poor overall genome quality.
 # Genome also has one Spike mutation that would become a defining mutation in lineage P.2, S:p.V1176F
-# Amorim et al. (2021) http://doi.org/10.3201/eid2706.210558 [Journal publication]
+# Amorim et al. (2021) https://doi.org/10.3201/eid2706.210558 [Journal publication]
 D128H;R203K;G204R

@@ -1,5 +1,5 @@
 # No biochemical data, but high quality non-synonymous homoplasies from a paper, where functional fitness was presumed.
-# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351 [Journal publication]
+# Van Dorp et al. (2020) https://doi.org/10.1016/j.meegid.2020.104351 [Journal publication]
 # PG: Effect is synonymous (Y454=), with the reference contig containing the optimal human codon (UAC) vs this variant (UAU).
 # PG: Has lead to two major lineage expansions and number fizzle-outs, accessible loop base in a stem-loop RNA secondary structure. 
 # PG: The homoplasy may be due to propensity of this site to deamination rather than a fitness advantage.
@@ -7,7 +7,7 @@ g.C14805U
 
 
 # No biochemical data, but high quality non-synonymous homoplasies from a paper, where functional fitness was presumed.
-# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351 [Journal publication]
+# Van Dorp et al. (2020) https://doi.org/10.1016/j.meegid.2020.104351 [Journal publication]
 # PG: Effect is synonymous (N627=), with the reference contig containing the optimal human codon (AAC) vs this variant (AAU).
 # PG: Has lead to one major lineage expansions and number fizzle-outs, and is not part of a known RNA secondary structure.
 # PG: The homoplasy may be due to propensity of this site to deamination rather than a fitness advantage.
