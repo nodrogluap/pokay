@@ -2,18 +2,18 @@
 # swab from different previously infected vacinee neutralizing at weeks 3 and 6 against B.1.1.7 and D614G) suggest that vaccinees probably 
 # do not elicit an early humoral response detectable at mucosal surfaces even though sera neutralization was observed. They strengthen the hypothesis that some vaccines may not protect against 
 # viral acquisition and infection of the oral–nasal region, but may prevent severe disease associated with viral dissemination in the lower respiratory tract. 
-# Planas et al. (2021) http://doi.org/10.1038/s41591-021-01318-5 [Journal publication]
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5 [Journal publication]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # The nasal mucosa of Pfizer vaccinees with time course collection was evaluated against VSV pseudotypes: results (only one nasal 
 # swab from different previously infected vacinee neutralizing at weeks 3 and 6 against B.1.1.7 and D614G) suggest that vaccinees probably 
 # do not elicit an early humoral response detectable at mucosal surfaces even though sera neutralization was observed. They strengthen the hypothesis that some vaccines may not protect against 
 # viral acquisition and infection of the oral–nasal region, but may prevent severe disease associated with viral dissemination in the lower respiratory tract. 
-# Planas et al. (2021) http://doi.org/10.1038/s41591-021-01318-5 [Journal publication]
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5 [Journal publication]
 D614G
 
 # The nasal mucosa of Pfizer vaccinees with time course collection was evaluated against VSV pseudotypes: while B.1.1.7 and D614G showed neutralization
 # by nasal swab from only one different previously infected vacinee neutralizing at weeks 3 and 6, B.1.351 showed zero neutralization at either time point
 # in any sample (and relatively impaired serum neutralization).
-# Planas et al. (2021) http://doi.org/10.1038/s41591-021-01318-5 [Journal publication]
+# Planas et al. (2021) https://doi.org/10.1038/s41591-021-01318-5 [Journal publication]
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V

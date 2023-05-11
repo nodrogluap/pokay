@@ -11,7 +11,7 @@ N856K
 # (measuring Spike furin cleavage processivity) increased 11x relative to wild type (15.3 vs 1.4). [del ~157 truncated due to ambiguity]
 # Furthermore the RNA ratio of Delta versus Alpha-spike/Delta-backbone continuously increased from 2.8 on day 1 
 # to 9.8 on day 5 post infection in a coinfection model in HAEs, suggesting the spike gene drives the improved replication of Delta variant.
-# Liu et al. (2021) http://doi.org/10.1101/2021.08.12.456173v3 [Preprint (BioRxiv)]
+# Liu et al. (2021) https://doi.org/10.1101/2021.08.12.456173v3 [Preprint (BioRxiv)]
 T19R;G142D;E156G;F157del;L452R;T478K;D614G;P681R;D950N
 
 # Modelling the Alpha variant in primary human airway epithelial (HAE) cultures, S1 to full length Spike ratio 
@@ -19,189 +19,189 @@ T19R;G142D;E156G;F157del;L452R;T478K;D614G;P681R;D950N
 # is less efficient than Delta (11x vs wildtype using a P681R mutation instead). [del ~144 changed due to ambiguity]
 # Furthermore the RNA ratio of Delta versus Alpha-spike/Delta-backbone continuously increased from 2.8 on day 1 
 # to 9.8 on day 5 post infection in a co-infection model in HAEs, suggesting the spike gene drives the improved replication of Delta variant.
-# Liu et al. (2021) http://doi.org/10.1101/2021.08.12.456173v3 [Preprint (BioRxiv)]
+# Liu et al. (2021) https://doi.org/10.1101/2021.08.12.456173v3 [Preprint (BioRxiv)]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H 
 
 # This mutation alone accounts for most of the increased infectivity of the Alpha variant, as determined by modelling the infectivity
 # of each Spike mutation independently in a competitive infection model of hamsters, and Vero E6 (NHP) and Calu-3 (human) cell lines.
-# Liu et al. (2021) http://doi.org/10.1101/2021.03.08.434499 [Preprint (BioRxiv)]
+# Liu et al. (2021) https://doi.org/10.1101/2021.03.08.434499 [Preprint (BioRxiv)]
 N501Y
 
 # In the absence of N501Y, this Alpha lineage change in the furin clevage site did NOT show significant increase in infectivity relative to wild type, 
 # as determined by modelling the infectivity of each Spike mutation independently in a competitive infection model of hamsters.
-# Liu et al. (2021) http://doi.org/10.1101/2021.03.08.434499 [Preprint (BioRxiv)]
+# Liu et al. (2021) https://doi.org/10.1101/2021.03.08.434499 [Preprint (BioRxiv)]
 P681H
 
 # In primary human airway epithelial cultures, S1 to full length Spike ratio (measuring Spike furin cleavage 
 # processivity) increase 1.9x relative to wild type (2.7 vs 1.4). 
 # This is the Delta variant with the P681R furin cleavage site mutation absent. [del ~157 truncated due to ambiguity]
-# Liu et al. (2021) http://doi.org/10.1101/2021.08.12.456173v3 [Preprint (BioRxiv)]
+# Liu et al. (2021) https://doi.org/10.1101/2021.08.12.456173v3 [Preprint (BioRxiv)]
 T19R;G142D;E156G;F157del;L452R;T478K;D614G;D950N
 
 # ~4.5x cleavage of S2 relative to WA1 (D614G) wildtype by Delta (B.1.617.2) variant as measured by mass spectrometry of Vero-TMPRSS culture
 # (compare to ~3.5x for closely related Kappa B.1.617.1 also with P681R at the cleavage site). 
-# Esclera et al. (2021) http://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
+# Esclera et al. (2021) https://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
 T19R;G142D;E154K;E156del;F157del;L452R;P681R;D614G;A771S;D950N
 
 # ~3.5x cleavage of S2 relative to WA1 (D614G) wildtype by Kappa (B.1.617.1) variant as measured by mass spectrometry of Vero-TMPRSS culture
 # (compare to ~4.5x for closely related Delta B.1.617.2 also with P681R at the cleavage site). 
-# Esclera et al. (2021) http://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
+# Esclera et al. (2021) https://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
 
 # ~2.5x cleavage of S2 relative to WA1 (D614G) wildtype by Alpha variant variant as measured by mass spectrometry of Vero-TMPRSS culture.
-# Esclera et al. (2021) http://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
+# Esclera et al. (2021) https://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # ~6x cleavage of S2 relative to WA1 (D614G) wildtype by Beta variant as measured by mass spectrometry of Vero-TMPRSS culture 
 # [no mutations directly at furin cleavage site, but A701V is downstream] Compare to 4.5x or less for variants of concern with 
 # direct furin clevage site mutations.
-# Esclera et al. (2021) http://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
+# Esclera et al. (2021) https://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
 D80A;D215G;L242del;A243del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # ~6x cleavage of S2 relative to WA1 (D614G) wildtype by Gamma variant as measured by mass spectrometry of Vero-TMPRSS culture 
 # [no mutations directly at furin cleavage site, but H655Y is upstream] Compare to 4.5x or less for variants of concern with 
 # direct furin clevage site mutations.
-# Esclera et al. (2021) http://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
+# Esclera et al. (2021) https://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
 
 # Quantification of the band intensities showed that the P681R mutation, which lies near the proteolytic processing site, 
 # caused a small increase in proteolytic processing as measured by a 2-fold decrease in the ratio of S/S2.
-# Tada et al. (2021) http://doi.org/10.1101/2021.05.14.444076 [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.05.14.444076 [Preprint (BioRxiv)]
 P681R;D614G
 
 # ~4x more efficient S2 domain cleavage compared to wild type in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 D614G
 
 # ~4x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 V367F;D614G
 
 # ~4x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 P384L;D614G
 
 # ~4x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 R408I;D614G
 
 # ~4x more efficient S2 domain cleavage compared to wild type, no change relative to D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 N501Y;D614G
 
 # ~5x more efficient S2 domain cleavage compared to wild type, compared to 4x by D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3). 
 # [N501Y+D614G does not show an increase in cleavage, therefore a synergistic effect of the trio is implied]
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 K417N;N501Y;D614G
 
 # ~6x more efficient S2 domain cleavage compared to wild type, compared to 4x by D614G alone in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
 # [N501Y+D614G does not show an increase in cleavage, therefore a synergistic effect of the trio is implied]
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 E484K;N501Y;D614G
 
 # No change in infectivity (24h) relative to D614G alone in Caco-2 cells, Vero or Calu-3.
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 D614G
 
 # No change in infectivity (24h) relative to D614G alone in Caco-2 cells, Vero or Calu-3.
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 V367F;D614G
 
 # No change in infectivity (24h) relative to D614G alone in Caco-2 cells, Vero or Calu-3.
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 P384L;D614G
 
 # No change in infectivity (24h) relative to D614G alone in Caco-2 cells, Vero or Calu-3.
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 R408I;D614G
 
 # More efficient infectivity (24h) compared to wild type, in Caco-2 cells ~9x, Vero ~8x, and Calu-3 ~8x. Compare to wild type at ~5x across cell types.
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 N501Y;D614G
 
 # More efficient infectivity (24h) compared to wild type, in Caco-2 cells ~13x, Vero ~10x, and Calu-3 ~10x. Compare to wild type at ~5x across cell types.
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 N417N;N501Y;D614G
 
 # More efficient infectivity (24h) compared to wild type, in Caco-2 cells ~11x, Vero ~10x, and Calu-3 ~11x. Compare to wild type at ~5x across cell types.
-# Kim et al. (2021) http://doi.org/10.3390/v13040633 [Journal publication]
+# Kim et al. (2021) https://doi.org/10.3390/v13040633 [Journal publication]
 E484K;N501Y;D614G
 
 # 9x more infectivity than D614G alone in HEK293T-ACE2 cells 48h post-transduction.
-# Kuzmina et al. (2021) http://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
+# Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 N501Y;D614G
 
 # ~2x more infectivity than D614G alone in HEK293T-ACE2 cells 48h post-transduction.
-# Kuzmina et al. (2021) http://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
+# Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 E484K;D614G
 
 # ~2x more infectivity than D614G alone in HEK293T-ACE2 cells 48h post-transduction.
-# Kuzmina et al. (2021) http://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
+# Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 K417N;D614G
 
 # ~9x more infectivity than D614G alone in HEK293T-ACE2 cells 48h post-transduction (no synergy as level approx. that of N501Y alone).
-# Kuzmina et al. (2021) http://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
+# Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 K417N;N501Y;D614G
 
 # ~12x more infectivity than D614G alone in HEK293T-ACE2 cells 48h post-transduction (~additive effects of 501 and 484).
-# Kuzmina et al. (2021) http://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
+# Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 E484K;N501Y;D614G
 
 # Approximately as infective as D614G alone in HEK293T-ACE2 cells 48h post-transduction (~additive effects of the individual variants).
-# Kuzmina et al. (2021) http://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
+# Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 E484K;K417N;D614G
 
 # ~13x more infective as D614G alone in HEK293T-ACE2 cells 48h post-transduction.
-# Kuzmina et al. (2021) http://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
+# Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 E484K;K417N;N501Y;D614G
 
 # 9x more infectivity than D614G alone in HEK293T-ACE2 cells 48h post-transduction.
-# Kuzmina et al. (2021) http://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
+# Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 N501Y;D614G
 
 # This variant alone shows a 10x decrease in cell entry efficiency (RLU measurement in 293T cells) compared to D614G. 
-# Ferriera et al (2021) http://doi.org/10.1101/2021.05.08.443253 [Preprint (BioRxiv)]
+# Ferriera et al (2021) https://doi.org/10.1101/2021.05.08.443253 [Preprint (BioRxiv)]
 E484Q
 
 # This variant alone shows a ~5x decrease in cell entry efficiency (RLU measurement in 293T cells) compared to D614G.
 # [listed as L454R in Figure, but L452R in text, also text 
 # suggests not statistically significant, but error bars say otherwise in Figure 4]
-# Ferriera et al (2021) http://doi.org/10.1101/2021.05.08.443253 [Preprint (BioRxiv)]
+# Ferriera et al (2021) https://doi.org/10.1101/2021.05.08.443253 [Preprint (BioRxiv)]
 L452R
 
 # This variant combination shows a ~4-5x decrease in cell entry efficiency (RLU measurement in 293T cells) compared to D614G, same as L452R alone.
-# Ferriera et al (2021) http://doi.org/10.1101/2021.05.08.443253 [Preprint (BioRxiv)]
+# Ferriera et al (2021) https://doi.org/10.1101/2021.05.08.443253 [Preprint (BioRxiv)]
 L452R;E484K
 
 # This variant alone shows a ~5x decrease in cell entry efficiency (RLU measurement in 293T cells) compared to D614G. 
-# Ferriera et al (2021) http://doi.org/10.1101/2021.05.08.443253 [Preprint (BioRxiv)]
+# Ferriera et al (2021) https://doi.org/10.1101/2021.05.08.443253 [Preprint (BioRxiv)]
 E484K
 
 # This variant combination shows a ~3x decrease in cell entry efficiency (RLU measurement in 293T cells) compared to D614G,
 # significantly less of a decrease than any B.1.617 lineage variants alone, suggesting a synergistic effect on cell entry
 # while maintaining known immunity esacpe mutants.
-# Ferriera et al (2021) http://doi.org/10.1101/2021.05.08.443253 [Preprint (BioRxiv)]
+# Ferriera et al (2021) https://doi.org/10.1101/2021.05.08.443253 [Preprint (BioRxiv)]
 L452R;E484K;P681R
 
 # In one of eight cell lines tested (293T lung cells), a modest increase in cell entry was observed.
-# Hoffman et al. (2021) http://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv)]
+# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv)]
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # In two of eight cell lines tested (Caco-2 intenstinal and Calu-3 lung), a modest increase in cell entry was observed. This
 # increase was not observed in a Calu-3 cell line with overexpressed ACE2.
 # [the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
 # therefore the results should be interpreted carefully as transferable to B.1.617 generally]
-# Hoffman et al. (2021) http://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv)]
+# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv)]
 R21T;E154K;Q218H;L452R;E484Q;D614G;P681R;H1101D
 
 # Live virus was tested ex vivo in reconstituted brochial epithelium, and out competed wild type.
-# Touret et al. (2021) http://doi.org/10.1101/2021.03.22.436427 [Preprint (BioRxiv)]
+# Touret et al. (2021) https://doi.org/10.1101/2021.03.22.436427 [Preprint (BioRxiv)]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Lentiviral pseudotyped with this individual mutation from B.1.1.7
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing slightly increased infection rate amongst the cells. 
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 Y144del
 
 # Lentiviral pseudotyped with this individual mutation from B.1.1.7
@@ -211,13 +211,13 @@ Y144del
 # each B.1.351 lineage variant was independetly evaluated and N501 is in both lineages, 
 # a significant decrease was observed, therefore the error bars described in this paper
 # should be interpreted carefully]
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 N501Y
 
 # Lentiviral pseudotyped with this individual mutation from B.1.1.7
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing statistically significant increased infection rate amongst the cells. 
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 A570D
 
 # Lentiviral pseudotyped with this individual mutation from B.1.1.7
@@ -225,7 +225,7 @@ A570D
 # showing NO statistically significant infection rate change amongst the cells, suggesting that
 # furin cleavage typically used for cell entry is not affected by this change one 
 # amino acid upstream of the RXXR recognition pattern. 
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 P681H
 
 # Lentiviral pseudotyped with this individual mutation from B.1.1.7
@@ -236,21 +236,21 @@ P681H
 # This property may be specific to spike protein
 # biosynthesis in 293T cells and is not likely to reflect the situation in vivo given the reported
 # increase in infectivity of the B.1.1.7 virus.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 T716I
 
 # Lentiviral pseudotyped with this individual mutation from B.1.1.7
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing major (70%) increase in infection rate amongst the cells, hence this individual variant 
 # is likely to significantly contribute to cell entry fitness. 
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 S982A
 
 # Lentiviral pseudotyped with this individual mutation from B.1.1.7
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing mild decrease in infection rate amongst the cells, hence this individual variant 
 # is unlikely to contribute to cell entry fitness. 
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 D1118H
 
 # Lentiviral pseudotyped with this mutation set from B.1.1.7
@@ -258,7 +258,7 @@ D1118H
 # showing significant (40%) increase in infection rate amongst the cells, much more than the effect of 
 # either the deletion or the point mutation alone, suggetsing that this combination has a synergistic effect 
 # contributing to cell entry fitness, moreso than this combination with the addition of P681H.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 H69del;V70del;N501Y
 
 # Lentiviral pseudotyped with this mutation set from B.1.1.7
@@ -266,120 +266,120 @@ H69del;V70del;N501Y
 # showing significant (40%) increase in infection rate amongst the cells, much more than the effect of 
 # either the deletion or the point mutation alone, suggetsing that this combination has a synergistic effect 
 # contributing to cell entry fitness, but to a smaller extent than N501Y and the deletion alone.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 H69del;V70del;N501Y;P681H
 
 # Lentiviral pseudotyped with this individual mutation from B.1.351
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing mild decrease in infection rate amongst the cells, suggetsing that this 
 # mutation does not contributing to cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 L18F
 
 # Lentiviral pseudotyped with this individual mutation from B.1.351
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing mild decrease in infection rate amongst the cells, suggesting that this 
 # mutation does not contributing to cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 D80A
 
 # Lentiviral pseudotyped with this individual mutation from B.1.351
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing mild decrease in infection rate amongst the cells, suggesting that this 
 # mutation does not contributing to cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 D215G
 
 # Lentiviral pseudotyped with this individual mutation from B.1.351
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing mild decrease in infection rate amongst the cells, suggesting that this 
 # deletion does not contributing to cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 L242del
 
 # Lentiviral pseudotyped with this individual mutation from B.1.351
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing mild decrease in infection rate amongst the cells, suggesting that this 
 # mutation does not contributing to cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 R246I
 
 # Lentiviral pseudotyped with this individual mutation from B.1.351
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing mild decrease in infection rate amongst the cells, suggesting that this 
 # mutation does not contributing to cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 K417N
 
 # Lentiviral pseudotyped with this individual mutation from B.1.351
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing no change in infection rate amongst the cells.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 E484K
 
 # Lentiviral pseudotyped with this individual mutation from B.1.351
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing mild decrease in infection rate amongst the cells, suggesting that this 
 # mutation does not contributing to cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 A701V
 
 # Lentiviral pseudotyped with all key mutations from B.1.351 lineage
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing modest decrease in infection rate amongst the cells, suggesting some synergy between the mutations
 # to decrease cell entry fitness (i.e. cell entry is liklely not the driver of this lineage's dominance).
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # Lentiviral pseudotyped with the key mutations from 20A.EU2 lineage
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing no significant change in infection rate amongst the cells, suggesting that this 
 # mutation does not contributing to cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 S477N;D614G
 
 # Lentiviral pseudotyped with the key mutations from COH.20G/677H lineage
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing no significant change in infection rate amongst the cells, suggesting that this 
 # mutation does not contributing to cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 N501Y;D614G;Q677H
 
 # Lentiviral pseudotyped with all key mutations from Mink Cluster 5 lineage,
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing major (~50%) decrease in infection rate amongst the cells, suggesting that this 
 # anthropozoonotic event is driven by other factors at the expense of human cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 H69del;V70del;Y453F;I692V;M1229I
 
 # Lentiviral pseudotyped with this mutation from Mink Cluster 5 lineage,
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing modest decrease in infection rate amongst the cells, suggesting that this 
 # variant does not contributing to human cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 # Decreased stability of RBD expression in yeast, suggesting decreased Spike protein stability.
-# Motozono et al. (2021) http://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 Y453F
 
 # Lentiviral pseudotyped with this mutation from Mink Cluster 5 lineage,
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing mild decrease in infection rate amongst the cells, suggesting that this 
 # variant does not contributing to human cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 I692V
 
 # Lentiviral pseudotyped with this mutation from Mink Cluster 5 lineage,
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing moderate decrease in infection rate amongst the cells, suggesting that this 
 # variant does not contributing to human cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 S1174L
 
 # Lentiviral pseudotyped with this mutation from Mink Cluster 5 lineage,
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing slight decrease in infection rate amongst the cells, suggesting that this 
 # variant does not contributing to human cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 M1229I
 
 # Lentiviral pseudotyped with this mutation set from Mink Cluster 5 lineage,
@@ -387,7 +387,7 @@ M1229I
 # showing slight decrease in infection rate amongst the cells, much closer to
 # D614G activity level than Y453F alone, suggesting compensatory effects between the 
 # deletion and the mutation in human cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 H69del;V70del;Y453F
 
 # Lentiviral pseudotyped with this mutation set from Mink Cluster 5 lineage,
@@ -395,44 +395,44 @@ H69del;V70del;Y453F
 # showing moderate decrease in infection rate amongst the cells, significantly lower than the 
 # deletion or Y453F alone, or their combination, suggesting a synergistic effect on 
 # poorer human cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 H69del;V70del;Y453F;I692V
 
 # Lentiviral pseudotyped with this mutation set from Mink Cluster 5 lineage,
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing no change in infection rate amongst the cells, markedly higher infectivity than 
 # either mutation alone, suggesting a synergistic net neutral effect on human cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 H69del;V70del;Y453F;M1229I
 
 # Lentiviral pseudotyped with this mutation set from Mink Cluster 5 lineage,
 # was tested on ACE2.293T cells. Luciferase activity was measured two days postinfection, 
 # showing mild to modest decrease in infection rate amongst the cells, suggesting a net mild 
 # negative effect on human cell entry fitness.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 H69del;V70del;Y453F;S1147L
 
 # Decreased stability of RBD expression in yeast, suggesting decreased Spike protein stability.
-# Motozono et al. (2021) http://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 N501Y
 
 # Increased stability of RBD expression in yeast, suggesting increased Spike protein stability.
-# Motozono et al. (2021) http://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)] [Preprint (BioRxiv)]
 L452R
 
 # VSV pseudotype B.1.1.7 showed no significant difference in cell entry relative to wild type in 6 cell lines.
 # Cell fusion proficiency was unchanged.
-# Hoffman et al. (2021) http://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
+# Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # VSV pseudotype B.1.351 showed slight decrease in cell entry relative to wild type in 263T-ACE2 (kidney) cell line, and slight increase in Calu-3 (lung).
 # Cell fusion proficiency was slight impaired.
-# Hoffman et al. (2021) http://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
+# Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # VSV pseudotype P.1 showed slight decrease in cell entry relative to wild type in 262T and 263T-ACE2 (kidney) cell lines.
 # Cell fusion proficiency was slight impaired.
-# Hoffman et al. (2021) http://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
+# Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
 # This mutation in the first base of the furin clevage site maintains the RXXR recognition motif, and is presumed to enhance
@@ -443,7 +443,7 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 # While the introduction of P681H in the SARS-CoV-2 B.1.1.7 variant may increase spike cleavage by furin-like proteases, 
 # this does not significantly impact viral entry or cell-cell spread. We consider that other factors are at play to account 
 # for the increased in transmission and disease severity attributed to this variant of concern (VOC).
-# Lubinski et al. (2021) http://doi.org/10.1101/2021.04.06.438731 [Preprint (BioRxiv)]
+# Lubinski et al. (2021) https://doi.org/10.1101/2021.04.06.438731 [Preprint (BioRxiv)]
 P681H
 
 # This mutation in the first base of the furin clevage site maintains the RXXR recognition motif, and is presumed to enhance
@@ -455,83 +455,83 @@ P681R
 
 # We observed increased entry by pseudoviruses carrying the L452R mutation compared to D614G alone, 
 # with a 6.7 to 22.5-fold increase in 293T cells and a 5.8 to 14.7-fold increase in human airway organoids.
-# Deng et al. (2021) http://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]
+# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]
 L452R
 
 # Pseudoviruses carrying the W152C mutation demonstrated small increases in cell entry compared to 
 # D614G alone in 293T cells and human airway organoids.
-# Deng et al. (2021) http://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]
+# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]
 W152C
 
 # The entry efficiencies of Spike pseudotyped viruses bearing N501Y Variant 1 (B.1.1.7) mutant were
 # about 3 to 4.4 times higher than that of the WT pseudovirus when viral input
 # was normalized, suggesting that these spike variants promote the infectivity of
 # SARS-CoV-2.
-# Hu et al. (2021) http://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv)]
+# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv)]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # The entry efficiencies of Spike pseudotyped viruses bearing N501Y Variant 2 (B.1.351) mutant were
 # about 3 to 4.4 times higher than that of the WT pseudovirus when viral input
 # was normalized, suggesting that these spike variants promote the infectivity of
 # SARS-CoV-2.
-# Hu et al. (2021) http://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv)]
+# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv)]
 K417N;E484K;N501Y;D614G
 
 # Mutation at the S2 internal fusion peptide site shown in vitro to reduce Spike subunit S2 cleavage into active S2'.
-# Barrett et al. (2021) http://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
+# Barrett et al. (2021) https://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
 R815A
 
 # Mutation combination at the S2 internal fusion peptide site shown in vitro to reduce Spike subunit S2 cleavage into active S2'.
-# Barrett et al. (2021) http://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
+# Barrett et al. (2021) https://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
 K814A,R815A
 
 # Mutation at the S1/S2 boundary site shown in vitro to reduce Spike cleavage (required for cell fusion and entry).
-# Barrett et al. (2021) http://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
+# Barrett et al. (2021) https://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
 R685A
 
 # Circulating variant shown in vitro to not have major defects or
 # enhancement of cell surface protein trafficking (i.e. Spike cleavage or fusion required for cell entry)
-# Barrett et al. (2021) http://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
+# Barrett et al. (2021) https://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
 A831V
 
 # Circulating variant shown in vitro to not have major defects or
 # enhancement of cell surface protein trafficking (i.e. Spike cleavage or fusion required for cell entry)
-# Barrett et al. (2021) http://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
+# Barrett et al. (2021) https://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
 # We report here pseudoviruses carrying SG614 enter ACE2-expressing cells more efficiently than wild type (~9-fold). 
 # This increased entry correlates with less S1-domain shedding and higher S-protein incorporation into the virion. 
 # D614G does not alter S-protein binding to ACE2 or neutralization sensitivity of pseudoviruses. Thus, D614G may 
 # increase infectivity by assembling more functional S protein into the virion.
-# Zhang et l. (2020) http://doi.org/10.1038/s41467-020-19808-4 [Journal publication]
+# Zhang et l. (2020) https://doi.org/10.1038/s41467-020-19808-4 [Journal publication]
 # Among S variants tested, the D614G mutant shows the highest cell entry (~3.5x wild type), as supported by 
 # structural and binding analyses. 
-# Ozono et al. (2020) http://doi.org/10.1038/s41467-021-21118-2 [Journal publication]
+# Ozono et al. (2020) https://doi.org/10.1038/s41467-021-21118-2 [Journal publication]
 # The increased transduction with Spike D614G ranged from 1.3- to 2.4-fold in Caco-2 and Calu-3 cells expressing 
 # endogenous ACE2 and from 1.5- to 7.7-fold in A549ACE2 and Huh7.5ACE2 overexpressing ACE2. 
 # Although there is minimal difference in ACE2 receptor binding between the D614 and G614 Spike variants, 
 # the G614 variant is more resistant to proteolytic cleavage, suggesting a possible mechanism for the increased transduction.
-# Daniloski et al. (2021) http://doi.org/10.7554/eLife.65365 [Journal publication]
+# Daniloski et al. (2021) https://doi.org/10.7554/eLife.65365 [Journal publication]
 D614G
 
 # Circulating variant near the internal fusion peptide shown in vitro to
 # reduce Spike subunit fusion required for cell entry.
-# Barrett et al. (2021) http://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
+# Barrett et al. (2021) https://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
 D839Y
 
 # Circulating variant near the internal fusion peptide shown in vitro to
 # reduce Spike subunit fusion required for cell entry.
-# Barrett et al. (2021) http://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
+# Barrett et al. (2021) https://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
 D839N
 
 # Circulating variant shown in vitro to not have major defects or
 # enhancement of cell surface protein trafficking (i.e. Spike cleavage or fusion required for cell entry)
-# Barrett et al. (2021) http://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
+# Barrett et al. (2021) https://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
 D839E
 
 # Circulating variant shown in vitro to not have major defects or
 # enhancement of cell surface protein trafficking (i.e. Spike cleavage or fusion required for cell entry)
-# Barrett et al. (2021) http://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
+# Barrett et al. (2021) https://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
 S943P
 
 # Circulating variant in the cytoplasmic tail, shown in vitro to increase Spike subunit fusion required for cell entry
-# Barrett et al. (2021) http://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
+# Barrett et al. (2021) https://doi.org/10.1101/2021.01.24.428007 [Preprint (BioRxiv)]
 P1263L

@@ -1,120 +1,120 @@
 # P8 and p12 had dominant mutations in 3CLpro. Antiviral testing with p13 stock indicated strong resistance toALG-097161and cross-resistance to both nirmatrelvir and 
 # PF-00835231. EC50 increased 63x for ALG-097161. EC50 increased 51x for Nirmatrelvir. EC50 increased 23x for PF-00835231. EC50 increased 2.1x for GS-441524. Tested   
 # using FRET assay.
-# Jochmans et al. (2022) http://doi.org/10.1101/2022.06.07.495116 [Preprint (BioRxiv)]
+# Jochmans et al. (2022) https://doi.org/10.1101/2022.06.07.495116 [Preprint (BioRxiv)]
 L167F
 
 # P8 and p12 had dominant mutations in 3CLpro. Antiviral testing with p13 stock indicated strong resistance toALG-097161and cross-resistance to  both nirmatrelvir and 
 # PF-00835231. EC50 increased 63x for ALG-097161. EC50 increased 51x for Nirmatrelvir. EC50 increased 23x for PF-00835231. EC50 increased 2.1x for GS-441524. Tested   
 # using FRET assay.
-# Jochmans et al. (2022) http://doi.org/10.1101/2022.06.07.495116 [Preprint (BioRxiv)]
+# Jochmans et al. (2022) https://doi.org/10.1101/2022.06.07.495116 [Preprint (BioRxiv)]
 L50F
 
 # P8 and p12 had dominant mutations in 3CLpro. Antiviral testing with p13 stock indicated strong resistance toALG-097161and cross-resistance to  both nirmatrelvir and 
 # PF-00835231. EC50 increased 63x for ALG-097161. EC50 increased 51x for Nirmatrelvir. EC50 increased 23x for PF-00835231. EC50 increased 2.1x for GS-441524. Tested   
 # using FRET assay.
-# Jochmans et al. (2022) http://doi.org/10.1101/2022.06.07.495116 [Preprint (BioRxiv)]
+# Jochmans et al. (2022) https://doi.org/10.1101/2022.06.07.495116 [Preprint (BioRxiv)]
 E166A
 
 # This mutation renders 3CL enzymatically inactive, as determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 H41M
 
 # This mutation renders 3CL enzymatically inactive, as determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 H41T
 
 # This mutation renders 3CL enzymatically inactive, as determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 H41Y
 
 # This mutation renders 3CL enzymatically inactive, as determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 H163W
 
 # This mutation causes a 38.0x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 S144M
 
 # This mutation causes a 19.2x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 S144F
 
 # This mutation causes a 20.5x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 S144A
 
 # This mutation causes a 20.4x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 S144G
 
 # This mutation causes a 21.3x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 S144Y
 
 # This mutation causes a 29.9x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 M165T
 
 # This mutation causes a 11.7x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 E166Q
 
 # This mutation causes a 42.4x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 H172Q
 
 # This mutation causes a 42.5x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 H172F
 
 # This mutation causes a 32.9x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 Q192T
 
 # This mutation causes a 46.7x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 Q192S
 
 # This mutation causes a 22.2x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki.  Enzymatic activity 
 # remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 Q192V
 
 # This mutation combination causes a 281.1x increase in resistance to Nirmatrelvir, the protease inhibitor component of paxlovid, as measured by Ki. 
 # Enzymatic activity remains comparable to wild-type (kcat/Km <10-fold change).  Both constants were determined by FRET assay, and resistance was confirmed 
 # by thermal shift binding assay.
-# Hu et al. (2022) http://doi.org/10.1101/2022.06.28.497978 [Journal publication]
+# Hu et al. (2022) https://doi.org/10.1101/2022.06.28.497978 [Journal publication]
 H172Y;Q189E
 
 # In a escape mutation generation experiment using protease inhibitor boceprevir, all four independent experiments
 # revealed this mutation combination. Two of the samples had up to 4.7x resistance to boceprevir as measured by EC50 in Vero E6 cells.
 # This resistence was NOT recapitulated in a subsequent confirmatory bacterial artificial chromosome (BAC) clone experiment.
-# Zhou et al. (2022) http://doi.org/10.1101/2022.06.06.494921 [Preprint (BioRxiv)]
+# Zhou et al. (2022) https://doi.org/10.1101/2022.06.06.494921 [Preprint (BioRxiv)]
 # In a escape mutation generation experiment using protease inhibitor nirmatrelvir, samples previously escaping boceprevir with this 
 # mutation combination had up to 6.8x resistance to nirmatrelvir as measured by EC50 in Vero E6 cells.
 # This resistence was NOT recapitulated in a subsequent confirmatory bacterial artificial chromosome (BAC) clone experiment.
 # Remdesivir effectiveness was not significantly affected by this mutation combination, suggesting that ciombined treatment would be
 # less likely to induce resistance.
-# Zhou et al. (2022) http://doi.org/10.1101/2022.06.06.494921 [Preprint (BioRxiv)]
+# Zhou et al. (2022) https://doi.org/10.1101/2022.06.06.494921 [Preprint (BioRxiv)]
 L50F;A173V
 
 # In a escape mutation generation experiment using protease inhibitor nirmatrelvir, one of two independent experiments
 # generated this mutation combination. It provides 5.9x resistance to nirmatrelvir as measured by EC50 in Vero E6 cells.
 # Remdesivir effectiveness was not significantly affected by this mutation combination, suggesting that ciombined treatment would be
 # less likely to induce resistance.
-# Zhou et al. (2022) http://doi.org/10.1101/2022.06.06.494921 [Preprint (BioRxiv)]
+# Zhou et al. (2022) https://doi.org/10.1101/2022.06.06.494921 [Preprint (BioRxiv)]
 T21I;T304I
 
 # In a escape mutation generation experiment using protease inhibitor nirmatrelvir, one of two independent experiments
@@ -123,11 +123,11 @@ T21I;T304I
 # chromosome (BAC) clone, which displayed ~80x resistance.
 # Remdesivir effectiveness was not significantly affected by this mutation combination, suggesting that ciombined treatment would be
 # less likely to induce resistance.
-# Zhou et al. (2022) http://doi.org/10.1101/2022.06.06.494921 [Preprint (BioRxiv)]
+# Zhou et al. (2022) https://doi.org/10.1101/2022.06.06.494921 [Preprint (BioRxiv)]
 L50F;E166V 
 
 # [Data suggests that observed A173V and E166V mutations have a fitness cost, and that L50F is compensatory.]
-# Zhou et al. (2022) http://doi.org/10.1101/2022.06.06.494921 [Preprint (BioRxiv)]
+# Zhou et al. (2022) https://doi.org/10.1101/2022.06.06.494921 [Preprint (BioRxiv)]
 L50F
 
 # This mutation (found in the lambda VOC) causes a 4.4x drop in the binding of Nirmatrelvir, the protease inhibitor component of paxlovid. However, this did not impact the susceptability to Nirmatrelvir.
