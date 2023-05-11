@@ -1,21 +1,21 @@
 # paired testing of vaccine sera against ancestral virus compared to Omicron BA.1 shows that 3-dose vaccine regimen provides over 50x fold increase in protection against Omicron(B.1.1.529 [BA.1]) compared to a 2-dose regimen. 
-# Hao et al. (2022) https://outbreak.info/resources/2022.08.12.22278720
+# Hao et al. (2022) https://doi.org/10.1101/2022.08.12.22278720
 A67V;D614G;D796Y;E484A;G142D;G339D;G446S;G496S;H69del;H655Y;ins214EPE;K417N;L212I;N211del;N440K;N501Y;N679K;N764K;N856K;N969K;P681H;Q493R;Q498R;Q954H;S371L;S373P;S375F;S477N;T95I;T478K;T547K;V70del;V143del;Y144del;Y145del;Y505H
 
 # Plasma neutralizing activity was also assessed against SARS-CoV-2 Delta, Omicron BA.1, BA.2 and BA.4/5 variants using viruses pseudotyped with appropriate 
 # variant spikeproteins. Delta breakthrough infection resulted in 15-fold increased neutralizing titers.
-# Wang et al. (2022) https://outbreak.info/resources/2022.08.11.503601
+# Wang et al. (2022) https://doi.org/10.1101/2022.08.11.503601
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950
 
 # Omicron breakthrough infection after 3-dose vaccination resulted in a further 3.5-fold and 2.9-fold increase of Omicron BA.1 and BA.2 neutralizing titers. Omicron 
 # BA.4/5 showed the highest neutralization resistance of all variants tested, resulting in low geometric mean neutralizing titers in plasma samples  obtained after 
 # the second vaccine dose (NT50=72).
-# Wang et al. (2022) https://outbreak.info/resources/2022.08.11.503601
+# Wang et al. (2022) https://doi.org/10.1101/2022.08.11.503601
 A67V;H69del;V70del;T95I;G142D;V143del;Y144del;Y145del;G142D;G339D;S375F;K417N;N440K;S477N;T478K;E484A;Q493R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F
 
 # Plasma neutralizing activity in 49 participants was measured using HIV-1 pseudotyped with the 100 WT SARS-CoV-2 spike protein. Delta breakthrough infection 
 # resulted in 11-fold increased geometric mean half-maximal neutralizing titer (NT50).
-# Wang et al. (2022) https://outbreak.info/resources/2022.08.11.503601
+# Wang et al. (2022) https://doi.org/10.1101/2022.08.11.503601
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950
 
 # Log10ID50 of Beta neutralizing antibodies is 0.803x the WT pre-third dose of pfizer-BioNTech BNT162b2 in 13 Kidney transplant recipients (KTR) with median age of 
@@ -407,7 +407,7 @@ E484K
 # COVID-19 (96.7–97.2%), 97.2% against COVID-19-related hospitalisation (96.8–97.5%), 
 # 97.5% against severe or critical COVID-19-related hospitalisation (97.1–97.8%), and 96.7% against COVID-19-related death (96.0–97.3%). 
 # In all age groups, as vaccine coverage increased, the incidence of SARS-CoV-2 outcomes declined
-# Haas et al. (2021) https://dx.doi.org/10.1016%2FS0140-6736(21)00947-8
+# Haas et al. (2021) https://doi.org/10.1016/S0140-6736(21)00947-8
 # 2.1x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
 # at a dose of 100 µg (18-55 years; day 1 (n=15) and day 14 (n-14) post-2nd dose) against a B.1.1.7 variant (USA/CA_CDC_5574/2020 
 # [USA/CA-SEARCH-5574/2020?]) relative to
@@ -423,7 +423,7 @@ E484K
 # and 85% (74-96) 7 days after two doses in the study population. Our findings show that the BNT162b2 vaccine can prevent both symptomatic
 # and asymptomatic infection in working-age adults. This cohort (8203 treatment, 15121 control) was vaccinated when the 
 # dominant variant in circulation was B.1.1.7 and shows effectiveness against this variant.
-# Hall et al. (2021) https://doi.org/10.1016/s0140-6736(21)00790-x
+# Hall et al. (2021) https://doi.org/10.1016/S0140-6736(21)00790-X
 # B.1.1.7 pseudotyped VSV was tested for neutralization in a clonal HEK-293T ACE2 TMPRSS2 cell line optimized for highly efficient 
 # S-mediated infection. A cohort of 12 Argentinian recipients of the Gamaleya Sputnik V Ad26 / Ad5 vaccine showed no statistically sognificant change
 # in neutralization effiacacy.
@@ -452,14 +452,14 @@ E484K
 # A single dose of BNT162b2 vaccine demonstrated vaccine effectiveness [symptomatic or asymptomatic in cohort opf routinely NAAT-monitored UK HCWs] 
 # of 72% (95% CI 58-86) 21 days after first dose and 86% (95% CI 76-97) seven days after two doses in the antibody negative cohort. 
 # This cohort was vaccinated when the dominant variant in circulation was B.1.1.7 and demonstrates effectiveness against this variant.
-# Hall et al. (2021) https://dx.doi.org/10.1016%2FS0140-6736(21)00448-7
+# Hall et al. (2021) https://doi.org/10.1016/S0140-6736(21)00448-7
 # Between December 19, 2020 and Jan 24, 2021, 7214 of 9109 eligible HCWs at Sheba Medical Center in Israel had received one or more doses of 
 # BNT162b2 (Pfizer) vaccine. Adjusted rate reduction in SARS-CoV-2 NAAT positivity infection compared with unvaccinated workers 1-14 days 
 # after 1st dose was 30% (95% CI: 2-50), and 75% (95% CI: 72-84) after 15-28 days. Adjusted rate reduction in symptomatic COVID-19 compared with 
 # unvaccinated workers 1-14 days after 1st dose was 47% (95% CI: 17-66), and 85% (95% CI: 71-92) after 15-28 days. [Though often cited
 # as an indicator of VE for B.1.1.7, during this time period in Israel, the prevalence of the B.1.1.7 variant increased from ~20% to 50% of 
 # cases (covariants.org), therefore these VE numbers likely represent a mix of B.1.1.7 and other lineage effects.]
-# Amit et al. (2021) https://dx.doi.org/10.1016%2FS0140-6736(21)00448-7
+# Amit et al. (2021) https://doi.org/10.1016/S0140-6736(21)00448-7
 # We found that a single dose of the BNT162b2 vaccine is about 60-70% effective at preventing symptomatic disease in adults aged 70 years 
 # and older in England and that two doses are about 85-90% effective. Those who were vaccinated and went on to have symptoms had a 44% 
 # lower risk of being admitted hospital and a 51% lower risk of death compared with people who were unvaccinated. We also found that a single dose 
@@ -642,7 +642,7 @@ R21T;E154K;Q218H;L452R;E484Q;D614G;P681R;H1101D
 # (95% CI [26.1-71.9]). Two weeks or more after 2nd dose, effectiveness climbed to 89.5% [85.9,92.3] against infection, and 100% against 
 # severe/critical/fatal disease (95% CI [81.7,100]).
 # All vaccinees were on a strict 3 week interval for second dose (https://twitter.com/supermarioelia/status/1390362358971781122), therefore 1st dose efficacy is likely underestimated.
-# Abu-Raddad et al. (2021) https://www.nejm.org/doi/full/10.1056/NEJMc2104974
+# Abu-Raddad et al. (2021) https://doi.org/10.1056/NEJMc2104974
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;D1118H
 
 # In Qatar, where Pfizer vaccine use is prevalent (<10% of the population covered in the time period of the study ending Mar 31, 2021), any time after one dose 
@@ -651,7 +651,7 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;D1118H
 # (95% CI [0-19.0]). Two weeks or more after 2nd dose, effectiveness climbed to 75.0% [70.5,78.9] against infection, and 100% against 
 # severe/critical/fatal disease (95% CI [73.7,100]).
 # All vaccinees were on a strict 3 week interval for second dose (https://twitter.com/supermarioelia/status/1390362358971781122), therefore 1st dose efficacy is likely underestimated.
-# Abu-Raddad et al. (2021) https://www.nejm.org/doi/full/10.1056/NEJMc2104974
+# Abu-Raddad et al. (2021) https://doi.org/10.1056/NEJMc2104974
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # This variant was designated A.27.RN according to its phylogenetic clade classification. It emerged in parallel 

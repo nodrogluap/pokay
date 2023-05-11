@@ -1,5 +1,5 @@
 # Moore et al., 2020 Amplicon-Based Detection and Sequencing of SARS-CoV-2 in Nasopharyngeal Swabs from Patients With COVID-19 and Identification of Deletions in the Viral Genome That Encode Proteins Involved in Interferon Antagonism
-# https://www.mdpi.com/1999-4915/12/10/1164
+# https://doi.org/10.3390/v12101164
 # Table 2. Analysis of deletions in the SARS-CoV-2 genome in patients with COVID-19. The columns from left to right are as follows: sample barcode, deletion start position (bp), deletion end position (bp), number of reads supporting this deletion, quality score (similar to number of reads supporting, but also takes into account read mapping quality scores with a score greater than 10 having higher confidence), standard deviation (SD) of deletion span (bp) from supporting reads, SD of deletion position (bp) from supporting reads. If the deletion interrupts a gene, these are the coordinates of the gene, the gene name, and the bp overlap with the deletion. In cases where the deletion overlaps >1 gene, the information of the second gene is provided.
 Deletion Information	Affected Gene Information
 Patient Number	Start (bp)	End (bp)	Supporting Reads	Quality Score	SD Span	SD Pos	Gene Start	Gene End	Gene Name	Overlap (bp)	Gene2 Start	Gene2 End	Gene2 Name	Overlap2 (bp)
