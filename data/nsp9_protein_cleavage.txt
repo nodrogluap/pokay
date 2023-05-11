@@ -1,15 +1,15 @@
 # Increased Mpro (SARS-CoV-2 CL3/nsp5) cleavage of ORF1a at site for mature NSP9 protein formation by 2.9x.
-# MacDonald et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.20.440716v1
+# MacDonald et al. (2021) http://doi.org/10.1101/2021.04.20.440716 [Preprint (BioRxiv)]
 N1A
 
 # Increased Mpro (SARS-CoV-2 CL3/nsp5) cleavage of ORF1a at site for mature NSP9 protein formation by 2.1x.
-# MacDonald et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.20.440716v1
+# MacDonald et al. (2021) http://doi.org/10.1101/2021.04.20.440716 [Preprint (BioRxiv)]
 N2A
 
 # Abolishes Mpro (SARS-CoV-2 CL3/nsp5) cleavage of ORF1a at site for mature NSP9 protein formation. 
-# MacDonald et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.20.440716v1
+# MacDonald et al. (2021) http://doi.org/10.1101/2021.04.20.440716 [Preprint (BioRxiv)]
 N1D
 
 # Reduces efficiency of Mpro (SARS-CoV-2 CL3/nsp5) cleavage of ORF1a at site for mature NSP9 protein formation to 40%.
-# MacDonald et al. (2021) https://www.biorxiv.org/content/10.1101/2021.04.20.440716v1
+# MacDonald et al. (2021) http://doi.org/10.1101/2021.04.20.440716 [Preprint (BioRxiv)]
 N2D

@@ -1,9 +1,9 @@
 # This mutation presents mainly within the B.1 (44.0%) and B.1.525 (38.1%) lineages. 
 # Currently, 99.7% of the B.1.525 lineage isolates carry the M:I82T mutation. While this mutation is scattered across multiple 
 # phylogenetic clades, most cases cluster in two recent clades, suggesting a likely selective advantage in certain haplotype backgrounds.
-# Shen et al. (2021) https://doi.org/10.1080/22221751.2021.1922097
+# Shen et al. (2021) http://doi.org/10.1080/22221751.2021.1922097 [Journal publication]
 I82T
 
 # In experimental models of SARA_CoV-2 mutational evolution (without immune pressure), this mutation appears convergent. 
-# Borges et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.19.444774v1
+# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv)]
 H125Y

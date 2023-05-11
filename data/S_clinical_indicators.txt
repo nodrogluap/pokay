@@ -2,5 +2,5 @@
 # C-reactive protein (P = 0.045, Odds ratio [OR] 2.791, CI [1.025, 0.8610]), 
 # Serum amyloid A (0.011, 5.031, [1.459, 17.354]), Creatine Kinase (0.034, 4.34, [0.05, 0.91]), 
 # CD4+ T lymphocyte (0.029, 3.31, [1.13, 9.71]), and Ground Glass Opacity (0.005, 5.418, [1.656, 17.729])
-# Song et al. (2021) https://www.medrxiv.org/content/10.1101/2021.05.04.21256655v1
+# Song et al. (2021) http://doi.org/10.1101/2021.05.04.21256655 [Preprint (MedRxiv)]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H

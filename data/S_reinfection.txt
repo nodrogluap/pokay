@@ -3,23 +3,23 @@
 # in the initial part of South Africa's 4th covid-19 wave (November 2021). 
 # In contrast, there is no population-wide epidemiological evidence of immune escape associated with the Beta or Delta variants.
 # [minimal variant signature for Omicron (B.1.1.529) used based on H69del PCR dropout observed in November 2021 coincident with the rise of Omicron]
-# Pulliam et al. (2021) https://www.medrxiv.org/content/10.1101/2021.11.11.21266068v2
+# Pulliam et al. (2021) http://doi.org/10.1101/2021.11.11.21266068 [Preprint (MedRxiv)]
 H69del;E484A
 
 # Three healthcare workers (29-50yo) had confirmed P.1 [Gamma] re-infection in the Amazonas region of Brazil 3-9 months after initial 
 # infection from viruses with distinct lineage from P.1, but mild symptoms upon re-infection and evidence for infectiousness during re-infection.
-# Naveca et al. (2021) https://www.researchsquare.com/article/rs-318392/v1
+# Naveca et al. (2021) http://doi.org/10.21203/rs.3.rs-318392/v1 [Preprint (other)]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
 
 # 11 cases of re-infection with the "Marseille-4" variant found within 1028 positive tests, where all of the earlier infections were from different strains.
 # This lineage is also characterized by N:p.M234I;A376T
-# Fournier et al. (2021) https://doi.org/10.1016/j.ijid.2021.03.068
+# Fournier et al. (2021) http://doi.org/10.1016/j.ijid.2021.03.068 [Journal publication]
 S477N;D614G
 
 # A 47yo Indian male was reinfected with B.1.36 lineage virus in September 2020 after infection with genetically distinct B.1.36 virus in 
 # July, with negative PCR tests in between. While the forst episode was asymptomatic, the second included fever, cough, and malaise. 
 # The second case additionally contained stopgain ORF3a:E261*
-# Rani et al. (2021) https://doi.org/10.1002/jmv.26997
+# Rani et al. (2021) http://doi.org/10.1002/jmv.26997 [Journal publication]
 N440K;D614G
 
 # A 42yo Iranian male was reinfected with B.1.36 lineage virus 128 days after infection with genetically distinct B.1.36 virus, with negative PCR tests in between.
@@ -27,7 +27,7 @@ N440K;D614G
 # body pain, shortness of breath, headache and anosmia. Anti-SARS-CoV-2 IgG and IgM tests were negative after both episodes. [Non-seroconversion
 # may be associated with elevated risk of re-infection]
 # [I210del is a homoplasy that has appeared in several disparate parts of the global phylogenetic tree, including A and B lineages, primarily in LMICs]
-# Salehi-Vaziri et al. (2021) https://doi.org/10.1016/j.virusres.2021.198421
+# Salehi-Vaziri et al. (2021) http://doi.org/10.1016/j.virusres.2021.198421 [Journal publication]
 I210del;D614G
 
 # 36920 COVID Symptom Study app users reported SARS-CoV-2 test positivity in late 2020. Possible reinfections were 
@@ -38,33 +38,33 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 27yo female nurse reinfected in December 2020 (B.1.177) after initial infection in March 2020 (B.3). Both cases were mild.
 # Second case also includes N:p.A220V
-# Brehm et al. (2021) https://dx.doi.org/10.3390%2Fv13040661
+# Brehm et al. (2021) http://doi.org/10.3390/v13040661 [Journal publication]
 A222V;D614G
 
 # After a 128 day interval, a patient in Sao Paulo State, Brazil reinfected with P.1 (first episode likely predates P.1 emergence).
 # Both cases were fairly mild (difficulty breathing, tiredness, dizziness and fatigue).
-# Malta Romano et al. (2021) https://doi.org/10.1590/s1678-9946202163036
+# Malta Romano et al. (2021) http://doi.org/10.1590/S1678-9946202163036 [Journal publication]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
 
 # Hamsters re-infected with B.1.351 virus after seroversion from previous infection with a lineage A virus did not transmit 
 # virus to naive sentinels via direct contact transmission, in contrast to the non-seroconverted animals. They had little 
 # infectious virus and no pathology in the lungs.
 # Initial infection with SARS-CoV-2 lineage A does not prevent heterologous reinfection with B.1.351, but prevents disease and onward transmission.  
-# Yinda et al. (2021) https://www.biorxiv.org/content/10.1101/2021.05.05.442780v1
+# Yinda et al. (2021) http://doi.org/10.1101/2021.05.05.442780 [Preprint (BioRxiv)]
 # 4 health care workers in the 20's and 30's with no underlying conditions and seropositivity or confirmed 2020 SARS-CoV-2 infections were
 # confirmed to have B.1.351 infection during a Februrary 2021 hospital outbreak in Luxembourg. Symptoms were mostly mild on first infection, and
 # milder on second infection.
-# Staub et al. (2021) https://doi.org/10.2807/1560-7917.es.2021.26.18.2100423
+# Staub et al. (2021) http://doi.org/10.2807/1560-7917.ES.2021.26.18.2100423 [Journal publication]
 D80A;D215G;K417N;A701V;N501Y;E484K
 
 # Reinfection with Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) B.1.1.7 variant in an immunocompromised 16yo female with end stage renal disease
 # 94 days after initial infection with a B.1.2 lineage virus. Both lineages were the prevalent one at the time of 1st and 2nd infections respectively in Texas,
 # where the patient was located (suggesting exposure risk rather than lineage immune evasion).
-# Marquez et al. (2021) https://doi.org/10.1017/ice.2021.195
+# Marquez et al. (2021) http://doi.org/10.1017/ice.2021.195 [Journal publication]
 # Second infection in December 2020 with B.1.1.7 after April 2020 initial infection with B.2 in a 78-year-old man with a history of Type 2 diabetes mellitus, 
 # diabetic nephropathy on hemodialysis, chronic obstructive pulmonary disease (COPD), mixed central 
 # and obstructive sleep apnea, ischemic heart disease, with no history of immunosuppression. 
-# Harrington et al. (2021) https://doi.org/10.1093/cid/ciab014 
+# Harrington et al. (2021) http://doi.org/10.1093/cid/ciab014 [Journal publication] 
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Partial sequencing of S gene reveals two cases of probable early 2021 B.1.1.7 lineage reinfection from non-B.1.1.7 original cases
@@ -72,5 +72,5 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # Patients were 56 and 58yo, immunocompenent, with one a former smoker with obesity and dyslipidemia. One case required intubation during first infection, 
 # but presented with mild symptoms upon reinfection. The other case convalesced at home during the first episode, but required CPAP support 
 # in the subacute clinical unit upon reinfection.
-# Novazzi et al. (2021) https://doi.org/10.1002/jmv.27066
+# Novazzi et al. (2021) http://doi.org/10.1002/jmv.27066 [Journal publication]
 N501Y;A570D

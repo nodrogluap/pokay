@@ -1,3 +1,3 @@
 # 12nt deletion detected after passage with neutralizing plaques
-# Sun et al. (2020) https://doi.org/10.1080/22221751.2020.1837017
+# Sun et al. (2020) http://doi.org/10.1080/22221751.2020.1837017 [Journal publication]
 F26del,L27del,L28del,V29del

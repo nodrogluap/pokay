@@ -1,5 +1,5 @@
 # Emergent as 100% variant by day 70 post-infection of female immunocompromised 
 # individual with chronic lymphocytic leukemia and acquired hypogammaglobulinemia. 
 # Variant disappeared after convalescent plasma treatment (day 71) in subsequent patient sample sequencing.
-# Avanzato et al. (2020) https://doi.org/10.1016%2Fj.cell.2020.10.049
+# Avanzato et al. (2020) http://doi.org/10.1016/j.cell.2020.10.049 [Journal publication]
 K2N

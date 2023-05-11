@@ -1,14 +1,14 @@
 # A noncanonical subgenomic RNA which could represent ORF9b is significantly enriched (~16x) in B.1.1.7 SARS-CoV-2 infections, 
 # potentially as a result of a triple nucleotide mutation leading to amino acid substitution D3L 
 # in nucleocapsid in this lineage which increases complementarity with the genomic leader sequence. 
-# Parker et al. (2021) https://www.biorxiv.org/content/10.1101/2021.03.02.433156v1
+# Parker et al. (2021) http://doi.org/10.1101/2021.03.02.433156 [Preprint (BioRxiv)]
 D3L
 
 # This variant, likely arisen by homologous recombination from the core sequence (CS) of the leader transcription-regulating
 # sequence (TRS), generate a novel sub-genomic RNA transcript for the C-terminal dimerization domain. It may also have increased
 # expression of sub-genomic RNA from other open reading frames, based on public data analysis.
-# Leary et al. (2021) https://www.biorxiv.org/content/10.1101/2020.04.10.029454v2
+# Leary et al. (2021) http://doi.org/10.1101/2020.04.10.029454 [Preprint (BioRxiv)]
 # This variant shows a significant increase in viral load compared to wild type, but not relative to D614G viruses without the variant
 # in circulating viruses in the Spring of 2020 in Saudia Arabia.
-# Mourier et al. (2021) https://www.medrxiv.org/content/10.1101/2021.05.06.21256706v1
+# Mourier et al. (2021) http://doi.org/10.1101/2021.05.06.21256706 [Preprint (MedRxiv)]
 R203K;G204R

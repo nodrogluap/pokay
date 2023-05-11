@@ -2,5 +2,5 @@
 # PG: Effect is synonymous (S369=), with the reference contig containing the optimal human codon (UCC) vs this variant (UCU).
 # PG: Has not lead to major lineage expansions, nor is it critical to a well defined RNA secondary structure. 
 # PG: Presumably the homoplasy is due to propensity of this site to deamination rather than a fitness advantage.
-# Van Dorp et al. (2020) https://doi.org/10.1016/j.meegid.2020.104351
+# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351 [Journal publication]
 g.C1912U
