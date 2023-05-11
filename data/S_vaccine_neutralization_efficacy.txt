@@ -684,7 +684,7 @@ E484K;F565L;D614G;V1176F
 # infection showed reduced immunity against variants. B.1.351 spike mutations 
 # resulted in increased, abrogated or unchanged T cell responses depending on human leukocyte 
 # antigen (HLA) polymorphisms. Study was 26 each post-infection and post first dose HCWs.
-# Reynolds et al. (2021) https://doi.org/10.1126/science.abh1282 [Journal publication] [Journal publication]
+# Reynolds et al. (2021) https://doi.org/10.1126/science.abh1282 [Journal publication]
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # ELISpot assays show T cell neutralization reduced by 29.8% in this B.1.351 pseudotype relative to wild type in 18-20 pooled patient samples post second mRNA vaccine dose,
@@ -705,7 +705,7 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 # infection showed reduced immunity against variants. B.1.1.7 spike mutations 
 # resulted in increased, abrogated or unchanged T cell responses depending on human leukocyte 
 # antigen (HLA) polymorphisms. Study was 26 each post-infection and post first dose HCWs.
-# Reynolds et al. (2021) https://doi.org/10.1126/science.abh1282 [Journal publication] [Journal publication]
+# Reynolds et al. (2021) https://doi.org/10.1126/science.abh1282 [Journal publication]
 # ELISpot assays show T cell neutralization reduced by 15.4% in this B.1.1.7 pseudotype relative to wild type in 18-20 pooled patient samples post second mRNA vaccine dose,
 # with no significant difference between Pfizer and Moderna cohorts. Reduction was stronger in the S1 subunit than S2 (separate peptide pools were used).
 # Gallagher et al. (2021) https://doi.org/10.1101/2021.05.03.442455 [Preprint (BioRxiv)]

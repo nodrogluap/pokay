@@ -32,26 +32,26 @@ Y453F;H69del;V70del
 L141del,G142del,V143del,Y144del
 
 # Appeared (day 128) and persisted in chronic (152 day) SARS-CoV-2 infection of immunocompromised patient with severe antiphospholipid syndrome
-# Choi et al. (2020) https://doi.org/10.1056/NEJMc2031364 [Journal publication] [Journal publication]
+# Choi et al. (2020) https://doi.org/10.1056/NEJMc2031364 [Journal publication]
 Q183H
 
 # Appeared (day 128) and persisted in chronic (152 day) SARS-CoV-2 infection of immunocompromised patient with severe antiphospholipid syndrome
-# Choi et al. (2020) https://doi.org/10.1056/NEJMc2031364 [Journal publication] [Journal publication]
+# Choi et al. (2020) https://doi.org/10.1056/NEJMc2031364 [Journal publication]
 N501Y
 
 # Combination of RBD mutations appeared (day 75) and persisted in chronic (152 day) SARS-CoV-2 infection of immunocompromised patient with severe antiphospholipid syndrome
 # complicated by diffuse alveolar hemorrhage, who was receiving anticoagulation therapy, glucocorticoids, cyclophosphamide, and intermittent rituximab and eculizumab. 
-# Choi et al. (2020) https://doi.org/10.1056/NEJMc2031364 [Journal publication] [Journal publication]
+# Choi et al. (2020) https://doi.org/10.1056/NEJMc2031364 [Journal publication]
 T478K,S494P
 
 # Appeared (day 75) and persisted in chronic (152 day) SARS-CoV-2 infection of immunocompromised patient with severe antiphospholipid syndrome
 # Appeared at same time as T478K,S494P but listed separately due to distance and different domains affected in the Spike (i.e. putatively an independent
 # mutation from a functional standpoint since the former are from S1, the latter from S2).
-# Choi et al. (2020) https://doi.org/10.1056/NEJMc2031364 [Journal publication] [Journal publication]
+# Choi et al. (2020) https://doi.org/10.1056/NEJMc2031364 [Journal publication]
 I870V
 
 # Intermittent appearance at Day 128 onward of long infection in patient on escalated immunosupressed starting Day 111
-# Choi et al. (2020) https://doi.org/10.1056/NEJMc2031364 [Journal publication] [Journal publication]
+# Choi et al. (2020) https://doi.org/10.1056/NEJMc2031364 [Journal publication]
 Q493K
 
 # Based on structural modelling, this change detected on day 128 sequencing in a chronically infected patient 
