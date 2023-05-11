@@ -452,14 +452,14 @@ E484K
 # A single dose of BNT162b2 vaccine demonstrated vaccine effectiveness [symptomatic or asymptomatic in cohort opf routinely NAAT-monitored UK HCWs] 
 # of 72% (95% CI 58-86) 21 days after first dose and 86% (95% CI 76-97) seven days after two doses in the antibody negative cohort. 
 # This cohort was vaccinated when the dominant variant in circulation was B.1.1.7 and demonstrates effectiveness against this variant.
-# Hall et al. (2021) https://doi.org/10.1016/S0140-6736(21)00448-7 [Journal publication] [Journal publication]
+# Hall et al. (2021) https://doi.org/10.1016/S0140-6736(21)00448-7 [Journal publication]
 # Between December 19, 2020 and Jan 24, 2021, 7214 of 9109 eligible HCWs at Sheba Medical Center in Israel had received one or more doses of 
 # BNT162b2 (Pfizer) vaccine. Adjusted rate reduction in SARS-CoV-2 NAAT positivity infection compared with unvaccinated workers 1-14 days 
 # after 1st dose was 30% (95% CI: 2-50), and 75% (95% CI: 72-84) after 15-28 days. Adjusted rate reduction in symptomatic COVID-19 compared with 
 # unvaccinated workers 1-14 days after 1st dose was 47% (95% CI: 17-66), and 85% (95% CI: 71-92) after 15-28 days. [Though often cited
 # as an indicator of VE for B.1.1.7, during this time period in Israel, the prevalence of the B.1.1.7 variant increased from ~20% to 50% of 
 # cases (covariants.org), therefore these VE numbers likely represent a mix of B.1.1.7 and other lineage effects.]
-# Amit et al. (2021) https://doi.org/10.1016/S0140-6736(21)00448-7 [Journal publication] [Journal publication]
+# Amit et al. (2021) https://doi.org/10.1016/S0140-6736(21)00448-7 [Journal publication]
 # We found that a single dose of the BNT162b2 vaccine is about 60-70% effective at preventing symptomatic disease in adults aged 70 years 
 # and older in England and that two doses are about 85-90% effective. Those who were vaccinated and went on to have symptoms had a 44% 
 # lower risk of being admitted hospital and a 51% lower risk of death compared with people who were unvaccinated. We also found that a single dose 
