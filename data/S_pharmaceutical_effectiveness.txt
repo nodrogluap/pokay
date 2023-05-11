@@ -324,142 +324,142 @@ E484A;N501Y
 
 # Omicron (B.1.1.529 [BA.1]) have higher sensitivity to inhibition by soluble angiotensin converting enzyme 2 (ACE2) and the endosomal inhibitor chloroquine compared 
 # to D614G
-# Neerukonda et al. (2022) http://doi.org/10.1101/2022.06.01.494385 [Preprint (other)]
+# Neerukonda et al. (2022) http://doi.org/10.1101/2022.06.01.494385
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # Omicron BA.2 have higher sensitivity to inhibition by soluble angiotensin converting enzyme 2 (ACE2) and the endosomal inhibitor chloroquine compared 
 # to D614G
-# Neerukonda et al. (2022) http://doi.org/10.1101/2022.06.01.494385 [Preprint (other)]
+# Neerukonda et al. (2022) http://doi.org/10.1101/2022.06.01.494385
 T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R
 
 # Omicron BA.3 have higher sensitivity to inhibition by soluble angiotensin converting enzyme 2 (ACE2) and the endosomal inhibitor chloroquine compared 
 # to D614G
-# Neerukonda et al. (2022) http://doi.org/10.1101/2022.06.01.494385 [Preprint (other)]
+# Neerukonda et al. (2022) http://doi.org/10.1101/2022.06.01.494385
 A67V;H69del;V70del;T95I;G142D;N211del;L212I;S371F;S373P;S375F;D405N;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N969K;S135R;G489S;T327I;T492I;P132H;L105_G107del;P323L;I42V;T223I;T9I;Q19E;A63T;P13L;E31_S33del;R203K;G204R;S413R
 
 # Omicron BA.4 have higher sensitivity to inhibition by soluble angiotensin converting enzyme 2 (ACE2) and the endosomal inhibitor chloroquine compared 
 # to D614G
-# Neerukonda et al. (2022) http://doi.org/10.1101/2022.06.01.494385 [Preprint (other)]
+# Neerukonda et al. (2022) http://doi.org/10.1101/2022.06.01.494385
 E484K;N501Y
 
 # Omicron BA.5 have higher sensitivity to inhibition by soluble angiotensin converting enzyme 2 (ACE2) and the endosomal inhibitor chloroquine compared 
 # to D614G
-# Neerukonda et al. (2022) http://doi.org/10.1101/2022.06.01.494385 [Preprint (other)]
+# Neerukonda et al. (2022) http://doi.org/10.1101/2022.06.01.494385
 E484K;N501Y
 
 # Out of 10 individuals with 2 doses of the BNT162b2/BNT162b2 vaccine, neutralizing titer in Omicron was ~100x folds more significant in 3 individuals.
-# Arora et al. (2022) http://doi.org/10.1038/s41423-022-00870-5 [Journal publication]
+# Arora et al. (2022) http://doi.org/10.1038/s41423-022-00870-5
 E484K;N501Y
 
 # All 10 individuals with 2 doses of the BNT162b2/BNT162b2 vaccine had a neutralizing titer in B.1 variant at an average of 729 NT50.
-# Arora et al. (2022) http://doi.org/10.1038/s41423-022-00870-5 [Journal publication]
+# Arora et al. (2022) http://doi.org/10.1038/s41423-022-00870-5
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # All 10 individuals with 3 doses of the BNT162b2/BNT162b2 vaccine had a neutralizing titer in B.1 variant at an average of 3319 NT50.
-# Arora et al. (2022) http://doi.org/10.1038/s41423-022-00870-5 [Journal publication]
+# Arora et al. (2022) http://doi.org/10.1038/s41423-022-00870-5
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # Out of 10 individuals with 2 doses of the BNT162b2/BNT162b2 vaccine, neutralizing titer in B.1.640.2 variant was ~1000x folds more significant in 8 individuals.
-# Arora et al. (2022) http://doi.org/10.1038/s41423-022-00870-5 [Journal publication]
+# Arora et al. (2022) http://doi.org/10.1038/s41423-022-00870-5
 P9L;E96Q;C136del;N137del;D138del;P139del;F140del;L141del;G142del;V143del;Y144del;R190S;I210T;R346S;N394S;Y449N;F490R;N501Y;D614G;P681H;T859N;D936H;P129L;E272G;L1301F;A1537A;S386F;R401H;T492I;V149A;P323L;T32I;Q57H;I82T;Q27*;D22Y;T205I;E378Q.
 
 # Out of 10 individuals with 3 doses of the BNT162b2/BNT162b2/BNT162b2 vaccine had a neutralizing titer in B.1.640.2 variant was ~5.6x folds more significant in 9 
 # individuals.
-# Arora et al. (2022) http://doi.org/10.1038/s41423-022-00870-5 [Journal publication]
+# Arora et al. (2022) http://doi.org/10.1038/s41423-022-00870-5
 P9L;E96Q;C136del;N137del;D138del;P139del;F140del;L141del;G142del;V143del;Y144del;R190S;I210T;R346S;N394S;Y449N;F490R;N501Y;D614G;P681H;T859N;D936H;P129L;E272G;L1301F;A1537A;S386F;R401H;T492I;V149A;P323L;T32I;Q57H;I82T;Q27*;D22Y;T205I;E378Q.
 
 # Out of 10 individuals with 3 doses of the BNT162b2/BNT162b2/BNT162b2 vaccine, neutralizing titer in Omicron was ~17.5x folds more significant in 9 individuals.
-# Arora et al. (2022) http://doi.org/10.1038/s41423-022-00870-5 [Journal publication]
+# Arora et al. (2022) http://doi.org/10.1038/s41423-022-00870-5
 E484K,N501Y
 
 # 100% of the 5 8‑month‑old male R3P1-E4 antibody treated mice suvived 14 days after infection while only 60% the control group mice survived 5 days post infection. 
-# Li et al. (2022) http://doi.org/10.1186/s13578-022-00794-7 [Journal publication]
+# Li et al. (2022) http://doi.org/10.1186/s13578-022-00794-7
 K417N;Q493H;N501Y
 
 # Lung viral loads were tested by qRT‑PCR and RNA scope at 3 dpi on 5 8‑month‑old male mice and there was a ~2266x fold drop in the R3P1-E4 antibody in comparison to 
 # the IgG control.
-# Li et al. (2022) http://doi.org/10.1186/s13578-022-00794-7 [Journal publication]
+# Li et al. (2022) http://doi.org/10.1186/s13578-022-00794-7
 K417N;Q493H;N501Y
 
 # Trachea viral loads were tested by qRT‑PCR and RNA scope at 3 dpi on 5 8‑month‑old male mice and there was a ~750x fold drop in the R3P1-E4 antibody in comparison to 
 # the IgG control.
-# Li et al. (2022) http://doi.org/10.1186/s13578-022-00794-7 [Journal publication]
+# Li et al. (2022) http://doi.org/10.1186/s13578-022-00794-7
 K417N;Q493H;N501Y
 
 # Infectious viral titers in lung tissue determined using a tissue culture infectious dose (TCID) assay in 10 hamsters showed that Omicron MK-4482 had no statistically 
 # significant change.
-# Rosenke et al. (2022) http://doi.org/10.1172/jci.insight.160108 [Journal publication]
+# Rosenke et al. (2022) http://doi.org/10.1172/jci.insight.160108
 E484K,N501Y
 
 # Infectious viral titers in lung tissue determined using a tissue culture infectious dose (TCID) assay in 10 hamsters showed that Delta MK-4482 had ~4x fold drop.
-# Rosenke et al. (2022) http://doi.org/10.1172/jci.insight.160108 [Journal publication]
+# Rosenke et al. (2022) http://doi.org/10.1172/jci.insight.160108
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # Infectious viral titers in lung tissue determined using a tissue culture infectious dose (TCID) assay in 10 hamsters showed that Beta MK-4482 had ~1.75x fold drop.
-# Rosenke et al. (2022) http://doi.org/10.1172/jci.insight.160108 [Journal publication]
+# Rosenke et al. (2022) http://doi.org/10.1172/jci.insight.160108
 D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Infectious viral titers in lung tissue determined using a tissue culture infectious dose (TCID) assay in 10 hamsters showed that Alpha MK-4482 had ~2.75x fold drop.
-# Rosenke et al. (2022) http://doi.org/10.1172/jci.insight.160108 [Journal publication]
+# Rosenke et al. (2022) http://doi.org/10.1172/jci.insight.160108
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H 
 
 # Omicron (a.k.a. B.1.1.529) Spike pseudotyped VSV and Vero E6 cells has somewhat 
 # reduced neutralization (2.7x) vs wild type with monoclonal antibody Sotrovimab (a.k.a. VIR-7831). 
 # [delins at 214 omitted for syntax compatibility]
-# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9 [Preprint (BioRxiv)]
+# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9
 A67V;H69del;V70del;T95I;G142D;V143del;Y144del;Y145del;G142D;G339D;S375F;K417N;N440K;S477N;T478K;E484A;Q493R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F
 
 # This individual mutation, which has emerged in some Omicron sequences, has a 0.7x reduction in 
 # neutralization activity with Sotrovimab in a VSV model on Vero E6 cells. 
 # [Omicron sequences with R346K may very well have a non-additive neutralization rather than 2.7x+0.7x = 3.4x]
-# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9 [Preprint (BioRxiv)]
+# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9
 R346K
 
 # This individual mutation found in the epitope from Sotrovimab causes a 1.5x reduction in
 # neutralization efficacy using a VSV model on Vero E6 cells.
-# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9 [Preprint (BioRxiv)]
+# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9
 G446V
 
 # This individual mutation found in the epitope from Sotrovimab causes a 1.2x reduction in
 # neutralization efficacy using a VSV model on Vero E6 cells.
-# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9 [Preprint (BioRxiv)]
+# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9
 G339D
 
 # This individual mutation found in the epitope from Sotrovimab causes a 0.7x reduction in
 # neutralization efficacy using a VSV model on Vero E6 cells.
-# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9 [Preprint (BioRxiv)]
+# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9
 N440K
 
 # This individual mutation found in the epitope from Sotrovimab causes a 2.0x reduction in
 # neutralization efficacy using a VSV model on Vero E6 cells.
-# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9 [Preprint (BioRxiv)]
+# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9
 S477N
 
 # This individual mutation found in the epitope from Sotrovimab causes a 1.0x reduction in
 # neutralization efficacy using a VSV model on Vero E6 cells.
-# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9 [Preprint (BioRxiv)]
+# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9
 D614G
 
 # This individual mutation found in the epitope from Sotrovimab causes a 0.9x reduction in
 # neutralization efficacy using a VSV model on Vero E6 cells.
-# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9 [Preprint (BioRxiv)]
+# Cathcart et al. (2021) http://doi.org/10.1101/2021.03.09.434607v9
 P681H
 
 # Greater than 10-fold rediuction of binding effeiency vs wild type for mAb LY-CoV555.
-# Rappazzo et al. (2021) http://doi.org/10.1126/science.abf4830 [Journal publication]
+# Rappazzo et al. (2021) http://doi.org/10.1126/science.abf4830
 F490S
 
 # This Spike pseudotype for Day 146 virus from a chronically infected patient was completely resistent to REGN10933.
 # The variant had a 4-fold decrease in REGN10987 neutralization sensitivity (2nd component of the Regeneron mAb cocktail).
-# Clark et al. (2021) http://doi.org/10.1016/j.cell.2021.03.027 [Journal publication]
+# Clark et al. (2021) http://doi.org/10.1016/j.cell.2021.03.027
 N440D;Y489H;Q493K;N501Y
 
 # Leads to a 14-fold reduction in neutralization efficiency for REGN10933.
-# Clark et al. (2021) http://doi.org/10.1016/j.cell.2021.03.027 [Journal publication]
+# Clark et al. (2021) http://doi.org/10.1016/j.cell.2021.03.027
 Q493K
 
 # This Spike pseudotype for Day 152 virus from a chronically infected patient was completely resistent to REGN10933.
-# Clark et al. (2021) http://doi.org/10.1016/j.cell.2021.03.027 [Journal publication]
+# Clark et al. (2021) http://doi.org/10.1016/j.cell.2021.03.027
 E484A;F486I;Y489H;N501Y
 
 # P.1 virus neutralization (as tested using biolayer interferometry) of both Lilly antibodies was severely impacted, 
@@ -472,81 +472,81 @@ E484A;F486I;Y489H;N501Y
 # showed a slight increase of neutralization of P.1.
 # S309 Vir was largely unaffected, although for several viruses, including P.1, the antibody failed to completely 
 # neutralize, conceivably reflecting incomplete glycosylation at N343, since the sugar interaction is key to binding of this antibody.
-# Dejnirattisai et al. (2021) http://doi.org/10.1016/j.cell.2021.03.055 [Journal publication]
+# Dejnirattisai et al. (2021) http://doi.org/10.1016/j.cell.2021.03.055
 L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # B.1.351 virus neutralization (as tested using biolayer interferometry) of both Lilly antibodies was severely impacted, with LY-CoV16 and LY-CoV555 
 # (due to mutations at 416 and 484 respectively) shows almost complete loss of neutralization of B.1.351.
 # There was also escape from neutralization of B.1.351 by REGN10933 and a modest reduction in neutralization of B.1.351 by AZD8895 
 # (while AZD1061 and AZD7442 showed equal neutralization of all SARS-CoV-2 variants tested). The three Adagio antibodies neutralized B.1.351.
-# Dejnirattisai et al. (2021) http://doi.org/10.1016/j.cell.2021.03.055 [Journal publication]
+# Dejnirattisai et al. (2021) http://doi.org/10.1016/j.cell.2021.03.055
 L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Lilly's LY-CoV16 showed marked reduction in neutralization of B.1.1.7. 
-# Dejnirattisai et al. (2021) http://doi.org/10.1016/j.cell.2021.03.055 [Journal publication]
+# Dejnirattisai et al. (2021) http://doi.org/10.1016/j.cell.2021.03.055
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;R716I;S982A;D1119H
 
 # This mutated version of RBD completely abolishes the binding to a therapeutic antibody, Bamlanivimab, in vitro.
-# Liu et al. (2021) http://doi.org/10.1101/2021.02.16.431305 [Journal publication]
+# Liu et al. (2021) http://doi.org/10.1101/2021.02.16.431305
 # Tixagevimab, Regdanvimab and COR-101 display reduced binding affinity to virus pseudotyped as RBD from B.1.351.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 K417N,E484K,N501Y
 
 # VSV pseudotype B.1.351 entry mediated by the S proteins of the B.1.351 variant was completely resistant to blocking by REGN10989 and Bamlanivimab.
 # Entry driven by the S proteins of the B.1.351 was partially resistant against Casirivimab.
-# Hoffman et al. (2021) http://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
+# Hoffman et al. (2021) http://doi.org/10.1016/j.cell.2021.03.036
 D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
 
 # VSV pseudotype P.1 entry mediated by the S proteins of the P.1 variant was completely resistant to blocking by REGN10989 and Bamlanivimab.
 # Cell fusion proficiency was slight impaired.
 # Entry driven by the S proteins of the B.1.351 was partially resistant against Casirivimab.
-# Hoffman et al. (2021) http://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
+# Hoffman et al. (2021) http://doi.org/10.1016/j.cell.2021.03.036
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
 # Tixagevimab, Regdanvimab and COR-101 display reduced binding affinity to virus pseudotyped as RBD from P.1.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 K417T;E484K;N501Y
 
 # Bamlanivimab (LY-CoV555) entirely lost its neutralizing activity due to the central location of
 # L452R in the epitopes recognized by this mAb.
 # Regdanvimab (CT-P59), and to a smaller extent etesevimab, showed a reduction in neutralization potency.
-# McCallum et al. (2021) http://doi.org/10.1101/2021.03.31.437925 [Journal publication] [Journal publication]
+# McCallum et al. (2021) http://doi.org/10.1101/2021.03.31.437925
 # Bamlanivimab (LY-CoV555) lost ~5x binding against this isolated mutation.
 # Cligavimab lost ~4x binding against this isolated mutation.
 # Regdanvimab lost ~4x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 L452R
 
 # COR-101 lost ~6x binding against this isolated mutation.
 # Estesevimab lost ~40x binding against this isolated mutation.
 # Regdanvimab lost ~8x binding against this isolated mutation.
 # m396 lost ~10x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 E406W
 
 # COR-101 lost ~6x binding against this isolated mutation.
 # Estesevimab lost ~100x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 K417N
 
 # COR-101 lost ~16x binding against this isolated mutation.
 # Estesevimab lost ~16x binding against this isolated mutation.
 # m396 lost ~8x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 K417T
 
 # Cligavimab lost ~8x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 K444Q
 
 # Cligavimab lost ~16x binding against this isolated mutation.
 # Imdevimab lost ~16x binding against this isolated mutation (the only RBD variant to do so).
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 G446V
 
 # Bamlanivimab (LY-CoV555) lost ~4x binding against this isolated mutation.
 # Casirivimab lost ~300x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 Y543F
 
 # COR-101 lost ~50x binding against this isolated mutation.
@@ -554,56 +554,56 @@ Y543F
 # Sotrovimab lost ~30x binding against this isolated mutation.
 # Tixagevimab lost ~15x binding against this isolated mutation.
 # m396 lost ~8x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 A475V
 
 # Bamlanivimab (LY-CoV555) lost ~8x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 E484A
 
 # Bamlanivimab (LY-CoV555) lost ~16x binding against this isolated mutation.
 # Casirivimab lost ~16x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 E484K
 
 # Bamlanivimab (LY-CoV555) lost ~20x binding against this isolated mutation.
 # Casirivimab lost ~4x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 E484Q
 
 # Casirivimab lost ~5x binding against this isolated mutation.
 # Estesevimab lost ~10x binding against this isolated mutation.
 # Regdanvimab lost ~10x binding against this isolated mutation.
 # Tixagevimab lost ~10x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 F486K
 
 # Bamlanivimab (LY-CoV555) lost ~8x binding against this isolated mutation.
 # Regdanvimab lost ~32x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 S494P
 
 # COR-101 lost ~8x binding against this isolated mutation.
 # Regdanvimab lost ~6x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 N501F
 
 # Estesevimab lost ~6x binding against this isolated mutation.
 # m396 lost ~16x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 N501S
 
 # Estesevimab lost ~12x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 N501T
 
 # COR-101 lost ~8x binding against this isolated mutation.
 # Regdanvimab lost ~6x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 N501Y
 
 # CR3022 (SARS-targeting mAb) cross-reactivity lost ~4x binding against this isolated mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 A520S
 
 # Bamlanivimab (LY-CoV555) lost ~32x binding against this double mutation.
@@ -612,7 +612,7 @@ A520S
 # Estesevimab lost ~32x binding against this double mutation.
 # Regdanvimab lost ~4x binding against this double mutation.
 # Tixagevimab lost ~12x binding against this double mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 E484K;K417N
 
 # COR-101 lost ~12x binding against this double mutation.
@@ -623,16 +623,16 @@ E484K;K417N
 # Regdanvimab lost ~8x binding against this double mutation.
 # Sotrovimab lost ~4x binding against this double mutation.
 # Tixagevimab lost ~12x binding against this double mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 N439K;Y453F
 
 # Casirivimab lost >50x binding against this mutation.
-# Hoffman et al. (2021) http://doi.org/10.1016/j.celrep.2021.109017 [Journal publication]
+# Hoffman et al. (2021) http://doi.org/10.1016/j.celrep.2021.109017
 Y453F
 
 # Bamlanivimab (LY-CoV555) lost ~10x binding against this double mutation.
 # Tixagevimab lost ~16x binding against this double mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 S477N;E484K
 
 # Bamlanivimab (LY-CoV555) lost ~64x binding against this double mutation.
@@ -641,12 +641,12 @@ S477N;E484K
 # Estesevimab lost ~16x binding against this double mutation.
 # Regdanvimab lost ~32x binding against this double mutation.
 # Tixagevimab lost ~10x binding against this double mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 N501Y;E484K
 
 # COR-101 lost ~20x binding against this double mutation.
 # Estesevimab lost ~16x binding against this double mutation.
 # Regdanvimab lost ~6x binding against this double mutation.
 # M396 lost ~10x binding against this double mutation.
-# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939 [Preprint (other)]
+# Engelhart et al. (2021) http://doi.org/10.1101/2021.04.27.440939
 N501Y;K417N

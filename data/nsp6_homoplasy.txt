@@ -2,28 +2,28 @@
 # PG: Effect is synonymous (F34=), with the variant containing the optimal human codon (UUU) vs reference (UUC).
 # PG: Has not lead to major lineage expansion despite early appearance, nor is it critical to a well defined RNA secondary structure (highly entropic by all extant predictors).
 # PG: Presumably the homoplasy is due to propensity of this site to deamination rather than a fitness advantage.
-# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351 [Journal publication]
+# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351
 g.C11074U
 
 # High quality non-synonymous homoplasies from a paper, where functional fitness is presumed.
-# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351 [Journal publication]
+# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351
 # PG: Directly flanks a lumenal (endoplasmic reticulum bound) domain, NSPs "rush to the ER" for assembly of the replication and transcriptional machinery.
-# Santerre et al. (2020) http://doi.org/10.1007/s00415-020-10197-8 [Journal publication]
+# Santerre et al. (2020) http://doi.org/10.1007/s00415-020-10197-8
 # PG: Effect is for reported homoplasy g.G11083T.
 # PG: This variant has appeared independently many times in the tree, and lead to multiple extended lineages. 
 # PG: G->T is not easily explained by base deamination or cross-linking artefacts.
 # PG: Early in the pandemic this variant was often seen in association with ORF3a G251V, together defining clade "V", but this was likely a founder effect rather than a necessary co-evolution as this tandem variant occurence is not found in newer samples.
 # Could significantly modify COVID-19 pathogenicity by altering the host autophagic lysosomal antiviral machinery.
-# O'Leary and Ovsepian (2020) http://doi.org/10.1016/j.tig.2020.08.014 [Journal publication]
+# O'Leary and Ovsepian (2020) http://doi.org/10.1016/j.tig.2020.08.014
 # By analyzing the distribution of 11083G>T in various countries, we unveil that 11083G>T may correlate with the hypotoxicity of SARS-CoV-2...L37F has made NSP6 energetically less stable
-# Wang et al. (2020) http://doi.org/10.48550/arXiv.2007.01344 [Preprint (other)]
+# Wang et al. (2020) http://doi.org/10.48550/arXiv.2007.01344
 # Destabilization of NSP6 also predicted in this paper.
-# Sadar et al. (2020) http://doi.org/10.1016/j.heliyon.2020.e04658 [Journal publication] 
+# Sadar et al. (2020) http://doi.org/10.1016/j.heliyon.2020.e04658 
 L37F
 
 # A 9-nucletide deletion in nsp6 has come about apparently epistatically in multiple lineages of concern (B.1.1.7, B.1.351, P.1) and the latest B.1.525.
 # a.k.a ORF1a:p.3675_3677del or NC_045512:g.11288_11296del
-# Rambaut (2021) https://github.com/cov-lineages/pango-designation/issues/4 [Grey literature]
+# Rambaut (2021) https://github.com/cov-lineages/pango-designation/issues/4
 # PG: Directly flanks a lumenal (endoplasmic reticulum bound) domain, NSPs "rush to the ER" for assembly of the replication and transcriptional machinery.
-# Santerre et al. (2020) http://doi.org/10.1007/s00415-020-10197-8 [Journal publication]
+# Santerre et al. (2020) http://doi.org/10.1007/s00415-020-10197-8
 S106del,G107del,F108del

@@ -1,5 +1,5 @@
 # No biochemical data, but high quality non-synonymous homoplasies from a paper, where functional fitness is presumed.
-# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351 [Journal publication]
+# Van Dorp et al. (2020) http://doi.org/10.1016/j.meegid.2020.104351
 # PG: Effect is synonymous (N824=), with the reference contig containing the optimal human codon (AAC) vs this variant (AAU).
 # PG: Has not lead to major lineage expansions, but is in an accessible unpaired break in a preicted RNA structure. 
 # PG: The homoplasy may be due to propensity of this site to deamination rather than a fitness advantage,
@@ -9,28 +9,28 @@
 g.C24034U
 
 # Mutation has arisen independently multiple times, twice forming significant lineages
-# Thomson et al. (2021) http://doi.org/10.1016/j.cell.2021.01.037 [Journal publication]
+# Thomson et al. (2021) http://doi.org/10.1016/j.cell.2021.01.037
 N439K
 
 # Variant within the six key residues in the receptor binding domain (RBD). Independently reported in UK, Australia 
 # (same origin as UK), and South Africa (independent origin).
-# Flores-Alanis et al. (2021) http://doi.org/10.3390/pathogens10020184 [Journal publication]
+# Flores-Alanis et al. (2021) http://doi.org/10.3390/pathogens10020184
 N501Y
 
 # In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears 
 # convergent, especially on a D614 wildtype background. 
-# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774 [Preprint (other)]
+# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774
 H66R
 
 # In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears 
 # convergent, especially ona D614 wildtype background. 
-# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774 [Preprint (other)]
+# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774
 N74K
 
 # In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears convergent. 
-# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774 [Preprint (other)]
+# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774
 D215G
 
 # In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears convergent. 
-# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774 [Preprint (other)]
+# Borges et al. (2021) http://doi.org/10.1101/2021.05.19.444774
 H655Y

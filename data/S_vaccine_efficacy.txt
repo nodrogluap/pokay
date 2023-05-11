@@ -1,20 +1,20 @@
 # In a study of 481 vaccinees going from lowest to highest infection rate, 2 doses of CoronaVac and 1 dose of BNT162b2 had the lowest infection rate at 6.3%, then it
 # was 3 doses of BNT162b2 having a infection rate of 16.6%. 2 and 3 doses of CoronaVac had 48.6% and 20.6% infection rate respectively. 2 doses of BNT162b2 has 
 # the highest infection rate at 49.2%.
-# Zhou et al. (2022) http://doi.org/10.1101/2022.05.09.491254 [Preprint (BioRxiv)]
+# Zhou et al. (2022) http://doi.org/10.1101/2022.05.09.491254
 R408S;E484A;N501Y
 
 # Pseudotyped virus neutralization demonstrated that Bi-Nab35B5-47D10 can efficiently neutralize VBMs including Alpha (B.1.1.7), Beta (B.1.351) and Kappa 
 # (B.1.617.1) and VOCs including Delta (B.1.617.2).
-# Yuan et al. (2022) http://doi.org/10.1101/2022.05.11.491588 [Preprint (other)]
+# Yuan et al. (2022) http://doi.org/10.1101/2022.05.11.491588
 # In a Belgian study including 1,433,135 persons (vaccinated between July 2021 to April 2022) infection-acquired immunity offered additional protection 
 # against symptomatic infection with Omicron in vaccinated persons compared to those without previous infection, when the infection was up to one year previous.
-# Braeye et al. (2022) http://doi.org/10.1101/2022.05.09.22274623 [Preprint (other)]
+# Braeye et al. (2022) http://doi.org/10.1101/2022.05.09.22274623
 # In sera from 17 sero-positive blood donors, and 18 months post-infection (May 2020) sera from 17 health 
 # care workers in Sweden, a 40x drop in neutralization by Omicron (B.1.1.529) pseudotyped lentivirus 
 # was observed in HEK293T cells using the First WHO International Standard (20/136). Median IC50 reduction
 # was ~6x for the blood donors, and ~4.5x for the health care workers.
-# Sheward et al. (2021) https://drive.google.com/file/d/1CuxmNYj5cpIuxWXhjjVmuDqntxXwlfXQ/view [Preprint (other)]
+# Sheward et al. (2021) https://drive.google.com/file/d/1CuxmNYj5cpIuxWXhjjVmuDqntxXwlfXQ/view
 E484A;N501Y
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 2027 test-positive cases were Delta.
@@ -22,7 +22,7 @@ E484A;N501Y
 # (70.2-86.6%) 151-180 days after vaccination. Waning was less pronounced for non-Delta variants. VE against Delta 
 # was lower among individuals aged ≥65 years (75.2% [59.6-84.8%]) than those aged 18-64 years (87.9% [85.5-89.9%]). 
 # VE against Delta hospitalization was 97.6% (92.8-99.2%). One-dose VE was 77.0% (60.7-86.5%) against Delta infection.
-# Bruxvoort et al. (2021) http://doi.org/10.1101/2021.09.29.21264199 [Preprint (other)]
+# Bruxvoort et al. (2021) http://doi.org/10.1101/2021.09.29.21264199
 # In Minnesota in July 2020 (when Delta variant prevalence was >70%), the effectiveness against infection for mRNA-1273 was estimated at 76% 
 # (95% CI: 58-87%) using age, sex, race, PCR testing and vaccination date matched cohorts of unvaccinated, Pfizer and Moderna vaccinees. 
 # An even more pronounced reduction in effectiveness was observed for BNT162b2 of 42% (95% CI: 13-62%). 
@@ -30,12 +30,12 @@ E484A;N501Y
 # In Florida, which is currently experiencing its largest COVID-19 surge to date, the risk of infection in July after full vaccination 
 # with mRNA-1273 was about 60% lower than after full vaccination with BNT162b2 (IRR: 0.39, 95% CI: 0.24-0.62). 
 # [variant list included is ancestral Delta, as this was an observational study no variant list was given] 
-# Puranik et al. (2021) http://doi.org/10.1101/2021.08.06.21261707 [Journal publication]
+# Puranik et al. (2021) http://doi.org/10.1101/2021.08.06.21261707
 # Effectiveness after one dose of vaccine (BNT162b2 or ChAdOx1 nCoV-19) with the delta variant was
 # (30.7%; 95% confidence interval [CI], 25.2 to 35.7); the results were similar for both vaccines. 
 # With the BNT162b2 vaccine, the effectiveness of two doses was 88.0% (95% CI, 85.3 to 90.1) among those with the delta variant. 
 # With the ChAdOx1 nCoV-19 vaccine, the effectiveness of two doses was 67.0% (95% CI, 61.3 to 71.8) among those with the delta variant.
-# Lopez Bernal et al. (2021) http://doi.org/10.1056/NEJMoa2108891 [Journal publication] [Journal publication]
+# Lopez Bernal et al. (2021) http://doi.org/10.1056/NEJMoa2108891
 # During December 14, 2020–August 14, 2021, frontline worker without previous documented SARS-CoV-2 infection were monitored regularly. 
 # Of 4,217 participants, 3,483 (83%) were vaccinated; 2,278 (65%) received Pfizer-BioNTech, 1,138 (33%) Moderna, and 67 (2%) Janssen 
 # (Johnson & Johnson) COVID-19 vaccines.
@@ -44,17 +44,17 @@ E484A;N501Y
 # This trend should be interpreted with caution because VE might also be declining as time since vaccination increases and because of 
 # poor precision in estimates due to limited number of weeks of observation and few infections among participants. As with all observational VE 
 # studies, unmeasured and residual confounding might be present.
-# Fowlkes et al. (2021) http://doi.org/10.15585/mmwr.mm7034e4 [Journal publication]
+# Fowlkes et al. (2021) http://doi.org/10.15585/mmwr.mm7034e4
 # 136,160 reports from 14,997 nursing care facilities were broken into pre-Delta (Mar 1-May 9, 2021), intermediate (May 10-Jun 20, 2021) 
 # and Delta (Jun 21-Aug 1, 2021).
 # Two doses of mRNA vaccines were 74.7% effective against infection among nursing home residents early in the vaccination program 
 # (March–May 2021). During June–July 2021, when B.1.617.2 (Delta) variant circulation predominated, effectiveness declined significantly to 53.1%.
-# Nanduri et al. (2021) http://doi.org/10.15585/mmwr.mm7034e3 [Journal publication]
+# Nanduri et al. (2021) http://doi.org/10.15585/mmwr.mm7034e3
 # Using a test-negative design using Ontario data between Dec 14, 2020 and May 30, 2021, 421,073 symptomatic community-dwelling individuals were tested.
 # Against Delta, vaccine effectiveness after partial vaccination tended to be lower compared to Alpha for mRNA-1273 (72% vs. 83%) and BNT162b2 (56% vs. 66%), 
 # but was similar to Alpha for ChAdOx1 (67% vs. 64%). Full vaccination with BNT162b2 increased protection against Delta (87%) to levels comparable to 
 # Alpha (89%) and Beta/Gamma (84%). Delta-positive cases were biased towards young male residents of the Peel region.
-# Nasreen et al. (2021) http://doi.org/10.1101/2021.06.28.21259420 [Preprint (MedRxiv)]
+# Nasreen et al. (2021) http://doi.org/10.1101/2021.06.28.21259420
 # Using a matched test-negative, case- control study design in Qatar, BNT162b2 effectiveness against any Delta infection, symptomatic or asymptomatic, 
 # was 64.2% (95% CI: 38.1-80.1%) ≥14 days after the first dose and before the second dose, but was only 53.5% (95% CI: 43.9-61.4%) ≥14 days after the 
 # second dose, in a population in which a large proportion of fully vaccinated persons received their second dose several months earlier. 
@@ -64,68 +64,68 @@ E484A;N501Y
 # The lower VE in Qatar relative to those reported in some other jurisdictions such as the UK and Canada (75%+) may reflect waning of vaccine protection for 
 # those who received their second dose by end of 2020 or early 2021. Risk perception and behaviour amongst vaccinated individuals opver time may also 
 # play a role.
-# Tang et al. (2021) http://doi.org/10.1101/2021.08.11.21261885 [Preprint (MedRxiv)]
+# Tang et al. (2021) http://doi.org/10.1101/2021.08.11.21261885
 # Of 218 individuals with B.1.617.2 infection in Singapore, 84 had received a mRNA vaccine of which 71 were fully vaccinated, 
 # 130 were unvaccinated and 4 received a non-mRNA. Despite significantly older age in the vaccine breakthrough group, the odds of 
 # severe COVID-19 requiring oxygen supplementation was significantly lower following vaccination (adjusted odds ratio 0.07 95%CI: 0.015-0.335, p=0.001).
-# Chia et al. (2021) http://doi.org/10.1101/2021.07.28.21261295 [Preprint (other)]
+# Chia et al. (2021) http://doi.org/10.1101/2021.07.28.21261295
 # The incidence rate of Covid-19 during the Delta-dominant period (Jul-Aug 2021) was lower for late vaccinated (49.0/1000 person-years) [formerly placebo] 
 # versus early vaccinated (77.1/1000 person-years) participants in the Moderna mRNA-1273 Phase 3 trials, representing a 36.4% VE reduction (95% CI 17.1%-51.5%).
 # There were fewer severe Covid-19 cases in the late group (6; 6.2/1000 person-years) than early (13; 3.3/1000 person-years), representing a 46.0% 
 # reduction (95% CI −52.4%-83.2%). Three Covid-19 related hospitalizations occurred with two resulting deaths in the early group.
-# Baden et al. (2021) http://doi.org/10.1101/2021.09.17.21263624 [Journal publication]
+# Baden et al. (2021) http://doi.org/10.1101/2021.09.17.21263624
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 1422 test-positive were Alpha.
 # Two dose vaccine efficacy against Alpha was 98.4% [96.9-99.1%], one dose VE was 90.1% (82.9-94.2%).
-# Bruxvoort et al. (2021) http://doi.org/10.1101/2021.09.29.21264199 [Preprint (other)]
+# Bruxvoort et al. (2021) http://doi.org/10.1101/2021.09.29.21264199
 # In Minnesota in early 2021 when Alpha was prevalent, vaccine efficacy was estimated as: mRNA-1273 86% (95%CI: 81-90.6%) and BNT162b2: 76% (95%CI: 69-81%)
 # using age, sex, race, PCR testing and vaccination date matched cohorts of unvaccinated, Pfizer and Moderna vaccinees. 
 # [variant list included is ancestral Alpha, as this was an observational study no variant list was given] 
-# Puranik et al. (2021) http://doi.org/10.1101/2021.08.06.21261707 [Journal publication]
+# Puranik et al. (2021) http://doi.org/10.1101/2021.08.06.21261707
 # Effectiveness after one dose of vaccine (BNT162b2 or ChAdOx1 nCoV-19) with the delta variant was
 # (48.7%; 95% confidence interval [CI], 45.5 to 51.7); the results were similar for both vaccines. 
 # With the BNT162b2 vaccine, the effectiveness of two doses was 93.7% (95% CI, 91.6 to 95.3) among those with the alpha variant. 
 # With the ChAdOx1 nCoV-19 vaccine, the effectiveness of two doses was 74.5% (95% CI, 68.4 to 79.4) among those with the alpha variant.
-# Lopez Bernal et al. (2021) http://doi.org/10.1056/NEJMoa2108891 [Journal publication] [Journal publication]
+# Lopez Bernal et al. (2021) http://doi.org/10.1056/NEJMoa2108891
 # Using a test-negative design using Ontario data between Dec 14, 2020 and May 30, 2021, 421,073 symptomatic community-dwelling individuals were tested.
 # Against symptomatic infection caused by Alpha, vaccine effectiveness with partial vaccination (≥14 days after dose 1) was higher for mRNA-1273 (83%) than
 # BNT162b2 (66%) and ChAdOx1 (64%), and full vaccination (≥7 days after dose 2) increased vaccine effectiveness for BNT162b2 (89%) and mRNA-1273 (92%). 
-# Nasreen et al. (2021) http://doi.org/10.1101/2021.06.28.21259420 [Preprint (MedRxiv)]
+# Nasreen et al. (2021) http://doi.org/10.1101/2021.06.28.21259420
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Protection against symptomatic infection caused by Beta/Gamma (assumed by combined presence of N501Y and E484K) was also higher with partial 
 # vaccination for mRNA-1273 (77%) than BNT162b2 (60%) and ChAdOx1 (48%), and full vaccination increased effectiveness for BNT162b2 (84%).
-# Nasreen et al. (2021) http://doi.org/10.1101/2021.06.28.21259420 [Preprint (MedRxiv)]
+# Nasreen et al. (2021) http://doi.org/10.1101/2021.06.28.21259420
 E484K;N501Y
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 69 test-positive were Mu.
 # Two dose vaccine efficacy against Mu was 90.4% (73.9-96.5%), one dose VE was 45.8% (0.0-88.9%).
-# Bruxvoort et al. (2021) http://doi.org/10.1101/2021.09.29.21264199 [Preprint (other)]
+# Bruxvoort et al. (2021) http://doi.org/10.1101/2021.09.29.21264199
 T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 114 test-positive were Iota.
 # Two dose vaccine efficacy against Iota was 95.7 (81.7-99.0%), one dose VE was 88.8 (0.7-98.7)%.
-# Bruxvoort et al. (2021) http://doi.org/10.1101/2021.09.29.21264199 [Preprint (other)]
+# Bruxvoort et al. (2021) http://doi.org/10.1101/2021.09.29.21264199
 L5F;S477N;E484K;A701V
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 349 test-positive were Gamma.
 # Two dose vaccine efficacy against Gamma was 95.5 (90.9-97.8%), one dose VE was 74.2 (43.8-88.1%).
-# Bruxvoort et al. (2021) http://doi.org/10.1101/2021.09.29.21264199 [Preprint (other)]
+# Bruxvoort et al. (2021) http://doi.org/10.1101/2021.09.29.21264199
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
 
 # In a 1:5 test-negative matched control study of 8153 individuals who received the Moderna mRNA-1273 vaccine, 583 test-positive were Epsilon.
 # Two dose vaccine efficacy against Epsilon was 97.6 (90.2-99.4%), one dose VE was 76.3 (48.1-89.1%).
-# Bruxvoort et al. (2021) http://doi.org/10.1101/2021.09.29.21264199 [Preprint (other)]
+# Bruxvoort et al. (2021) http://doi.org/10.1101/2021.09.29.21264199
 L452R;D614G
 
 # In this Canadian test-negative study of 324033 individuals, two doses of either mRNA vaccine (BNT162b2 (Pfizer-BioNTech) or mRNA-1273 (Moderna)) 
 # was not associated with appreciable vaccine escape by lineage Alpha [defined here as N501Y positive, but E484K negative].
-# Chung et al. (2021) http://doi.org/10.1136/bmj.n1943 [Journal publication]
+# Chung et al. (2021) http://doi.org/10.1136/bmj.n1943
 N501Y
 
 # In this Canadian test-negative study of 324033 individuals, two doses of either mRNA vaccine (BNT162b2 (Pfizer-BioNTech) or mRNA-1273 (Moderna)) 
 # was not associated with appreciable vaccine escape due to E484K [given Dec 2020-Apr 2021 time frame of the study, this is assumed to entail both 
 # Beta and Gamma lineages].
-# Chung et al. (2021) http://doi.org/10.1136/bmj.n1943 [Journal publication]
+# Chung et al. (2021) http://doi.org/10.1136/bmj.n1943
 E484K

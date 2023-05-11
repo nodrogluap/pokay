@@ -5,55 +5,55 @@ E484K,N501Y
 
 # Viral load from oral swabs from 11 hamsters in 10 treatments for Omicron MK-4482 had the greatest drop 3 days post-infection determined by quantitative RT-PCR 
 # targeting sgE in comparison to Alpha MK-4482, Beta MK-4482 and Delta MK-4482.
-# Rosenke et al. (2022) http://doi.org/10.1172/jci.insight.160108 [Journal publication]
+# Rosenke et al. (2022) http://doi.org/10.1172/jci.insight.160108
 E484K,N501Y
 
 # Viral load from lung tissue from 11 hamsters in 10 treatments for Omicron MK-4482 had the greatest drop 3 days post-infection determined by quantitative RT-PCR 
 # targeting sgE in comparison to Alpha MK-4482, Beta MK-4482 and Delta MK-4482.
-# Rosenke et al. (2022) http://doi.org/10.1172/jci.insight.160108 [Journal publication]
+# Rosenke et al. (2022) http://doi.org/10.1172/jci.insight.160108
 E484K,N501Y
 
 # In 9 infected hamsters each for B.1 and B.1.617.1, no significant change in viral load or subgenomic RNA levels were detected. 
-# Yadav et al. (2021) http://doi.org/10.1101/2021.05.05.442760 [Preprint (BioRxiv)]
+# Yadav et al. (2021) http://doi.org/10.1101/2021.05.05.442760
 L452R;E484Q;P681R
 
 # We found that the British variant (clade B.1.1.7), compared to an ancestral SARS-CoV-2 clade B virus, produced higher 
 # levels of infectious virus late in infection and had a higher replicative fitness in human airway, alveolar and intestinal organoid models.
-# Lamers et al. (2021) http://doi.org/10.1101/2021.05.03.441080 [Preprint (BioRxiv)]
+# Lamers et al. (2021) http://doi.org/10.1101/2021.05.03.441080
 # This study reveals that B.1.1.7 SARS-CoV-2 variant is a slower-growing virus than parental B.1. Further, a higher
 # replication along with reduced infectious viral titer was hypothesized to be linked to higher transmission
 # with reduced pathogenicity. 
-# Nyayanit et al. (2021) http://doi.org/10.1101/2021.04.30.442222 [Preprint (other)]
+# Nyayanit et al. (2021) http://doi.org/10.1101/2021.04.30.442222
 # In a study of 1260 ICU subjects, viral load distributions (collected within 48h of admission) were elevated in 
 # both seropositive and seronegative subjects infected with B.1.1.7 ("UK variant"). 
 # PG: The PANGO tool defining Spike variants for B.1.1.7 are listed here, whereas the paper only used a test for D1118H.
-# Ratcliff et al. (2021) http://doi.org/10.1101/2021.02.24.21251989 [Preprint (other)]
+# Ratcliff et al. (2021) http://doi.org/10.1101/2021.02.24.21251989
 # Using lack of S probe detection as a proxy for B.1.1.7 status, 275 putative B.1.1.7 samples and 390 "wild type" SARS-CoV-2 positive
 # samples in Wales were compared for Ct values, suggesting ~12-fold increase (~3.5 Ct decrease) in viral load for B.1.1.7 samples.
-# Couzens et al. (2021) http://doi.org/10.1101/2021.04.02.21254832 [Preprint (MedRxiv)]
+# Couzens et al. (2021) http://doi.org/10.1101/2021.04.02.21254832
 # The 249 B.1.1.7 (a.k.a. N501Y.V1) variant cases in three Paris hospital labs had a ~10-fold viral load increase 
 # (~3.3 Ct drop in N gene probe) compared to 332 ancestral lineage cases from the same time frame (2020-12-20 to 2021-02-26). 
 # PG: BUT there is a discrepancy in drop between the ORF1ab and N probes, with the former suggesting only a 2-fold drop, 
 # consistent with the drop observed in B.1.351. This might indicate higher subgenomic RNA content in B.1.1.7 skewing the change.
-# Teyssou et al. (2021) http://doi.org/10.1101/2021.03.21.21253498 [Preprint (other)]
+# Teyssou et al. (2021) http://doi.org/10.1101/2021.03.21.21253498
 # B.1.1.7 samples showed average Ct cycle threshold of 21.9 vs 23 for wildtype (i.e. ~2x higher viral load) comparing 37758 and 22535 samples respectively.
-# Roquebert et al. (2021) http://doi.org/10.1101/2021.03.19.21253971 [Preprint (other)]
+# Roquebert et al. (2021) http://doi.org/10.1101/2021.03.19.21253971
 # The median Ct value of RT-qPCR tests of the N-gene target in the Daxing B.1.1.7 group was significantly lower than the Shunyi B.1.470 group (P=0.036).
-# Song et al. (2021) http://doi.org/10.1101/2021.05.04.21256655 [Preprint (MedRxiv)]
+# Song et al. (2021) http://doi.org/10.1101/2021.05.04.21256655
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Hamsters infected with SARS-CoV-2 expressing spike(D614G) (G614 virus) produced higher infectious titres in nasal washes and the trachea, but not in the lungs, 
 # supporting clinical evidence showing that the mutation enhances viral loads in the upper respiratory tract of COVID-19 patients and may increase transmission.
-# Plante et al. (2020) http://doi.org/10.1038/s41586-020-2895-3 [Journal publication]
+# Plante et al. (2020) http://doi.org/10.1038/s41586-020-2895-3
 D614G
 
 # Swab samples N/NP viral RNA is approximately 2-fold higher in B.1.427/B.1.429 than in non-variant viruses.
-# Deng et al. (2021) http://doi.org/10.1101/2021.03.07.21252647 [Journal publication]
+# Deng et al. (2021) http://doi.org/10.1101/2021.03.07.21252647
 S13I;W152C;L452R
 
 # The 62 B.1.351 (a.k.a. N501Y.V2) variant cases in three Paris hospital labs had a ~2-fold viral load increase 
 # (~1 Ct drop in both N and ORF1ab probes) compared to 332 ancestral lineage cases from the same time frame (2020-12-20 to 2021-02-26). 
-# Teyssou et al. (2021) http://doi.org/10.1101/2021.03.21.21253498 [Preprint (other)]
+# Teyssou et al. (2021) http://doi.org/10.1101/2021.03.21.21253498
 # B.1.351 and P.1 samples showed average Ct cycle threshold of 22.2 vs 23 for wildtype (i.e. ~60% higher viral load) comparing 3360 and 22535 samples respectively.
-# Roquebert et al. (2021) http://doi.org/10.1101/2021.03.19.21253971 [Preprint (other)]
+# Roquebert et al. (2021) http://doi.org/10.1101/2021.03.19.21253971
 K417N;E484K;N501Y

@@ -1,48 +1,48 @@
 # 1.14x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.09x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;H69del;V70del
 
 # 1.08x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.11x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;Y144del
 
 # 1.17x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.09x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;N501Y
 
 # No significant change in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.04x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;A570D
 
 # 1.14x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.11x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;P681H
 
 # 1.02x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.47x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;T716I
 
 # 2x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.12x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;S982A
 
 # 1.09x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.08x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;D1118H
 
 # This variant combination (representing B.1.1.7 aka Alpha) showed no change in Spike binding 
 # (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.28x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of 
 # Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # 1.30x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
@@ -51,125 +51,125 @@ D614G;H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # 1.47x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
 # Compare to varied binding in full Spike variant complements for major lineages
 # containing this variant subset: 1.17x increase (B.1.351 aka Beta), and 1.47x decrease (P.1 aka Gamma).
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L18F
 
 # 1.64x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.35x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;D80A
 
 # 1.79x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.3x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;D215G
 
 # 1.43x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.37x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L242del;A243del;L244del
 
 # 1.05x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.45x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;R246I
 
 # 1.76x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.75x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;K417N
 
 # 1.16x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.06x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;E484K
 
 # 1.19x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.1x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;A701V
 
 # This variant combination (representing B.1.351 aka Beta) 
 # showed a 1.28x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects.
 # It shows a 1.17x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L18F;D80A;N501Y;D215G;L242del;A243del;L244del;R246I;K417N;E484K;A701V
 
 # 1.29x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects.
 # 1.39x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;T20N
 
 # 1.23x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.37x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;P26S
 
 # 1.37x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.56x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;D138Y
 
 # 1.19x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.59x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;R190S
 
 # 1.04x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.1x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;K417T
 
 # 1.04x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.09x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;H655Y
 
 # 1.32x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.22x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;T1027I
 
 # This variant combination (representing P.1 aka Gamma) 
 # showed a 1.14x decrease in Spike binding (relative to D614G alone) by 5 plasma 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.27x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I
 
 # 1.23x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.1x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L5F
 
 # 1.16x increase in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.02x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;T95I
 
 # No significant change in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.19x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;D253G
 
 # This variant combination (representing lineage B.1.526) showed a 1.34x increase in Spike binding (relative 
 # to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.19x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L5F;T95I;D253G;E484K;A701V
 
 # 1.08x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.27x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;S13I
 
 # 1.03x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects. 
 # 1.32x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;W152C
 
 # 1.05x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects.
 # 1.16x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L452R
 
 # This variant combination (representing lineage B.1.429 aka Epsilon) showed a 1.1x decrease in Spike binding 
@@ -177,14 +177,14 @@ D614G;L452R
 # [Stark contrast to 2.15x increase in binding by convalescent plasma 8 months post infection, presumably via memory B cell affinity maturation 
 # against L452R effects]
 # 1.12x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;S13I;W152C;L452R
 
 # This variant combination (representing lineage B.1.617) showed a 1.30x decrease in Spike binding (relative 
 # to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in previously non-seroconverted subjects.  
 # 1.18x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
 # [exact variant list not provided in manuscript, is inferred fro common knowledge]
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 L452R;E484Q;D614G	
 
 # This variant combination (representing lineage B.1.617.1) showed a 1.79x decrease in Spike binding (relative to D614G alone) 
@@ -192,7 +192,7 @@ L452R;E484Q;D614G
 # 1.64x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
 # [exact variant list not provided in manuscript, is inferred and 
 # represents minimal set agreed upon commonly]
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
 
 # This variant combination (representing lineage B.1.617.2 aka Delta) showed a 1.64x decrease in Spike binding (relative to D614G alone) 
@@ -200,5 +200,5 @@ G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
 # 1.89x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 3 weeks after one dose of Pfizer/BioNtech BNT162b2 vaccine in post-infection vaccinees.
 # [exact variant list not provided in manuscript, is inferred and 
 # represents minimal set agreed upon commonly]
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N

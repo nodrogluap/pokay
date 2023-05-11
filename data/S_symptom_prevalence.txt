@@ -1,21 +1,21 @@
 # Mutation in the Nucleocapsid region showing a significant
 # higher (ANOVA; F = 20.5; p = 0.003) proportion of the allele in symptomatic patients,
 # with a population frequency of 30% in a Mexican dataset.
-# Barona-Gomez et al. (2021) http://doi.org/10.1101/2021.05.18.21256128 [Preprint (other)]
+# Barona-Gomez et al. (2021) http://doi.org/10.1101/2021.05.18.21256128
 S194L
 
 # Compared to the clade 20A strains that predominated during phase 1 between March and May 2020, the Marseille-4 variant (characterized 
 # by this mutation plus N:p.M234I;A376T) was associated with a lower frequency of cough, rhinitis, and olfactory and gustatory disorders. 
 # By contrast, hypoxemia was more frequent in patients infected with the Marseille-4 variant.
-# Fournier et al. (2021) http://doi.org/10.1016/j.ijid.2021.03.068 [Journal publication]
+# Fournier et al. (2021) http://doi.org/10.1016/j.ijid.2021.03.068
 S477N;D614G
 
 # In comparison of B.1.1.7 lineage (193 cases) vs. "wildtype" (125) in Berlin Jan 18 to March 29 2021, 
 # significant symptom changes are absent loss of smell/taste (P=0.01), longer symptom duration (P=0.02). Mean age was 36 yo.
-# van Loon et al. (2021) http://doi.org/10.1101/2021.04.15.21255389 [Preprint (other)]
+# van Loon et al. (2021) http://doi.org/10.1101/2021.04.15.21255389
 # A higher proportion of cases infected with the B.1.1.7 variant were hypoxic on admission compared to other variants (70.0% vs 62.5%, p=0.029),
 # in London between March 13th 2020 and February 17th 2021 (400 B.1.1.7 cases out of 1470 total sequenced).
-# Snell et al. (2021) http://doi.org/10.1101/2021.03.16.21253377 [Preprint (other)]
+# Snell et al. (2021) http://doi.org/10.1101/2021.03.16.21253377
 H69del;V70del;N501Y
 
 # Gross examination of 3+3 hamster lung specimens showed pronounced congestion and hemorrhages
@@ -25,12 +25,12 @@ H69del;V70del;N501Y
 # consolidation and mild congestion). The pronounced changes (moderate to severe)
 # with mononuclear infiltration in the alveolar interstitial space, interstitial septal thickening,
 # consolidation and pneumocyte hyperplasia were observed with B.1.617.1 variant consistently.
-# Yadav et al. (2021) http://doi.org/10.1101/2021.05.05.442760 [Preprint (BioRxiv)]
+# Yadav et al. (2021) http://doi.org/10.1101/2021.05.05.442760
 L452R;E484Q;P681R
 
 # Inoculation with the B.1.351 isolate resulted in lower clinical scores in 6 rhesus macaques that correlated with lower virus 
 # titers in the lungs, less severe histologic lung lesions and less viral antigen detected in the lungs. Our comparative 
 # pathogenicity study suggests that ongoing circulation under diverse evolutionary pressure favors transmissibility and 
 # immune evasion rather than an increase in intrinsic pathogenicity.
-# Munster et al. (2021) http://doi.org/10.1101/2021.05.07.443115 [Journal publication]
+# Munster et al. (2021) http://doi.org/10.1101/2021.05.07.443115
 D80A;D215G;K417N;A701V;N501Y;E484K

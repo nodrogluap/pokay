@@ -2,27 +2,27 @@
 # a 90% loss of viral infectivity across all dark conditions of 6.2 hours). However, a small but statistically 
 # significant difference in the stability was observed in simulated sunlight at 20°C and 20% relative humidity, with B.1.1.7 restoring 
 # wild type 90% loss time of 11 minutes vs. 7 and 8 minutes for B.1.319 (D614G) and B.28 (V367F) early 2020 viruses respectively. 
-# Schuit et al. (2021) http://doi.org/10.1093/infdis/jiab171 [Journal publication]
+# Schuit et al. (2021) http://doi.org/10.1093/infdis/jiab171
 # Treatment with heat, soap and ethanol revealed similar inactivation profiles indicative of a comparable susceptibility 
 # towards disinfection. Furthermore, we observed comparable surface stability on steel, silver, copper and face masks.
-# Meister et al. (2021) http://doi.org/10.1093/infdis/jiab260 [Journal publication]
+# Meister et al. (2021) http://doi.org/10.1093/infdis/jiab260
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Relative to D614G, this mutation demonstrated significant increase in infectivity (i.e. heat stability) after incubation at 50C after 30 minutes or 1 hour
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
 N501Y
 
 # Relative to D614G, this mutation demonstrated significant increase in infectivity (i.e. heat stability) after incubation at 50C after 30 minutes or 1 hour
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
 S982A
 
 # Relative to D614G, this mutation demonstrated significant increase in infectivity (i.e. heat stability) after incubation at 50C after 1 hour.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
 H69del;V70del;N501Y;P681H
 
 # Relative to D614G, this mutation set (B.1.351+) demonstrated significant increase in infectivity (i.e. heat stability) after incubation at 50C after 1 hour.
-# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003 [Journal publication] [Journal publication]
+# Tada et al. (2021) http://doi.org/10.1101/2021.02.05.430003
 # Treatment with heat, soap and ethanol revealed similar inactivation profiles indicative of a comparable susceptibility 
 # towards disinfection. Furthermore, we observed comparable surface stability on steel, silver, copper and face masks.
-# Meister et al. (2021) http://doi.org/10.1093/infdis/jiab260 [Journal publication]
+# Meister et al. (2021) http://doi.org/10.1093/infdis/jiab260
 L18F;D80A;L242del;A243del;L244del;R245I;K417N;E484K;N501Y;D614G;A701V

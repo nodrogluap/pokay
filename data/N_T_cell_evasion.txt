@@ -1,69 +1,69 @@
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type B*40:01.
-# Agerer et al. (2021) http://doi.org/10.1126/sciimmunol.abg6461 [Journal publication]
+# Agerer et al. (2021) http://doi.org/10.1126/sciimmunol.abg6461
 M322I
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type B*40:01.
-# Agerer et al. (2021) http://doi.org/10.1126/sciimmunol.abg6461 [Journal publication]
+# Agerer et al. (2021) http://doi.org/10.1126/sciimmunol.abg6461
 L331F
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type B*27:05.
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 P13S
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type B*27:05.
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 P13T	
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type B*40:01.
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 T325I
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*03:01.
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 T362I
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*11:01.
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 T362I
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*68:01.
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 T362I
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*03:01.
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 P365S
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*11:01.
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 P365S
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type A*68:01.
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 P365S
 
 # Variant causes complete loss of T cell line responsiveness to B*27:05-restricted CD8+ N epitope QRNAPRITF 1-17(2,13).
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 P13L
 
 # Variant causes complete loss of T cell line responsiveness to B*27:05-restricted CD8+ N epitope QRNAPRITF 1-17(2,13).
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 P13S
 
 # Variant causes complete loss of T cell line responsiveness to B*27:05-restricted CD8+ N epitope QRNAPRITF 1-17(2,13).
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 P13T
 
 # Variant causes complete loss of T cell line responsiveness to A*03:01/A*11:01-restricted CD8+ N epitope 
 # KTFPPTEPK 361-369(2,8,10,20), which otherwise is "consistently dominant and of high magnitude".
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 T362I
 
 # Variant causes complete loss of T cell line responsiveness to A*03:01/A*11:01-restricted CD8+ N epitope 
 # KTFPPTEPK 361-369(2,8,10,20), which otherwise is "consistently dominant and of high magnitude".
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 P365S
 
 # Variant causes partial loss of T cell line responsiveness and CTL killing ability by B*40:01-restricted CD8+ N epitope MEVTPSGTWL 322-331.
-# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]
+# de Silva et al. (2021) http://doi.org/10.1101/2021.04.08.438904
 T325I

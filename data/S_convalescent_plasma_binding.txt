@@ -1,160 +1,160 @@
 # 1.33x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset. 
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;H69del;V70del
 
 # 1.14x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset. 
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;Y144del
 
 # 1.65x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;N501Y
 
 # 1.29x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;A570D
 
 # 1.26x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;P681H
 
 # 1.58x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;T716I
 
 # 1.06x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;S982A
 
 # 1.96x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;D1118H
 
 # This variant combination (representing B.1.1.7 aka Alpha) showed a 1.15x increase in Spike binding 
 # (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # 1.66x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
 # Compare to decreased binding in full Spike variant complements for major lineages
 # containing this variant subset: 0.96x (B.1.351 aka Beta), 0.77x (P.1 aka Gamma).
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L18F
 
 # 2.11x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;D80A
 
 # 2.29x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;D215G
 
 # 1.97x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L242del;A243del;L244del
 
 # 1.53x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;R246I
 
 # 2.16x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;K417N
 
 # 1.42x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;E484K
 
 # 1.11x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;A701V
 
 # This variant combination (representing B.1.351 aka Beta) 
 # showed a 1.04x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset,
 # in contrast to the largely positive binding values for each individual mutation that comprises the set.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L18F;D80A;N501Y;D215G;L242del;A243del;L244del;R246I;K417N;E484K;A701V
 
 # 1.65x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;T20N
 
 # 1.08x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;P26S
 
 # 1.56x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;D138Y
 
 # 1.09x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;R190S
 
 # 1.65x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;K417T
 
 # 1.48x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;H655Y
 
 # 1.56x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;T1027I
 
 # This variant combination (representing P.1 aka Gamma) 
 # showed a 1.3x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I
 
 # No change in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L5F
 
 # No change in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;T95I
 
 # 1.19x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;D253G
 
 # This variant combination (representing lineage B.1.526) showed a 1.02x increase in Spike binding (relative 
 # to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L5F;T95I;D253G;E484K;A701V
 
 # 1.19x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;S13I
 
 # 1.15x decrease in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;W152C
 
 # 2.15x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;L452R
 
 # This variant combination (representing lineage B.1.429 aka Epsilon) showed a 1.1x decrease in Spike binding 
 # (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset, indicating ablated marginal effect from L452R.
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 D614G;S13I;W152C;L452R
 
 # This variant combination (representing lineage B.1.617) showed a 1.22x decrease in Spike binding (relative 
 # to D614G alone) by 5 plasma collected 8 months post-symptom-onset. [exact variant list not provided in manuscript, is inferred fro common knowledge]
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 L452R;E484Q;D614G	
 
 # This variant combination (representing lineage B.1.617.1) showed a 2x decrease in Spike binding (relative to D614G alone) 
 # by 5 plasma collected 8 months post-symptom-onset. [exact variant list not provided in manuscript, is inferred and 
 # represents minimal set agreed upon commonly]
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
 
 # This variant combination (representing lineage B.1.617.2 aka Delta) showed a 1.92x decrease in Spike binding (relative to D614G alone) 
 # by 5 plasma collected 8 months post-symptom-onset. [exact variant list not provided in manuscript, is inferred and 
 # represents minimal set agreed upon commonly]
-# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140 [Preprint (other)]
+# Gong et al. (2021) http://doi.org/10.1101/2021.08.04.455140
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N

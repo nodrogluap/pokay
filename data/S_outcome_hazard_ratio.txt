@@ -1,12 +1,12 @@
 # In Ontario, using a retrospective matched case (age, gender and onset date) study of 6,312 Omicron cases vs 8,875 Delta, 
 # the adjusted risk of hospitalization or death was 54% lower (HR=0.46, 95%CI: 0.27, 0.77) among Omicron cases, after adjusting for
 # vaccination statis and time since 2nd shot. The ratio for >60yo was 0.55 (95%CI: 0.28-1.06), and <60yo was 0.30 (95%CI: 0.16-0.57).
-# Ulloa et al. (2021) http://doi.org/10.1101/2021.12.24.21268382v1.full [Preprint (MedRxiv)]
+# Ulloa et al. (2021) http://doi.org/10.1101/2021.12.24.21268382v1.full
 H69del;K417N;E484A
 
 # In Ontario between Feb 7 and Jun 27, 2021, increased risk with the Delta variant was 108% (95% CI 78%–140%) for hospitalization, 
 # 235% (95% CI 160%–331%) for ICU admission and 133% (95% CI 54%–231%) for death.
-# Fisman and Tuite (2021) http://doi.org/10.1503/cmaj.211248 [Journal publication]
+# Fisman and Tuite (2021) http://doi.org/10.1503/cmaj.211248
 # In the UK, of 43338 COVID-19-positive patients, 8682 had the Delta variant (median age 31 years [IQR 17–43]) and 196 were admitted to hospital within 14 
 # days after the specimen was taken (adjusted hazard ratio [HR] 2.26 [95% CI 1.32–3.89] relative to Alpha cases). Being admitted to hospital or attending
 # emergency care within 14 days for Delta cases had an adjusted HR 1.45 [95% CI 1.08–1.95] relative to Alpha. Most patients were unvaccinated (32 078 [74·0%]
@@ -19,37 +19,37 @@ T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # Compared to Alpha (B.1.1.7) variant, odds of progressing to severe disease were 1.24-fold (95% CI: 1.11-1.39) higher for Beta. 
 # Odds of progressing to critical disease were 1.49-fold (95% CI: 1.13-1.97) higher. Odds of COVID-19 death were 1.57-fold (95% CI: 1.03-2.43) higher.
-# Abu-Raddad et al. (2021) http://doi.org/10.1101/2021.08.02.21261465 [Preprint (other)]
+# Abu-Raddad et al. (2021) http://doi.org/10.1101/2021.08.02.21261465
 D80A;D215G;A243del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # B.1.526 (Iota) substantially increased IFR in older adults: by 46% (95% CI: 7.4 – 84%) among 45-64 year-olds, 
 # 82% (95% CI: 20 – 140%) among 65-74 year-olds, and 62% (95% CI: 45 – 80%) among 75+ during Nov 2020 – Apr 2021, 
 # compared to baseline IFR estimated for preexisting variants. [minimum clade defining mutations listed]
-# Yang et al. (2021) http://doi.org/10.1101/2021.08.04.21261596 [Preprint (other)]
+# Yang et al. (2021) http://doi.org/10.1101/2021.08.04.21261596
 T95I;D253G;D614G
 
 # Using primarily S-defining mutations for lineage B.1.1.7, most models of hospitalization and fatality risk ratios from
 # consortium members show elevated ratios (~1.3-1.7x).
-# NERVTAG Consortium (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/961042/S1095_NERVTAG_update_note_on_B.1.1.7_severity_20210211.pdf [Grey literature]
+# NERVTAG Consortium (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/961042/S1095_NERVTAG_update_note_on_B.1.1.7_severity_20210211.pdf
 # Danish study of the B.1.1.7 lineage shows hospital admission odds ratio of 1.63 vs other lineages. The adjusted OR was increased in all strata of age.
-# Bager et al. (2021) http://doi.org/10.2139/ssrn.3792894 [Preprint (other)]
+# Bager et al. (2021) http://doi.org/10.2139/ssrn.3792894
 # On average across 7 European countries studied, using B.1.1.7 defining mutations:
 # Significant shift to asymptomatic cases (27.4% vs 18.6% for non-VOC cases). 
 # Significant shift to infection in those without pre-existing conditions (44.8% vs 89% for non-VOC cases).
 # Significant increase in hospitalization rate (11% vs 7.5% for non-VOC cases).
 # Significant increase in ICU rate (1.4% vs 0.6% for non-VOC cases).
 # Significant decrease in death rate (2.0% vs vs 4.0% for non-VOC cases).
-# Funk et al. (2021) http://doi.org/10.2807/1560-7917.ES.2021.26.16.2100348 [Journal publication]
+# Funk et al. (2021) http://doi.org/10.2807/1560-7917.ES.2021.26.16.2100348
 # The matching-adjusted conditional odds ratio of hospitalisation was 1.58 (95% confidence interval 1.50 to 1.67) for COVID-19 patients 
 # infected with a SGTF-associated variant [primarily B.1.1.7], compared to those infected with non-SGTF-associated variants. 
 # The effect was modified by age (p<0.001), with ORs of 0.96-1.13 below age 20 years and 1.57-1.67 in age groups 40 years or older.
-# Nyberg et al. (2021) http://doi.org/10.48550/arXiv.2104.05560 [Preprint (other)]
+# Nyberg et al. (2021) http://doi.org/10.48550/arXiv.2104.05560
 # Using UK data 1 November 2020 to 14 February 2021, while correcting for misclassification of PCR test Spike Gene Target Failure (SGTF)
 # and missingness in SGTF status, we estimate that the hazard of death associated with B.1.1.7 is 61% (42–82%) higher than with 
 # pre-existing variants after adjustment for age, sex, ethnicity, deprivation, residence in a care home, the local authority of residence and test date. 
 # This corresponds to the absolute risk of death for a 55–69-year-old man increasing from 
 # 0.6% to 0.9% (95% confidence interval, 0.8–1.0%) within 28 days of a positive test in the community.
-# Davies et al. (2021) http://doi.org/10.1038/s41586-021-03426-1 [Journal publication]
+# Davies et al. (2021) http://doi.org/10.1038/s41586-021-03426-1
 # 341 samples collected Nov 9 to Dec 20, 2020 were sequenced from two London (UK) hospitals. 
 # 198 (58%) of 341 had B.1.1.7 infection and 143 (42%) had non-B.1.1.7 infection. No evidence was found of an association 
 # between severe disease and death and lineage (B.1.1.7 vs non-B.1.1.7) in unadjusted analyses (prevalence ratio [PR] 0·97 
@@ -62,7 +62,7 @@ T95I;D253G;D614G
 # 1.64 (95% confidence interval 1.32 to 2.04) in patients who tested positive for covid-19 in the community (54906 matched pairs of 
 # participants who tested positive for SARS-CoV-2 in pillar 2 between 1 October 2020 and 29 January 2021). In this comparatively low risk 
 # group, this represents an increase in deaths from 2.5 to 4.1 per 1000 detected cases.
-# Challen et al. (2021) http://doi.org/10.1136/bmj.n579 [Journal publication]
+# Challen et al. (2021) http://doi.org/10.1136/bmj.n579
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # In the Southern Brazilian stats of Rio Grande do Sul, comparing pre-P.1 and post-P.1 waves: 
@@ -72,13 +72,13 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # 40 and 59 years old, this risk was 7.7 times higher (95%CI = 5.01-11.83; p <0.0001) comparing with
 # November-December. This maybe due to a combination of changes in pathogenicity and virulence profiles, and health system overload.
 # [exact mutations used to define P.1 lineage not disclosed in this publication]
-# Ribas Freitas et al. (2021) http://doi.org/10.1101/2021.04.13.21255281 [Preprint (MedRxiv)]
+# Ribas Freitas et al. (2021) http://doi.org/10.1101/2021.04.13.21255281
 # On average across 7 European countries studied, using P.1 defining mutations:
 # Significant shift to infection in those without pre-existing conditions (27.8% vs 89% for non-VOC cases).
 # Significant increase in hospitalization rate (20% vs 7.5% for non-VOC cases).
 # Significant increase in ICU rate (2.1% vs 0.6% for non-VOC cases).
 # Significant increase in health care worker rate (19.8% vs 8.0% for non-VOC cases).
-# Funk et al. (2021) http://doi.org/10.2807/1560-7917.ES.2021.26.16.2100348 [Journal publication]
+# Funk et al. (2021) http://doi.org/10.2807/1560-7917.ES.2021.26.16.2100348
 # In the Parana state of Brazil, patients aged 20-29 years experienced a tripling of their case fatality rate (CFR), from 0.04% to 0.13%, while those aged 
 # 30-39, 40-49, 50-59 experienced approximate CFR doubling comparing February to January in 2021. Notably, 
 # the observed CFR increase coincided with the second consecutive month of declining number of diagnosed SARS-CoV-2 cases. 
@@ -86,7 +86,7 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # identification of a novel SARS-CoV-2 strain circulating in Brazil. 
 # [this is somewhat indirect evidence that assume greatly increasing proportion of P.1 cases in March (70%) compared to 
 # February, but the first official ID of P.1 in Parana state (Feb 16th) may be due to testing procedures rather than actual prevalence]
-# Santos de Oliviera et al. (2021) http://doi.org/10.1101/2021.03.24.21254046 [Preprint (MedRxiv)]
+# Santos de Oliviera et al. (2021) http://doi.org/10.1101/2021.03.24.21254046
 L18F;K417T;E484K;N501Y;H655Y
 
 # On average across 7 European countries studied, using B.1.351 defining mutations:
@@ -94,5 +94,5 @@ L18F;K417T;E484K;N501Y;H655Y
 # Significant increase in hospitalization rate (19.3% vs 7.5% for non-VOC cases).
 # Significant increase in ICU rate (2.3% vs 0.6% for non-VOC cases).
 # PG: seems to be different notations around the LAL deletion, using the minimal shared definition to catch as many as possible.
-# Funk et al. (2021) http://doi.org/10.2807/1560-7917.ES.2021.26.16.2100348 [Journal publication]
+# Funk et al. (2021) http://doi.org/10.2807/1560-7917.ES.2021.26.16.2100348
 D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V

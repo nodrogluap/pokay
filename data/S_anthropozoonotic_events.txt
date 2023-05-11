@@ -1,93 +1,93 @@
 # Six minks were intranasally infected with WA1 isolate, all developed this mutation during infection.
-# Esclera et al. (2021) http://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
+# Esclera et al. (2021) http://doi.org/10.1101/2021.08.05.455290
 H655Y
 
 # Six minks were intranasally infected with WA1 isolate, three developed this furin clevage site mutation during infection,
 # But cleavage site loss during subsequent Vero cell culture is a known phenomenon, therefore this may be artifactual.
-# Esclera et al. (2021) http://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
+# Esclera et al. (2021) http://doi.org/10.1101/2021.08.05.455290
 R682W
 
 # Six minks were intranasally infected with WA1 isolate, three developed this mutation during infection.
-# Esclera et al. (2021) http://doi.org/10.1101/2021.08.05.455290 [Preprint (BioRxiv)]
+# Esclera et al. (2021) http://doi.org/10.1101/2021.08.05.455290
 T259K
 
 # First documented cases of domestic cat and dog infections with the B.1.1.7 strain.
-# Hamer et al. (2021) http://doi.org/10.1111/tbed.14122 [Journal publication]
+# Hamer et al. (2021) http://doi.org/10.1111/tbed.14122
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Unlike wild type or B.1.1.7, B.1.351 lineage virus was able to infect and replicate in common lab mouse strains, with high titer.
 # PG: The virus used in these expriments has a non-typical deletion+sub in the 242 region.
-# Montagutelli et al. (2021) http://doi.org/10.1101/2021.03.18.436013 [Preprint (BioRxiv)]
+# Montagutelli et al. (2021) http://doi.org/10.1101/2021.03.18.436013
 D80A;D215G;L242del;A243P;K417N;E484K;N501Y;D614G;A701V
 
 # Unlike wild type or B.1.1.7, P.1 lineage virus was able to infect and replicate in common lab mouse strains, with high titer.
-# Montagutelli et al. (2021) http://doi.org/10.1101/2021.03.18.436013 [Preprint (BioRxiv)]
+# Montagutelli et al. (2021) http://doi.org/10.1101/2021.03.18.436013
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
 # Mouse-adapted SARS-CoV-2 mutations after 11 serial passages in various immunocompromised mice strains.
-# Rathnasinghe et al. (2021) http://doi.org/10.1101/2021.01.19.21249592 [Journal publication]
+# Rathnasinghe et al. (2021) http://doi.org/10.1101/2021.01.19.21249592
 S155_E156insKLRS;N501Y;H655Y
 
 # These variants dominate in mink infections in North America, sometime supplemented with F486L.  
 # The Y453F variant found in other jurisdictions in mink infections is notably absent in North America.
-# Cai and Cai (2021) http://doi.org/10.1101/2021.03.18.21253734v3 [Preprint (other)]
+# Cai and Cai (2021) http://doi.org/10.1101/2021.03.18.21253734v3
 N501T;G142D
 
 # Observed first in a single tiger (cohort of 5), potential adaptation.
-# McAloose et al. (2020) http://doi.org/10.1128/mBio.02220-20 [Journal publication]
+# McAloose et al. (2020) http://doi.org/10.1128/mBio.02220-20
 Y505H
 
 # Observed first in three tigers (cohort of 5), potential adaptation.
-# McAloose et al. (2020) http://doi.org/10.1128/mBio.02220-20 [Journal publication]
+# McAloose et al. (2020) http://doi.org/10.1128/mBio.02220-20
 G496D
 
 # Observed first in a single tiger (cohort of 5), potential adaptation.
-# McAloose et al. (2020) http://doi.org/10.1128/mBio.02220-20 [Journal publication]
+# McAloose et al. (2020) http://doi.org/10.1128/mBio.02220-20
 F456Y
 
 # Observed first in a single tiger (cohort of 5), potential adaptation.
-# McAloose et al. (2020) http://doi.org/10.1128/mBio.02220-20 [Journal publication]
+# McAloose et al. (2020) http://doi.org/10.1128/mBio.02220-20
 T716I
 
 # Combo observed first in a mouse-adapted SARS-CoV-2 strain (MA10).
-# Leist	et al. (2020) http://doi.org/10.1016/j.cell.2020.09.050 [Journal publication]
+# Leist	et al. (2020) http://doi.org/10.1016/j.cell.2020.09.050
 Q493K,Q498Y,P499T 
 
 # Observed in first of two Netherlands mink cohorts, potential adaptation. 
-# Oreshkova et al. (2020) http://doi.org/10.2807/1560-7917.ES.2020.25.23.2001005 [Journal publication]
+# Oreshkova et al. (2020) http://doi.org/10.2807/1560-7917.ES.2020.25.23.2001005
 G270D,Y462F,F495L
 
 # Observed in second of two Netherlands mink cohorts, potential adaptation.  
-# Oreshkova et al. (2020) http://doi.org/10.2807/1560-7917.ES.2020.25.23.2001005 [Journal publication]
+# Oreshkova et al. (2020) http://doi.org/10.2807/1560-7917.ES.2020.25.23.2001005
 N501T,D634G
 
 # Observed in 4 separate mink farms in Denmark, but not humans, potential adaptation (diff set of farms than F486L).
-# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901 [Journal publication]
+# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901
 N501T
 
 # Observed in 4 separate mink farms in Denmark, but not humans, potential adaptation (diff set of farms than N501T).
-# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901 [Journal publication]
+# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901
 F486L 
 
 # Widespread amongst mink and humans on one farm, one mink on another farm, potential adaptation.
-# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901 [Journal publication]
+# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901
 V367F
 
 # Multiple mink but no humans on one farm in Denmark, potential adaptation.
-# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901 [Journal publication]
+# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901
 G261D
 
 # Observed in 2 separate mink farms in Denmark, but not humans, potential adaptation.
-# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901 [Journal publication]
+# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901
 L177I
 
 # Observed in 4 separate mink farms in Denmark, and Y453F is circulating relatively widely in humans.
-# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901 [Journal publication]
+# Oude Munnink et al. (2020) http://doi.org/10.1126/science.abe5901
 # Welkers et al. (2020) https://academic.oup.com/ve/advance-article/doi/10.1093/ve/veaa094/6025194
 Y453F
 
 # Emergent variants observed in tandem in ferrets post-serial infection.
-# Richard et al. (2020) http://doi.org/10.1038/s41467-020-17367-2 [Journal publication]
+# Richard et al. (2020) http://doi.org/10.1038/s41467-020-17367-2
 N501T,S686G
 
 # This mutation outside the receptor binding domain increases the virus transduction rate in tree shrew (Tupaia belangeri), 

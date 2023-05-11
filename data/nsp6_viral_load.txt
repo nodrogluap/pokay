@@ -4,5 +4,5 @@
 # This variant is found in other Variants of Concern.
 # PG: This variant flanks an endoplasmic reticulum lumenal binding domain, possibly implicating increased virion 
 # production through better recruitment of SARS-CoV-2 replication machinery assembly in the lumen.
-# Ratcliff et al. (2021) http://doi.org/10.1101/2021.02.24.21251989 [Preprint (other)]
+# Ratcliff et al. (2021) http://doi.org/10.1101/2021.02.24.21251989
 S106del;G107del;F108del

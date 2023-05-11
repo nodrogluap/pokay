@@ -2,7 +2,7 @@
 # negative did not imply loss of neutralizing capacity. Our results indicate a sustained humoral response against the 
 # ancestral strain and the D614G, B.1.1.7 and P.1 variants for at least 6 months (last of two samples taken) 
 # in patients previously hospitalized for COVID-19. A weaker protection was however observed for the B.1.351 variant.
-# Betton et al. (2020) http://doi.org/10.1093/cid/ciab308 [Journal publication]
+# Betton et al. (2020) http://doi.org/10.1093/cid/ciab308
 D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # 27yo female nurse reinfected in December 2020 (B.1.177) after initial infection in March 2020 (B.3), i.e. with a 
@@ -11,5 +11,5 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 # three post-reinfection). Neutralizing antibody titres (IC50) before and immediately after re-infection were <300 against 
 # both strains, and jumped >7x upon re-infection. Viral titres were also higher in the second case.
 # Second case also includes N:p.A220V
-# Brehm et al. (2021) http://doi.org/10.3390/v13040661 [Journal publication]
+# Brehm et al. (2021) http://doi.org/10.3390/v13040661
 A222V;D614G

@@ -1,3 +1,3 @@
 # Mouse-adapted SARS-CoV-2 mutations after 11 serial passages in various immunocompromised mice strains.
-# Rathnasinghe et al. (2021) http://doi.org/10.1101/2021.01.19.21249592 [Journal publication]
+# Rathnasinghe et al. (2021) http://doi.org/10.1101/2021.01.19.21249592
 L84S
