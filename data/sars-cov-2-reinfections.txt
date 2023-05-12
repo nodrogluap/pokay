@@ -40,7 +40,7 @@ Qatar/Patient27-secondInfection/2020	C241T,C1302T,C3037T,C14408T,A23403G,G25563T
 Qatar/Patient33-firstInfection/2020	C14805T,G16537A,G26144T
 Qatar/Patient33-secondInfection/2020	C241T,C1302T,C3037T,C14408T,C16989T,A23403G,G25563T,G29554T
 
-# Goldman et al., 2020 https://www.medrxiv.org/highwire/filestream/98238/field_highwire_adjunct_files/0/2020.09.22.20192443-1.docx Table S1
+# Goldman et al., 2020 https://doi.org/10.1101/2020.09.22.20192443 [Preprint (MedRxiv)] Supplementary Material Table S1
 USA/WA-UW39-secondInfectionJuly/2020	C241T,C1059Y,C3037T,C6539Y,G11540K,A12557M,C14408T,C18877T,A23403G,G25483R,G25563T,C27167Y
 
 # Gupta et al., 2020 https://doi.org/10.31219/osf.io/4fmrg [Preprint (other)] Figure 1
