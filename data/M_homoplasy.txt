@@ -5,5 +5,5 @@
 I82T
 
 # In experimental models of SARA_CoV-2 mutational evolution (without immune pressure), this mutation appears convergent. 
-# Borges et al. (2021) https://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv)]
+# Borges et al. (2021) https://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/emph/eoac010]
 H125Y

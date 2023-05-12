@@ -1,5 +1,5 @@
 # Stress granules (SGs) are ephermeral cellular structures that temporarily place mRNAs in a translationally inactive state while cells are stress.  
 # Not surprisingly, viruses can modulate SG formation in infected cells through interactions with SG effector proteins.
 # Methylation of N protein at R95 causes the suppression of SG formation through host-protein interactions. 
-# Cai et al. (2021) https://doi.org/10.1101/2021.03.24.436822 [Preprint (BioRxiv)]
+# Cai et al. (2021) https://doi.org/10.1101/2021.03.24.436822 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.jbc.2021.100821]
 R95X

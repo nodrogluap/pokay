@@ -1,11 +1,11 @@
 # This mutation combination stabilize the RBD-ACE2 binding interface, leading to a 3.8–5.3°C melting temperature increase relative to wild type. 
 # [Relevant for thermostable vaccine antigen design]
-# Ellis et al. (2021) https://doi.org/10.1101/2021.05.15.444222 [Preprint (BioRxiv)]
+# Ellis et al. (2021) https://doi.org/10.1101/2021.05.15.444222 [Preprint (BioRxiv); Now published at: https://doi.org/10.3389/fimmu.2021.710263]
 F392W;Y365F
 
 # This mutation stabilizes the RBD-ACE2 binding interface, leading to a 1.9–2.4°C melting temperature increase relative to wild type.
 # [Relevant for thermostable vaccine antigen design]
-# Ellis et al. (2021) https://doi.org/10.1101/2021.05.15.444222 [Preprint (BioRxiv)]
+# Ellis et al. (2021) https://doi.org/10.1101/2021.05.15.444222 [Preprint (BioRxiv); Now published at: https://doi.org/10.3389/fimmu.2021.710263]
 F392W
 
 # The Ratio of S2 (processed Spike) to full length Spike is higher for this mutation, 
@@ -45,7 +45,7 @@ H69del;V70del;N501Y;P681H
 # Yurkovetskiy et al. (2020) https://doi.org/10.1016/j.cell.2020.09.032 [Journal publication]
 # Negative stain EM shows increased proportion of "one-up" trimer conformation of Spike proteins on the surface of virions, where the up 
 # conformation is presumed to be more likely to bind ACE2.
-# Weissman et al. (2020) https://doi.org/10.1101/2020.07.22.20159905 [Preprint (MedRxiv)]
+# Weissman et al. (2020) https://doi.org/10.1101/2020.07.22.20159905 [Preprint (MedRxiv); Now published at: https://doi.org/10.1016/j.chom.2020.11.012]
 # Estimated free energy change (ddG) for this variant is 2.5 kcal/mol (i.e. stabilizing relative to wild type) 
 # Spratt et al. (2021) https://doi.org/10.1101/2021.03.24.436850 [Preprint (BioRxiv)]
 D614G

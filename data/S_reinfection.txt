@@ -3,7 +3,7 @@
 # in the initial part of South Africa's 4th covid-19 wave (November 2021). 
 # In contrast, there is no population-wide epidemiological evidence of immune escape associated with the Beta or Delta variants.
 # [minimal variant signature for Omicron (B.1.1.529) used based on H69del PCR dropout observed in November 2021 coincident with the rise of Omicron]
-# Pulliam et al. (2021) https://doi.org/10.1101/2021.11.11.21266068 [Preprint (MedRxiv)]
+# Pulliam et al. (2021) https://doi.org/10.1101/2021.11.11.21266068 [Preprint (MedRxiv); Now published at: https://doi.org/10.1126/science.abn4947]
 H69del;E484A
 
 # Three healthcare workers (29-50yo) had confirmed P.1 [Gamma] re-infection in the Amazonas region of Brazil 3-9 months after initial 
@@ -50,7 +50,7 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
 # virus to naive sentinels via direct contact transmission, in contrast to the non-seroconverted animals. They had little 
 # infectious virus and no pathology in the lungs.
 # Initial infection with SARS-CoV-2 lineage A does not prevent heterologous reinfection with B.1.351, but prevents disease and onward transmission.  
-# Yinda et al. (2021) https://doi.org/10.1101/2021.05.05.442780 [Preprint (BioRxiv)]
+# Yinda et al. (2021) https://doi.org/10.1101/2021.05.05.442780 [Preprint (BioRxiv); Now published at: https://doi.org/10.1080/22221751.2021.1943539]
 # 4 health care workers in the 20's and 30's with no underlying conditions and seropositivity or confirmed 2020 SARS-CoV-2 infections were
 # confirmed to have B.1.351 infection during a Februrary 2021 hospital outbreak in Luxembourg. Symptoms were mostly mild on first infection, and
 # milder on second infection.

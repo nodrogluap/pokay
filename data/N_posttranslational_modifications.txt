@@ -1,4 +1,4 @@
 # This variant, caused by three consecutive SNPs, consistently shows a neighbouring serine 206 (S206) site is highly phosphorylated in the mutant N
 # protein via mass spectrometry.
-# Mourier et al. (2021) https://doi.org/10.1101/2021.05.06.21256706 [Preprint (MedRxiv)]
+# Mourier et al. (2021) https://doi.org/10.1101/2021.05.06.21256706 [Preprint (MedRxiv); Now published at: https://doi.org/10.1038/s41467-022-28287-8]
 R203K;G204R

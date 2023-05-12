@@ -377,123 +377,123 @@ A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S37
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # BnAb 002-S21F2 IC50 on the Alpha (B.1.1.7) variant is 1.0x fold the wildtype in 42 COVI.
-# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv)]
+# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.add2032]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # BnAb 002-S21F2 IC50 on the Beta (B.1.351) variant is 0.4x fold the wildtype.
-# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv)]
+# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.add2032]
 D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V	
 
 # BnAb 002-S21F2 IC50 on the Gamma (P.1) variant is 0.6x fold the wildtype.
-# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv)]
+# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.add2032]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I		
 
 # BnAb 002-S21F2 IC50 on the Delta (B.1.617.2) variant is 0.6x fold the wildtype.
-# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv)]
+# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.add2032]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N;G142D	
 
 # BnAb 002-S21F2 IC50 on the Omicron BA.1 variant is 1.0x fold the wildtype.
-# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv)]
+# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.add2032]
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # BnAb 002-S21F2 IC50 on the Omicron BA.2 variant is 0.8x fold the wildtype.
-# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv)]
+# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.add2032]
 T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R
 
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Alpha (B.1.1.7) has an IC50 fold change of 1.19x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Beta (B.1.351) has an IC50 fold change of 0.13x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V	
 
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Kappa (B.1.617.1) has an IC50 fold change of 0.13x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;T95I;H1101D	
 
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Delta (B.1.617.2) has an IC50 fold change of 0.57x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N;G142D	
 
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Omicron BA.1 has an IC50 fold change of 0.30x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Omicron BA.2 has an IC50 fold change of 0.07x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Alpha (B.1.1.7) has an IC50 fold change of 1.44x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Beta (B.1.351) has an IC50 fold change of 0.15x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V	
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Kappa (B.1.617.1) has an IC50 fold change of 2.3x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;T95I;H1101D	
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Delta (B.1.617.2) has an IC50 fold change of 0.15x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N;G142D	
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Omicron BA.1 has an IC50 fold change of 0.08x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Omicron BA.2 has an IC50 fold change of 0.04x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R
 
 # Neutralization of the bsAbs 35B5. Alpha (B.1.1.7) has an IC50 fold change of 1.39x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Neutralization of the bsAbs 35B5. Beta (B.1.351) has an IC50 fold change of 0.13x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V	
 
 # Neutralization of the bsAbs 35B5. Kappa (B.1.617.1) has an IC50 fold change of 0.68x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;T95I;H1101D	
 
 # Neutralization of the bsAbs 35B5. Delta (B.1.617.2) has an IC50 fold change of 0.87x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N;G142D	
 
 # Neutralization of the bsAbs 35B5. Omicron BA.1 has an IC50 fold change of 0.38x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # Neutralization of the bsAbs 35B5. Omicron BA.2 has an IC50 fold change of 0.09x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R
 
 # Neutralization of the 47D10. Alpha (B.1.1.7) has an IC50 fold change of 0.40x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Neutralization of the bsAbs 47D10. Beta (B.1.351) has an IC50 fold change of 0.88x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V	
 
 # Neutralization of the bsAbs 47D10. Kappa (B.1.617.1) has an IC50 fold change of 80.2x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;T95I;H1101D	
 
 # Neutralization of the bsAbs 47D10. Delta (B.1.617.2) has an IC50 fold change of 46.5x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N;G142D	
 
 # Neutralization of the bsAbs 47D10. Omicron BA.1 has an IC50 fold change of 1.26x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # Neutralization of the bsAbs 47D10. Omicron BA.2 has an IC50 fold change of 0.08x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R
 
 # 8.3 fold drop in IC50 of P22A-1D1.
@@ -685,66 +685,66 @@ S477N
 S477R
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ~2.5x drop of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 S494F 
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 F490S 
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 C480S
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 C480R
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 E484K
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 E484G
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 E484D
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 C488Y
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 C488S
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 F490S
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 F490L
 
 # For NTD-binding neutralizing antibody ADI-56479 this mutation causes a 1000x drop in neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 F490I
 
 # For NTD-binding neutralizing antibody ADI-56479 this mutation causes a 1000x drop in neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 F490C
 
 # For NTD-binding neutralizing antibody ADI-56479 this mutation causes a 1000x drop in neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 W152R
 
 # Multiple individuals in two related households were infected with a newly acquired E484K mutation within the B.1.311 lineage. 
 # The timing and patterns of subsequent spread were consistent 
 # with de novo emergence of this E484K variant in the initially affected individual who had been treated with bamlanivimab monotherapy. 
 # The subsequent transmission to close contacts occurred several days after the resolution of symptoms and the end of this patient's quarantine period.
-# Sabin et al. (2021) https://doi.org/10.1101/2021.10.02.21264415 [Preprint (MedRxiv)]
+# Sabin et al. (2021) https://doi.org/10.1101/2021.10.02.21264415 [Preprint (MedRxiv); Now published at: https://doi.org/10.1016/j.diagmicrobio.2022.115656]
 E484K
 
 # Pseudotype for Day 146 virus from a chronically infected patient: resistant to neutralization by mAb C1A-B12, and 
@@ -773,12 +773,12 @@ L18F;T20N;P26S;D138Y;R190S
 # Significant decrease in combined Etesevimab+Bamlanivimab neutralization except at the highest concentration measured.
 # [PG: note that the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
 # therefore the results should be interpreted carefully as transferable to B.1.617 generally]
-# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv)]
+# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.celrep.2021.109415]
 R21T;E154K;Q218H;L452R;E484Q;D614G;P681R;H1101D
 
 # Abrogates Bamlanivimab, Etesevimab, or their combined use neutralization as quantified by measuring virus-encoded luciferase 
 # activity in cell lysates at 16-18 h post transduction.
-# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv)]
+# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.celrep.2021.109415]
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # Anti-NTD CV1 mAb isolated from an early pandemic case was unable to neutralize either partial B.1.351 variant pseudovirus used (A701V or L242del).
@@ -913,11 +913,11 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y
 E484K
 
 # ~20x resistence to mAb CQ038 by B.1.1.7 pseudotyped virus
-# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv)]
+# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41423-021-00648-1]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Abolished neutralization by mAbs CQ026 and CQ038, greatly diminished neutralization by CQ012 and CQ046.
-# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv)]
+# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41423-021-00648-1]
 K417N;E484K;N501Y;D614G
 
 # Resulted in complete loss of neutralization by mAb COVA1-16, a cluster III RBD-specific mAb	
@@ -1420,11 +1420,11 @@ S982A
 D1118H
 
 # Confers a significant PIWAS value decrease (reduced antigenicity) 
-# Haynes et al. (2020) https://doi.org/10.1101/2020.11.23.20235002 [Preprint (MedRxiv)]
+# Haynes et al. (2020) https://doi.org/10.1101/2020.11.23.20235002 [Preprint (MedRxiv); Now published at: https://doi.org/10.1038/s42003-021-02835-2]
 W633P
 
 # Confers a significant PIWAS value decrease (reduced antigenicity)
-# Haynes et al. (2020) https://doi.org/10.1101/2020.11.23.20235002 [Preprint (MedRxiv)]
+# Haynes et al. (2020) https://doi.org/10.1101/2020.11.23.20235002 [Preprint (MedRxiv); Now published at: https://doi.org/10.1038/s42003-021-02835-2]
 S686V
 
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
