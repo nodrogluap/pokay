@@ -1,6 +1,6 @@
 # The hACE2-binding affinity of XBB.1.5 RBD has a dissociation constant KD of 3.4 nM, where S486P is the distinguishing Spike mutation vs parent 
 # XBB.1 RBD with a much weaker KD (19 nM), as measured by surface plasmon resonance (SPR) assays.  
-# Yue et al. (2023) https://doi.org/10.1101/2023.01.03.522427 [Preprint (BioRxiv)]
+# Yue et al. (2023) https://doi.org/10.1101/2023.01.03.522427 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/S1473-3099(23)00010-5]
 G339H;R346T;L368I;S371F;S373P;S375F;D405N;R408S;K417N;N440K;V445P;G446S;N460K;S477N;E484A;F486P;F490S;Q498R;T478K;N501Y;Y505H
 
 # L27, V34 and E90 mutation resulted in ultrahigh affinity binding of the LVE-ACE-2 domain to the widest variety of VOCs, with KDs of 93 pM for binding to the Alpha 
