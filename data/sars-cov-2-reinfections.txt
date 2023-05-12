@@ -12,7 +12,7 @@ Ecuador/USFQ-165/2020
 USA/NV-NSPHL-A0110/2020
 USA/NV-NSPHL-A0207/2020
 
-# Goldman et al., 2020 https://doi.org/10.1101/2020.09.22.20192443 [Preprint (MedrXiv)]
+# Goldman et al., 2020 https://doi.org/10.1101/2020.09.22.20192443 [Preprint (MedRxiv)]
 # See additional non-published genome further in this file.
 USA/WA-UW39/2020
 
@@ -34,7 +34,7 @@ India/Mumbai-PatientC-secondInfection/2020	C3037T,T8022G,C8175A,T22137C,A22374G
 India/Mumbai-PatientD-firstInfection/2020	C3037T,C14408T,C20926T
 India/Mumbai-PatientD-secondInfection/2020	C241T,C313T,C3037T,T3442C,C5700A,C14120T,C14408T,G18213T,C18705T,A23403G,G28881A,G28882A,G28883C
 
-# Abu Raddad et al, 2020 https://doi.org/10.1101/2020.08.24.20179457 [Preprint (MedrXiv)] Figure 3
+# Abu Raddad et al, 2020 https://doi.org/10.1101/2020.08.24.20179457 [Preprint (MedRxiv)] Figure 3
 Qatar/Patient27-firstInfection/2020	C14805T,G16537A,G26144T
 Qatar/Patient27-secondInfection/2020	C241T,C1302T,C3037T,C14408T,A23403G,G25563T
 Qatar/Patient33-firstInfection/2020	C14805T,G16537A,G26144T
