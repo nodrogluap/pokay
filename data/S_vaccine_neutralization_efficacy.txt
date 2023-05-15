@@ -52,19 +52,19 @@ E484K;N501Y
 E484K;N501Y
 
 # Paradigm’s ACE-2 variant LVE/STR chimera neutralizes Delta Variant B.1.617.2 RBD or w.t. SARS-CoV-2 RBD with nearly equal potency determined using Surrogate Viral Neutralization Tests.
-# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)] 
+# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1093/abt/tbad001] 
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950
 
 # Paradigm’s ACE-2 variant LVE/STR chimera neutralizes Beta Variant B.1.351 RBD significantly better than w.t. SARS-CoV-2 RBD. Determined using Surrogate Viral Neutralization Tests.
-# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)] 
+# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1093/abt/tbad001] 
 L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Paradigm’s ACE-2 variant LVE/STR chimera neutralizes Alpha Variant B.1.1.7 RBD significantly better than GenScript IgG FL18-740 w.t. ACE-2 mAB. Determined using Surrogate Viral Neutralization Tests.
-# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)]
+# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1093/abt/tbad001]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Paradigms’ ACE-2 variant LVE/STR chimera binds to SARS-2 Omicron variant B.1.1.529 spike protein trimer with high affinity. Determined using Surrogate Viral Neutralization Tests.
-# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)]
+# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1093/abt/tbad001]
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
@@ -448,7 +448,7 @@ E484K
 # were stimulated with the Spike 15-mer peptide pools (w/ 10 residue overlaps), and showed no significant CD4+ cell count effect for B.1.1.7, 
 # and a slight increase in CD8+ percentage (p=0.0314) by Activation Induced Marker (AIM) assay (cellular immunity measurement). 
 # No signficant change in IF-gamma or IL-5 spot forming cell counts were observed.
-# Tarke et al. (2021) https://doi.org/10.1101/2021.02.27.433180 [Preprint (BioRxiv)]
+# Tarke et al. (2021) https://doi.org/10.1101/2021.02.27.433180 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100355]
 # A single dose of BNT162b2 vaccine demonstrated vaccine effectiveness [symptomatic or asymptomatic in cohort opf routinely NAAT-monitored UK HCWs] 
 # of 72% (95% CI 58-86) 21 days after first dose and 86% (95% CI 76-97) seven days after two doses in the antibody negative cohort. 
 # This cohort was vaccinated when the dominant variant in circulation was B.1.1.7 and demonstrates effectiveness against this variant.
@@ -523,7 +523,7 @@ K417N;E484K;N501Y;D614G
 # were stimulated with the Spike 15-mer peptide pools (w/ 10 residue overlaps), and showed for B.1.351 a CD4+ cell count decrease (29%, p=0.00063)  
 # as well as CD8+ (33%, p=0.0016) by Activation Induced Marker (AIM) assay (cellular immunity measurement). 
 # No signficant change in IF-gamma or IL-5 spot forming cell counts were observed.
-# Tarke et al. (2021) https://doi.org/10.1101/2021.02.27.433180 [Preprint (BioRxiv)]
+# Tarke et al. (2021) https://doi.org/10.1101/2021.02.27.433180 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100355]
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Human sera from 5 two-dose Pfizer vaccinated individuals (47-68 days post 1st-dose) neutralized this variant 3.4x less relative to reference 
@@ -718,14 +718,14 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed no significant change in IC50 serum dilution concentration
 # for sera from BNT162b2 (Pzifer) or mRNA1273 (Moderna) vacinees collected 28 days following booster dose.
-# Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv)]
+# Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1128/mbio.01386-21]
 # Neutralization efficiency (ID50) against B.1.526 reduced 2.3x relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster.
 # Choi et al. (2021) https://doi.org/10.1101/2021.06.28.449914 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.01313-21]
 L5F;T95I;D253G;S477N;D614G;A701V
 
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.6x reduction in both
 # IC50 serum dilution concentration for sera from 5 BNT162b2 (Pzifer) or 3 mRNA1273 (Moderna) vacinees collected 28 days following booster dose.
-# Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv)]
+# Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1128/mbio.01386-21]
 # Detectable antibodies against B.1.526+E484K at various time points using pseudotyped lentivirus neutralization in Moderna vaccinee cohort: Day 43 100%, Day 209 88%.
 # Pegu et al (2021) https://doi.org/10.1101/2021.05.13.444010 [Preprint (BioRxiv)]
 # 2.3x reduction in neutralization (ID50) in sera 3 weeks after one dose of Pfizer/BioNTech BNT162b2 (up to 5 naive and post infection vaccinees)
@@ -767,7 +767,7 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.celrep.2021.109415]
 # B.1.351 pseudotyped lentivirus showed 3.4 and 3.8x reduction in IC50 serum dilution concentration
 # for sera from BNT162b2 (Pzifer) or mRNA1273 (Moderna) vacinees collected 28 days following booster dose.
-# Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv)]
+# Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1128/mbio.01386-21]
 # Vaccine elicited antibodies neutralized virus with the B.1.351 spike protein had an average 3-fold reduction in titer (1:500), 
 # a titer that was still higher than the average titer with which convalescent sera neutralized D614G (1:139). Serum specimens 
 # from individuals vaccinated with the BNT162b2 mRNA vaccine neutralized D614G virus with titers that were on average 7-fold greater 
@@ -782,7 +782,7 @@ D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 # were stimulated with the Spike 15-mer peptide pools (w/ 10 residue overlaps), and showed no significant CD4+ or CD8+ cell count effect for P.1
 # by Activation Induced Marker (AIM) assay (cellular immunity measurement). No signficant change in IF-gamma or IL-5 spot 
 # forming cell counts were observed.
-# Tarke et al. (2021) https://doi.org/10.1101/2021.02.27.433180 [Preprint (BioRxiv)]
+# Tarke et al. (2021) https://doi.org/10.1101/2021.02.27.433180 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100355]
 # Neutralization efficiency (ID50) against P.1 reduced 3.2x relative to D614G wildtype using pseudotyped VSV assay on 8 Moderna vaccinee sera one week post-booster.
 # Choi et al. (2021) https://doi.org/10.1101/2021.06.28.449914 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.01313-21]
 # 1.15x *increase* in neutralization (ID50) in sera 3 weeks after one dose of Pfizer/BioNTech BNT162b2 (up to 5 naive and post infection vaccinees)
@@ -874,17 +874,17 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 # WA1 and B.1.351 FRNT50 titers correlated weakly at the
 # individual level, with some individual’s serum potently neutralizing WA1 while having
 # FRNT50 for B.1.351 below the assay limit of detection (1:20).
-# Bates et al. (2021) https://doi.org/10.1101/2021.04.04.21254881 [Preprint (MedRxiv)]
+# Bates et al. (2021) https://doi.org/10.1101/2021.04.04.21254881 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1038/s41467-021-25479-6]
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 
 # Observed 1.4-fold reduction in neutralization efficiency of Pfizer vaccinee sera (collected 14 days after second dose) 
 # against pseudotype B.1.351 key variants lentivirus. Compare to 8.8-fold reduction against cultured B.1.351 virus.
-# Bates et al. (2021) https://doi.org/10.1101/2021.04.04.21254881 [Preprint (MedRxiv)]
+# Bates et al. (2021) https://doi.org/10.1101/2021.04.04.21254881 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1038/s41467-021-25479-6]
 K417N;E484K;N501Y
 
 # Observed 1.3-fold reduction in neutralization efficiency of Pfizer vaccinee sera (collected 14 days after second dose) 
 # against pseudotype B.1.1.7 key variant lentivirus. Compare to 2.6-fold reduction against cultured B.1.1.7 virus.
-# Bates et al. (2021) https://doi.org/10.1101/2021.04.04.21254881 [Preprint (MedRxiv)]
+# Bates et al. (2021) https://doi.org/10.1101/2021.04.04.21254881 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1038/s41467-021-25479-6]
 # Human sera from 6 two-dose Pfizer vaccinated individuals (47-68 days post 1st-dose) can neutralize both the reference 
 # USA-WA1/2020 strain and the mouse adapted SARS-CoV-2 strain that contains the N501Y spike mutation with similar efficiency.
 # Rathnasinghe et al. (2021) https://doi.org/10.1101/2021.01.19.21249592 [Preprint (MedRxiv)]
@@ -892,7 +892,7 @@ N501Y
 
 # Observed 8.8-fold reduction in neutralization efficiency of Pfizer vaccinee sera (collected 14 days after second dose) against cultured B.1.1.7 sample.
 # Contrast this with 1.3-fold reduction for just the pseudovirus combination of "key" B.1.1.7 mutation N501Y.
-# Bates et al. (2021) https://doi.org/10.1101/2021.04.04.21254881 [Preprint (MedRxiv)]
+# Bates et al. (2021) https://doi.org/10.1101/2021.04.04.21254881 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1038/s41467-021-25479-6]
 H69del;V70del;Y145del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Sera after the second dose of Pfizer showed an average reduction in neutralization titres against the B.1.1.7 + E484K 
@@ -920,7 +920,7 @@ L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;Q677H;R682W;A701V
 # In 10 Pfizer vaccinee sera 7 days or more post second dose (28 days or more since first vaccination), an average 2.2x decrease in reciprocal ID50 value was observed 
 # ten key point mutations in Spike in the P.1 lineage vs wildtype. A 3.8x decrease against the full P.1 type vs WA-1 was observed, with 
 # similar variant ID50 reciprocal value.
-# Wang et al. (2021) https://doi.org/10.1101/2021.03.01.433466 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.03.01.433466 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.chom.2021.04.007]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y
 
 # Monovalent mRNA-1273.351 encodes for the S protein found in the B.1.351 lineage and (2) mRNA-1273.211 comprising a 1:1 mix of mRNA-1273 and mRNA-1273.351. 
@@ -978,29 +978,29 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
 
 # 6 of 11 (55%) vaccine recipients (Moderna or Pfizer), showed 2x reduction in neutralization to a B.1.429 lineage virus.
-# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]
+# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
 S13I;W152C;L452R;D614G
 
 # PBMCs of Pfizer/BioNTech BNT162b2 (n=8) 12-15 days post booster and Moderna mRNA-1273 COVID-19 vaccines (n=11) 13-30 days post-booster 
 # were stimulated with the Spike 15-mer peptide pools (w/ 10 residue overlaps), and showed no significant CD4+ cell count effect for CAL.20C (B.1.429), 
 # and a slight decrease in CD8+ percentage (p=0.0201) by Activation Induced Marker (AIM) assay (cellular immunity measurement). 
 # No signficant change in IF-gamma or IL-5 spot forming cell counts were observed.
-# Tarke et al. (2021) https://doi.org/10.1101/2021.02.27.433180 [Preprint (BioRxiv)]
+# Tarke et al. (2021) https://doi.org/10.1101/2021.02.27.433180 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100355]
 S13I;W152C;L452R;D614G;L938F;K1191N
 
 # In a cohort of 20 patients 8+ weeks after second vaccine dose of Moderna (mRNA-1273) or Pfizer-BioNTech (BNT162b2) vaccines, 
 # ELISA tests show 10x reduced efficacy of a majority of isolated antibodies, but only a modest decrease for vaccine plasma overall.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 E484K
 
 # In a cohort of 20 patients 8+ weeks after second vaccine dose of Moderna (mRNA-1273) or Pfizer-BioNTech (BNT162b2) vaccines, 
 # a modest decrease in neutralization by vaccine plasma was observed.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 N501Y
 
 # In a cohort of 20 patients 8+ weeks after second vaccine dose of Moderna (mRNA-1273) or Pfizer-BioNTech (BNT162b2) vaccines, 
 # a significant (0.5 to 20-fold, but average ~2x) decrease in neutralization by vaccine plasma was observed.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 # In Moderna vaccinee sera, 2.7x reduction in neutralization, and 6.4 for the full B.1.351 Spike mutation complement, but despite the observed decreases, 
 # titers in human vaccinee sera against the B.1.351 variant remained at clinically significant level of ~1/300.
 # Wu et al. (2021) https://doi.org/10.1101/2021.01.25.427948 [Preprint (BioRxiv)]
@@ -1046,7 +1046,7 @@ H69del;V70del;Y144del;Y145del;N501Y;A570D;D614G;P681H
 # 3.5x reduction in neutralization with Moderna vaccinated patient sera after 29 days (1st dose).
 # 2.0x reduction in neutralization with Moderna vaccinated patient sera after 57 days (2nd dose).
 # 2.1x reduction in neutralization with Novavax Phase 1 post-vaccination sera.
-# Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv)]
+# Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.chom.2021.03.002]
 # NVX-CoV2373 [Novavax] vaccine in phase 3 trial was 89.7% (95% CI, 80.2-94.6) effective in preventing COVID-19, with no hospitalizations or 
 # deaths reported. There were five cases of severe Covid-19, all in the placebo group. Post hoc analysis revealed efficacies of 
 # 96.4% (73.8-99.5) and 86.3% (71.3-93.5) against the prototype strain and B.1.1.7 variant, respectively. 

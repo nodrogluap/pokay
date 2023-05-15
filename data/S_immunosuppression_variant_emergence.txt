@@ -6,7 +6,7 @@ L141del;G142del
 
 # Studying 94 COVID-19 extended infection cases with genomics April 1 to October 17, 2020, one case developed 23 mutations in a 19 day period, including
 # this combination in Spike.
-# Landis et al. (2021) https://doi.org/10.1101/2021.05.08.21256775 [Preprint (MedRxiv)]
+# Landis et al. (2021) https://doi.org/10.1101/2021.05.08.21256775 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/mbio.03448-22]
 D138H,E554D,D614G
 
 # Dominant (70%) in day 21 of prolonged infection in immunocompromised host on tacrolimus, steroids and convalescent 

@@ -47,451 +47,451 @@ E484K;R346G
 E484K;K444E
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460K
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460T
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460L
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460R
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460I
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460A
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460F
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460V
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460M
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460P
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460E
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 # Mild escape mutant emergent for class 1 antibody C613 in vitro.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 N460H
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460S
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460Q
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460C
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N460Y
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F456H
 
 # C666 mildly selected for the emergence of the F456S mutation in vitro.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 F456S
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F456G
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F456R
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F456Q
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F456A
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F456C
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F456K
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 # Moderate in vitro selection against class 1 (Spike 'up' conformation) antibodies C683 and C664.
 # Unclassified antibody C666  selected for the emergence of the F456V mutation in vitro.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 F456V
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F456T
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 L455E
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 L455R
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 L455W
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 L455N
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 L455G
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 L452R
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 L452D
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 L452K
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 L452E
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 I472W
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 I472G
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 I472K
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab),
 # and combination treatment with LY-CoV016, but moderate decrease in ACE2 binding affinity.
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 I472D
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y473Q
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y473I
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y473C
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y473V
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y473E
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y473S
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y473T
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y473L
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y473N
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y473M
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y473A
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 V483R
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 V483K
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 V483E
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484F
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab), 
 # and in combination with LY-CoV016 (i.e. proline stiffness disrupts binding sites for both antibodies), but moderate 
 # decrease in ACE2 binding affinity.
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G485P
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G485R
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G485N
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G485K
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G485T
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G485D
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2L28, S2M28, S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 P9S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 P9Q
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28, S2X333
 # Putative mechanism of action is the introduction of a new signal peptide, altering
 # cleavage to occur between residues C15 and V16, thereby eliminating the C15-C136
 # disulfide bond – similarly to escape mutants at positions C15 and C136
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 S12P
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
 # Eliminates the C15-C136 disulfide bond.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 C15F
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
 # Eliminates the C15-C136 disulfide bond.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 C15R
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
 # Eliminates the C15-C136 disulfide bond.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 C15W
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
 # Eliminates the C15-C136 disulfide bond.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 C15S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
 # Eliminates the C15-C136 disulfide bond.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 C15Y
 
 # Escape mutation against all tested Spike N terminal domain antigenic supersite i mAbs S2L28, S2M28, S2X28, S2X333
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 L18P
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 T22P
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 Y28C
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 K77E
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 D80N
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2M28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 A123T
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 C136G
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 C136S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 C136Y
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 P139S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 P139Q
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2L28, S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 # Selected once in passage with mAb COV2-2676.
-# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]
+# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.029]
 F140S
 
 # Selected in passage with mAb COV2-2489 during alanine mutagenesis antibody mapping experiment.
-# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]
+# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.029]
 A123S
 
 # Selected in passage with mAb COV2-2489 during alanine mutagenesis antibody mapping experiment.
-# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]
+# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.029]
 G142A
 
 # Selected in passage with mAb COV2-2489 during alanine mutagenesis antibody mapping experiment.
-# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]
+# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.029]
 F157A
 
 # Selected in passage with mAb COV2-2489 during alanine mutagenesis antibody mapping experiment.
-# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]
+# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.029]
 N164A
 
 # Selected in passage with mAb COV2-2676 during alanine mutagenesis antibody mapping experiment.
-# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]
+# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.029]
 Y144A
 
 # Selected three times in passage with mAb COV2-2489.
-# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]
+# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.029]
 R158S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X333
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 F140C
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28 
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 L141S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28, S2X333
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 # Selected twice in passage with mAb COV2-2489.
-# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]
+# Suryadevara et al. (2021) https://doi.org/10.1101/2021.01.19.427324 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.029]
 G142D
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 G142C
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 Y144N
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 Y144C
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 K147Q
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X333
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 K147T
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2X28, S2X333
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 K147E
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 R158G
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 L244S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)] 
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028] 
 R246G
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 S247R
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 P251L
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 G252D
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2X28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 G252C
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 D253E
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 D253G
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)] 
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028] 
 S255F
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 G257S
 
 # Escape mutation against Spike N terminal domain antigenic supersite i mAb S2L28
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)] 
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028] 
 W258R
 
 # Most and modestly potent escape variant for this position in the RBD for mildly cross-reactive (2003 SARS) monoclonal antibody CR3022
@@ -600,113 +600,113 @@ F392A
 # Mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, but moderate decrease in ACE2 binding affinity
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417D
 
 # Moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2094 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, with modest loss of ACE2 binding affinity.
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 # In vitro selection against class 1 (Spike 'up' conformation) monoclonal antibodies C614, C660, C664, C683, and to a lesser extent C678.
 # In vitro selection against class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody C653.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 K417E
 
 # In vitro selection against class 1 (Spike 'up' conformation) monoclonal antibody C663, and to a lesser extent C613.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 N501Y
 
 # Mild in vitro selection against class 1 (Spike 'up' conformation) monoclonal antibody C613.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 N501H
 
 # Mild in vitro selection against class 3 monoclonal antibody C670.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 N501T
 
 # Mild in vitro selection against class 3 monoclonal antibody C669.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 V503L
 
 # Mild in vitro selection against class 3 monoclonal antibody C669.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 Y508H
 
 # Moderate in vitro selection against both class 3 monoclonal antibodies tested: C669 and C670.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 G504D
 
 # Moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417G
 
 # Moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417F
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417I
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 # In vitro selection against class 1 (Spike 'up' conformation) monoclonal antibody C682, and to a lesser extent C614 and C660
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 K417N
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417A
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417V
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417L
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417Y
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417P
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417H
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 # In vitro selection against class 1 antibody C682
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 K417T
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417W
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417C
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417S
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417M
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 K417Q
 
 # Only (and moderately) effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
@@ -909,75 +909,75 @@ D420Y
 # Ranked mildy effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 D420K
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 D420Q
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 D420N
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 D420M
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 D420A
 
 # Escape mutation against monoclonal antibody LY-CoV016
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 D420E
 
 # Most and mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 A475Y
 
 # Ranked mildly effective mutant against this position in the RBD for moderately neutralizing COV2-2165 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 A475R
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 A475E
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 A475I
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 A475E
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 A475K
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 A475F
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 A475D
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 A475Q
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 A475M
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 A475V
 
 # Only and moderately effective mutant against this position in the RBD for moderately neutralizing COV2-2082 monoclonal antibody
@@ -986,65 +986,65 @@ A475V
 A475N
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G476T
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G476E
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G476R
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G476K
 
 # Class 2 mAb C602 mildly selected for the emergence of this mutation in vitro.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 E484G
 
 # Most but stiil only mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
 # Most and moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484M
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484V
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484H
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484Y
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484F
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484L
 
 # Most btu only mildly effective ranked mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
@@ -1057,7 +1057,7 @@ E484I
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484R
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
@@ -1067,7 +1067,7 @@ E484W
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484C
 
 # "E484A rose in frequency in linkage with F486I, but since E484A is not an escape mutation in our maps it is not shown in other panels"
@@ -1075,33 +1075,33 @@ E484C
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484A
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484N
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484P
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484I
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484Q
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 # Class 2 mAb C602 mildly selected for the emergence of this mutation in vitro.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 E484D
 
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2499 monoclonal antibody
@@ -1234,7 +1234,7 @@ N448P
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 E484T
 
 # Only observed effective escape variant against Regeron's antibody cocktail (REGN10933 and REGN10987) 
@@ -1312,17 +1312,17 @@ G496H
 # Effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 # Class 2 antibodies C627, C602, C671, C643, and class 2/3 antibody C603 selected for the emergence of the E484K mutation in vitro.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 E484K
 
 # Class 3 antibody C669 and C670 mildly selected for the emergence of the N439K mutation in vitro.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 N439K
 
 # Class 3 antibody C669 mildly selected for the emergence of the N440K mutation in vitro (in contrast to N440H which caused mild escape in Class 1/2 mAb C653).
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 N440K
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
@@ -1332,7 +1332,7 @@ F490A
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F490E
 
 # Positive selection (up to 23% of supernatant sequences) after C121 monoclonal antibody assay
@@ -1343,7 +1343,7 @@ F490L
 # Mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F490D
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096 monoclonal antibody
@@ -1351,13 +1351,13 @@ F490D
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2479 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F490K
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F490N
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
@@ -1367,15 +1367,15 @@ F490V
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 # Class 2/3 mAb C603 modestly selected for the emergence of this mutation in vitro.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 F490S
 
 # Ranked mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F490P
 
 # Mildly effective mutant against this position in the RBD for highly neutralizing COV2-2050 monoclonal antibody
@@ -1384,29 +1384,29 @@ F490P
 F490R
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F490G
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F490T
 
 # Most but only mildly effective mutant against this position in the RBD for highly neutralizing COV2-2496 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 S494R
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 S494K
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 S494P
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 S494W
 
 # Escapes mAb REGN10987, part of Regeneron's antibody cocktail. 
@@ -1415,7 +1415,7 @@ S494W
 # Strong positive selection (up to 39% of supernatant sequences) after two rounds of C135 monoclonal antibody passage, overall 76% switch away from Q493 to K or R
 # Weisblum et al. (2020) https://doi.org/10.1101/2020.07.21.214759 [Preprint (BioRxiv)]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Q493K
 
 # Positive selection (up to 45% of supernatant sequences) under two rounds of C135 monoclonal antibody passage, eliminated in subsequent passages
@@ -1436,21 +1436,21 @@ R346K
 # The engineered mutation cause 10-fold or more increase in the disassociation constant with C144, C002 and C121 monoclonal antibodies vs. wild type Spike protein RBD domain AAs.
 # Barnes et al. (2020) https://doi.org/10.1038/s41586-020-2852-1 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 # Class 2 mAb C627 modestly selected for the emergence of this mutation in vitro.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 Q493R 
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Q493Y
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Q493F
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Q493W
 
 # The engineered mutation cause 10-fold or more increase in the disassociation constant with C102, C105 and C144 monoclonal antibodies vs. wild type Spike protein RBD domain AAs.
@@ -1516,7 +1516,7 @@ L452K
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Class 2/3 antibody C628 and class 2 antibody C643 selected for the emergence of the L452R mutation in vitro.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 L452R
 
 # Ranked effective mutant against this position in the RBD for highly neutralizing COV2-2096
@@ -1564,15 +1564,15 @@ F486C
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F486G
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F486K
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F486R
 
 # Ranked moderately effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
@@ -1586,75 +1586,75 @@ F486D
 # Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F486V
 
 # Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F486T
 
 # Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F486P
 
 # Escapes mAb REGN10933 (part of Regeneron's antibody cocktail)
 # Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)]
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y489H
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y489V
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y489L
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y489Q
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y489M
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y489I
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 Y489W
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G504I
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G504V
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G504C
 
 # Escape mutation against monoclonal antibody LY-CoV016, minimal ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 G504L
 
 # Escapes mAb REGN10933 (part of Regeneron's antibody cocktail)
 # Starr et al. (2020) https://doi.org/10.1101/2020.11.30.405472 [Preprint (BioRxiv)]
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F486I
 
 # Escape mutation against monoclonal antibody LY-CoV555 (antibody that forms the basis for Eli Lilly's bamlanivimab)
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 F486L
 
 # Escapes mAb REGN10987 (part of Regeneron's antibody cocktail)
@@ -1664,47 +1664,47 @@ N440D
 # Most effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N487Y
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N487S
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N487T
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N487A
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N487E
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N487K
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N487H
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N487L
 
 # Escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N487F
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N487D
 
 # Escape mutation against monoclonal antibody LY-CoV016, moderate ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N487G
 
 # Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
@@ -1714,7 +1714,7 @@ N487R
 # Ranked modestly effective mutant against this position in the RBD for highly neutralizing COV2-2832 monoclonal antibody
 # Greaney et al. (2020) https://doi.org/10.1016/j.chom.2020.11.007 [Journal publication]
 # Weak escape mutation against monoclonal antibody LY-CoV016, high ACE2 binding affinity loss
-# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]
+# Starr et al. (2021) https://doi.org/10.1101/2021.02.17.431683 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100255]
 N487Q
 
 # Escape variant 47% appearance in 2 passages against Regeneron monoclonal antibody RGN10987 @ 10ug/mL

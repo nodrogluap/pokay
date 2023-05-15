@@ -51,7 +51,7 @@ H69del;V70del;N501Y;P681H
 D614G
 
 # CryoEM analysis of B.1.1.7 demonstrates an increased propensity for 'up', receptor accessible conformation of the Spike protein trimer. 
-# Cai et al. (2021) https://doi.org/10.1101/2021.04.13.439709 [Preprint (BioRxiv)]
+# Cai et al. (2021) https://doi.org/10.1101/2021.04.13.439709 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1126/science.abi9745]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # The L18F and D80A of the B.1.351 lineage lead to reconfiguration of the N-terminal segment despite the disulfide between
@@ -59,11 +59,11 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # which causes a shift of the nearby loop 144-155 and must also reconfigure the adjacent disorder
 # loop (residues 246-260), both of which form part of the neutralizing epitopes...bringing large changes in the antigenic surface in this
 # region.
-# Cai et al. (2021) https://doi.org/10.1101/2021.04.13.439709 [Preprint (BioRxiv)]
+# Cai et al. (2021) https://doi.org/10.1101/2021.04.13.439709 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1126/science.abi9745]
 L18F;D80A;L242del
 
 # CryoEM reveals the P.1 trimer to adopt exclusively a conformation in which one of the receptor-binding domains is in the “up” position.
-# Wang et al. (2021) https://doi.org/10.1101/2021.03.01.433466 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.03.01.433466 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.chom.2021.04.007]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y
 
 # Estimated free energy change (ddG) for this variant is 1.51 kcal/mol (i.e. stabilizing relative to wild type) 
