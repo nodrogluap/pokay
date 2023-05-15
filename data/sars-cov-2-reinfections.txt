@@ -4,11 +4,11 @@
 HongKong/HKU-200823-001/2020
 HongKong/HKU-200823-002/2020
 
-# Prado-Vivar et al., 2020 https://papers.ssrn.com/abstract=3686174
+# Prado-Vivar et al., 2020 https://papers.ssrn.com/abstract=3686174 [Preprint (other)]
 Ecuador/USFQ-163/2020
 Ecuador/USFQ-165/2020
 
-# Tillet et al., 2020 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680955
+# Tillet et al., 2020 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3680955 [Preprint (other); Now published at: https://doi.org/10.1016/S1473-3099(20)30764-7]
 USA/NV-NSPHL-A0110/2020
 USA/NV-NSPHL-A0207/2020
 
