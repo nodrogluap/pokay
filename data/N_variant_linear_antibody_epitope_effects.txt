@@ -10,9 +10,9 @@ D3L
 S235F
 
 # Confers a significant PIWAS value decrease (reduced antigenicity)
-# Haynes et al. (2020) https://doi.org/10.1101/2020.11.23.20235002 [Preprint (MedRxiv)]
+# Haynes et al. (2020) https://doi.org/10.1101/2020.11.23.20235002 [Preprint (MedRxiv); Now published at: https://doi.org/10.1038/s42003-021-02835-2]
 T166A
 
 # Confers a significant PIWAS value decrease (reduced antigenicity)
-# Haynes et al. (2020) https://doi.org/10.1101/2020.11.23.20235002 [Preprint (MedRxiv)]
+# Haynes et al. (2020) https://doi.org/10.1101/2020.11.23.20235002 [Preprint (MedRxiv); Now published at: https://doi.org/10.1038/s42003-021-02835-2]
 D402P

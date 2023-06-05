@@ -1,37 +1,37 @@
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.1 (from Botswana/R40B59_BHP_3321001248/2021) were 28.7x-fold lower (95% CI: 0.03x-0.05) than against 
 # US-WA1/2020 using an infectious cDNA clone of mNG USA-WA1/2020.
-# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv)]
+# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv); Now published at: https://doi.org/10.1080/22221751.2022.2099305]
 A67V;D614G;D796Y;E484A;G142D;G339D;G446S;G496S;H69del;H655Y;ins214EPE;K417N;L212I;N211del;N440K;N501Y;N679K;N764K;N856K;N969K;P681H;Q493R;Q498R;Q954H;S371L;S373P;S375F;S477N;T95I;T478K;T547K;V70del;V143del;Y144del;Y145del;Y505H
 
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.2 (from South Africa/CERI-KRISP-K032307/2021) were 3.9x-fold lower (95% CI: 0.14x-0.17x) than against 
 # US-WA1/2020 using an infectious cDNA clone of mNG USA-WA1/2020.
-# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv)]
+# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv); Now published at: https://doi.org/10.1080/22221751.2022.2099305]
 A27S;D405N;D614G;D796Y;E484A;G142D;G339D;H655Y;K417N;L24del;N440K;N501Y;N679K;N764K;N969K;P25del;P26del;P681H;Q493R;Q498R;Q954H;R408S;S371F;S373P;S375F;S477N;T19I;T376A;T478K;V213G;Y505H
 
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.2.12.1 (from USA/NY-CDC-ASC210722700/2022) were 3.9x-fold lower (95% CI: 0.14x-0.18x) than against 
 # US-WA1/2020 using an infectious cDNA clone of mNG USA-WA1/2020.
-# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv)]
+# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv); Now published at: https://doi.org/10.1080/22221751.2022.2099305]
 A27S;D405N;D614G;D796Y;E484A;G142D;G339D;H655Y;K417N;L24del;L452Q;N440K;N501Y;N679K;N764K;N969K;P25del;P26del;P681H;Q493R;Q498R;Q954H;R408S;S371F;S373P;S375F;S477N;S704L;T19I;T376A;T478K;V213G;Y505H
 
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.3 (from South Africa/NICD-N22404/2021) were 4.2x-fold lower (95% CI: 0.15x-0.20x) than against 
 # US-WA1/2020 using an infectious cDNA clone of mNG USA-WA1/2020.
-# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv)]
+# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv); Now published at: https://doi.org/10.1080/22221751.2022.2099305]
 A67V;D405N;D614G;D796Y;E484A;G142D;G339D;G446S;H69del;H655Y;K417N;L212I;N211del;N440K;N501Y;N679K;N764K;N969K;P681H;Q493R;Q498R;Q954H;S371F;S373P;S375F;S477N;T95I;T478K;V70del;V143del;Y144del;Y145del;Y505H
 
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.4/5 (from ) were 17.2x-fold lower (95% CI: 0.6x-0.7x) than against 208-428 972-1834 4.3-4.7
 # US-WA1/2020 usiong an infectious cDNA clone of mNG USA-WA1/2020.
-# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv)]
+# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv); Now published at: https://doi.org/10.1080/22221751.2022.2099305]
 H69del;L24del;S373P;N969K;H655Y;V213G;G142D;A27S;Q954H;N501Y;P25del;T19I;N440K;N679K;N764K;Y505H;D796Y;T478K;S371F;K417N;T376A;F486V;G339D;R408S;P681H;S375F;D405N;Q498R;S477N;E484A;V70del;P26del;D614G;L452R
 
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # XD (from ) were 1.5x-fold lower (95% CI: 0.05x-0.07x) than against 208-428 972-1834 4.3-4.7
 # US-WA1/2020 usiong an infectious cDNA clone of mNG USA-WA1/2020.
-# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv)]
+# Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv); Now published at: https://doi.org/10.1080/22221751.2022.2099305]
 T95I;S373P;Q493R;N969K;H655Y;N856K;G142D;A27S;Q954H;N501Y;N440K;T19R;N679K;N764K;L212I;Y505H;T547K;D796Y;T478K;G496S;K417N;S371L;G339D;R158del;P681H;ins214EPE;F157del;S375F;Q498R;G446S;S477N;E156G;N211del;E484A;L981F;D614G
 
 # Using molecular dynamics simulation, ACE2-RBD (Omicron) complex is destabilized by the E484A and Y505H mutations and stabilized by S477N and N501Y mutations.
@@ -87,267 +87,267 @@ G75V;T76I;L452Q;F490S;D614G;T859N;R246_D253delinsN
 E484K;N501Y
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Broad USA variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 Q677P
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in D614G variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 D614G
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Cluster 5/Mink variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 l692V
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Cluster 5/Mink variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 N501T
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Cluster 5/Mink variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 Y453F
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Cluster 5/Mink variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 H69_V70del
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Florida variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 K1191N
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Florida variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 Q493K
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.258 variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 N439K
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.258 variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 H69_V70del
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Epsilon (B.1.427/429) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 L452R
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Epsilon (B.1.427/429) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 W152C
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Epsilon (B.1.427/429) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 S13I
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.526.1 [B.1.637] variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 L452R
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.526.1 [B.1.637] variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 Y144del
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.526.1 [B.1.637] variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 D80G
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 A701V
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 E484K
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 S477N
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 D253G
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 T95l
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in lota (B.1.526) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 L5F
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Eta (B.1.525) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 Q677H
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Eta (B.1.525) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 E484K
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Eta (B.1.525) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 Y144del
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Eta (B.1.525) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 H69_V70del
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Zeta (P.2) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 E484K
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2) from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 A701V
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2) from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 Q677P
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2) from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 Q677H
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2) from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 K417T
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2) from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 K417N
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Zeta (P.2) from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 L18F
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 N501Y
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 E484K
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 K417T
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Gamma (P.1) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 L18F
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 A701V
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 N501Y
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 E484K
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 K417N
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 L242_L244del
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 D215G
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 D80A
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Beta (B.1.351) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 L18F
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 T716
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 S892A
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 P681H
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 A570D
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 N501Y
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 Y144del
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Alpha (B.1.1.7) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 H69_V70del
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 P681R
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 T478K
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 L452R
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Delta (B.1.617.2+AY.x) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 T19R
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.617 [India] variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 P681R
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.617 [India] variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 E484Q
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in B.1.617 [India] variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 L452R
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 P681H
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 T478K
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 S477N
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 K417N
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel polymorphism is detected in Omicron (B.1.1.529 [BA.1]) variant from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 T95I
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Omicron (B.1.1.529 [BA.1]) from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 L452R
 
 # Using the Agena MassARRAY® SARS-CoV-2 Variant Panel this viral variant contributes to variant algorithm Omicron (B.1.1.529 [BA.1]) from 391 RNA specimens.
-# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]
+# Hernandez et al. (2022) https://doi.org/10.1101/2022.05.28.22275691 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/spectrum.01736-22]
 L18F
 
 # Utilizing shark derived vnarbodies, S375F mutation on Omicron RBD disrupts the structure of β-strand, which inhibits binding with 20G6. 20G6 binds to a hidden 
@@ -377,123 +377,123 @@ A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S37
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # BnAb 002-S21F2 IC50 on the Alpha (B.1.1.7) variant is 1.0x fold the wildtype in 42 COVI.
-# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv)]
+# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.add2032]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # BnAb 002-S21F2 IC50 on the Beta (B.1.351) variant is 0.4x fold the wildtype.
-# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv)]
+# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.add2032]
 D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V	
 
 # BnAb 002-S21F2 IC50 on the Gamma (P.1) variant is 0.6x fold the wildtype.
-# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv)]
+# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.add2032]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I		
 
 # BnAb 002-S21F2 IC50 on the Delta (B.1.617.2) variant is 0.6x fold the wildtype.
-# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv)]
+# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.add2032]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N;G142D	
 
 # BnAb 002-S21F2 IC50 on the Omicron BA.1 variant is 1.0x fold the wildtype.
-# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv)]
+# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.add2032]
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # BnAb 002-S21F2 IC50 on the Omicron BA.2 variant is 0.8x fold the wildtype.
-# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv)]
+# Kumar et al. (2022) https://doi.org/10.1101/2022.05.13.491770 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.add2032]
 T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R
 
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Alpha (B.1.1.7) has an IC50 fold change of 1.19x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Beta (B.1.351) has an IC50 fold change of 0.13x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V	
 
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Kappa (B.1.617.1) has an IC50 fold change of 0.13x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;T95I;H1101D	
 
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Delta (B.1.617.2) has an IC50 fold change of 0.57x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N;G142D	
 
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Omicron BA.1 has an IC50 fold change of 0.30x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # Neutralization of the bsAbs Bi-Nab35B5-47D10. Omicron BA.2 has an IC50 fold change of 0.07x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Alpha (B.1.1.7) has an IC50 fold change of 1.44x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Beta (B.1.351) has an IC50 fold change of 0.15x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V	
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Kappa (B.1.617.1) has an IC50 fold change of 2.3x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;T95I;H1101D	
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Delta (B.1.617.2) has an IC50 fold change of 0.15x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N;G142D	
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Omicron BA.1 has an IC50 fold change of 0.08x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # Neutralization of the bsAbs Bi-Nab47D10-35B5. Omicron BA.2 has an IC50 fold change of 0.04x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R
 
 # Neutralization of the bsAbs 35B5. Alpha (B.1.1.7) has an IC50 fold change of 1.39x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Neutralization of the bsAbs 35B5. Beta (B.1.351) has an IC50 fold change of 0.13x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V	
 
 # Neutralization of the bsAbs 35B5. Kappa (B.1.617.1) has an IC50 fold change of 0.68x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;T95I;H1101D	
 
 # Neutralization of the bsAbs 35B5. Delta (B.1.617.2) has an IC50 fold change of 0.87x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N;G142D	
 
 # Neutralization of the bsAbs 35B5. Omicron BA.1 has an IC50 fold change of 0.38x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # Neutralization of the bsAbs 35B5. Omicron BA.2 has an IC50 fold change of 0.09x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R
 
 # Neutralization of the 47D10. Alpha (B.1.1.7) has an IC50 fold change of 0.40x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Neutralization of the bsAbs 47D10. Beta (B.1.351) has an IC50 fold change of 0.88x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 D80A;D215G;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V	
 
 # Neutralization of the bsAbs 47D10. Kappa (B.1.617.1) has an IC50 fold change of 80.2x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H;T95I;H1101D	
 
 # Neutralization of the bsAbs 47D10. Delta (B.1.617.2) has an IC50 fold change of 46.5x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N;G142D	
 
 # Neutralization of the bsAbs 47D10. Omicron BA.1 has an IC50 fold change of 1.26x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # Neutralization of the bsAbs 47D10. Omicron BA.2 has an IC50 fold change of 0.08x.
-# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv)]
+# Yuan et al. (2022) https://doi.org/10.1101/2022.05.11.491588 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.00775-22]
 T19I;L24_A27delinsS;G142D;V213G;G339D;S371F;S373P;S375F;T376A;D405N;R408S;K417N;N440K;S477N;T478K;E484A;Q493K;Q498R;N501Y;Y505H;D614G;H655Y;N679K;P681H;N764K;D796Y;Q954H;N969K;S135R;T24I;G489S;L264F;T327I;L264F;T492I;P132H;L105_G107del;P323L;R392C;I42V;T112I;T223I;T9I;Q19E;A63T;ORF6;D61L;P13L;E31_S33del;R203K;G204R;S413R
 
 # 8.3 fold drop in IC50 of P22A-1D1.
@@ -685,66 +685,66 @@ S477N
 S477R
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ~2.5x drop of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 S494F 
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 F490S 
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 C480S
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 C480R
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 E484K
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 E484G
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 E484D
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 C488Y
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 C488S
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 F490S
 
 # For highly potent RBD-binding neutralizing antibody ADI-56443 this mutation causes ablation of neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 F490L
 
 # For NTD-binding neutralizing antibody ADI-56479 this mutation causes a 1000x drop in neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 F490I
 
 # For NTD-binding neutralizing antibody ADI-56479 this mutation causes a 1000x drop in neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 F490C
 
 # For NTD-binding neutralizing antibody ADI-56479 this mutation causes a 1000x drop in neutralization efficiency.
-# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv)] 
+# Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21] 
 W152R
 
 # Multiple individuals in two related households were infected with a newly acquired E484K mutation within the B.1.311 lineage. 
 # The timing and patterns of subsequent spread were consistent 
 # with de novo emergence of this E484K variant in the initially affected individual who had been treated with bamlanivimab monotherapy. 
 # The subsequent transmission to close contacts occurred several days after the resolution of symptoms and the end of this patient's quarantine period.
-# Sabin et al. (2021) https://doi.org/10.1101/2021.10.02.21264415 [Preprint (MedRxiv)]
+# Sabin et al. (2021) https://doi.org/10.1101/2021.10.02.21264415 [Preprint (MedRxiv); Now published at: https://doi.org/10.1016/j.diagmicrobio.2022.115656]
 E484K
 
 # Pseudotype for Day 146 virus from a chronically infected patient: resistant to neutralization by mAb C1A-B12, and 
@@ -773,12 +773,12 @@ L18F;T20N;P26S;D138Y;R190S
 # Significant decrease in combined Etesevimab+Bamlanivimab neutralization except at the highest concentration measured.
 # [PG: note that the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
 # therefore the results should be interpreted carefully as transferable to B.1.617 generally]
-# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv)]
+# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.celrep.2021.109415]
 R21T;E154K;Q218H;L452R;E484Q;D614G;P681R;H1101D
 
 # Abrogates Bamlanivimab, Etesevimab, or their combined use neutralization as quantified by measuring virus-encoded luciferase 
 # activity in cell lysates at 16-18 h post transduction.
-# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv)]
+# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.celrep.2021.109415]
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # Anti-NTD CV1 mAb isolated from an early pandemic case was unable to neutralize either partial B.1.351 variant pseudovirus used (A701V or L242del).
@@ -905,19 +905,19 @@ E484K
 # ten key point mutations in Spike in the P.1 lineage vs wildtype or WA-1.
 # N terminal domain targeting monoclonal antibodies 5-7, 4-8, 4-18 and 2-17 have abrogated neutralization activity against the
 # ten key point mutations in Spike in the P.1 lineage vs wildtype or WA-1.
-# Wang et al. (2021) https://doi.org/10.1101/2021.03.01.433466 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.03.01.433466 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.chom.2021.04.007]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y
 
 # Monoclonal antibodies 13G9 and 58G6 maintain fairly high neutralization potency, compared to others interfacing with E484K.
-# Li et al. (2021) https://doi.org/10.1101/2021.04.19.440481 [Preprint (BioRxiv)]
+# Li et al. (2021) https://doi.org/10.1101/2021.04.19.440481 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41467-021-26539-7]
 E484K
 
 # ~20x resistence to mAb CQ038 by B.1.1.7 pseudotyped virus
-# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv)]
+# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41423-021-00648-1]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Abolished neutralization by mAbs CQ026 and CQ038, greatly diminished neutralization by CQ012 and CQ046.
-# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv)]
+# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41423-021-00648-1]
 K417N;E484K;N501Y;D614G
 
 # Resulted in complete loss of neutralization by mAb COVA1-16, a cluster III RBD-specific mAb	
@@ -958,7 +958,7 @@ L455Y;F456L
 K444T;V445S;G446T
 
 # Reduction in neutralization by mAbs COVA2-15 (~9x), B38 (~14x), S309 (~190x) by this B.1.1.7 pseudotyped virus model.
-# Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv)]
+# Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.chom.2021.03.002]
 # Lessens the potency of mAbs	COVA2-17 (~5x, similar to N501Y alone), COVA1-12 (~11x) and COVA1-21 (>100x), which do not compete allosterically.
 # Rees-Spear et al. (2021) https://doi.org/10.1101/2021.01.15.426849 [Preprint (BioRxiv)]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
@@ -988,10 +988,10 @@ D80A
 Y453F
 
 # Resistent to class 2/3 antibody C603.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 # Clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
-# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]
+# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03207-w]
 R346S
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb 2H04 and SARS2-01.
@@ -1012,7 +1012,7 @@ T345S
 # Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
 # Clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
-# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]
+# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03207-w]
 R346G
 
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows resistence to mAb SARS2-01.
@@ -1081,7 +1081,7 @@ T478I
 # Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody BD23 on 501Y.V2 ("South African") lineage background 
 # Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody C119 (also known as CB6 or JS016) on 501Y.V2 ("South African") lineage background
 # Ablates ELISA test binding for class 2 (Spike 'up' or 'down' conformation, RBD targeting) monoclonal antibody P2B-2F6 on 501Y.V2 ("South African") lineage background
-# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)]
+# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41591-021-01285-x]
 # Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384, and S2H58.
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 K417N;E484K;N501Y
@@ -1106,7 +1106,7 @@ H69del;V70del;Y144del;Y145del;N501Y;A570D;D614G;P681H
 D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # 5 antibodies tested were less potent against K417N by ten-fold or more (class 1 mAbs)
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 # Pseudotyped virus model ablates binding by RBD-directed mAbs CB6 and 910-30 (targeting the inner side of the RBD).
 # Pseudotyped virus model impairs binding by RBD-directed mAbs 4-20 and REGN10933.
 # Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
@@ -1115,13 +1115,13 @@ K417N
 # Ablates binding by class 2 mAbs such as C144 that directly interfere with ACE2 binding, 
 # but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
-# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]
+# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03207-w]
 # Mutant screen in neutralization assay with a broad range of monoclonal antibodies shows high resistence to 4 antibodies, 
 # and broad low level resistence against much of the rest of the panel.
 # Liu et al. (2020) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
 # Resistent to all seven class 2 (Spike 'up' or 'down' conformation, RBD targeting) antibodies tested, with 10-fold 
 # or greater reduction in neutralization (plus notable reudction in two unclassfied mAbs).
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 # Ablates Class 1 receptor-binding-motif targeting antibodies COV2-2050, 1B07, COVOX-384 and S2H58.
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication]
 # Pseudotyped virus model ablates neutralization by RBD-directed mAbs 4-20, 2-4, 2-43, 2-30, 2-15, LY-Cov555, C121.
@@ -1175,7 +1175,7 @@ T345A;L517R
 
 # Ablates binding of Spike N terminal domain targeting monoclonal antibody 4A8, by disruption of N5-loop/supersite loop, may work synergistically with 
 # 501Y.V2 ("South African") lineage background variant R246I to disrupt paratope binding. [PG: del extent simplified to accomodate minor position realignments]
-# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)]
+# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41591-021-01285-x]
 # B.1.351 pseudotyped virus model ablates neutralization by N-terminal-domain-directed mAbs 5-24, 4-8, 4A8, 2-17, and 4-19 (independent of S:p.R246I).
 # Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 L242del
@@ -1183,7 +1183,7 @@ L242del
 # Ablates binding of Spike N terminal domain targeting monoconal anibody 4A8, this residue is known to be key for CDR-H1 mediated
 # interactions. May work synergistically with 501Y.V2 ("South African") lineage background deletion 242del,243del,244del to disrupt paratope binding
 # via steric clash with residue R102.
-# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)]
+# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41591-021-01285-x]
 # B.1.351 pseudotyped virus model ablates neutralization by N-terminal-domain-directed mAbs 5-24, 4-8, 4A8, and 4-19 (independent of S:pL242_L244del).
 # Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 R246I
@@ -1201,7 +1201,7 @@ L452R
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding,
 # but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response)
 # show pronounced increase in binding to the variant.
-# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]
+# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03207-w]
 V483A
 
 # Resistent to some neutralizing antibodies: mAbs X593, 261-262, H4, and P2B-2F6
@@ -1211,7 +1211,7 @@ F490L
 # Resistent to some neutralizing antibodies: mAbs 157, 247, CB6, P2C-1F11, B38, and CA1
 # Li et al. (2020) https://doi.org/10.1016/j.cell.2020.07.012 [Journal publication]
 # Resistent to some class 1 (Spike 'up' conformation) antibodies tested.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 A475V
 
 # Resistent to neutralizing mAb H00S022
@@ -1223,17 +1223,17 @@ A475V
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
 # but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
-# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]
+# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03207-w]
 # Resistent to class 3 antibodies (i.e. Abs that do not directly interfere with ACE2 binding).
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 N439K
 
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
 # but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
-# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]
+# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03207-w]
 # Resistent to class 3 antibodies (i.e. Abs that do not directly interfere with ACE2 binding).
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 # Greater than 10-fold reduction of binding effeiency vs wild type for mAb LY-CoV555.
 # Abolishes binding of mAb ADG-1.
 # Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830 [Journal publication]
@@ -1244,28 +1244,28 @@ N440K
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
 # but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
-# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]
+# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03207-w]
 S477N
 
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
 # but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
-# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]
+# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03207-w]
 V367F
 
 # Ablates binding by class 3 mAbs such as C135 that do not directly interfere with ACE2 binding, 
 # but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
-# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]
+# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03207-w]
 A475V
 
 # Ablates binding by class 2 mAbs such as C144 that directly interfere with ACE2 binding, 
 # but clonal somatic mutations of memory B cells at 6.2 months (evolving humoral immune response) 
 # show pronounced increase in binding to the variant. 
-# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]
+# Gaebler et al. (2021) https://doi.org/10.1101/2020.11.03.367391 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03207-w]
 # Somewhat resistent to some class 1 (Spike 'up') antibodies tested.
 # Mix of non- to strongly resistent in class 2 antibodies tested.
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 # Massive reduction in binding efficiency vs wild type for mAbs CB6/LY-CoV16 and LY-CoV555.
 # Rappazzo et al. (2021) https://doi.org/10.1126/science.abf4830 [Journal publication]
 Q493R
@@ -1308,28 +1308,28 @@ I344P
 
 # Alters cleavage to occur between residues C15 and V16, thereby eliminating the C15-C136 disulfide bond – similarly to escape mutants at positions C15 and C136.
 # This in turn decreases to varying degrees N terminal domain antigen recognition by supersite i mAbs S2L28, S2M28, S2X28, S2X333, 4A8.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 S12P
 
 # A variant in low % circulation, predicted to have a similar effect to the experimentally verified S12P, which introduces a new signal peptide, altering
 # cleavage to occur between residues C15 and V16, thereby eliminating the C15-C136 disulfide bond – similarly to escape mutants at positions C15 and C136.
 # This in turn decreases to varying degrees N terminal domain antigen recognition by supersite i mAbs S2L28, S2M28, S2X28, S2X333, 4A8.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 S12F
 
 # Massive reduction in S2L28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i", but no effect on other mAbs within that supersite
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 # Ablates neutralization by N-terminal-domain-targeting mAbs 4-19.
 # Impairs neutralization by N-terminal-domain-targeting mAbs 4A8 and 2-17.
 # Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 L18F
 
 # Massively decreases N terminal domain antigen recognition by supersite i mAbs S2L28, S2M28, S2X28, S2X333, 4A8.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 C136Y
 
 # Massively decreases N terminal domain antigen recognition by supersite i mAbs S2M28, S2X28, S2X333, 4A8 (but not S2L28).
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 K147T
 
 # Wildtype elicits immune response, COVID-19 cohort epitope score > 99th percentile of the 497 pre-pandemic controls, mutant drops PIWAS epitope score from 1% to 0.17% (poorer immune recognition)
@@ -1339,21 +1339,21 @@ K147T
 # Massive reduction in S2X28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i" 
 # Massive reduction in S2X333 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i" 
 # Massive reduction in 4A8 monoclonal antibody EC50 (i.e. ablated recognition) 
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 # Abolishes neutralization by N-terminal-domain-directed mAbs 5-24, 4-8, and 4A8.
 # Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 Y144del
 
 # Massive reduction in 4A8 monoclonal antibody EC50 (i.e. ablated recognition), but much milder effect on mAbs within antigenic supersite "i"
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 H146Y
 
 # Major reduction in S2X28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i", but little effect on other mAbs within that supersite
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 N149Q
 
 # Not associated with significant reduction of EC50 (recognition) in any antigenic supersite "i" monoclonal antibodies.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 A222V
 
 # Massive reduction in S2L28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i"
@@ -1361,30 +1361,30 @@ A222V
 # Massive reduction in S2X28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i"
 # Minor reduction in S2X333 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i"
 # Massive reduction in 4A8 monoclonal antibody EC50 (i.e. ablated recognition)  
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 R246A
 
 # Massive reduction in S2L28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i", but no effect on other mAbs within that supersite
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 D253G
 
 # Massive reduction in S2L28 monoclonal antibody EC50 (i.e. ablated recognition), within antigenic supersite "i", but no effect on other mAbs within that supersite
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 D253Y
 
 # Not associated with significant reduction of EC50 (recognition) in any antigenic supersite "i" monoclonal antibodies.
-# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]
+# McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 S254F
 
 # Wildtype elicits immune response, COVID-19 cohort epitope score > 99th percentile of the 497 pre-pandemic controls, mutant drops PIWAS epitope score from 3% to 1.2% (poorer immune recognition)
 # Together with other B1.1.7 lineage mutational changes (Spike: Y144del, A570D, P681H, Nucleoprotein: D3L, S235F) resulted in only 2 or 579 individuals (0.3% of the population) having a dramatic reduction in PIWAS antigen scores, which reflects the peak epitope signal along the entire antigen.
 # Haynes et al. (2021) https://doi.org/10.1101/2021.01.06.20248960 [Preprint (MedRxiv)]
 # 4 antibodies tested were less potent against K417N by ten-fold or more, in both mAb classes 1 and 3
-# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]
+# Wang et al. (2021) https://doi.org/10.1101/2021.01.15.426911 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41586-021-03324-6]
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 # Reduction in neutralization by mAbs COVA1-18 (~4x), COVA2-15 (~9x), S309 (~3x)
-# Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv)]
+# Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.chom.2021.03.002]
 # Lowered	the	neutralization potency of mAb COVA1-12 to the	limit	of the assay.
 # Decrease in potency	was	observed against the N501Y pseudotype	for the cluster IX mAb COVA2-17.
 # Rees-Spear et al. (2021) https://doi.org/10.1101/2021.01.15.426849 [Preprint (BioRxiv)]
@@ -1420,18 +1420,18 @@ S982A
 D1118H
 
 # Confers a significant PIWAS value decrease (reduced antigenicity) 
-# Haynes et al. (2020) https://doi.org/10.1101/2020.11.23.20235002 [Preprint (MedRxiv)]
+# Haynes et al. (2020) https://doi.org/10.1101/2020.11.23.20235002 [Preprint (MedRxiv); Now published at: https://doi.org/10.1038/s42003-021-02835-2]
 W633P
 
 # Confers a significant PIWAS value decrease (reduced antigenicity)
-# Haynes et al. (2020) https://doi.org/10.1101/2020.11.23.20235002 [Preprint (MedRxiv)]
+# Haynes et al. (2020) https://doi.org/10.1101/2020.11.23.20235002 [Preprint (MedRxiv); Now published at: https://doi.org/10.1038/s42003-021-02835-2]
 S686V
 
 # Ablates Class 3 N-terminal domain targeting antibody COV2-2489, diminishes COV2-2676.
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 # Reduction in neutralization by mAbs COVA1-18 (~4x), COVA2-15 (~9x).
 # PG: these effects are laregly missing in the deletion-alone data
-# Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv)]
+# Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.chom.2021.03.002]
 H69del;V70del;N501Y
 
 # Reduces neutralization by structurally unmapped mAb COVA1-21 (cluster XI).

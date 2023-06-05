@@ -19,18 +19,18 @@ N501Y
 
 # In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears 
 # convergent, especially on a D614 wildtype background. 
-# Borges et al. (2021) https://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv)]
+# Borges et al. (2021) https://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/emph/eoac010]
 H66R
 
 # In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears 
 # convergent, especially ona D614 wildtype background. 
-# Borges et al. (2021) https://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv)]
+# Borges et al. (2021) https://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/emph/eoac010]
 N74K
 
 # In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears convergent. 
-# Borges et al. (2021) https://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv)]
+# Borges et al. (2021) https://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/emph/eoac010]
 D215G
 
 # In experimental models of SARS-CoV-2 mutational evolution (without immune pressure), this mutation in the N terminal domain appears convergent. 
-# Borges et al. (2021) https://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv)]
+# Borges et al. (2021) https://doi.org/10.1101/2021.05.19.444774 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/emph/eoac010]
 H655Y

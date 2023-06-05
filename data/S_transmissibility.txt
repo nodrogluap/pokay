@@ -6,23 +6,23 @@ S373P;E484A
 # Normalized for particle number, on ACE2.293T cells
 # showed that the B.1.617 spike protein was >2-fold increase in
 # infectivity relative to D614G wild type.
-# Tada et al. (2021) https://doi.org/10.1101/2021.05.14.444076 [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.05.14.444076 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103341]
 L452R;E484Q;P681R;D614G
 
 # Normalized for particle number, on ACE2.293T cells
 # showed that the B.1.618 spike protein was about as infective as D614G wild type.
-# Tada et al. (2021) https://doi.org/10.1101/2021.05.14.444076 [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.05.14.444076 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103341]
 Y145del;H146del;E484K;D614G
 
 # Increased infectivity of the B.1.617 spike was attributed to L452R, which itself caused a 3.5-fold increase in infectivity relative to D614G wild type. 
 # [In combination with E484Q caused a somewhat less 3-fold increase]
-# Tada et al. (2021) https://doi.org/10.1101/2021.05.14.444076 [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.05.14.444076 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103341]
 # The L452R mutation increased the infectivity more than two-fold in these conditions.
 # Mishra et al. (2021) https://doi.org/10.1101/2021.10.04.463028 [Preprint (BioRxiv)]
 L452R;D614G
 
 # The combination caused a 3-fold increase in infectivity relative to D614G wild type. [compare to 3.5x for L452R alone]
-# Tada et al. (2021) https://doi.org/10.1101/2021.05.14.444076 [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.05.14.444076 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103341]
 L452R;E484Q;D614G
 
 # Using a pseudovirus assay, RBD-specific mutation E484Q did not significantly confer infectivity advantage to the spike particles.
@@ -79,34 +79,34 @@ N440K
 # Davies et al. (2021) https://doi.org/10.1126/science.abg3055 [Journal publication]
 # Primary cases infected with B.1.1.7 had an increased transmissibility of 1.5-1.7 times that of primary cases infected with other 
 # lineages. The increased transmissibility of B.1.1.7 was multiplicative across age and viral load.
-# Lyngse et al. (2021) https://doi.org/10.1101/2021.04.16.21255459 [Preprint (MedRxiv)]
+# Lyngse et al. (2021) https://doi.org/10.1101/2021.04.16.21255459 [Preprint (MedRxiv); Now published at: https://doi.org/10.1038/s41467-021-27202-x]
 # At the national level (Italy), we estimated a mean relative transmissibility of B.1.1.7 (compared to historical lineages) ranging 
 # between 1.55 and 1.57 (with confidence intervals between 1.45 and 1.66).
-# Stefanelli et al. (2021) https://doi.org/10.1101/2021.04.06.21254923 [Preprint (MedRxiv)]
+# Stefanelli et al. (2021) https://doi.org/10.1101/2021.04.06.21254923 [Preprint (MedRxiv); Now published at: https://doi.org/10.2807/1560-7917.es.2022.27.5.2100429]
 # Ontario, Feb 2021: The secondary attack rate for VOC index cases in this matched cohort was 1.31 times higher than non-VOC index cases (RR=1.31, 95%CI 1.14-1.49)
 # Buchan et al. (2021) ttps://www.medrxiv.org/content/10.1101/2021.03.31.21254502v1
 # Oslo, Norway: Within households, we find an increase in the secondary attack rate by 60% (20% 114%) compared to other variants. 
 # In general, we find a significant increase in the estimated reproduction number of 24% (95% CI 0% - 52%), or an absolute 
 # increase of 0.19 compared to other variants.
-# Lindstrøm et al. (2021) https://doi.org/10.1101/2021.03.29.21254122 [Preprint (MedRxiv)]
+# Lindstrøm et al. (2021) https://doi.org/10.1101/2021.03.29.21254122 [Preprint (MedRxiv); Now published at: https://doi.org/10.1080/23744235.2021.1977382]
 # Based on ∼300,000 RT-PCR samples collected from December 6th 2020 to February 10th 2021 in Israel, 
 # the B.1.1.7 is 45% (95% CI:20-60%) more transmissible than the wild-type strain, and become dominant in Israel within 3.5 weeks.
 # Munitz et al. (2021) https://doi.org/10.1016/j.xcrm.2021.100264 [Journal publication]
 # Based on 36920 COVID Symptom Study app users reported SARS-CoV-2 test positivity in late 2020, 
 # Rt of B.1.1.7 was 1.35x (95% CI 1.02-1.69) relative to pre-existing variants. However, Rt fell below 1 during regional and 
 # national lockdowns, even in regions with high proportions of infections with the B.1.1.7 variant.
-# Graham et al. (2021) https://doi.org/10.1016/s2468-2667(21)00055-4
+# Graham et al. (2021) https://doi.org/10.1016/s2468-2667(21)00055-4 [Journal publication]
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # The relative transmissibility of P.1 estimated at the national level (Italy) varied according to the assumed 
 # degree of cross-protection granted by infection with other lineages and ranged from 1.12 (95%CI 1.03-1.23) in the 
 # case of complete immune evasion by P.1 to 1.39 (95%CI 1.26-1.56) in the case of complete cross-protection.
 # PG: variant list has been abbreviated due to mixed K417 bases in this lineage, potential miscalls of deletions
-# Stefanelli et al. (2021) https://doi.org/10.1101/2021.04.06.21254923 [Preprint (MedRxiv)]
+# Stefanelli et al. (2021) https://doi.org/10.1101/2021.04.06.21254923 [Preprint (MedRxiv); Now published at: https://doi.org/10.2807/1560-7917.es.2022.27.5.2100429]
 L18F;T20N;P26S;D138Y;R190S;E484K;N501Y;D614G;H655Y
 
 # Exhibits an estimated 18.6-24% increase in transmissibility relative to wild-type circulating strains. a.k.a. 20C/L452R or B.1.427/B.1.429.
-# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]
+# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
 # Lineages bearing these spike mutations comprised 54.4% of the total sequences from January, compared to 15.7% in November. Household 
 # contacts exposed to the "California" or "West Coast" variants (B.1.427 and B.1.429) were at higher risk of infection compared 
 # to household contacts exposed to lineages lacking these variants (0.36 vs 0.29, RR=1.28; 95% CI:1.00-1.64).
@@ -124,5 +124,5 @@ S13I;W152C;L452R
 # in France to compare variant spread. Compared to January to March 2021, B.1.351 variant had a significant 
 # transmission advantage over B.1.1.7 in some regions (15.1 to 16.1% in Île-de-France and 16.1 to 18.8% in Hauts-de-France).
 # This shift in transmission advantage is consistent with the immune evasion abilities of B.1.351 and the high levels of immunization in these regions.
-# Roquebert et al. (2021) https://doi.org/10.1101/2021.05.12.21257130 [Preprint (MedRxiv)]
+# Roquebert et al. (2021) https://doi.org/10.1101/2021.05.12.21257130 [Preprint (MedRxiv); Now published at: https://doi.org/10.2807/1560-7917.es.2021.26.23.2100447]
 K417N;E484K;N501Y;D614G

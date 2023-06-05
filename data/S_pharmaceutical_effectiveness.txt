@@ -1,325 +1,325 @@
 # Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 R346W
 
 # Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 T345A
 
 # Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 D420N
 
 # Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 Y449D
 
 # Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 F486S
 
 # Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N487D
 
 # Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 T345A
 
 # Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 L452R
 
 # Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 R346W
 
 # Inhibition of Wuhan-Hu-1 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 F486S
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 R346W
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 D420N
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 K444N
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N460K
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N487D
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 Y449D
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 L452R
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 F486S
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 F490S
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 T345A
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 R346W
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N354T
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 Y369F
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 D420N
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 K444N
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 L452R
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N487D
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 R346W
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 D420N
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N450K
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 K444N
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 L452R
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N487D
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 F486S
 
 # Inhibition of Omicron (B.1.1.529 [BA.1]) RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 F490S
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 R346W
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 D420N
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 K444N
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 Y449D
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 T345A
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N354T
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 Y369F
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 L441Q
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 S446N
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 Y449D
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N450K
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 L452R
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 F486S
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes under no vaccination results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 F490S
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 T345A
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 R346W
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N354T
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 Y369F
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 D420N
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 L441Q
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 K444N
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 S446N
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 Y449D
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N450K
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 L452R
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N460K
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 F486S
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N487D
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 F490S
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 T345A
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 R346W
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N354T
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 1/2 mRNA vaccines results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 Y369F
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 D420N
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 L441Q
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 K444N
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 S446N
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 Y449D
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N450K
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 L452R
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N460K
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 F486S
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 N487D
 
 # Inhibition of Omicron BA.2 RBD point mutant pseudotypes due to 3 mRNA vaccine doses results in high relative infection for this mutation, for individuals previously infected.
-# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313
+# Witte et al. (2022) https://doi.org/10.1101/2022.08.17.504313 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41467-023-35927-0]
 F490S
 
 # 4th antigenic exposure with Omicron (B.1.1.529 [BA.1])(n=29) infection increased variant specific plasma antibody and memory B cell responses as well as overall increased strain specific memory in individuals aged 22 –79 years, median age=33.5 years. Data collected 2.4 months after 3rd vaccination.
-# Wang et al. (2022) https://outbreak.info/resources/2022.08.11.503601
+# Wang et al. (2022) https://doi.org/10.1101/2022.08.11.503601 [Preprint (BioRxiv); Now published at: https://doi.org/10.1084/jem.20221006]
 A67V;D614G;D796Y;E484A;G142D;G339D;G446S;G496S;H69del;H655Y;ins214EPE;K417N;L212I;N211del;N440K;N501Y;N679K;N764K;N856K;N969K;P681H;Q493R;Q498R;Q954H;S371L;S373P;S375F;S477N;T95I;T478K;T547K;V70del;V143del;Y144del;Y145del;Y505H
 
 # 3rd exposure to antigen by Delta (B.1.617.2) (n=24) breakthrough increases the number of memory B cells that produce antibodies with comparable potency and breadth to a 3rd mRNA vaccine dose in individuals aged 21 –63 years, median age=30 years. Data collected 5.5 months after 2nd vaccination.
-# Wang et al. (2022) https://outbreak.info/resources/2022.08.11.503601
+# Wang et al. (2022) https://doi.org/10.1101/2022.08.11.503601 [Preprint (BioRxiv); Now published at: https://doi.org/10.1084/jem.20221006]
 E484A;N501Y
 
 # Omicron (B.1.1.529 [BA.1]) have higher sensitivity to inhibition by soluble angiotensin converting enzyme 2 (ACE2) and the endosomal inhibitor chloroquine compared 
@@ -487,9 +487,9 @@ L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;R716I;S982A;D1119H
 
 # This mutated version of RBD completely abolishes the binding to a therapeutic antibody, Bamlanivimab, in vitro.
-# Liu et al. (2021) https://doi.org/10.1101/2021.02.16.431305 [Preprint (BioRxiv)]
+# Liu et al. (2021) https://doi.org/10.1101/2021.02.16.431305 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1080/19420862.2021.1919285]
 # Tixagevimab, Regdanvimab and COR-101 display reduced binding affinity to virus pseudotyped as RBD from B.1.351.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 K417N,E484K,N501Y
 
 # VSV pseudotype B.1.351 entry mediated by the S proteins of the B.1.351 variant was completely resistant to blocking by REGN10989 and Bamlanivimab.
@@ -504,7 +504,7 @@ D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
 # Tixagevimab, Regdanvimab and COR-101 display reduced binding affinity to virus pseudotyped as RBD from P.1.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 K417T;E484K;N501Y
 
 # Bamlanivimab (LY-CoV555) entirely lost its neutralizing activity due to the central location of
@@ -514,39 +514,39 @@ K417T;E484K;N501Y
 # Bamlanivimab (LY-CoV555) lost ~5x binding against this isolated mutation.
 # Cligavimab lost ~4x binding against this isolated mutation.
 # Regdanvimab lost ~4x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 L452R
 
 # COR-101 lost ~6x binding against this isolated mutation.
 # Estesevimab lost ~40x binding against this isolated mutation.
 # Regdanvimab lost ~8x binding against this isolated mutation.
 # m396 lost ~10x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 E406W
 
 # COR-101 lost ~6x binding against this isolated mutation.
 # Estesevimab lost ~100x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 K417N
 
 # COR-101 lost ~16x binding against this isolated mutation.
 # Estesevimab lost ~16x binding against this isolated mutation.
 # m396 lost ~8x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 K417T
 
 # Cligavimab lost ~8x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 K444Q
 
 # Cligavimab lost ~16x binding against this isolated mutation.
 # Imdevimab lost ~16x binding against this isolated mutation (the only RBD variant to do so).
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 G446V
 
 # Bamlanivimab (LY-CoV555) lost ~4x binding against this isolated mutation.
 # Casirivimab lost ~300x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 Y543F
 
 # COR-101 lost ~50x binding against this isolated mutation.
@@ -554,56 +554,56 @@ Y543F
 # Sotrovimab lost ~30x binding against this isolated mutation.
 # Tixagevimab lost ~15x binding against this isolated mutation.
 # m396 lost ~8x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 A475V
 
 # Bamlanivimab (LY-CoV555) lost ~8x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 E484A
 
 # Bamlanivimab (LY-CoV555) lost ~16x binding against this isolated mutation.
 # Casirivimab lost ~16x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 E484K
 
 # Bamlanivimab (LY-CoV555) lost ~20x binding against this isolated mutation.
 # Casirivimab lost ~4x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 E484Q
 
 # Casirivimab lost ~5x binding against this isolated mutation.
 # Estesevimab lost ~10x binding against this isolated mutation.
 # Regdanvimab lost ~10x binding against this isolated mutation.
 # Tixagevimab lost ~10x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 F486K
 
 # Bamlanivimab (LY-CoV555) lost ~8x binding against this isolated mutation.
 # Regdanvimab lost ~32x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 S494P
 
 # COR-101 lost ~8x binding against this isolated mutation.
 # Regdanvimab lost ~6x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 N501F
 
 # Estesevimab lost ~6x binding against this isolated mutation.
 # m396 lost ~16x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 N501S
 
 # Estesevimab lost ~12x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 N501T
 
 # COR-101 lost ~8x binding against this isolated mutation.
 # Regdanvimab lost ~6x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 N501Y
 
 # CR3022 (SARS-targeting mAb) cross-reactivity lost ~4x binding against this isolated mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 A520S
 
 # Bamlanivimab (LY-CoV555) lost ~32x binding against this double mutation.
@@ -612,7 +612,7 @@ A520S
 # Estesevimab lost ~32x binding against this double mutation.
 # Regdanvimab lost ~4x binding against this double mutation.
 # Tixagevimab lost ~12x binding against this double mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 E484K;K417N
 
 # COR-101 lost ~12x binding against this double mutation.
@@ -623,7 +623,7 @@ E484K;K417N
 # Regdanvimab lost ~8x binding against this double mutation.
 # Sotrovimab lost ~4x binding against this double mutation.
 # Tixagevimab lost ~12x binding against this double mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 N439K;Y453F
 
 # Casirivimab lost >50x binding against this mutation.
@@ -632,7 +632,7 @@ Y453F
 
 # Bamlanivimab (LY-CoV555) lost ~10x binding against this double mutation.
 # Tixagevimab lost ~16x binding against this double mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 S477N;E484K
 
 # Bamlanivimab (LY-CoV555) lost ~64x binding against this double mutation.
@@ -641,12 +641,12 @@ S477N;E484K
 # Estesevimab lost ~16x binding against this double mutation.
 # Regdanvimab lost ~32x binding against this double mutation.
 # Tixagevimab lost ~10x binding against this double mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 N501Y;E484K
 
 # COR-101 lost ~20x binding against this double mutation.
 # Estesevimab lost ~16x binding against this double mutation.
 # Regdanvimab lost ~6x binding against this double mutation.
 # M396 lost ~10x binding against this double mutation.
-# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv)]
+# Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 N501Y;K417N

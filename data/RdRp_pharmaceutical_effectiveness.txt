@@ -99,12 +99,12 @@ D484Y
 # in 10uM remdesivir. V166L is outside the active polymerase site. 
 # EC50 in a plaque reduction assay was 2.3x in the passage experiment, but only 1.5x when introduced
 # on a WA1 backbone and measured using a luciferase assay.
-# Checkmahomed et al. (2022) https://doi.org/10.1101/2022.02.07.479493 [Preprint (BioRxiv)]
+# Checkmahomed et al. (2022) https://doi.org/10.1101/2022.02.07.479493 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/aac.00198-22]
 V166L;P323L
 
 # This mutation (discovered in a immunocomprimised patient with protracted COVID-19 given remdesivir) is associated with a ~6-fold in remdesivir IC50. 
 # (i.e. increased resistance to treatment) in vitro, at some cost to viral fitness otherwise.
-# Gandhi et al. (2021) https://doi.org/10.1101/2021.11.08.21266069 [Preprint (MedRxiv)]
+# Gandhi et al. (2021) https://doi.org/10.1101/2021.11.08.21266069 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1038/s41467-022-29104-y]
 # Report a 2.5x reduction in remdesivir EC50 in the presence of this mutation.
 # Szemiel et al (2021) https://doi.org/10.1371/journal.ppat.1009929 [Journal publication]
 E802D

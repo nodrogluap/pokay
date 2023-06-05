@@ -11,7 +11,7 @@ N856K
 # (measuring Spike furin cleavage processivity) increased 11x relative to wild type (15.3 vs 1.4). [del ~157 truncated due to ambiguity]
 # Furthermore the RNA ratio of Delta versus Alpha-spike/Delta-backbone continuously increased from 2.8 on day 1 
 # to 9.8 on day 5 post infection in a coinfection model in HAEs, suggesting the spike gene drives the improved replication of Delta variant.
-# Liu et al. (2021) https://doi.org/10.1101/2021.08.12.456173v3 [Preprint (BioRxiv)]
+# Liu et al. (2021) https://doi.org/10.1101/2021.08.12.456173v3 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.celrep.2022.110829]
 T19R;G142D;E156G;F157del;L452R;T478K;D614G;P681R;D950N
 
 # Modelling the Alpha variant in primary human airway epithelial (HAE) cultures, S1 to full length Spike ratio 
@@ -19,7 +19,7 @@ T19R;G142D;E156G;F157del;L452R;T478K;D614G;P681R;D950N
 # is less efficient than Delta (11x vs wildtype using a P681R mutation instead). [del ~144 changed due to ambiguity]
 # Furthermore the RNA ratio of Delta versus Alpha-spike/Delta-backbone continuously increased from 2.8 on day 1 
 # to 9.8 on day 5 post infection in a co-infection model in HAEs, suggesting the spike gene drives the improved replication of Delta variant.
-# Liu et al. (2021) https://doi.org/10.1101/2021.08.12.456173v3 [Preprint (BioRxiv)]
+# Liu et al. (2021) https://doi.org/10.1101/2021.08.12.456173v3 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.celrep.2022.110829]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H 
 
 # This mutation alone accounts for most of the increased infectivity of the Alpha variant, as determined by modelling the infectivity
@@ -35,7 +35,7 @@ P681H
 # In primary human airway epithelial cultures, S1 to full length Spike ratio (measuring Spike furin cleavage 
 # processivity) increase 1.9x relative to wild type (2.7 vs 1.4). 
 # This is the Delta variant with the P681R furin cleavage site mutation absent. [del ~157 truncated due to ambiguity]
-# Liu et al. (2021) https://doi.org/10.1101/2021.08.12.456173v3 [Preprint (BioRxiv)]
+# Liu et al. (2021) https://doi.org/10.1101/2021.08.12.456173v3 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.celrep.2022.110829]
 T19R;G142D;E156G;F157del;L452R;T478K;D614G;D950N
 
 # ~4.5x cleavage of S2 relative to WA1 (D614G) wildtype by Delta (B.1.617.2) variant as measured by mass spectrometry of Vero-TMPRSS culture
@@ -66,7 +66,7 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I
 
 # Quantification of the band intensities showed that the P681R mutation, which lies near the proteolytic processing site, 
 # caused a small increase in proteolytic processing as measured by a 2-fold decrease in the ratio of S/S2.
-# Tada et al. (2021) https://doi.org/10.1101/2021.05.14.444076 [Preprint (BioRxiv)]
+# Tada et al. (2021) https://doi.org/10.1101/2021.05.14.444076 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103341]
 P681R;D614G
 
 # ~4x more efficient S2 domain cleavage compared to wild type in Caco-2 cells, mid-range of three cell line tested (Vero and Calu-3).
@@ -184,18 +184,18 @@ E484K
 L452R;E484K;P681R
 
 # In one of eight cell lines tested (293T lung cells), a modest increase in cell entry was observed.
-# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv)]
+# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.celrep.2021.109415]
 D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 
 # In two of eight cell lines tested (Caco-2 intenstinal and Calu-3 lung), a modest increase in cell entry was observed. This
 # increase was not observed in a Calu-3 cell line with overexpressed ACE2.
 # [the virus tested as B.1.617 overlaps only partially with the Spike mutation lists used by PANGO, CDC, etc. for this lineage
 # therefore the results should be interpreted carefully as transferable to B.1.617 generally]
-# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv)]
+# Hoffman et al. (2021) https://doi.org/10.1101/2021.05.04.442663 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.celrep.2021.109415]
 R21T;E154K;Q218H;L452R;E484Q;D614G;P681R;H1101D
 
 # Live virus was tested ex vivo in reconstituted brochial epithelium, and out competed wild type.
-# Touret et al. (2021) https://doi.org/10.1101/2021.03.22.436427 [Preprint (BioRxiv)]
+# Touret et al. (2021) https://doi.org/10.1101/2021.03.22.436427 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.00850-21]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Lentiviral pseudotyped with this individual mutation from B.1.1.7
@@ -358,7 +358,7 @@ H69del;V70del;Y453F;I692V;M1229I
 # variant does not contributing to human cell entry fitness.
 # Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 # Decreased stability of RBD expression in yeast, suggesting decreased Spike protein stability.
-# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.06.006]
 Y453F
 
 # Lentiviral pseudotyped with this mutation from Mink Cluster 5 lineage,
@@ -413,11 +413,11 @@ H69del;V70del;Y453F;M1229I
 H69del;V70del;Y453F;S1147L
 
 # Decreased stability of RBD expression in yeast, suggesting decreased Spike protein stability.
-# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.06.006]
 N501Y
 
 # Increased stability of RBD expression in yeast, suggesting increased Spike protein stability.
-# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.06.006]
 L452R
 
 # VSV pseudotype B.1.1.7 showed no significant difference in cell entry relative to wild type in 6 cell lines.
@@ -455,26 +455,26 @@ P681R
 
 # We observed increased entry by pseudoviruses carrying the L452R mutation compared to D614G alone, 
 # with a 6.7 to 22.5-fold increase in 293T cells and a 5.8 to 14.7-fold increase in human airway organoids.
-# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]
+# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
 L452R
 
 # Pseudoviruses carrying the W152C mutation demonstrated small increases in cell entry compared to 
 # D614G alone in 293T cells and human airway organoids.
-# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]
+# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
 W152C
 
 # The entry efficiencies of Spike pseudotyped viruses bearing N501Y Variant 1 (B.1.1.7) mutant were
 # about 3 to 4.4 times higher than that of the WT pseudovirus when viral input
 # was normalized, suggesting that these spike variants promote the infectivity of
 # SARS-CoV-2.
-# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv)]
+# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41423-021-00648-1]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # The entry efficiencies of Spike pseudotyped viruses bearing N501Y Variant 2 (B.1.351) mutant were
 # about 3 to 4.4 times higher than that of the WT pseudovirus when viral input
 # was normalized, suggesting that these spike variants promote the infectivity of
 # SARS-CoV-2.
-# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv)]
+# Hu et al. (2021) https://doi.org/10.1101/2021.01.22.427749 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41423-021-00648-1]
 K417N;E484K;N501Y;D614G
 
 # Mutation at the S2 internal fusion peptide site shown in vitro to reduce Spike subunit S2 cleavage into active S2'.

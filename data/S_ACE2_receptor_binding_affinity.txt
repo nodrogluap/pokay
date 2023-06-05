@@ -1,30 +1,30 @@
 # The hACE2-binding affinity of XBB.1.5 RBD has a dissociation constant KD of 3.4 nM, where S486P is the distinguishing Spike mutation vs parent 
 # XBB.1 RBD with a much weaker KD (19 nM), as measured by surface plasmon resonance (SPR) assays.  
-# Yue et al. (2023) https://doi.org/10.1101/2023.01.03.522427
+# Yue et al. (2023) https://doi.org/10.1101/2023.01.03.522427 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/S1473-3099(23)00010-5]
 G339H;R346T;L368I;S371F;S373P;S375F;D405N;R408S;K417N;N440K;V445P;G446S;N460K;S477N;E484A;F486P;F490S;Q498R;T478K;N501Y;Y505H
 
 # L27, V34 and E90 mutation resulted in ultrahigh affinity binding of the LVE-ACE-2 domain to the widest variety of VOCs, with KDs of 93 pM for binding to the Alpha 
 # B1.1.7. Values were obtained with LVE-ACE-2/mAB chimeras containing the Y-T-E sequence that enhances binding to the FcRn receptor, which in turn is expected to 
 # extend biological half-life 3-4-fold.
-# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)] 
+# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1093/abt/tbad001] 
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H 
 
 # L27, V34 and E90 mutation resulted in ultrahigh affinity binding of the LVE-ACE-2 domain to the widest variety of VOCs, with KDs of 507 pM for binding to the Delta 
 # B.1.617.2. Values were obtained with LVE-ACE-2/mAB chimeras containing the Y-T-E sequence that enhances binding to the FcRn receptor, which in turn is expected to 
 # extend biological half-life 3-4-fold.
-# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)]
+# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1093/abt/tbad001]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950
 
 # L27, V34 and E90 mutation resulted in ultrahigh affinity binding of the LVE-ACE-2 domain to the widest variety of VOCs, with KDs of 73 pM for binding to the Omicron 
 # B.1.1.529. Values were obtained with LVE-ACE-2/mAB chimeras containing the Y-T-E sequence that enhances binding to the FcRn receptor, which in turn is expected to 
 # extend biological half-life 3-4-fold.
-# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)] 
+# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1093/abt/tbad001] 
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
 # L27, V34 and E90 mutation resulted in ultrahigh affinity binding of the LVE-ACE-2 domain to the widest variety of VOCs, with KDs of 78fM for binding to the Omicron 
 # BA.2. Values were obtained with LVE-ACE-2/mAB chimeras containing the Y-T-E sequence that enhances binding to the FcRn receptor, which in turn is expected to 
 # extend biological half-life 3-4-fold.
-# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)] 
+# Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1093/abt/tbad001] 
 A27S;D405N;D614G;D796Y;E484A;G142D;G339D;H655Y;K417N;L24del;N440K;N501Y;N679K;N764K;N969K;P25del;P26del;P681H;Q493R;Q498R;Q954H;R408S;S371F;S373P;S375F;S477N;T19I;T376A;T478K;V213G;Y505H
 
 # Causes 1.6 fold decrease in KD value for antibody binding of P22A-1D1.
@@ -162,172 +162,172 @@ F486Y
 # The N501Y mutation had the biggest effect on ACE2 affinity of any VOC mutation tested, increasing the
 # affinity ~10 fold to KD ~7 nM, by increasing the k(on) ~1.8 fold and decreasing the k(off) by ~ 7
 # fold as measured by surface plasmon resonance. 
-# Barton et al. (2021) https://doi.org/10.1101/2021.05.18.444646 [Preprint (BioRxiv)]
+# Barton et al. (2021) https://doi.org/10.1101/2021.05.18.444646 [Preprint (BioRxiv); Now published at: https://doi.org/10.7554/elife.70658]
 N501Y
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.51x increase in binding (KD) relative to D614G,
 # mostly due to decreased in "off-rate" a.k.a. dissociation rate (Kdis).
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;H69del;V70del
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a slight decrease in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;Y144del
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 2.52x increase in binding (KD) relative to D614G,
 # mostly due to decreased in "off-rate" a.k.a. dissociation rate (Kdis). Compare to full Spike variant complements for major lineages
 # containing this variant subset: 5.43x (B.1.1.7 aka Alpha), 3.56x (B.1.351 aka Beta), 4.24x (P.1 aka Gamma).
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;N501Y
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.18x increase in binding (KD) relative to D614G,
 # mostly due to decreased in "off-rate" a.k.a. dissociation rate (Kdis).
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;A570D
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.23x decrease in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;P681H
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.12x decrease in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;T716I
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.3x decrease in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;S982A
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.23x increase in binding (KD) relative to D614G,
 # mostly due to decreased in "off-rate" a.k.a. dissociation rate (Kdis).
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;D1118H
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant combination (representing B.1.1.7 aka Alpha)
 # had 5.43x increased binding relative to D614G alone.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.07x decrease in binding (KD) relative to D614G.
 # Compare to increased binding in full Spike variant complements for major lineages
 # containing this variant subset: 3.56x (B.1.351 aka Beta), 4.24x (P.1 aka Gamma).
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;L18F
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant combination showed no change relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;D80A
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.19x increase in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;D215G
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.35x decrease in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;L242del;A243del;L244del
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.5x decrease in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;R246I
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.5x decrease in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;K417N
 
 # This variant appears twice in the experiments, with slightly different affinities (both ~1.2x decrease in binding relative to D614G) 
 # using flow cytometry and ACE2 ectodomains-Fc portion IgG complex.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;E484K
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed essentially no change in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;A701V
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant combination (representing B.1.351 aka Beta) 
 # showed a 3.56x increase in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;L18F;D80A;N501Y;D215G;L242del;A243del;L244del;R246I;K417N;E484K;A701V
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.96x increase in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;T20N
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.58x increase in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;P26S
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.32x increase in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;D138Y
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.82x increase in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;R190S
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.28x increase in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;K417T
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.21x increase in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;H655Y
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.69x decrease in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;T1027I
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant combination (representing P.1 aka Gamma) 
 # showed a 4.24x increase in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.1x decrease in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;L5F
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.33x decrease in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;T95I
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.08x decrease in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;D253G
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant combination (representing lineage B.1.526) showed a 1.78x increase 
 # in binding (KD) relative to D614G, even though each variant independently decreases binding.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;L5F;T95I;D253G;E484K;A701V
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.42x increase in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;S13I
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 1.33x increase in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;W152C
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant showed a 2.66x increase in binding (KD) relative to D614G.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;L452R
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant combination (representing lineage B.1.429 aka Epsilon) showed a 2.82x increase 
 # in binding (KD) relative to D614G, indicating a strong marginal effect for L452R.
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;S13I;W152C;L452R
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant combination (representing lineage B.1.617) showed a 1.85x increase 
 # in binding (KD) relative to D614G. [exact variant list not provided in manuscript, is inferred fro common knowledge]
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 L452R;E484Q;D614G	
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant combination (representing lineage B.1.617.1) showed a 1.12x increase 
 # in binding (KD) relative to D614G, but described as "not significant". [exact variant list not provided in manuscript, is inferred and 
 # represents minimal set agreed upon commonly]
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 G142D;E154K;L452R;E484Q;D614G;P681R;Q1071H
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant combination (representing lineage B.1.617.2 aka Delta) showed a 2.34x increase 
 # in binding (KD) relative to D614G. [exact variant list not provided in manuscript, is inferred and represents minimal set agreed upon commonly]
-# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv)]
+# Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # In the case of VOC B.1.1.7+E484K, the addition of the E484K mutation to N501Y further increased the affinity, to
@@ -335,25 +335,25 @@ T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 # k(on) could result in mass transfer limiting binding, we confirmed that the kinetic
 # measurement for this variant was not substantially affected by varying levels of
 # immobilization.
-# Barton et al. (2021) https://doi.org/10.1101/2021.05.18.444646 [Preprint (BioRxiv)]
+# Barton et al. (2021) https://doi.org/10.1101/2021.05.18.444646 [Preprint (BioRxiv); Now published at: https://doi.org/10.7554/elife.70658]
 E484K;N501Y
 
 # The K417T mutation decreased the affinity ~2 fold, mainly by decreasing the k(on) but also by increasing the k(off) as measured by surface plasmon resonance.
-# Barton et al. (2021) https://doi.org/10.1101/2021.05.18.444646 [Preprint (BioRxiv)]
+# Barton et al. (2021) https://doi.org/10.1101/2021.05.18.444646 [Preprint (BioRxiv); Now published at: https://doi.org/10.7554/elife.70658]
 K417T
 
 # The K417N mutation decreased the affinity ~4 fold, mainly by decreasing the k(on) but also by increasing the k(off) as measured by surface plasmon resonance.
-# Barton et al. (2021) https://doi.org/10.1101/2021.05.18.444646 [Preprint (BioRxiv)]
+# Barton et al. (2021) https://doi.org/10.1101/2021.05.18.444646 [Preprint (BioRxiv); Now published at: https://doi.org/10.7554/elife.70658]
 K417N
 
 # The affinity of the B.1.351 RBD variants for ACE2 increased by 3.7 fold as measured by surface plasmon resonance relative to wild 
 # type RBD by increasing the k(on) and decreasing the k(off) rate constants. 
-# Barton et al. (2021) https://doi.org/10.1101/2021.05.18.444646 [Preprint (BioRxiv)]
+# Barton et al. (2021) https://doi.org/10.1101/2021.05.18.444646 [Preprint (BioRxiv); Now published at: https://doi.org/10.7554/elife.70658]
 K417N;E484K;N501Y
 
 # The affinity of the P.1 RBD variants for ACE2 increased by 5.3 fold as measured by surface plasmon resonance relative to wild 
 # type RBD by increasing the k(on) and decreasing the k(off) rate constants. 
-# Barton et al. (2021) https://doi.org/10.1101/2021.05.18.444646 [Preprint (BioRxiv)]
+# Barton et al. (2021) https://doi.org/10.1101/2021.05.18.444646 [Preprint (BioRxiv); Now published at: https://doi.org/10.7554/elife.70658]
 K417T;E484K;N501Y
 
 # The KD for the pseudotyped P.1-ACE2 interaction is 4.8 nM, showing that binding to P.1 is essentially indistinguishable from B.1.351 (4.0 nM),
@@ -384,7 +384,7 @@ N501Y;D614G;Q677H
 # lineage variants no major change vs wild type affnity is observed. 
 # Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 # ~4-fold increase in binding affinity vs wild type.
-# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.06.006]
 # In silico methods (PyMOL and PDBePISA) involving mutagenesis (N501Y mutation) and interface analysis focusing on the Spike 
 # RDB-ACE2 interaction showed that the SARS-CoV-2 N501Y mutant (lineage B.1.1.7) establishes a more significant number of 
 # interactions relating to the mutant residue Y501 (Spike RDB) with residues Y41 and K353 (ACE2). This finding shows that the 
@@ -404,11 +404,11 @@ H69del;V70del;N501Y
 S982A
 
 # ~4-fold increase in binding affinity vs wild type.
-# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.06.006]
 Y453F
 
 # ~1.7-fold increase in binding affinity vs wild type.
-# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv)]
+# Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.06.006]
 L452R
 
 # The B.1.351 variant constellation causes an ∼20-fold increase in affinity for ACE2 compared with Wuhan RBD, which may influence transmissibility.
@@ -437,9 +437,9 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # Studying the key covariants in lineage of concern 501Y.V2, 
 # observed about 2-fold increase in ACE2 binding vs wildtype, but greatly decreased mAb binding, suggesting evolutionary optimum tension between 
 # immune evasion and ACE2 binding affinity as the N501Y variant alone has 10x increase in affinity but no effect on tested mAb binding.
-# Liu et al. (2021) https://doi.org/10.1101/2021.02.16.431305 [Preprint (BioRxiv)]
+# Liu et al. (2021) https://doi.org/10.1101/2021.02.16.431305 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1080/19420862.2021.1919285]
 # Reported slight increase in affinity compared to wild-type RBD on the cell surface (Kd = 45.2nM vs 56.9nM).
-# Tian et al. (2021) https://doi.org/10.1101/2021.02.14.431117 [Preprint (BioRxiv)]
+# Tian et al. (2021) https://doi.org/10.1101/2021.02.14.431117 [Preprint (BioRxiv); Now published at: https://doi.org/10.7554/eLife.69091]
 # The affinity of ACE2 for this mutation combination was twice as high as for wild type.
 # Having in mind that the affinity of SARS-CoV-2 for ACE2 is only 4-fold higher compared
 # to SARS-CoV-1, this factor of 2 is expected to be biologically significant.
@@ -448,21 +448,21 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 # wild type RBD. The E484K mutation does not significantly influence the affinity for the receptor, 
 # while K417N attenuates affinity. As a result, RBD from B.1.351 containing all three mutations binds 
 # 3-fold stronger to hACE2 than wild type RBD but 3-fold weaker than N501Y.
-# Laffeber et al. (2021) https://doi.org/10.1101/2021.02.22.432357 [Preprint (BioRxiv)]
+# Laffeber et al. (2021) https://doi.org/10.1101/2021.02.22.432357 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.jmb.2021.167058]
 # Using Mircoscale Thermopheresis, the B.1.351 variant harboring three mutations, binds ACE2 at nearly 
 # five-fold greater affinity than the original SARS-COV-2 RBD (Kd 87.6, vs 402.5 nM).
-# Ramanathan et al. (2021) https://doi.org/10.1101/2021.02.22.432359 [Preprint (BioRxiv)]
+# Ramanathan et al. (2021) https://doi.org/10.1101/2021.02.22.432359 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/s1473-3099(21)00262-0]
 # This combination showed ~3x increase binding to ACE2 vs wild type, about half that of the B.1.1.7 lineage, suggesting
 # that the K417N mutation is slightly detrimental to ACE2 binding, probably as a result of disrupting the salt bridge formed with ACE2 residue D30
 # Collier et al. (2021) https://doi.org/10.1038/s41586-021-03412-7 [Journal publication]
 K417N,E484K,N501Y
 
 # Reported 3-fold decrease in affinity compared to wild-type RBD on the cell surface (Kd = 145.1nM vs 56.9nM).
-# Tian et al. (2021) https://doi.org/10.1101/2021.02.14.431117 [Preprint (BioRxiv)]
+# Tian et al. (2021) https://doi.org/10.1101/2021.02.14.431117 [Preprint (BioRxiv); Now published at: https://doi.org/10.7554/eLife.69091]
 K417N
 
 # Reported moderate increase in affinity compared to wild-type RBD on the cell surface (Kd = 38.5nM vs 56.9nM).
-# Tian et al. (2021) https://doi.org/10.1101/2021.02.14.431117 [Preprint (BioRxiv)]
+# Tian et al. (2021) https://doi.org/10.1101/2021.02.14.431117 [Preprint (BioRxiv); Now published at: https://doi.org/10.7554/eLife.69091]
 E484K
 
 # In four cell lines (including 293T-hACE2 cells), this mutation combination increases infectivity vs D614G alone
@@ -485,18 +485,18 @@ Y453F
 # Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012 [Journal publication]
 # Among the first selected and fixed variants in an in vitro evolution experiment for ACE2 binding.
 # Calculated disassociation constant for this variant is nearly four fold lower than wild type (Kd = 455 pM vs 1600pM)
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 # Reported 10-fold increase in ACE2 binding vs wildtype (Kd = 0.566nM vs 5.768 nM)
-# Liu et al. (2021) https://doi.org/10.1101/2021.02.02.428884 [Preprint (BioRxiv)]
+# Liu et al. (2021) https://doi.org/10.1101/2021.02.02.428884 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1038/s41422-021-00496-8]
 # Reported 4-fold increase in affinity compared to wild-type RBD on the cell surface (Kd = 13.1nM vs 56.9nM).
-# Tian et al. (2021) https://doi.org/10.1101/2021.02.14.431117 [Preprint (BioRxiv)]
+# Tian et al. (2021) https://doi.org/10.1101/2021.02.14.431117 [Preprint (BioRxiv); Now published at: https://doi.org/10.7554/eLife.69091]
 # N501Y residue inserts into a cavity at the binding interface near Y41 of ACE2. 
 # The additional interactions result in increased affinity of ACE2 for the N501Y mutant, 
 # accounting for its increased infectivity.
 # Zhu et al. (2021) https://doi.org/10.1101/2021.01.11.426269 [Preprint (BioRxiv)]
 # Using Microscale Thermopheresis, this variant binds ACE2 at nearly 
 # two-fold greater affinity than the original SARS-COV-2 RBD (203.7 nM vs 402.5 nM).
-# Ramanathan et al. (2021) https://doi.org/10.1101/2021.02.22.432359 [Preprint (BioRxiv)]
+# Ramanathan et al. (2021) https://doi.org/10.1101/2021.02.22.432359 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/s1473-3099(21)00262-0]
 # The most frequent RBM mutation N501Y (165,519 instances) makes defective the atypical N-glycosylation 
 # sequon NGV 501-503, becoming a key RBM position for the interaction with hACE2-binding hotspot 353.
 # Gamez et al. (2021) https://doi.org/10.1101/2021.04.09.439154 [Preprint (BioRxiv)]
@@ -524,24 +524,24 @@ N439K
 N439R
 
 # Minor variant in initial round of in vitro evolution experiment for ACE2 binding.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 V483E
 
 # Minor variant in initial round of in vitro evolution experiment for ACE2 binding.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 N481Y
 
 # Minor variant in initial round of in vitro evolution experiment for ACE2 binding, increasing in later rounds.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 I468T
 
 # Minor variant in initial round of in vitro evolution experiment for ACE2 binding.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 V483E
 
 # Minor variant selected in late rounds of an in vitro evolution experiment for ACE2 binding.
 # Shown to increase the thermostability but decrease the association rate constant of the RBD to ACE2
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 S494P
 
 #Experimentally, ACE2 binding affinity increased 0.19 fold
@@ -561,27 +561,27 @@ Q414A
 Q498Y
 
 # This is a two point mutation change giving additional fitness later in an in vitro ACE2 affinity evolution experiment.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 V445K
 
 # This is a two point mutation change giving additional fitness later in an in vitro ACE2 affinity evolution experiment.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 T470M
 
 # Minor variant enriched in an in vitro ACE2 affinity evolution experiment.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 N354E
 
 # Minor variant enriched in an in vitro ACE2 affinity evolution experiment.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 K417F
 
 # Minor variant enriched in an in vitro ACE2 affinity evolution experiment.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 V367W
 
 # This is a two point mutation change giving this position the highest possible fitness, has higher affinity than circulating E484K variant.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 #Experimentally, ACE2 binding affinity increased 0.15 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012 [Journal publication]
 E484R
@@ -632,7 +632,7 @@ K528F
 
 #Among the first selected variants in an in vitro evolution experiment for ACE2 binding, described as "stabilizing" since it nicely fits
 #inside the hydrophobic pocket formed in the RBD domain.
-#Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+#Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 #Experimentally, ACE2 binding affinity increased 0.1 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012 [Journal publication]
 I358F
@@ -662,7 +662,7 @@ L452K
 K458D
 
 # Selected with increasing proportion during in vitro evolution of Spike against ACE2 receptor
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 # Experimentally, ACE2 binding affinity increased 0.09 fold
 # Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012 [Journal publication]
 N460K
@@ -673,7 +673,7 @@ N460K
 # Q498R alone appears to decrease ACE2 binding.
 # The synergism of Q498R with N501Y (and E484K) increases ACE2 binding by ~50-
 # fold relative to WT.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 E484K;Q498R;N501Y
 
 # Y501 makes a pi interaction with Y41 and places R498 to make a hydrogen bond and salt bridge to Q42 and D38 of ACE2, 
@@ -681,7 +681,7 @@ E484K;Q498R;N501Y
 # to decrease ACE2 binding. The synergism of Q498R with N501Y (and E484K) increases ACE2 binding by ~50- fold relative 
 # to WT. The extent of affinity increase with Q498R and N501Y is not exactly quantified, as E484K always emerged with 
 # this duo during in vitro evolution.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 Q498R;N501Y
 
 #Experimentally, ACE2 binding affinity increased 0.09 fold
@@ -842,31 +842,31 @@ N460R
 # Modelling shows flexible region in Spike RBD with residue S477 having the greatest rotational flexibility.
 # Singh et al. (2021) https://assets.researchsquare.com/files/rs-106969/v2_stamped.pdf [Preprint (other)]
 # Among the first selected minor variants in an in vitro evolution experiment for ACE2 binding, with increasing proportion in subsequent rounds.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 S477N
 
 # Among the first selected minor variants in an in vitro evolution experiment for ACE2 binding.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 N448S
 
 # Selected as minor variant in later rounds of an in vitro evolution experiment for ACE2 binding.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 G446R
 
 # Selected as minor variant in later rounds of an in vitro evolution experiment for ACE2 binding.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 I468V
 
 # Selected as minor variant in later rounds of an in vitro evolution experiment for ACE2 binding.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 T478S
 
 # Selected as minor variant in later rounds of an in vitro evolution experiment for ACE2 binding.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 G446R
 
 # Among the first selected minor variants in an in vitro evolution experiment for ACE2 binding.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 F490S
 
 #Experimentally, ACE2 binding affinity increased 0.06 fold
@@ -878,13 +878,13 @@ S477P
 V483L
 
 #Among the first selected variants in an in vitro evolution experiment for ACE2 binding.
-#Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+#Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 #Experimentally, ACE2 binding affinity increased 0.06 fold
 #Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012 [Journal publication]
 E484K
 
 # Selected as minor variant in later rounds of an in vitro evolution experiment for ACE2 binding.
-# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv)]
+# Zahradnik et al. (2021) https://doi.org/10.1101/2021.01.06.425392 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41564-021-00954-4]
 # Experimentally, ACE2 binding affinity increased 0.06 fold
 # Starr et al. (2020) https://doi.org/10.1016/j.cell.2020.08.012 [Journal publication]
 F490Y

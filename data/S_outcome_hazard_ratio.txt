@@ -12,27 +12,27 @@ H69del;K417N;E484A
 # emergency care within 14 days for Delta cases had an adjusted HR 1.45 [95% CI 1.08–1.95] relative to Alpha. Most patients were unvaccinated (32 078 [74·0%]
 # across both groups). The HRs for vaccinated patients were similar: 1.94 [95% CI 0.47–8.05] for hospitalization and 1.58 [0.69–3.61]) for hospital admission or 
 # emergency care attendance.
-# Twohig et al. (2021) https://doi.org/10.1016/S1473-3099(21)00475-8
+# Twohig et al. (2021) https://doi.org/10.1016/S1473-3099(21)00475-8 [Journal publication]
 # In Denmark, for the period Jan 1 to Jun 27, 2021, Delta variant was associated with increased an risk ratio of 2.83 [95% CI 2.02–3.98] for hospitalization.
-# Bager et al. (2021) https://doi.org/10.1016/S1473-3099(21)00580-6
+# Bager et al. (2021) https://doi.org/10.1016/S1473-3099(21)00580-6 [Journal publication]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
 # Compared to Alpha (B.1.1.7) variant, odds of progressing to severe disease were 1.24-fold (95% CI: 1.11-1.39) higher for Beta. 
 # Odds of progressing to critical disease were 1.49-fold (95% CI: 1.13-1.97) higher. Odds of COVID-19 death were 1.57-fold (95% CI: 1.03-2.43) higher.
-# Abu-Raddad et al. (2021) https://doi.org/10.1101/2021.08.02.21261465 [Preprint (MedRxiv)]
+# Abu-Raddad et al. (2021) https://doi.org/10.1101/2021.08.02.21261465 [Preprint (MedRxiv); Now published at: https://doi.org/10.1093/cid/ciab909]
 D80A;D215G;A243del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # B.1.526 (Iota) substantially increased IFR in older adults: by 46% (95% CI: 7.4 – 84%) among 45-64 year-olds, 
 # 82% (95% CI: 20 – 140%) among 65-74 year-olds, and 62% (95% CI: 45 – 80%) among 75+ during Nov 2020 – Apr 2021, 
 # compared to baseline IFR estimated for preexisting variants. [minimum clade defining mutations listed]
-# Yang et al. (2021) https://doi.org/10.1101/2021.08.04.21261596 [Preprint (MedRxiv)]
+# Yang et al. (2021) https://doi.org/10.1101/2021.08.04.21261596 [Preprint (MedRxiv); Now published at: https://doi.org/10.1126/sciadv.abm0300]
 T95I;D253G;D614G
 
 # Using primarily S-defining mutations for lineage B.1.1.7, most models of hospitalization and fatality risk ratios from
 # consortium members show elevated ratios (~1.3-1.7x).
 # NERVTAG Consortium (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/961042/S1095_NERVTAG_update_note_on_B.1.1.7_severity_20210211.pdf [Grey literature]
 # Danish study of the B.1.1.7 lineage shows hospital admission odds ratio of 1.63 vs other lineages. The adjusted OR was increased in all strata of age.
-# Bager et al. (2021) https://doi.org/10.2139/ssrn.3792894 [Preprint (other)]
+# Bager et al. (2021) https://doi.org/10.2139/ssrn.3792894 [Preprint (other); Now published at: https://doi.org/10.1016/S1473-3099(21)00290-5]
 # On average across 7 European countries studied, using B.1.1.7 defining mutations:
 # Significant shift to asymptomatic cases (27.4% vs 18.6% for non-VOC cases). 
 # Significant shift to infection in those without pre-existing conditions (44.8% vs 89% for non-VOC cases).
@@ -43,7 +43,7 @@ T95I;D253G;D614G
 # The matching-adjusted conditional odds ratio of hospitalisation was 1.58 (95% confidence interval 1.50 to 1.67) for COVID-19 patients 
 # infected with a SGTF-associated variant [primarily B.1.1.7], compared to those infected with non-SGTF-associated variants. 
 # The effect was modified by age (p<0.001), with ORs of 0.96-1.13 below age 20 years and 1.57-1.67 in age groups 40 years or older.
-# Nyberg et al. (2021) https://doi.org/10.48550/arXiv.2104.05560 [Preprint (other)]
+# Nyberg et al. (2021) https://doi.org/10.48550/arXiv.2104.05560 [Preprint (other); Now published at: https://doi.org/10.1136/bmj.n1412]
 # Using UK data 1 November 2020 to 14 February 2021, while correcting for misclassification of PCR test Spike Gene Target Failure (SGTF)
 # and missingness in SGTF status, we estimate that the hazard of death associated with B.1.1.7 is 61% (42–82%) higher than with 
 # pre-existing variants after adjustment for age, sex, ethnicity, deprivation, residence in a care home, the local authority of residence and test date. 
@@ -54,10 +54,10 @@ T95I;D253G;D614G
 # 198 (58%) of 341 had B.1.1.7 infection and 143 (42%) had non-B.1.1.7 infection. No evidence was found of an association 
 # between severe disease and death and lineage (B.1.1.7 vs non-B.1.1.7) in unadjusted analyses (prevalence ratio [PR] 0·97 
 # [95% CI 0·72-1·31]), or in analyses adjusted for hospital, sex, age, comorbidities, and ethnicity (adjusted PR 1·02 [0·76-1·38]).
-# Frampton et al. (2021) https://doi.org/10.1016/s1473-3099(21)00170-5
+# Frampton et al. (2021) https://doi.org/10.1016/s1473-3099(21)00170-5 [Journal publication]
 # From Sept 28 to Dec 27, 2020, positive COVID-19 tests were reported by 36 920 COVID Symptom Study app users whose region was 
 # known and who reported as healthy on app sign-up. We found no changes in reported symptoms or disease duration associated with B.1.1.7. 
-# Graham et al. (2021) https://doi.org/10.1016/s2468-2667(21)00055-4
+# Graham et al. (2021) https://doi.org/10.1016/s2468-2667(21)00055-4 [Journal publication]
 # The mortality hazard ratio associated with infection with [B.1.1.7] compared with infection with previously circulating variants was 
 # 1.64 (95% confidence interval 1.32 to 2.04) in patients who tested positive for covid-19 in the community (54906 matched pairs of 
 # participants who tested positive for SARS-CoV-2 in pillar 2 between 1 October 2020 and 29 January 2021). In this comparatively low risk 

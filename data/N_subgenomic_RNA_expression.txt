@@ -10,5 +10,5 @@ D3L
 # Leary et al. (2021) https://doi.org/10.1101/2020.04.10.029454 [Preprint (BioRxiv)]
 # This variant shows a significant increase in viral load compared to wild type, but not relative to D614G viruses without the variant
 # in circulating viruses in the Spring of 2020 in Saudia Arabia.
-# Mourier et al. (2021) https://doi.org/10.1101/2021.05.06.21256706 [Preprint (MedRxiv)]
+# Mourier et al. (2021) https://doi.org/10.1101/2021.05.06.21256706 [Preprint (MedRxiv); Now published at: https://doi.org/10.1038/s41467-022-28287-8]
 R203K;G204R

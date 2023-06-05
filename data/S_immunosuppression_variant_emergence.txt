@@ -6,17 +6,17 @@ L141del;G142del
 
 # Studying 94 COVID-19 extended infection cases with genomics April 1 to October 17, 2020, one case developed 23 mutations in a 19 day period, including
 # this combination in Spike.
-# Landis et al. (2021) https://doi.org/10.1101/2021.05.08.21256775 [Preprint (MedRxiv)]
+# Landis et al. (2021) https://doi.org/10.1101/2021.05.08.21256775 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1128/mbio.03448-22]
 D138H,E554D,D614G
 
 # Dominant (70%) in day 21 of prolonged infection in immunocompromised host on tacrolimus, steroids and convalescent 
 # plasma therapy, then nearly disappearing (<5%) by day 27.
-# Chen et al. (2021) https://doi.org/10.1101/2021.04.08.21254791 [Preprint (MedRxiv)]
+# Chen et al. (2021) https://doi.org/10.1101/2021.04.08.21254791 [Preprint (MedRxiv); Now published at: https://doi.org/10.1128/msphere.00480-21]
 L243del;A244del;Q493R
 
 # Individual variants appearing at <=30% frequency at day 21 in immunocompromised host on tacrolimus, steroids and convalescent 
 # plasma therapy, then appearing all at >95% frequency at day 27.
-# Chen et al. (2021) https://doi.org/10.1101/2021.04.08.21254791 [Preprint (MedRxiv)]
+# Chen et al. (2021) https://doi.org/10.1101/2021.04.08.21254791 [Preprint (MedRxiv); Now published at: https://doi.org/10.1128/msphere.00480-21]
 L141del;G142del;V143del;Y144del;E484K
 
 # The so-called "delta F" variant combination previously observed in mink spillover events also emerged in a lymphoma 
@@ -63,5 +63,5 @@ Y489H
 
 # The delH69/V70 enhances viral infectivity, indicating its effect on virus fitness is independent to the N501Y RBM change [with which it is found in lineage B.1.1.7]
 # Possibly arisen as a result of the virus evolving from immune selection pressure in infected individuals and possibly only one chronic infection in the case of lineage B.1.1.7.
-# Kemp et al. (2020) https://doi.org/10.1101/2020.12.14.422555 [Preprint (BioRxiv)]
+# Kemp et al. (2020) https://doi.org/10.1101/2020.12.14.422555 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.celrep.2021.109292]
 H69del,V70del
