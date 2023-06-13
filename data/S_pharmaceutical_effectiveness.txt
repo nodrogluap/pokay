@@ -487,7 +487,7 @@ L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;R716I;S982A;D1119H
 
 # This mutated version of RBD completely abolishes the binding to a therapeutic antibody, Bamlanivimab, in vitro.
-# Liu et al. (2021) https://doi.org/10.1101/2021.02.16.431305 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1080/19420862.2021.1919285]
+# Liu et al. (2021) https://doi.org/10.1101/2021.02.16.431305 [Preprint (BioRxiv); Now published at: https://doi.org/10.1080/19420862.2021.1919285]
 # Tixagevimab, Regdanvimab and COR-101 display reduced binding affinity to virus pseudotyped as RBD from B.1.351.
 # Engelhart et al. (2021) https://doi.org/10.1101/2021.04.27.440939 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbac011]
 K417N,E484K,N501Y

@@ -48,7 +48,7 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 D614G
 
 # Swab samples N/NP viral RNA is approximately 2-fold higher in B.1.427/B.1.429 than in non-variant viruses.
-# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
+# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv); Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
 S13I;W152C;L452R
 
 # The 62 B.1.351 (a.k.a. N501Y.V2) variant cases in three Paris hospital labs had a ~2-fold viral load increase 

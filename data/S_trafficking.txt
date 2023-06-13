@@ -455,12 +455,12 @@ P681R
 
 # We observed increased entry by pseudoviruses carrying the L452R mutation compared to D614G alone, 
 # with a 6.7 to 22.5-fold increase in 293T cells and a 5.8 to 14.7-fold increase in human airway organoids.
-# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
+# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv); Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
 L452R
 
 # Pseudoviruses carrying the W152C mutation demonstrated small increases in cell entry compared to 
 # D614G alone in 293T cells and human airway organoids.
-# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
+# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv); Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
 W152C
 
 # The entry efficiencies of Spike pseudotyped viruses bearing N501Y Variant 1 (B.1.1.7) mutant were
