@@ -106,7 +106,7 @@ H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
 L18F;T20N;P26S;D138Y;R190S;E484K;N501Y;D614G;H655Y
 
 # Exhibits an estimated 18.6-24% increase in transmissibility relative to wild-type circulating strains. a.k.a. 20C/L452R or B.1.427/B.1.429.
-# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
+# Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv); Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
 # Lineages bearing these spike mutations comprised 54.4% of the total sequences from January, compared to 15.7% in November. Household 
 # contacts exposed to the "California" or "West Coast" variants (B.1.427 and B.1.429) were at higher risk of infection compared 
 # to household contacts exposed to lineages lacking these variants (0.36 vs 0.29, RR=1.28; 95% CI:1.00-1.64).

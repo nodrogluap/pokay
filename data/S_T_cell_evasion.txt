@@ -11,39 +11,39 @@ L270F
 Y453F
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DRB1*15:01.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 R765L
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DQB1*05:03.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 R765L
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA class 2.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 R765L
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DQB1*02:01.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 M177I
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DQB1*05:03.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 M177I
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DQB1*05:02.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 M177I
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DQB1*02:02.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 M177I
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type C*07:02.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 M177I
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DPB1*04:01.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 M177I
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA class 2.
@@ -51,19 +51,19 @@ M177I
 D80A
 
 # This mutation causes reduced recognition by CD8 positive t-cells in people with HLA type DRB1*04:04.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 R765L
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA class 2.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 M177I
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DRB1*16:01.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 M177I
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DRB1*07:01.
-# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.isci.2021.103353]
+# de Silva et al. (2021) https://doi.org/10.1101/2021.04.08.438904 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.isci.2021.103353]
 M177I
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA type DRB1*13:02.
@@ -111,7 +111,7 @@ F486L
 N234Q
 
 # One individual of 30 in the study, with HLA supertype HLA*A24:02, had a linear epitope that overlaps this variant of concern.
-# Redd et al. (2021) https://doi.org/10.1101/2021.02.11.21251585 [Preprint (MedRxiv)]; Now published at: https://doi.org/10.1093/ofid/ofab143]
+# Redd et al. (2021) https://doi.org/10.1101/2021.02.11.21251585 [Preprint (MedRxiv); Now published at: https://doi.org/10.1093/ofid/ofab143]
 D80A
 
 # Encouragingly, we find that the majority of T cell responses in recipients of two doses of the BNT162b2 vaccine are generated 
@@ -157,5 +157,5 @@ N501Y
 # showing no significant CD4+ cell count effect for P.1, 
 # and a slight increase in CD8+ percentage (p=0.0195) by Activation Induced Marker (AIM) assay (cellular immunity measurement). 
 # [in the text, this increase is not noted as signficant, even though p=0.05 is used elsewhere in the text as a signficance threshold]
-# Tarke et al. (2021) https://doi.org/10.1101/2021.02.27.433180 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1016/j.xcrm.2021.100355]
+# Tarke et al. (2021) https://doi.org/10.1101/2021.02.27.433180 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.xcrm.2021.100355]
 L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F

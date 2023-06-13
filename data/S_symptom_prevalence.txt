@@ -32,5 +32,5 @@ L452R;E484Q;P681R
 # titers in the lungs, less severe histologic lung lesions and less viral antigen detected in the lungs. Our comparative 
 # pathogenicity study suggests that ongoing circulation under diverse evolutionary pressure favors transmissibility and 
 # immune evasion rather than an increase in intrinsic pathogenicity.
-# Munster et al. (2021) https://doi.org/10.1101/2021.05.07.443115 [Preprint (BioRxiv)]; Now published at: https://doi.org/10.1126/sciadv.abj3627]
+# Munster et al. (2021) https://doi.org/10.1101/2021.05.07.443115 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/sciadv.abj3627]
 D80A;D215G;K417N;A701V;N501Y;E484K
