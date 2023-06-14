@@ -1,3 +1,39 @@
+# Calculated to have an increased fitness (45x overrepresentation vs expected count of ~102 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+V25V
+
+# Calculated to have an increased fitness (3762.7x overrepresentation vs expected count of ~18 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+V75L
+
+# Calculated to have an increased fitness (133x overrepresentation vs expected count of ~18 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+V58L
+
+# Calculated to have an increased fitness (18x overrepresentation vs expected count of ~333 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+V62F
+
+# Calculated to have an increased fitness (11x overrepresentation vs expected count of ~300 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+T9I
+
+# Calculated to have an increased fitness (58x overrepresentation vs expected count of ~12 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+S68C
+
+# Calculated to have an increased fitness (18x overrepresentation vs expected count of ~9 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+S68A
+
+# Calculated to have an increased fitness (20x overrepresentation vs expected count of ~12 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+P71R
+
+# Calculated to have an increased fitness (14x overrepresentation vs expected count of ~23 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+N66K
+
 # Calculated to have an increased fitness (47x overrepresentation vs expected count of ~99 in public genome datasets), analysis as of 2023-05-11
 # Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
 L73V
