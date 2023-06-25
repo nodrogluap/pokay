@@ -1,1 +1,52 @@
+# Calculated to have an increased fitness (25x overrepresentation vs expected count of ~102 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+A2A
+
+# Calculated to have an increased fitness (38x overrepresentation vs expected count of ~334 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+A2S
+
+# Calculated to have an increased fitness (16x overrepresentation vs expected count of ~32 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+C33S
+
+# Calculated to have an increased fitness (14x overrepresentation vs expected count of ~7 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+D3A
+
+# Calculated to have an increased fitness (31x overrepresentation vs expected count of ~53 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+D3G
+
+# Calculated to have an increased fitness (227x overrepresentation vs expected count of ~14 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+D3H
+
+# Calculated to have an increased fitness (81x overrepresentation vs expected count of ~18 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+D209H
+
+# Calculated to have an increased fitness (232x overrepresentation vs expected count of ~73 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+E135E
+
+# Calculated to have an increased fitness (133x overrepresentation vs expected count of ~18 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+E167Q
+
+# Calculated to have an increased fitness (163x overrepresentation vs expected count of ~567 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+F53F
+
+# Calculated to have an increased fitness (11x overrepresentation vs expected count of ~463 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+F112F
+
+# Calculated to have an increased fitness (17x overrepresentation vs expected count of ~66 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+H148H
+
+# Calculated to have an increased fitness (11x overrepresentation vs expected count of ~66 in public genome datasets), analysis as of 2023-05-11
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+H155H
 
