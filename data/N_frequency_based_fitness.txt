@@ -1,101 +1,101 @@
 # Calculated to have an increased fitness (35x overrepresentation vs expected count
 of ~508 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 A35A
 
 # Calculated to have an increased fitness (128x overrepresentation vs expected 
 count of ~102 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 A173A
 
 # Calculated to have an increased fitness (22x overrepresentation vs expected count
 of ~18 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 A55P
 
 # Calculated to have an increased fitness (21x overrepresentation vs expected count
 of ~334 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 A90S
 
 # Calculated to have an increased fitness (21x overrepresentation vs expected 
 count of ~333 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 A152S
 
 # Calculated to have an increased fitness (21x overrepresentation vs expected 
 count of ~11 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 C215S
 
 # Calculated to have an increased fitness (21x overrepresentation vs expected 
 count of ~9 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D22A
 
 # Calculated to have an increased fitness (21x overrepresentation vs expected 
 count of ~9 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D81A
 
 # Calculated to have an increased fitness (11x overrepresentation vs expected 
 count of ~9 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D144A
 
 # Calculated to have an increased fitness (35x overrepresentation vs expected 
 count of ~5 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D377A
 
 # Calculated to have an increased fitness (17x overrepresentation vs expected 
 count of ~62 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D3D
 
 # Calculated to have an increased fitness (32x overrepresentation vs expected 
 count of ~66 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D81D
 
 # Calculated to have an increased fitness (13x overrepresentation vs expected 
 count of ~66 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D103D
 
 # Calculated to have an increased fitness (47x overrepresentation vs expected 
 count of ~572 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D128D
 
 # Calculated to have an increased fitness (110x overrepresentation vs expected 
 count of ~66 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D144D
 
 # Calculated to have an increased fitness (12x overrepresentation vs expected 
 count of ~66 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D216D
 
 # Calculated to have an increased fitness (15x overrepresentation vs expected 
 count of ~572 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D341D
 
 # Calculated to have an increased fitness (14x overrepresentation vs expected 
 count of ~66 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D343D
 
 # Calculated to have an increased fitness (33x overrepresentation vs expected 
 count of ~66 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D348D
 
 # Calculated to have an increased fitness (18x overrepresentation vs expected 
 count of ~42 in public genome datasets), analysis as of 2023-05-11
-# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314
+# Bloom and Neher (2023) https://doi.org/10.1101/2023.01.30.526314 [Preprint (BioRxiv)]
 D377D
 
 
