@@ -1,0 +1,12 @@
+# Using the Contrast-FEL method, this mutation is differentially selected along the B.1.1.529 (WHO VOC Omicron) branch.
+# Lucaci et al. (2021) https://observablehq.com/@aglucaci/sc2-omicron
+N856K
+
+# Using the Contrast-FEL method, this mutation is differentially selected along the B.1.1.529 (WHO VOC Omicron) branch.
+# [PG: This mutation is adjacent to a well known deletion, which may confound the significance of this variant]
+# Lucaci et al. (2021) https://observablehq.com/@aglucaci/sc2-omicron
+G142D
+
+# Using the Contrast-FEL method, this mutation is differentially selected along the B.1.1.529 (WHO VOC Omicron) branch.
+# Lucaci et al. (2021) https://observablehq.com/@aglucaci/sc2-omicron
+S375F
