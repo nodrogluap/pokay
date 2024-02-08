@@ -26,3 +26,7 @@ H69del;V70del;N501Y;P681H
 # towards disinfection. Furthermore, we observed comparable surface stability on steel, silver, copper and face masks.
 # Meister et al. (2021) https://doi.org/10.1093/infdis/jiab260 [Journal publication]
 L18F;D80A;L242del;A243del;L244del;R245I;K417N;E484K;N501Y;D614G;A701V
+
+# Relative to wild type, D614G showed increased infectivity (ie. cold stability) after storage at -20°C for up to 30 days.
+# Huang et al. (2021) https://doi.org/10.1128/msphere.00104-21
+D614G
