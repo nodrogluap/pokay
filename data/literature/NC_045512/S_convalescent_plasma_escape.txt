@@ -328,24 +328,6 @@ V1128A
 # Schmidt et al. (2021) https://doi.org/10.1101/2021.08.06.455491 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41586-021-04005-0]
 P1162S
 
-# Mutation from chronically infected patient predicted to introduce clash with potent mAbs C1A-VH3-53, 
-# and verified by pseudovirus assay against the weaker mAbs in this family.
-# The mutation conferred decreased sensitivity to mAb B38 but had no effect on neutralization by mAb CC12.
-# Clark et al. (2021) https://doi.org/10.1016/j.cell.2021.03.027 [Journal publication]
-Q493K
-
-# Pseudotype for Day 146 virus from a chronically infected patient, neutralizing activity of purified IgG 
-# from 3 donors was mostly unaffected by the single mutations (Q493K/R or N439K), but the day 146 S pseudotype
-# was resistant to neutralization.
-# Clark et al. (2021) https://doi.org/10.1016/j.cell.2021.03.027 [Journal publication]
-N440D;Y489H;Q493K;N501Y
-
-# Pseudotype for Day 152 virus from a chronically infected patient, neutralizing activity of purified IgG 
-# from 3 donors was mostly unaffected by the single mutations (Q493K/R or N439K), but the day 152 S pseudotype
-# was resistant to neutralization.
-# Clark et al. (2021) https://doi.org/10.1016/j.cell.2021.03.027 [Journal publication]
-E484A;F486I;Y489H;N501Y
-
 # Pseudotyped viruses for B.1.617 was 2.3-fold resistant to neutralization by convalescent sera compared to wild type - a finding that
 # was similar to that of the 3-fold resistance of the South Africa B.1.351 variant using the same assay.
 # The resistance of B.1.617 was caused by the L452R and E484Q mutation, based on results from viruses pseudotyped for individual variants within B.1.617.
