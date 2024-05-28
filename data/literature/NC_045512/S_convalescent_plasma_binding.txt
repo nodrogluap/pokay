@@ -1,3 +1,13 @@
+# Sera from individuals who have been infected with Delta does not have strong
+# neutralising activity against B.1.621
+# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf [Grey literature]
+T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H
+
+# Sera from individuals who have been infected with Delta does not have strong
+# neutralising activity against Beta.
+# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf [Grey literature]
+L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
+
 # 1.33x increase in Spike binding (relative to D614G alone) by 5 plasma collected 8 months post-symptom-onset. 
 # Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 D614G;H69del;V70del
