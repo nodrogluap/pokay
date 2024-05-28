@@ -1,3 +1,13 @@
+# Sera from individuals who have been vaccinated and have had subsequent
+# recent Delta infection have a high level of neutralising activity against B.1.621.
+# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf [Grey literature]
+T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H
+
+# Sera from individuals who have been vaccinated and have had subsequent
+# recent Delta infection have a high level of neutralising activity against Beta.
+# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf [Grey literature]
+L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
+
 # In 22 Pfizer/BNT162b2-vaccinated sera (ages 26-74, median 65) collected 1 month after dose 3, 
 # BA.1 (from Botswana/R40B59_BHP_3321001248/2021) were 28.7x-fold lower (95% CI: 0.03x-0.05) than against 
 # US-WA1/2020 using an infectious cDNA clone of mNG USA-WA1/2020.
