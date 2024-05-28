@@ -34,10 +34,6 @@ H69del;L24del;S373P;N969K;H655Y;V213G;G142D;A27S;Q954H;N501Y;P25del;T19I;N440K;N
 # Kurhade et al. (2022) https://doi.org/10.1101/2022.06.05.494889 [Preprint (BioRxiv); Now published at: https://doi.org/10.1080/22221751.2022.2099305]
 T95I;S373P;Q493R;N969K;H655Y;N856K;G142D;A27S;Q954H;N501Y;N440K;T19R;N679K;N764K;L212I;Y505H;T547K;D796Y;T478K;G496S;K417N;S371L;G339D;R158del;P681H;ins214EPE;F157del;S375F;Q498R;G446S;S477N;E156G;N211del;E484A;L981F;D614G
 
-# Using molecular dynamics simulation, ACE2-RBD (Omicron) complex is destabilized by the E484A and Y505H mutations and stabilized by S477N and N501Y mutations.
-# Zhang et al. (2022) https://doi.org/10.1101/2022.06.05.493249 [Preprint (BioRxiv)]
-E484A;Y505H;S477N;N501Y
-
 # DARPin SR16m molecule had a 0.036x fold change in IC50 in B.1.351 Beta
 # Chonira et al. (2022) https://doi.org/10.1101/2022.05.30.493765 [Preprint (BioRxiv)]
 L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
