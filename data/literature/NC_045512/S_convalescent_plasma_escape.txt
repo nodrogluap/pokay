@@ -102,20 +102,6 @@ K150E
 # Haslwanter et al. (2021) https://doi.org/10.1101/2021.06.10.447999 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.02473-21]
 W152R
 
-# Sera from individuals who have been infected with Delta does not have strong
-# neutralising activity against B.1.621
-# Sera from individuals who have been vaccinated and have had subsequent
-# recent Delta infection have a high level of neutralising activity against B.1.621.
-# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf [Grey literature]
-T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H
-
-# Sera from individuals who have been infected with Delta does not have strong
-# neutralising activity against Beta.
-# Sera from individuals who have been vaccinated and have had subsequent
-# recent Delta infection have a high level of neutralising activity against Beta.
-# PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf [Grey literature]
-L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
-
 # Mean 12.4x reduction of NT50 value B.1.621 (Mu) relative to wild type in 8 sera from older convalescent patients (52-92yo) collected 1-3m post symptom onset. [This is a greater reduction than Beta @ 8.2x]
 # Uriu et al. (2021) https://doi.org/10.1101/2021.09.06.459005 [Preprint (BioRxiv); Now published at: https://doi.org/10.1056/nejmc2114706]
 T95I;Y144delinsTSN;R346K;E484K;N501Y;D614G;P681H;D950N
