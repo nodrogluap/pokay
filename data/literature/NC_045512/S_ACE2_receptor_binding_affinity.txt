@@ -1,3 +1,7 @@
+# Using molecular dynamics simulation, ACE2-RBD (Omicron) complex is destabilized by the E484A and Y505H mutations and stabilized by S477N and N501Y mutations.
+# Zhang et al. (2022) https://doi.org/10.1101/2022.06.05.493249 [Preprint (BioRxiv)]
+E484A;Y505H;S477N;N501Y
+
 # The hACE2-binding affinity of XBB.1.5 RBD has a dissociation constant KD of 3.4 nM, where S486P is the distinguishing Spike mutation vs parent 
 # XBB.1 RBD with a much weaker KD (19 nM), as measured by surface plasmon resonance (SPR) assays.  
 # Yue et al. (2023) https://doi.org/10.1101/2023.01.03.522427 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/S1473-3099(23)00010-5]
