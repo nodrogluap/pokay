@@ -1,3 +1,11 @@
+# No notable change in neutralization efficiency, despite N439K by itself showing a ~2x decrease on average in 16 health workers' convalescent sera.
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
+H69del;V70del;N439K
+
+# Slight neutralization improvement on average in 16 health workers' convalescent sera.
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
+H69del;V70del;N501Y;P681H
+
 # We analyzed 34 convalescent samples including the WHONIBSC 20/130 reference serum, and, although 
 # a few sera showed near identical FRNT 50 values, the FRNT50 dilutions for the B.1.1.7 strain 
 # were 2.9-fold lower (geometric mean) than those for the Victoria strain (p < 0.0001).
