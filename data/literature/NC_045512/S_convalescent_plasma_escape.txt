@@ -400,11 +400,6 @@ D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 # Tang et al. (2021) https://doi.org/10.1101/2021.03.19.436183 [Preprint (BioRxiv); Now published at: https://doi.org/10.1136/annrheumdis-2022-222115]
 L18F;D80A;D215G;L242del;A243del;L244del;N501Y;K417N;E484K;D614G 
 
-# Neutralizing antibodies that were generated following a mild infection with SARS-CoV-2 B.1.128 were effective in vitro, 
-# and likely protective, against the SARS-CoV-2 P.1. variant in the majority of individuals based on 60 convalescent sera tested.
-# Mendes-Correa et al. (2021) https://doi.org/10.1101/2021.05.11.21256908 [Preprint (MedRxiv)]
-L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
-
 # Loss of neutralizing activity (PsVNA50 assay) using 6 hyperimmune immunoglobulin preparations from
 # convalescent plasma was minimal against B.1.249 (1.7-fold). Neutralization against 10
 # convalescent plasma was somewhat poorer (3.1-fold).
