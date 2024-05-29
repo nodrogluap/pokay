@@ -554,10 +554,6 @@ L452R
 # Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 H69del;V70del;N501Y;P681H
 
-# Four of the convalescent sera tested showed 4-fold or greater improvement in neutralization efficiency.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
-L5F;Q1208H
-
 # One convalescent sera tested showed 4-fold or greater reduction in neutralization efficiency.
 # Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 H69del;V70del;N439K
