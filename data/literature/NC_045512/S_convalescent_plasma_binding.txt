@@ -1,3 +1,17 @@
+# In sera from six patients collected 1 to 12 weeks post-infection with B.1, antibody titer in a microneutralization assay was on average 256 for B.1.1.7 virus.
+# Compare to somewhat stronger neutralization titer for wild type (456.1) in the same sera. 
+# Luftig et al. (2021) https://doi.org/10.1056/NEJMc2104036 [Journal publication]
+L18F;T20N;P26S;D138Y;R190S;K417T;E464K;N501Y;D614G;H655Y;T1027I;V1176F
+
+# In sera from six patients collected 1 to 12 weeks post-infection with B.1, antibody titer in a microneutralization assay was on average 8 for B.1.351 virus.
+# Compare to much stronger neutralization titers for B.1.1.7 (256) and wild type (456.1) in the same sera. 
+# Luftig et al. (2021) https://doi.org/10.1056/NEJMc2104036 [Journal publication]
+L18F;D80A;D215G;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
+
+# In sera from six patients collected 1 to 12 weeks post-infection with B.1, antibody titer in a microneutralization assay was on average 71.46 for P.1 virus.
+# Compare to much stronger neutralization titers for B.1.1.7 (256) and wild type (456.1) in the same sera. 
+# Luftig et al. (2021) https://doi.org/10.1056/NEJMc2104036 [Journal publication]
+
 # Sera from individuals who have been infected with Delta does not have strong
 # neutralising activity against B.1.621
 # PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf [Grey literature]
