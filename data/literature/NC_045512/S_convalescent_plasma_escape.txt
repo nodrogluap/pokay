@@ -361,26 +361,6 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G
 # Hoffman et al. (2021) https://doi.org/10.1016/j.celrep.2021.109017 [Journal publication]
 Y453F
 
-# In 34 plasma collected 11-45 days post symptom onset, before B.1.1.7's emergence, neutralization of P.1 decreased 3.1x (comparable to B.1.1.7 at 2.9x).
-# When using plasma from individuals infected with B.1.1.7, only modest (1.8-fold, p=0.0039) reductions in neutralization comparing 
-# P.1 with Victoria (~wild type) were observed.
-# Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055 [Journal publication]
-
-# In 34 plasma collected 11-45 days post symptom onset, before B.1.1.7's emergence, neutralization of B.1.351 decreased 13.3x 
-# (much more than B.1.1.7 at 2.9x and P.1 at 3.1x).
-# When using plasma from individuals infected with B.1.1.7, reductions in neutralization were significant but less extreme (4.4x) compared with 
-# with Victoria (~wild type).
-# Dejnirattisai et al. (2021) https://doi.org/10.1016/j.cell.2021.03.055 [Journal publication]
-
-# Passive immunization with plasma from an early pandemic SARS-CoV-2 patients given to K18-hACE2 transgenic mice did not protect 
-# against viral propagation or lethal disease (whereas B.1.1.7 had partial protection and wild type complete protection).
-# B.1.351 triggering significantly altered cytokine profiles than other strains in these mice.
-# Horspool et al. (2021) https://doi.org/10.1101/2021.05.05.442784 [Preprint (BioRxiv)]
-
-# Using early pandemic sera (April-June 2020), we observed modestly decreased cross-neutralization of B.1.1.7 pseudotype lentilvirus but a 
-# substantial 4.8-fold reduction in cross-neutralization of B.1.351. 2 sera showed zero neutralization of B.1.351.
-# Vidal et al. (2021) https://doi.org/10.1128/JVI.00404-21 [Journal publication]
-
 # 0.7x reduction in neutralization by key variant in several variants of concern in sera collected from cohort of 10 with severe 
 # disease 21 to 63 days post-onset. 
 # Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
@@ -419,11 +399,6 @@ D80A;L242del;R246I;K417N;E484K;N501Y;A701V
 # convalescent plasma was poorer (18.7x).
 # Tang et al. (2021) https://doi.org/10.1101/2021.03.19.436183 [Preprint (BioRxiv); Now published at: https://doi.org/10.1136/annrheumdis-2022-222115]
 L18F;D80A;D215G;L242del;A243del;L244del;N501Y;K417N;E484K;D614G 
-
-# Loss of neutralizing activity (PsVNA50 assay) using 6 hyperimmune immunoglobulin preparations from
-# convalescent plasma was seen against P.1 (3.5-fold). Neutralization against 10
-# convalescent plasma was slightly poorer (3.9-fold).
-# Tang et al. (2021) https://doi.org/10.1101/2021.03.19.436183 [Preprint (BioRxiv); Now published at: https://doi.org/10.1136/annrheumdis-2022-222115]
 
 # Neutralizing antibodies that were generated following a mild infection with SARS-CoV-2 B.1.128 were effective in vitro, 
 # and likely protective, against the SARS-CoV-2 P.1. variant in the majority of individuals based on 60 convalescent sera tested.
@@ -520,11 +495,6 @@ D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
 
-# Loss of neutralizing activity using 6 hyperimmune immunoglobulin preparations from
-# convalescent plasma was minimal against B.1.1.7 (1.9-fold). Neutralization against 10
-# convalescent plasma was poorer.
-# Tang et al. (2021) https://doi.org/10.1101/2021.03.19.436183 [Preprint (BioRxiv); Now published at: https://doi.org/10.1136/annrheumdis-2022-222115]
-
 # We analyzed 34 convalescent samples including the WHONIBSC 20/130 reference serum, and, although 
 # a few sera showed near identical FRNT 50 values, the FRNT50 dilutions for the B.1.1.7 strain 
 # were 2.9-fold lower (geometric mean) than those for the Victoria strain (p < 0.0001).
@@ -600,12 +570,6 @@ E484P
 # and no E484K immune escape at day 102.
 # Greaney et al. (2021) https://doi.org/10.1016/j.chom.2021.02.003 [Journal publication]
 E484Q
-
-# S494P frequently engages in interactions with antibodies but not with ACE2. It reduces antibody 
-# neutralization of all 16 convalescent sera tested, averaging WT ratio of 0.41+-0.08 (less dramatic than E484K). 
-# This amino acid emerges as an additional hotspot for immune evasion and a target for therapies, vaccines and diagnostics.
-# It has emerged independently in multiple lineages.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 
 # In 2 of 11 subjects' convalescent sera in an early+late mutational landscape analysis of the RBD, 
 # S484P shows a slightly resistent profile across both timepoints (i.e. resistant to immune cell somatic mutation evolution)
@@ -690,21 +654,6 @@ L18F,D80A,D215G,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 # Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 L242del;A243del;L244del
 
-# The neutralizing activity of 8/20 convalescent sera was significantly lower against this pseudotyped virus model of B.1.1.7,
-# yet almost no effect was detected using the live B.1.1.7 virus.
-# Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
-
-# Neutralization activity of convalescent sera tested decreased <2x with this B.1.1.7 pseudotyped virus.
-# Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.03.002]
-
-# Maximum fold-decrease in potency for the serum samples from mild illness was 8.2 but the 
-# majority of samples showed less than a 3-fold change. Similarly, the maximum decrease seen 
-# for samples from hospitalized patients was a 9.1-fold change, but most of the samples showed 
-# minimal change in the potency of their neutralization. Overall, three samples from each cohort 
-# (8%) showed a 5–10-fold reduction, but as they were potently neutralizing sera, the reduced 
-# ID50 values were still >1:100. 
-# Rees-Spear et al. (2021) https://doi.org/10.1101/2021.01.15.426849 [Preprint (BioRxiv)]
-
 # Neutralizing antibody titers of 2/20 (10%) samples showed >10x reduction (sera collected ~1mo post Jan 2020 first wave in China).
 # Neutralizing antibody titers of 8/20 samples (40%) decreased below an ID50 threshold of 40 (sera 
 # collected ~8mo post Jan 2020 first wave in China).
@@ -735,13 +684,6 @@ S982A
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
-# Demonstrate (via competitive assays in human and mouse) immune escape from polyclonal antibodies induced
-# by vaccination or infection, comparable to what was previously shown with monoclonal
-# antibodies for N501Y and more importantly for E484K. Even though viral mutations
-# may more strongly affect monoclonal antibodies than sera activity, the latter may also be
-# reduced as confirmed here.
-# Vogel et al. (2021) https://doi.org/10.1101/2021.03.04.433887 [Preprint (BioRxiv)]
-
 # In 19 convalescent human sera ~1mo post infection had mild to moderate resistence against most samples
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 K417N;E484K;N501Y 
@@ -765,11 +707,6 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 # B.1.1.351 variant constellation two-tailed Wilcoxon matched-pairs signed-rank test against 10 convalescent sera P=0.0020 for moderate resistence.
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
-
-# Remarkably, several of the E484 escape mutants were resistant to neutralization at the highest
-# concentration (1:80 initial dilution) of all 4 convalescent sera tested (triplicate experiments).
-# Against a wider panel of 16 convalescent plasma (no replicates), all but one show major resistance.
-# Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
 
 # The neutralizing activity of 15/20 convalescent sera was significantly lower against this pseudotyped virus model
 # Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
@@ -894,11 +831,6 @@ T345A,L517R
 # Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations).
 # Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
 S477N,S514F
-
-# Nearly half (21 of 44, 48%) of early pandemic exposure convalescent plasma/sera failed to neutralize the 501Y.V2 ("South African") lineage pseudovirus construct
-# Only 3 of 44 convascent sera (those with the highest titer, which correlated direectly with initial infection severity) had high neutralization against this 501Y.V2 
-# PG: note that lineage variant R246I was excluded from the text in reference to these sera assays, not sure if that was an oversight.
-# Wibmer et al. (2021) https://doi.org/10.1101/2021.01.18.427166 [Preprint (BioRxiv); Now published at: https://doi.org/10.1038/s41591-021-01285-x]
 
 # The 501Y.V2 to first wave IC50 ratio ranged from 6 to 200-fold. Averaging across all 7 participant convalescent sera highlighted the dramatic
 # decrease in sensitivity to neutralization of authentic 501Y.V2 variants.
