@@ -416,16 +416,6 @@ E484K
 # Tang et al. (2021) https://doi.org/10.1101/2021.03.19.436183 [Preprint (BioRxiv); Now published at: https://doi.org/10.1136/annrheumdis-2022-222115]
 N501Y
 
-# Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed no significant 
-# change in IC50 serum dilution concentration for 6 convalescent sera.
-# Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.01386-21]
-L5F;T95I;D253G;S477N;D614G;A701V
-
-# Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.8x reduction in 
-# IC50 serum dilution concentration for 6 convalescent sera.
-# Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.01386-21]
-L5F;T95I;D253G;E484K;D614G;A701V
-
 # In 9 plasma collected 15 to 28 days after early 2020 infections, neutralization reduced 4.9-fold for
 # B.1.427/B.1.429 compared to wildtype (D614G).
 # In 13 plasma collected ~1mo after B.1.1.7 infection (nursing home in Ticino, Switzerland), neutralization 
