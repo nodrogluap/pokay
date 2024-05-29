@@ -1,3 +1,13 @@
+# Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed no significant 
+# change in IC50 serum dilution concentration for 6 convalescent sera.
+# Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.01386-21]
+L5F;T95I;D253G;S477N;D614G;A701V
+
+# Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.8x reduction in 
+# IC50 serum dilution concentration for 6 convalescent sera.
+# Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.01386-21]
+L5F;T95I;D253G;E484K;D614G;A701V
+
 # The only mutation in the B.1.351 lineage that appears to contribute to neutralization reduction (~1.7x across 10 convalescent sera from April 2020 infectees)
 # Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
 E484K
