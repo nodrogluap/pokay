@@ -1,3 +1,11 @@
+# We analyzed 34 convalescent samples including the WHONIBSC 20/130 reference serum, and, although 
+# a few sera showed near identical FRNT 50 values, the FRNT50 dilutions for the B.1.1.7 strain 
+# were 2.9-fold lower (geometric mean) than those for the Victoria strain (p < 0.0001).
+# Sera from 13 subjects post-B.1.1.7 infection showed no significant change in neutralization against Victoria (~wild type),
+# suggesting that B.1.1.7 infection also protects against ancestral virus.
+# [Note that D1119H was included in the original paper, assuming typographical error and correcting to D1118H]
+# Supasa et al. (2021) https://doi.org/10.1016/j.cell.2021.02.033 [Journal publication]
+
 # VSV pseudotype B.1.351 showed 7.86-fold decrease in NT50 vs wild type in sera from 9 ICU patients undergoing treatment in Germany (pre-variant infections).
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
 D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
