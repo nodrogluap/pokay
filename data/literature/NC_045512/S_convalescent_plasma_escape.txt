@@ -579,6 +579,7 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # Neutralization activity of convalescent sera tested decreased ~2x with this B.1.1.7 pseudotyped virus.
 # Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.03.002]
+
 # In 30 samples collected 111 to 260 days post onset of symptoms, the covalescent plasma can neutralize both 
 # the reference USA-WA1/2020 strain and the mouse adapted strain that contains the N501Y spike mutation with similar efficiency.
 # Rathnasinghe et al. (2021) https://doi.org/10.1101/2021.01.19.21249592 [Preprint (MedRxiv)]
