@@ -1,3 +1,7 @@
+# Four of the convalescent sera tested showed 4-fold or greater improvement in neutralization efficiency.
+# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
+L5F;Q1208H
+
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.3x reduction in 
 # IC50 serum dilution concentration for 6 convalescent sera.
 # Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.01386-21]
