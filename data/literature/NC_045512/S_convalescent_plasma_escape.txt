@@ -547,14 +547,6 @@ K417N;E484K;N501Y;D614G
 # Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.01386-21]
 E484K
 
-# No notable change in neutralization efficiency, despite N439K by itself showing a ~2x decrease on average in 16 health workers' convalescent sera.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
-H69del;V70del;N439K
-
-# Slight neutralization improvement on average in 16 health workers' convalescent sera.
-# Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
-H69del;V70del;N501Y;P681H
-
 # Observed ~2x decrease on average in 16 health workers' convalescent sera.
 # Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 N439K
