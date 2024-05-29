@@ -1,3 +1,11 @@
+# VSV pseudotype B.1.351 showed 7.86-fold decrease in NT50 vs wild type in sera from 9 ICU patients undergoing treatment in Germany (pre-variant infections).
+# Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
+D80A;L242del;A243del;L244del;R246I;K417N;E484K;N501Y;A701V
+
+# VSV pseudotype P.1 showed 4.8-fold decrease in NT50 vs wild type in sera from 9 ICU patients undergoing treatment in Germany (pre-variant infections).
+# Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
+
 # Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed no significant 
 # change in IC50 serum dilution concentration for 6 convalescent sera.
 # Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.01386-21]
