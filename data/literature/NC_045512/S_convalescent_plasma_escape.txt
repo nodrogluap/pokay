@@ -580,10 +580,6 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # Neutralization activity of convalescent sera tested decreased ~2x with this B.1.1.7 pseudotyped virus.
 # Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.03.002]
 
-# Neutralization activity of almost all Moderna Phase 1 sera tested actually *increased*.
-# Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.03.002]
-H69del;V70del
-
 # Neutralization activity of almost all convalescent sera tested decreased ~2x.
 # Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.03.002]
 H69del;V70del;Y493F
