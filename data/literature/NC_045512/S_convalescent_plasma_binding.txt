@@ -1,3 +1,40 @@
+# The only mutation in the B.1.351 lineage that appears to contribute to neutralization reduction (~1.7x across 10 convalescent sera from April 2020 infectees)
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
+E484K
+
+# Viruses containing the point mutations
+# of B.1.1.7 showed that the single point mutations (Δ69-70 and N501Y) were neutralized
+# as efficiently as D614G across 10 convalescent sera from April 2020 infectees.
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
+N501Y
+
+# Viruses containing the point mutations
+# of B.1.1.7 showed that the single point mutations (Δ69-70 and N501Y) were neutralized
+# as efficiently as D614G across 10 convalescent sera from April 2020 infectees.
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
+H69del;V70del
+
+# These key B.1.1.7 mutations as a combination neutralized slightly less well than D614G
+# and this was noticeable in the lack of sera with high neutralizing titer for the viruses 
+# across 10 convalescent sera from April 2020 infectees.
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
+H69del;V70del;N501Y;P681H
+
+# Lentiviral pseudotyped with the key mutations from COH.20G/677H ("Ohio") lineage
+# was neutralized similarly to D614G in 10 convalescent sera from April 2020 infectees.
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
+N501Y;D614G;Q677H
+
+# Lentiviral pseudotyped with the key mutations from Mink Cluster 5
+# was neutralized more easily than D614G in 10 convalescent sera from April 2020 infectees.
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
+H69del;V70del;Y453F;I692V;M1229I
+
+# Lentiviral pseudotyped with the key mutations from 20A.EU2 lineage
+# was neutralized slightly less than D614G in 10 convalescent sera from April 2020 infectees.
+# Tada et al. (2021) https://doi.org/10.1101/2021.02.05.430003 [Preprint (BioRxiv)]
+S477N;D614G
+
 # Neutralizing antibodies that were generated following a mild infection with SARS-CoV-2 B.1.128 were effective in vitro, 
 # and likely protective, against the SARS-CoV-2 P.1. variant in the majority of individuals based on 60 convalescent sera tested.
 # Mendes-Correa et al. (2021) https://doi.org/10.1101/2021.05.11.21256908 [Preprint (MedRxiv)]
