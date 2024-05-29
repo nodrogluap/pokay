@@ -542,11 +542,6 @@ K417N;E484K;N501Y;D614G
 # Average ~5-fold reduction in neutralization efficacy in convalescent sera of 16 health workers infected in Spring 2020.
 # Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 
-# Subtype of the B.1.526 "New York" lineage, lentivirus pseudotyped with this mutation combination in showed 3.3x reduction in 
-# IC50 serum dilution concentration for 6 convalescent sera.
-# Zhou et al. (2021) https://doi.org/10.1101/2021.03.24.436620 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/mbio.01386-21]
-E484K
-
 # Observed ~2x decrease on average in neutralization efficacy in convalescent sera of 16 health workers.
 # Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 N439K
