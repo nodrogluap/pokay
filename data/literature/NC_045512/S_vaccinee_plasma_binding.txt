@@ -1,3 +1,7 @@
+# Neutralization activity of almost all Moderna Phase 1 sera tested actually *increased*.
+# Shen et al. (2021) https://doi.org/10.1101/2021.01.27.428516 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.03.002]
+H69del;V70del
+
 # Sera from individuals who have been vaccinated and have had subsequent
 # recent Delta infection have a high level of neutralising activity against B.1.621.
 # PHE UK (2021) https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1009243/Technical_Briefing_20.pdf [Grey literature]
