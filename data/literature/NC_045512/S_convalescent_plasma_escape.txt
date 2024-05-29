@@ -515,7 +515,7 @@ S494P
 G446V
 
 # In 1 of 11 subjects' convalescent sera in an early+late mutational landscape analysis of the RBD, 
-# this mutation shows significant resistence (~10x) at day 26, but waning resistence at day 102 (presumably due to immune cell somatic mutation evolution).
+# this mutation shows significant resistance (~10x) at day 26, but waning resistance at day 102 (presumably due to immune cell somatic mutation evolution).
 # Greaney et al. (2021) https://doi.org/10.1016/j.chom.2021.02.003 [Journal publication]
 G485R
 
@@ -562,7 +562,7 @@ L5F;Q1208H
 # Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 H69del;V70del;N439K
 
-# Antibody neutralization assays showed 6.7-fold resistence against 7/8 convalescent plasma.
+# Antibody neutralization assays showed 6.7-fold resistance against 7/8 convalescent plasma.
 # Deng et al. (2021) https://doi.org/10.1101/2021.03.07.21252647 [Preprint (MedRxiv); Now published at: https://doi.org/10.1016/j.cell.2021.04.025]
 S13I;W152C;L452R
 
@@ -601,31 +601,31 @@ H69del;V70del;Y493F
 # Wang et al. (2021) https://doi.org/10.1038/s41586-021-03398-2 [Journal publication]
 S982A
 
-# B.1.1.351 in 19 convalescent human sera ~1mo post infection had mild to moderate resistence against all samples
+# B.1.1.351 in 19 convalescent human sera ~1mo post infection had mild to moderate resistance against all samples
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
-# In 19 convalescent human sera ~1mo post infection had mild to moderate resistence against most samples
+# In 19 convalescent human sera ~1mo post infection had mild to moderate resistance against most samples
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 K417N;E484K;N501Y 
 
-# In 19 convalescent human sera ~1mo post infection had mild to moderate resistence against all samples. 
+# In 19 convalescent human sera ~1mo post infection had mild to moderate resistance against all samples. 
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 E484K;N501Y
 
-# B.1.1.248 variant constellation in 10 convalescent human sera ~1mo post infection had mild to moderate resistence against most samples, P=0.0020.
+# B.1.1.248 variant constellation in 10 convalescent human sera ~1mo post infection had mild to moderate resistance against most samples, P=0.0020.
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
-# In 19 convalescent human sera ~1mo post infection, Two-tailed Wilcoxon matched-pairs signed-rank test shows mild resistence P=0.0361.
+# In 19 convalescent human sera ~1mo post infection, Two-tailed Wilcoxon matched-pairs signed-rank test shows mild resistance P=0.0361.
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 K417N
 
-# B.1.1.7 variant constellation two-tailed Wilcoxon matched-pairs signed-rank test against 10 convalescent sera P=0.0039 for mild resistence.
+# B.1.1.7 variant constellation two-tailed Wilcoxon matched-pairs signed-rank test against 10 convalescent sera P=0.0039 for mild resistance.
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 
-# B.1.1.351 variant constellation two-tailed Wilcoxon matched-pairs signed-rank test against 10 convalescent sera P=0.0020 for moderate resistence.
+# B.1.1.351 variant constellation two-tailed Wilcoxon matched-pairs signed-rank test against 10 convalescent sera P=0.0020 for moderate resistance.
 # Chen et al. (2021) https://doi.org/10.1038/s41591-021-01294-w [Journal publication] 
 D80A,L242del;A243del;L244del;R246I;K417N;E484K;N501Y;D614G;A701V
 
