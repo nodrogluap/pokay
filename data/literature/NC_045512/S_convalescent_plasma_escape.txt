@@ -650,14 +650,6 @@ T345N
 # Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
 T345S
 
-# Improvement in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
-R346G
-
-# Improvement in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
-A352D
-
 # Strong reduction in neutralization capability of all 4 convalescent sera tested.
 # Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
 L441R
@@ -665,10 +657,6 @@ L441R
 # Ablation of neutralization capability of 3/4 convalescent sera tested.
 # Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
 K444E
-
-# Improvement in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
-K444N
 
 # Decrease in neutralization capability of all 4 convalescent sera tested (1 ablated).
 # Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
@@ -728,14 +716,6 @@ F490S
 # Mixed bag of positive and negative changes in neutralization capability of all 4 convalescent sera tested.
 # Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
 S494P
-
-# General increase in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
-P499L
-
-# General increase in neutralization capability of all 4 convalescent sera tested.
-# Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
-T345A,L517R
 
 # Strong reduction in neutralization capability of all 4 convalescent sera tested (2 ablations).
 # Liu et al. (2021) https://doi.org/10.1101/2020.11.06.372037 [Preprint (BioRxiv)]
