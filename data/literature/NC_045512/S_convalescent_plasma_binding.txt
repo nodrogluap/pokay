@@ -1,3 +1,8 @@
+# Neutralizing antibodies that were generated following a mild infection with SARS-CoV-2 B.1.128 were effective in vitro, 
+# and likely protective, against the SARS-CoV-2 P.1. variant in the majority of individuals based on 60 convalescent sera tested.
+# Mendes-Correa et al. (2021) https://doi.org/10.1101/2021.05.11.21256908 [Preprint (MedRxiv)]
+L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I;V1176F
+
 # In sera from six patients collected 1 to 12 weeks post-infection with B.1, antibody titer in a microneutralization assay was on average 256 for B.1.1.7 virus.
 # Compare to somewhat stronger neutralization titer for wild type (456.1) in the same sera. 
 # Luftig et al. (2021) https://doi.org/10.1056/NEJMc2104036 [Journal publication]
