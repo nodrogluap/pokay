@@ -1,3 +1,8 @@
+# In 30 samples collected 111 to 260 days post onset of symptoms, the covalescent plasma can neutralize both 
+# the reference USA-WA1/2020 strain and the mouse adapted strain that contains the N501Y spike mutation with similar efficiency.
+# Rathnasinghe et al. (2021) https://doi.org/10.1101/2021.01.19.21249592 [Preprint (MedRxiv)]
+N501Y
+
 # Four of the convalescent sera tested showed 4-fold or greater improvement in neutralization efficiency.
 # Alenquer et al. (2021) https://doi.org/10.1101/2021.04.22.441007 [Preprint (BioRxiv)]
 L5F;Q1208H
