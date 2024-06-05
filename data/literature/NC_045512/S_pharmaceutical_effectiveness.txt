@@ -1,3 +1,15 @@
+# This mutation causes a greater than 100x fold change in IC50 of Ensovibep.
+# Rothenberger et al. (2021) https://doi.org/10.1101/2021.02.03.429164v4 [Preprint (BioRxiv)]
+F486V
+
+# This mutation causes a greater than 100x fold change in IC50 of Ensovibep.
+# Rothenberger et al. (2021) https://doi.org/10.1101/2021.02.03.429164v4 [Preprint (BioRxiv)]
+F486L
+
+# This mutation causes a greater than 16.2x fold change in IC50 of Ensovibep.
+# Rothenberger et al. (2021) https://doi.org/10.1101/2021.02.03.429164v4 [Preprint (BioRxiv)]
+N234Q
+
 # DARPin SR16m molecule had a 0.036x fold change in IC50 in B.1.351 Beta
 # Chonira et al. (2022) https://doi.org/10.1101/2022.05.30.493765 [Preprint (BioRxiv)]
 L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
