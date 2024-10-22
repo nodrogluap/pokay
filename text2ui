@@ -159,10 +159,17 @@ for my $constellation_key (keys %constellations2categories){
     $gene2category2constellations{$gene}->{$short_effect_desc} //= [];
     push @{$gene2category2constellations{$gene}->{$short_effect_desc}}, $constellation_key;
 
+    my @summaries;
+    for my $lit_ref (@{$constellations2categories{$constellation_key}->{$short_effect_desc}}) {
+      push @summaries, textify_lit_ref($lit_ref); # Call fuunction to  get summary
+    }
+    my $text_summary = join("; ", @summaries); # Join all summaries
+    
     push @json_entries, <<ENTRY;
   {
     "description": "$short_effect_desc",
     "url": "http://people.ucalgary.ca/~gordonp/$constellation_key.html#$short_effect_desc",
+    "summary": "$text_summary",
     "substitutions": 
       [
         $substitutions
@@ -759,3 +766,24 @@ sub htmlify_lit_ref{
                                 "<a href=\"".$_[0]->[2]."\" class=\"lit_link\">".$_[0]->[1]."</a>").
 				")</span></li>\n";
 }
+
+sub textify_lit_ref {
+    my ($ref) = @_;
+
+    if ($ref->[2] eq "unpublished") {
+        warn "Got an unpublished reference: ", @$ref, "\n";
+    }
+
+    my $text_summary = $ref->[0] . " (" .
+                       ($ref->[2] eq "unpublished" ? $ref->[1] . ", unpublished" :
+                       $ref->[1] . " - link available at: " . $ref->[2]) .
+                       ")";
+    
+    # Clean the summary for JSON
+    $text_summary =~ s/\"/\\\"/g;  # Escape double quotes
+    $text_summary =~ s/<br\s*\/?>/ /g;  # Replace <br/> with newline
+    $text_summary =~ s/<[^>]+>//g;  # Remove any other HTML tags
+
+    return $text_summary;
+}
+
