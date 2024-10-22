@@ -159,9 +159,6 @@ for my $constellation_key (keys %constellations2categories){
     $gene2category2constellations{$gene}->{$short_effect_desc} //= [];
     push @{$gene2category2constellations{$gene}->{$short_effect_desc}}, $constellation_key;
 
-    # my $lit_ref = $constellations2categories{$constellation_key}->{$short_effect_desc}->[0]; # Get the first reference as an example
-    # my $text_summary = textify_lit_ref($lit_ref);  # Call the function to get the summary
-
     my @summaries;
     for my $lit_ref (@{$constellations2categories{$constellation_key}->{$short_effect_desc}}) {
       push @summaries, textify_lit_ref($lit_ref); # Call fuunction to  get summary
