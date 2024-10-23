@@ -37,6 +37,7 @@ T19R;G142D;S:p.E156del;S:p.F157del;S:p.R158G;L452R;T478K;D614G;P681R;D950N
 # Trimeric proteins FSR16m had a 0.038x fold change in IC50 in C.37 Lambda
 # Chonira et al. (2022) https://doi.org/10.1101/2022.05.30.493765 [Preprint (BioRxiv)]
 G75V;T76I;L452Q;F490S;D614G;T859N;R246_D253delinsN
+
 # Trimeric proteins FSR16m had a 0.025x fold change in IC50 in B.1.1.529 Omicron
 # Chonira et al. (2022) https://doi.org/10.1101/2022.05.30.493765 [Preprint (BioRxiv)]
 E484K;N501Y
@@ -52,6 +53,7 @@ T19R;G142D;S:p.E156del;S:p.F157del;S:p.R158G;L452R;T478K;D614G;P681R;D950N
 # Trimeric proteins FSR22 had a 0.048x fold change in IC50 in C.37 Lambda
 # Chonira et al. (2022) https://doi.org/10.1101/2022.05.30.493765 [Preprint (BioRxiv)]
 G75V;T76I;L452Q;F490S;D614G;T859N;R246_D253delinsN
+
 # Trimeric proteins FSR22 had a 0.0015x fold change in IC50 in B.1.1.529 Omicron
 # Chonira et al. (2022) https://doi.org/10.1101/2022.05.30.493765 [Preprint (BioRxiv)]
 E484K;N501Y

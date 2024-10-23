@@ -280,6 +280,7 @@ D614G;S13I;W152C;L452R
 # to D614G alone) by 5 plasma collected 8 months post-symptom-onset. [exact variant list not provided in manuscript, is inferred fro common knowledge]
 # Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
 L452R;E484Q;D614G
+
 # This variant combination (representing lineage B.1.617.1) showed a 2x decrease in Spike binding (relative to D614G alone) 
 # by 5 plasma collected 8 months post-symptom-onset. [exact variant list not provided in manuscript, is inferred and 
 # represents minimal set agreed upon commonly]
