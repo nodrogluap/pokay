@@ -134,7 +134,7 @@ H69del;V70del
 # Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2 [Journal publication]
 D80Y
 
-# This mutation outside the receptor binding domain significantly enhanced the transduction rate in raccoon dog (Nyctereutes procyonoides) kidney (62.4%) and Rickett s big-footed 
+# This mutation outside the receptor binding domain significantly enhanced the transduction rate in raccoon dog (Nyctereutes procyonoides) kidney (62.4%) and Rickett’s big-footed 
 # bat (Myotis pilosus) kidney (45.0%) cell cultures compared to epithelial-like human Huh-7 cells (38.9%).
 # Li et al. (2023) https://doi.org/10.1038/s41396-023-01368-2 [Journal publication]
 S98F

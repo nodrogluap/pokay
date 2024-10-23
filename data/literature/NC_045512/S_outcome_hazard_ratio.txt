@@ -4,16 +4,16 @@
 # Ulloa et al. (2021) https://doi.org/10.1101/2021.12.24.21268382 [Preprint (MedRxiv)]
 H69del;K417N;E484A
 
-# In Ontario between Feb 7 and Jun 27, 2021, increased risk with the Delta variant was 108% (95% CI 78% 140%) for hospitalization, 
-# 235% (95% CI 160% 331%) for ICU admission and 133% (95% CI 54% 231%) for death.
+# In Ontario between Feb 7 and Jun 27, 2021, increased risk with the Delta variant was 108% (95% CI 78%–140%) for hospitalization, 
+# 235% (95% CI 160%–331%) for ICU admission and 133% (95% CI 54%–231%) for death.
 # Fisman and Tuite (2021) https://doi.org/10.1503/cmaj.211248 [Journal publication]
-# In the UK, of 43338 COVID-19-positive patients, 8682 had the Delta variant (median age 31 years [IQR 17 43]) and 196 were admitted to hospital within 14 
-# days after the specimen was taken (adjusted hazard ratio [HR] 2.26 [95% CI 1.32 3.89] relative to Alpha cases). Being admitted to hospital or attending
-# emergency care within 14 days for Delta cases had an adjusted HR 1.45 [95% CI 1.08 1.95] relative to Alpha. Most patients were unvaccinated (32 078 [74 0%]
-# across both groups). The HRs for vaccinated patients were similar: 1.94 [95% CI 0.47 8.05] for hospitalization and 1.58 [0.69 3.61]) for hospital admission or 
+# In the UK, of 43338 COVID-19-positive patients, 8682 had the Delta variant (median age 31 years [IQR 17–43]) and 196 were admitted to hospital within 14 
+# days after the specimen was taken (adjusted hazard ratio [HR] 2.26 [95% CI 1.32–3.89] relative to Alpha cases). Being admitted to hospital or attending
+# emergency care within 14 days for Delta cases had an adjusted HR 1.45 [95% CI 1.08–1.95] relative to Alpha. Most patients were unvaccinated (32 078 [74·0%]
+# across both groups). The HRs for vaccinated patients were similar: 1.94 [95% CI 0.47–8.05] for hospitalization and 1.58 [0.69–3.61]) for hospital admission or 
 # emergency care attendance.
 # Twohig et al. (2021) https://doi.org/10.1016/S1473-3099(21)00475-8 [Journal publication]
-# In Denmark, for the period Jan 1 to Jun 27, 2021, Delta variant was associated with increased an risk ratio of 2.83 [95% CI 2.02 3.98] for hospitalization.
+# In Denmark, for the period Jan 1 to Jun 27, 2021, Delta variant was associated with increased an risk ratio of 2.83 [95% CI 2.02–3.98] for hospitalization.
 # Bager et al. (2021) https://doi.org/10.1016/S1473-3099(21)00580-6 [Journal publication]
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 
@@ -22,8 +22,8 @@ T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950N
 # Abu-Raddad et al. (2021) https://doi.org/10.1101/2021.08.02.21261465 [Preprint (MedRxiv); Now published at: https://doi.org/10.1093/cid/ciab909]
 D80A;D215G;A243del;R246I;K417N;E484K;N501Y;D614G;A701V
 
-# B.1.526 (Iota) substantially increased IFR in older adults: by 46% (95% CI: 7.4   84%) among 45-64 year-olds, 
-# 82% (95% CI: 20   140%) among 65-74 year-olds, and 62% (95% CI: 45   80%) among 75+ during Nov 2020   Apr 2021, 
+# B.1.526 (Iota) substantially increased IFR in older adults: by 46% (95% CI: 7.4 – 84%) among 45-64 year-olds, 
+# 82% (95% CI: 20 – 140%) among 65-74 year-olds, and 62% (95% CI: 45 – 80%) among 75+ during Nov 2020 – Apr 2021, 
 # compared to baseline IFR estimated for preexisting variants. [minimum clade defining mutations listed]
 # Yang et al. (2021) https://doi.org/10.1101/2021.08.04.21261596 [Preprint (MedRxiv); Now published at: https://doi.org/10.1126/sciadv.abm0300]
 T95I;D253G;D614G
@@ -45,15 +45,15 @@ T95I;D253G;D614G
 # The effect was modified by age (p<0.001), with ORs of 0.96-1.13 below age 20 years and 1.57-1.67 in age groups 40 years or older.
 # Nyberg et al. (2021) https://doi.org/10.48550/arXiv.2104.05560 [Preprint (other); Now published at: https://doi.org/10.1136/bmj.n1412]
 # Using UK data 1 November 2020 to 14 February 2021, while correcting for misclassification of PCR test Spike Gene Target Failure (SGTF)
-# and missingness in SGTF status, we estimate that the hazard of death associated with B.1.1.7 is 61% (42 82%) higher than with 
+# and missingness in SGTF status, we estimate that the hazard of death associated with B.1.1.7 is 61% (42–82%) higher than with 
 # pre-existing variants after adjustment for age, sex, ethnicity, deprivation, residence in a care home, the local authority of residence and test date. 
-# This corresponds to the absolute risk of death for a 55 69-year-old man increasing from 
-# 0.6% to 0.9% (95% confidence interval, 0.8 1.0%) within 28 days of a positive test in the community.
+# This corresponds to the absolute risk of death for a 55–69-year-old man increasing from 
+# 0.6% to 0.9% (95% confidence interval, 0.8–1.0%) within 28 days of a positive test in the community.
 # Davies et al. (2021) https://doi.org/10.1038/s41586-021-03426-1 [Journal publication]
 # 341 samples collected Nov 9 to Dec 20, 2020 were sequenced from two London (UK) hospitals. 
 # 198 (58%) of 341 had B.1.1.7 infection and 143 (42%) had non-B.1.1.7 infection. No evidence was found of an association 
-# between severe disease and death and lineage (B.1.1.7 vs non-B.1.1.7) in unadjusted analyses (prevalence ratio [PR] 0 97 
-# [95% CI 0 72-1 31]), or in analyses adjusted for hospital, sex, age, comorbidities, and ethnicity (adjusted PR 1 02 [0 76-1 38]).
+# between severe disease and death and lineage (B.1.1.7 vs non-B.1.1.7) in unadjusted analyses (prevalence ratio [PR] 0·97 
+# [95% CI 0·72-1·31]), or in analyses adjusted for hospital, sex, age, comorbidities, and ethnicity (adjusted PR 1·02 [0·76-1·38]).
 # Frampton et al. (2021) https://doi.org/10.1016/s1473-3099(21)00170-5 [Journal publication]
 # From Sept 28 to Dec 27, 2020, positive COVID-19 tests were reported by 36 920 COVID Symptom Study app users whose region was 
 # known and who reported as healthy on app sign-up. We found no changes in reported symptoms or disease duration associated with B.1.1.7. 
