@@ -51,19 +51,19 @@ E484K;N501Y
 # Yao T et al. (2022) https://doi.org/10.1101/2022.06.22.22276690 [Preprint (MedRxiv)]
 E484K;N501Y
 
-# Paradigm’s ACE-2 variant LVE/STR chimera neutralizes Delta Variant B.1.617.2 RBD or w.t. SARS-CoV-2 RBD with nearly equal potency determined using Surrogate Viral Neutralization Tests.
+# Paradigm s ACE-2 variant LVE/STR chimera neutralizes Delta Variant B.1.617.2 RBD or w.t. SARS-CoV-2 RBD with nearly equal potency determined using Surrogate Viral Neutralization Tests.
 # Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbad001] 
 T19R;E156del;F157del;R158G;L452R;T478K;D614G;P681R;D950
 
-# Paradigm’s ACE-2 variant LVE/STR chimera neutralizes Beta Variant B.1.351 RBD significantly better than w.t. SARS-CoV-2 RBD. Determined using Surrogate Viral Neutralization Tests.
+# Paradigm s ACE-2 variant LVE/STR chimera neutralizes Beta Variant B.1.351 RBD significantly better than w.t. SARS-CoV-2 RBD. Determined using Surrogate Viral Neutralization Tests.
 # Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbad001] 
 L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
 
-# Paradigm’s ACE-2 variant LVE/STR chimera neutralizes Alpha Variant B.1.1.7 RBD significantly better than GenScript IgG FL18-740 w.t. ACE-2 mAB. Determined using Surrogate Viral Neutralization Tests.
+# Paradigm s ACE-2 variant LVE/STR chimera neutralizes Alpha Variant B.1.1.7 RBD significantly better than GenScript IgG FL18-740 w.t. ACE-2 mAB. Determined using Surrogate Viral Neutralization Tests.
 # Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbad001]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
-# Paradigms’ ACE-2 variant LVE/STR chimera binds to SARS-2 Omicron variant B.1.1.529 spike protein trimer with high affinity. Determined using Surrogate Viral Neutralization Tests.
+# Paradigms  ACE-2 variant LVE/STR chimera binds to SARS-2 Omicron variant B.1.1.529 spike protein trimer with high affinity. Determined using Surrogate Viral Neutralization Tests.
 # Uhal B et al. (2022) https://doi.org/10.1101/2022.06.23.497326 [Preprint (BioRxiv); Now published at: https://doi.org/10.1093/abt/tbad001]
 A67V;H69del;V70del;T95I;G142D;V143_Y145del;N211_R214delinsIVREPE;G339D;S371L;S373P;S375F;K417N;N440K;G446S;S477N;T478K;E484A;Q493K;G496S;Q498R;N501Y;Y505H;T547K;D614G;H655Y;N679K;P681H;N764K;D796Y;N856K;Q954H;N969K;L981F;K38R;S1265_L1266delinsI;A1892T;T492I;P132H;L105_G107del;I189V;P323L;I42V;T9I;D3G;Q19E;A63T;P13L;E31_S33del;R203K;G204R
 
@@ -194,7 +194,7 @@ L18F;D80A;D215G;R246I;K417N;E484K;N501Y;D614G;A701V
 # Uriu et al. (2021) https://doi.org/10.1101/2021.09.06.459005 [Preprint (BioRxiv); Now published at: https://doi.org/10.1056/nejmc2114706]
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
-# In an Ontario long term care facility, cumulatively, weaker BNT162b2 vaccine stimulation, age/comorbidities, produced a ∼130-fold reduction 
+# In an Ontario long term care facility, cumulatively, weaker BNT162b2 vaccine stimulation, age/comorbidities, produced a  130-fold reduction 
 # in apparent neutralization titers in mean 88yo LTCH residents against Beta (B.1.351), relative to staff vaccinees against D614G wild type. 
 # 37.9% of 116 two-dose-mRNA-vaccinated residents had undetectable neutralizing antibodies to B.1.351. mRNA-1273 vaccinee sera displayed
 # ~2 better neutralization than BNT162b2. [common defining B.1.351 mutations noted, as the manuscript does not provide details]
@@ -299,7 +299,7 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G
 # Most of the plasma from 55 Pfizer vaccinees developed high percentages of Wuhan-Hu-1 S-ACE2 blocking activity, peaking at day 28 (7 days post-boost). 
 # A strikingly consistent hierarchy of reduction in plasma antibody binding by variant S and RBD antigens was observed among study 
 # participants, with progressively decreased binding for B.1.1.7 (not significant), P.1 (significant) and B.1.351 (significant) compared to Wuhan-Hu-1 antigens.
-# Röltgen et al. (2021) https://doi.org/10.1101/2021.04.05.21254952 [Preprint (MedRxiv)]
+# R ltgen et al. (2021) https://doi.org/10.1101/2021.04.05.21254952 [Preprint (MedRxiv)]
 # The neutralization activities of two vaccines developed in China were tested against 501Y.V2 authentic virus: inactivated BBIBP-CorV (no 
 # significant change) and recombinant dimeric RBD vaccine ZF2001 (~1.6x reduction vs wildtype, p=0.04). Both vaccines largely 
 # preserved their neutralizing titres.
@@ -320,7 +320,7 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G
 # are B.1.351.
 # Janssen Biotech (2021) https://www.fda.gov/media/146217/download [Grey literature]
 # The dominant circulating B.1.351 spike variant originating in RSA, which harbors E484K and additional substitutions in the 
-# RBD, NTD, and S2 and deletions in the NTD (amino acids 242–244), was neutralized with a 5.02-fold reduced titer
+# RBD, NTD, and S2 and deletions in the NTD (amino acids 242 244), was neutralized with a 5.02-fold reduced titer
 # Solfrosi et al. (2021) https://doi.org/10.1084/jem.20202756 [Journal publication]
 # During an outbreak of SARS-CoV-2 501Y.V2 in a nursing home, all non-vaccinated residents (5/5) versus 
 # half of those fully vaccinated 2-5 weeks prior with BNT162b2 (13/26) were infected. Two of 13 vaccinated versus 4 of 5 
@@ -336,7 +336,7 @@ D80A;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
 # Neutralizing antibody titers of non-human primate sera after one or two doses of Ad26.COV2.S (Jannsen vaccine) 
 # against the variants containing the E484K substitution in the RBD were present but reduced 
-# (fold reduction between 3.35–7.78, 95% confidence interval all above twofold difference, one-sample t test). 
+# (fold reduction between 3.35 7.78, 95% confidence interval all above twofold difference, one-sample t test). 
 # Solfrosi et al. (2021) https://doi.org/10.1084/jem.20202756 [Journal publication]
 E484K
 
@@ -359,10 +359,10 @@ T95I;Y144del;E484K;A570D;D614G;P681H;D796H
 T95I;G142F;Y144del;R190T;F220I;R237K;R246T;[S477P;S477H];[P681H,P681=]
 
 # The estimated vaccine effectiveness against R.1 strain SARS-CoV-2 infection among residents in a Kentucky skilled nursing facility was 
-# 66.2% (95% CI = 40.5%–80.8%) and among health care workers was 75.9% (95% CI = 32.5%–91.4%) in the cohort of only those 
-# 14d+ post-vaccination Pfizer booster dose. VE against symptomatic COVID-19 was 86.5% (95% CI = 65.6%–94.7%) among residents 
-# and 87.1% (95% CI = 46.4%–96.9%) among HCP. VE against hospitalization was 94.4% (95% CI = 73.9%–98.8%) among residents; 
-# no HCP were hospitalized. Three residents died, two of whom were unvaccinated (VE = 94.4%; 95% CI = 44.6%–99.4%).
+# 66.2% (95% CI = 40.5% 80.8%) and among health care workers was 75.9% (95% CI = 32.5% 91.4%) in the cohort of only those 
+# 14d+ post-vaccination Pfizer booster dose. VE against symptomatic COVID-19 was 86.5% (95% CI = 65.6% 94.7%) among residents 
+# and 87.1% (95% CI = 46.4% 96.9%) among HCP. VE against hospitalization was 94.4% (95% CI = 73.9% 98.8%) among residents; 
+# no HCP were hospitalized. Three residents died, two of whom were unvaccinated (VE = 94.4%; 95% CI = 44.6% 99.4%).
 # Cavanaugh et al. (2021) https://doi.org/10.15585/mmwr.mm7017e2 [Grey literature]
 W152L;E484K;D614G;G769V
 
@@ -402,14 +402,14 @@ L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 E484K
 
 # Using national surveillance data from Israel, using Pfizer vaccine and an estimated prevalence of the B.1.1.7 variant of 94.5% among SARS-CoV-2 infections:
-# Adjusted estimates of vaccine effectiveness 7+ days after second dose were 95·3% (95% CI 94.9–95.7); 
-# 91.5% against asymptomatic SARS-CoV-2 infection (90·7–92·2; 40.9 vs 1.8 per 100 000 person-days), 97·0% against symptomatic 
-# COVID-19 (96.7–97.2%), 97.2% against COVID-19-related hospitalisation (96.8–97.5%), 
-# 97.5% against severe or critical COVID-19-related hospitalisation (97.1–97.8%), and 96.7% against COVID-19-related death (96.0–97.3%). 
+# Adjusted estimates of vaccine effectiveness 7+ days after second dose were 95 3% (95% CI 94.9 95.7); 
+# 91.5% against asymptomatic SARS-CoV-2 infection (90 7 92 2; 40.9 vs 1.8 per 100 000 person-days), 97 0% against symptomatic 
+# COVID-19 (96.7 97.2%), 97.2% against COVID-19-related hospitalisation (96.8 97.5%), 
+# 97.5% against severe or critical COVID-19-related hospitalisation (97.1 97.8%), and 96.7% against COVID-19-related death (96.0 97.3%). 
 # In all age groups, as vaccine coverage increased, the incidence of SARS-CoV-2 outcomes declined
 # Haas et al. (2021) https://doi.org/10.1016/S0140-6736(21)00947-8 [Journal publication]
 # 2.1x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
-# at a dose of 100 µg (18-55 years; day 1 (n=15) and day 14 (n-14) post-2nd dose) against a B.1.1.7 variant (USA/CA_CDC_5574/2020 
+# at a dose of 100  g (18-55 years; day 1 (n=15) and day 14 (n-14) post-2nd dose) against a B.1.1.7 variant (USA/CA_CDC_5574/2020 
 # [USA/CA-SEARCH-5574/2020?]) relative to
 # contemporary circulating D614G variant (USA/GA-EHC-083E/2020) using a live-virus Focus Reduction Neutralization Test (FRNT) assay. 
 # Edara et al. (2021) https://doi.org/10.1101/2021.02.02.21250799 [Preprint (MedRxiv)]
@@ -464,7 +464,7 @@ E484K
 # and older in England and that two doses are about 85-90% effective. Those who were vaccinated and went on to have symptoms had a 44% 
 # lower risk of being admitted hospital and a 51% lower risk of death compared with people who were unvaccinated. We also found that a single dose 
 # of the ChAdOx1-S vaccine was about 60-75% effective against symptomatic disease and provided an additional protective effect against hospital 
-# admission—it is too early to assess the effect on mortality. The B.1.1.7 variant now dominates in the UK and these results will largely 
+# admission it is too early to assess the effect on mortality. The B.1.1.7 variant now dominates in the UK and these results will largely 
 # reflect vaccine effectiveness against this variant.
 # Lopez Bernal et al. (2021) https://doi.org/10.1136/bmj.n1088 [Journal publication]
 # SARS-CoV-2 infection was confirmed in three HCWs working a single shift; all presented with mild symptoms of COVID-19. The two physicians 
@@ -484,7 +484,7 @@ E484K
 H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 
 # 1.2x drop in neutralization using sera collected from 14 healthy adult participants that received two injections of the mRNA-1273 (Moderna) vaccine 
-# at a dose of 100 µg (18-55 years; day 1 and day 14 post-2nd dose) against a recombinant single variant virus (modified replicating WA-1 cDNA clone) 
+# at a dose of 100  g (18-55 years; day 1 and day 14 post-2nd dose) against a recombinant single variant virus (modified replicating WA-1 cDNA clone) 
 # relative to contemporary circulating D614G variant (USA/GA-EHC-083E/2020) using a live-virus Focus Reduction Neutralization Test (FRNT) assay. 
 # Edara et al. (2021) https://doi.org/10.1101/2021.02.02.21250799 [Preprint (MedRxiv)]
 N501Y
@@ -537,7 +537,7 @@ L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 # Jangra et al. (2021) https://doi.org/10.1016/S2666-5247(21)00068-9 [Journal publication]
 E484K
 
-# In post-vaccination sera from individuals who received one (3 weeks post-first dose; n = 5) or two doses (9–11 days post-second dose; 
+# In post-vaccination sera from individuals who received one (3 weeks post-first dose; n = 5) or two doses (9 11 days post-second dose; 
 # n = 10) of the BNT162b2 Pfizer vaccine, an average 6.8x reduction in neutralization efficacy of this B.1.351 key variants pseudotype 
 # lentivirus vs D614G was observed.
 # Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
@@ -555,29 +555,29 @@ E484K;D614G
 # Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 K417N;D614G
 
-# This variant showed >5x decrease in Pfizer sera (3 weeks post-first dose; n = 5) or two doses (9–11 days post-second dose; 
+# This variant showed >5x decrease in Pfizer sera (3 weeks post-first dose; n = 5) or two doses (9 11 days post-second dose; 
 # n = 10) neutralization efficiency vs D614G (using lentivirus pseudotype).
 # Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 K417N;N501Y;D614G
 
-# This variant showed >5x decrease in Pfizer sera (3 weeks post-first dose; n = 5) or two doses (9–11 days post-second dose; 
+# This variant showed >5x decrease in Pfizer sera (3 weeks post-first dose; n = 5) or two doses (9 11 days post-second dose; 
 # n = 10) neutralization efficiency vs D614G (using lentivirus pseudotype).
 # Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 E484K;N501Y;D614G
 
-# This variant showed ~10x decrease in Pfizer sera (3 weeks post-first dose; n = 5) or two doses (9–11 days post-second dose; 
+# This variant showed ~10x decrease in Pfizer sera (3 weeks post-first dose; n = 5) or two doses (9 11 days post-second dose; 
 # n = 10) neutralization efficiency vs D614G (using lentivirus pseudotype).
 # Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 K417N;E484K;D614G
 
-# This variant of key B.1.351 lineage mutations showed ~10x decrease in Pfizer sera (3 weeks post-first dose; n = 5) or two doses (9–11 days post-second dose; 
+# This variant of key B.1.351 lineage mutations showed ~10x decrease in Pfizer sera (3 weeks post-first dose; n = 5) or two doses (9 11 days post-second dose; 
 # n = 10) neutralization efficiency vs D614G (using lentivirus pseudotype).
 # Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
 K417N;E484K;N501Y;D614G
 
-# Using a lentivirus virus pseudotyped with D614G Spike, sera from vaccinated individuals who received the second dose (9–11 days post-second dose of Pfizer) exhibited a robust 
+# Using a lentivirus virus pseudotyped with D614G Spike, sera from vaccinated individuals who received the second dose (9 11 days post-second dose of Pfizer) exhibited a robust 
 # neutralizing potential, with a mean NT50 value of 99,000. This was an average of a 2-fold increase, relative to sera drawn from the 
-# individuals who received one dose of vaccination—mean NT50 dilution of 51,300. Importantly, a 6-fold increase in mean NT50 dilution was 
+# individuals who received one dose of vaccination mean NT50 dilution of 51,300. Importantly, a 6-fold increase in mean NT50 dilution was 
 # obtained when sera from the first vaccination dose was compared to convalescent sera from cohort with severe disease (NT50 51,000 vs 8,700) 
 # 21 to 63 days post-onset. 
 # Kuzmina et al. (2021) https://doi.org/10.1016/j.chom.2021.03.008 [Journal publication]
@@ -709,7 +709,7 @@ L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y;T1027I;V1176F
 # ELISpot assays show T cell neutralization reduced by 15.4% in this B.1.1.7 pseudotype relative to wild type in 18-20 pooled patient samples post second mRNA vaccine dose,
 # with no significant difference between Pfizer and Moderna cohorts. Reduction was stronger in the S1 subunit than S2 (separate peptide pools were used).
 # Gallagher et al. (2021) https://doi.org/10.1101/2021.05.03.442455 [Preprint (BioRxiv)]
-# We observed a sharp decline in cases when ∼50% of the elderly population was 2 weeks beyond their first 
+# We observed a sharp decline in cases when  50% of the elderly population was 2 weeks beyond their first 
 # vaccination dose and at a time point during which the B.1.1.7 variant gained transmission dominance. 
 # In support of this finding, it was suggested that, after the first vaccination dose, more than 70% of 
 # patients develop neutralization antibodies,15 and the vaccine efficiency can reach 85%.
@@ -751,7 +751,7 @@ S13I;W152C;L452R
 # VSV pseudotype B.1.1.7 showed 1.77-fold reduction in neutralization efficiency vs wild type in 15 Pfizer BNT162b2 vaccinee sera 13-15 days post second dose.
 # Cell fusion proficiency was unchanged.
 # Hoffman et al. (2021) https://doi.org/10.1016/j.cell.2021.03.036 [Journal publication]
-# Lineage B.1.1.7 spike–pseudotyped VSV was tested for neutralization vs Wuhan reference genome pseudotype in 40 sera collected
+# Lineage B.1.1.7 spike pseudotyped VSV was tested for neutralization vs Wuhan reference genome pseudotype in 40 sera collected
 # 7 or 21 days post-booster dose. Statistically significant change (22%) in neutralization was observed among the 26 sera from those <=55yo, 
 # but not in the 14 sera from those >55yo. A ~20% change is not considered immunologically significant historically in influenza antibody studies. 
 # Muik et al. (2021) https://doi.org/10.1126/science.abg6105 [Journal publication]
@@ -855,10 +855,10 @@ L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 # Garcia-Beltran et al. (2021) https://doi.org/10.1016/j.cell.2021.03.013 [Journal publication]
 D80A;L242del;R246I;K417N;E484K;N501Y;D614G;A701V
 
-# Sera from healthcare workers (n = 25) 4–17 days following the second dose of Pfizer vaccine, administered 3 weeks after 
+# Sera from healthcare workers (n = 25) 4 17 days following the second dose of Pfizer vaccine, administered 3 weeks after 
 # the first dose, showed geometric mean titers for B.1.351  7.6-fold lower than for an early Victoria sample (p < 0.0001).
 # For the AstraZeneca vaccine, samples (n = 25) were obtained 14 or 28 days following the second vaccine dose, with a dosing 
-# interval of 8–14 weeks, geometric mean B.1.351 titers were 9-fold lower than for Victoria (p < 0.0001).
+# interval of 8 14 weeks, geometric mean B.1.351 titers were 9-fold lower than for Victoria (p < 0.0001).
 # Zhou et al. (2021) http://doi.org/10.1016/j.cell.2021.02.037 [Journal publication]
 # The Janssen single dose vaccine showed 72% efficacy at preventing moderate and severe disease, which was 
 # reduced to 57% in South Africa, where 92.6% of infections are estimated to have been B.1.351. 100% reduction in 
@@ -872,7 +872,7 @@ D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
 # Observed 8.8-fold reduction in neutralization efficiency of Pfizer vaccinee sera (collected 14 days after second dose) against cultured B.1.351 sample.
 # Contrast this with 1.4-fold reduction for just the pseudovirus combination of "key" B.1.351 mutations K417N+E484K+N501Y.
 # WA1 and B.1.351 FRNT50 titers correlated weakly at the
-# individual level, with some individual’s serum potently neutralizing WA1 while having
+# individual level, with some individual s serum potently neutralizing WA1 while having
 # FRNT50 for B.1.351 below the assay limit of detection (1:20).
 # Bates et al. (2021) https://doi.org/10.1101/2021.04.04.21254881 [Preprint (MedRxiv); Now published at: https://doi.org/10.1038/s41467-021-25479-6]
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
@@ -903,8 +903,8 @@ H69del;V70del;Y145del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # Choi et al. (2021) https://doi.org/10.1101/2021.06.28.449914 [Preprint (BioRxiv); Now published at: https://doi.org/10.1128/jvi.01313-21]
 H69del;V70del;Y144del;E484K;N501Y;A570D;P681H;T716I;S982A;D1118H
 
-# 20/29 sera after the first dose of Pfizer showed an average reduction in neutralization titres against the B.1.1.7 variant of 3.2 ± 5.7.
-# After the second dose, the GMT was markedly increased compared with the first-dose titres, with a fold change of 1.9 ± 0.9 (mean ± s.d.).
+# 20/29 sera after the first dose of Pfizer showed an average reduction in neutralization titres against the B.1.1.7 variant of 3.2   5.7.
+# After the second dose, the GMT was markedly increased compared with the first-dose titres, with a fold change of 1.9   0.9 (mean   s.d.).
 # Neutralization GMT of 27 subjects post-infection was considerably higher (stronger) than after the second Pfizer dose, and 4.5x drop in B.1.1.7 neutralization was observed.
 # Collier et al. (2021) https://doi.org/10.1038/s41586-021-03412-7 [Journal publication]
 H69del;V70del;Y144del;N501Y;A570D;P681H;T716I;S982A;D1118H
@@ -968,7 +968,7 @@ D80A;D215G;K417N;E484K;N501Y;A701V
 # Among 46,884 HCWs in Manaus, Brazil vaccinated with at least one dose of CoronaVac, a 0.50-fold reduction (adjusted vaccine 
 # effectiveness, 49.6%; 95% CI, 11.3 - 71.4) in the odds of 
 # symptomatic SARS-CoV-2 infection was observed during the period 14 days or more after receiving the first dose.
-# Estimated vaccine effectiveness of at least one dose against any SARS-CoV-2 infection was 35.1% (95% CI, −6.6 - 60.5) in the same time period.
+# Estimated vaccine effectiveness of at least one dose against any SARS-CoV-2 infection was 35.1% (95% CI,  6.6 - 60.5) in the same time period.
 # Hitchlings et al. (2021) https://doi.org/10.1101/2021.04.07.21255081 [Preprint (MedRxiv); Now published at: https://doi.org/10.1016/j.lana.2021.100025]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;H655Y;T1027I
 

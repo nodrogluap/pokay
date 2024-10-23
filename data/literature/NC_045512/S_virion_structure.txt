@@ -1,9 +1,9 @@
-# This mutation combination stabilize the RBD-ACE2 binding interface, leading to a 3.8–5.3°C melting temperature increase relative to wild type. 
+# This mutation combination stabilize the RBD-ACE2 binding interface, leading to a 3.8 5.3 C melting temperature increase relative to wild type. 
 # [Relevant for thermostable vaccine antigen design]
 # Ellis et al. (2021) https://doi.org/10.1101/2021.05.15.444222 [Preprint (BioRxiv); Now published at: https://doi.org/10.3389/fimmu.2021.710263]
 F392W;Y365F
 
-# This mutation stabilizes the RBD-ACE2 binding interface, leading to a 1.9–2.4°C melting temperature increase relative to wild type.
+# This mutation stabilizes the RBD-ACE2 binding interface, leading to a 1.9 2.4 C melting temperature increase relative to wild type.
 # [Relevant for thermostable vaccine antigen design]
 # Ellis et al. (2021) https://doi.org/10.1101/2021.05.15.444222 [Preprint (BioRxiv); Now published at: https://doi.org/10.3389/fimmu.2021.710263]
 F392W
@@ -62,7 +62,7 @@ H69del;V70del;Y144del;N501Y;A570D;D614G;P681H;T716I;S982A;D1118H
 # Cai et al. (2021) https://doi.org/10.1101/2021.04.13.439709 [Preprint (BioRxiv); Now published at: https://doi.org/10.1126/science.abi9745]
 L18F;D80A;L242del
 
-# CryoEM reveals the P.1 trimer to adopt exclusively a conformation in which one of the receptor-binding domains is in the “up” position.
+# CryoEM reveals the P.1 trimer to adopt exclusively a conformation in which one of the receptor-binding domains is in the  up  position.
 # Wang et al. (2021) https://doi.org/10.1101/2021.03.01.433466 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.04.007]
 L18F;T20N;P26S;D138Y;R190S;K417T;E484K;N501Y;D614G;H655Y
 

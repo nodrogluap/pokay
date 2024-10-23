@@ -305,7 +305,7 @@ P9Q
 # Escape mutation against Spike N terminal domain antigenic supersite i mAbs S2M28, S2X28, S2X333
 # Putative mechanism of action is the introduction of a new signal peptide, altering
 # cleavage to occur between residues C15 and V16, thereby eliminating the C15-C136
-# disulfide bond – similarly to escape mutants at positions C15 and C136
+# disulfide bond   similarly to escape mutants at positions C15 and C136
 # McCallum et al. (2021) https://doi.org/10.1101/2021.01.14.426475 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.cell.2021.03.028]
 S12P
 

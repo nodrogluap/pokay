@@ -73,9 +73,9 @@ Q52R;E484K;Q677H;F888L
 # Tandel et al. (2021) https://doi.org/10.1101/2021.04.30.441434 [Preprint (BioRxiv)]
 N440K
 
-# We estimate that this [B.1.1.17] variant has a 43–90% (range of 95% credible intervals 38–130%) higher reproduction number than preexisting variants.
-# Data from other countries yield similar results: we estimate that R for VOC 202012/01 relative to other lineages is 55% (45–66%) higher in Denmark, 
-# 74% (66–82%) higher in Switzerland, and 59% (56–63%) higher in the United States, with consistent rates of displacement across regions within each country.
+# We estimate that this [B.1.1.17] variant has a 43 90% (range of 95% credible intervals 38 130%) higher reproduction number than preexisting variants.
+# Data from other countries yield similar results: we estimate that R for VOC 202012/01 relative to other lineages is 55% (45 66%) higher in Denmark, 
+# 74% (66 82%) higher in Switzerland, and 59% (56 63%) higher in the United States, with consistent rates of displacement across regions within each country.
 # Davies et al. (2021) https://doi.org/10.1126/science.abg3055 [Journal publication]
 # Primary cases infected with B.1.1.7 had an increased transmissibility of 1.5-1.7 times that of primary cases infected with other 
 # lineages. The increased transmissibility of B.1.1.7 was multiplicative across age and viral load.
@@ -88,8 +88,8 @@ N440K
 # Oslo, Norway: Within households, we find an increase in the secondary attack rate by 60% (20% 114%) compared to other variants. 
 # In general, we find a significant increase in the estimated reproduction number of 24% (95% CI 0% - 52%), or an absolute 
 # increase of 0.19 compared to other variants.
-# Lindstrøm et al. (2021) https://doi.org/10.1101/2021.03.29.21254122 [Preprint (MedRxiv); Now published at: https://doi.org/10.1080/23744235.2021.1977382]
-# Based on ∼300,000 RT-PCR samples collected from December 6th 2020 to February 10th 2021 in Israel, 
+# Lindstr m et al. (2021) https://doi.org/10.1101/2021.03.29.21254122 [Preprint (MedRxiv); Now published at: https://doi.org/10.1080/23744235.2021.1977382]
+# Based on  300,000 RT-PCR samples collected from December 6th 2020 to February 10th 2021 in Israel, 
 # the B.1.1.7 is 45% (95% CI:20-60%) more transmissible than the wild-type strain, and become dominant in Israel within 3.5 weeks.
 # Munitz et al. (2021) https://doi.org/10.1016/j.xcrm.2021.100264 [Journal publication]
 # Based on 36920 COVID Symptom Study app users reported SARS-CoV-2 test positivity in late 2020, 
@@ -122,7 +122,7 @@ S13I;W152C;L452R
 # Pearson et al. (2021) https://cmmid.github.io/topics/covid19/reports/sa-novel-variant/2021_01_11_Transmissibility_and_severity_of_501Y_V2_in_SA.pdf [Grey literature]
 # 36,590 variant-specific RT-PCR tests were performed on samples collected between April 12 and May 7, 2021 
 # in France to compare variant spread. Compared to January to March 2021, B.1.351 variant had a significant 
-# transmission advantage over B.1.1.7 in some regions (15.1 to 16.1% in Île-de-France and 16.1 to 18.8% in Hauts-de-France).
+# transmission advantage over B.1.1.7 in some regions (15.1 to 16.1% in  le-de-France and 16.1 to 18.8% in Hauts-de-France).
 # This shift in transmission advantage is consistent with the immune evasion abilities of B.1.351 and the high levels of immunization in these regions.
 # Roquebert et al. (2021) https://doi.org/10.1101/2021.05.12.21257130 [Preprint (MedRxiv); Now published at: https://doi.org/10.2807/1560-7917.es.2021.26.23.2100447]
 K417N;E484K;N501Y;D614G

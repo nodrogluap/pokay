@@ -321,7 +321,7 @@ D614G;S13I;W152C;L452R
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant combination (representing lineage B.1.617) showed a 1.85x increase 
 # in binding (KD) relative to D614G. [exact variant list not provided in manuscript, is inferred fro common knowledge]
 # Gong et al. (2021) https://doi.org/10.1101/2021.08.04.455140 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.virol.2021.09.001]
-L452R;E484Q;D614G	
+L452R;E484Q;D614G 
 
 # Using flow cytometry and ACE2 ectodomains-Fc portion IgG complex, this variant combination (representing lineage B.1.617.1) showed a 1.12x increase 
 # in binding (KD) relative to D614G, but described as "not significant". [exact variant list not provided in manuscript, is inferred and 
@@ -415,7 +415,7 @@ Y453F
 # Motozono et al. (2021) https://doi.org/10.1101/2021.04.02.438288 [Preprint (BioRxiv); Now published at: https://doi.org/10.1016/j.chom.2021.06.006]
 L452R
 
-# The B.1.351 variant constellation causes an ∼20-fold increase in affinity for ACE2 compared with Wuhan RBD, which may influence transmissibility.
+# The B.1.351 variant constellation causes an  20-fold increase in affinity for ACE2 compared with Wuhan RBD, which may influence transmissibility.
 # Zhou et al. (2021) https://doi.org/10.1016/j.cell.2021.02.037 [Journal publication]
 D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 
@@ -426,7 +426,7 @@ D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 L18F;D80A;D215G;L242del;A243del;L244del;K417N;E484K;N501Y;D614G;A701V
 
 # Using molecular dynamic simulation, the mildly (~1kcal/mol) enhanced binding energy of this variant is primarily 
-# contributed by Tyr505 (−4.98 kcal/mol) which is now involved in a strong hydrogen bonding network with Arg393. 
+# contributed by Tyr505 ( 4.98 kcal/mol) which is now involved in a strong hydrogen bonding network with Arg393. 
 # Another important energetic contribution comes from the altered orientation of Tyr41 which is now involved with 
 # two hydrogen-bonding interactions with Asp355 and Thr500. 
 # Chakraborty (2021) https://doi.org/10.1016/j.bbrc.2021.01.035 [Journal publication]

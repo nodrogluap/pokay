@@ -87,7 +87,7 @@ P272L
 P272L
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA class 2.
-#	Riou et al. (2021) https://doi.org/10.1126/scitranslmed.abj6824 [Journal publication]
+# Riou et al. (2021) https://doi.org/10.1126/scitranslmed.abj6824 [Journal publication]
 L18F
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA class 2.
@@ -106,7 +106,7 @@ D80A
 # by epitopes that are invariant between the [wildtype] and two of the current variants of concern (B.1.1.7 and B.1.351).
 # In over 90% of two dose mRNA vaccinees, heterotypic neutralizing titres (NT50) against B.1.1.7 and B.1.351 remain comfortably 
 # above the level associated with immune protection in recent vaccine trials. However, in over 50% of convalescent COVID-19 
-# individuals and recipients of a only a single dose of mRNA vaccine – heterotypic neutralization dropped to negligible levels, 
+# individuals and recipients of a only a single dose of mRNA vaccine   heterotypic neutralization dropped to negligible levels, 
 # particularly against B.1.351.
 # Skelly et al. (2021) https://doi.org/10.21203/rs.3.rs-226857/v1 [Preprint (other)]
 L18F;D80A;D215G;L242del;K417N;E484K;N501Y;D614G;A701V
