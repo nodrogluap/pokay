@@ -50,7 +50,7 @@ F456Y
 T716I
 
 # Combo observed first in a mouse-adapted SARS-CoV-2 strain (MA10).
-# Leist	et al. (2020) https://doi.org/10.1016/j.cell.2020.09.050 [Journal publication]
+# Leist et al. (2020) https://doi.org/10.1016/j.cell.2020.09.050 [Journal publication]
 Q493K,Q498Y,P499T 
 
 # Observed in first of two Netherlands mink cohorts, potential adaptation. 

@@ -87,7 +87,7 @@ P272L
 P272L
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA class 2.
-#	Riou et al. (2021) https://doi.org/10.1126/scitranslmed.abj6824 [Journal publication]
+# Riou et al. (2021) https://doi.org/10.1126/scitranslmed.abj6824 [Journal publication]
 L18F
 
 # This mutation causes reduced recognition by CD4 positive t-cells in people with HLA class 2.
