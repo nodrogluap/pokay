@@ -28,5 +28,3 @@ A265D
 # data pending) from an HIV-positive patient treated with Tecovirimat.
 # Garrigues et al. (2023) https://doi.org/10.1128/aac.00568-23
 T289A
-
-#H238Q, P243S, N267D, A288P, A290V, A295E, and I372N
