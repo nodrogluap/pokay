@@ -1,3 +1,7 @@
+# T572I enhances Spike-ACE2 binding, probably by altering the conformation of the RBD in the context of the spike trimer (for example, in up versus down position). Full-spike deep mutational scanning libraries were used for the ACE2 binding experiments.
+# Dadonaite et al. (2024) https://doi.org/10.1038/s41586-024-07636-1 [Journal publication]
+T572I
+
 # Using molecular dynamics simulation, ACE2-RBD (Omicron) complex is destabilized by the E484A and Y505H mutations and stabilized by S477N and N501Y mutations.
 # Zhang et al. (2022) https://doi.org/10.1101/2022.06.05.493249 [Preprint (BioRxiv)]
 E484A;Y505H;S477N;N501Y
